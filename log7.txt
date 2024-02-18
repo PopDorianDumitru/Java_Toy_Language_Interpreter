@@ -1,0 +1,290 @@
+Program of id: 52
+ExeStack: 
+(Ref int v;(new( v, 20 );(print(rH(v));(wH(v, 30);(print(rH(v) + 5);NOP)))))
+SymTable: 
+--Empty--
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 52
+ExeStack: 
+Ref int v
+(new( v, 20 );(print(rH(v));(wH(v, 30);(print(rH(v) + 5);NOP))))
+SymTable: 
+--Empty--
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 52
+ExeStack: 
+Ref int v
+(new( v, 20 );(print(rH(v));(wH(v, 30);(print(rH(v) + 5);NOP))))
+SymTable: 
+--Empty--
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 52
+ExeStack: 
+(new( v, 20 );(print(rH(v));(wH(v, 30);(print(rH(v) + 5);NOP))))
+SymTable: 
+v --> (-1, int)
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 52
+ExeStack: 
+(new( v, 20 );(print(rH(v));(wH(v, 30);(print(rH(v) + 5);NOP))))
+SymTable: 
+v --> (-1, int)
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 52
+ExeStack: 
+new( v, 20 )
+(print(rH(v));(wH(v, 30);(print(rH(v) + 5);NOP)))
+SymTable: 
+v --> (-1, int)
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 52
+ExeStack: 
+new( v, 20 )
+(print(rH(v));(wH(v, 30);(print(rH(v) + 5);NOP)))
+SymTable: 
+v --> (-1, int)
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 52
+ExeStack: 
+(print(rH(v));(wH(v, 30);(print(rH(v) + 5);NOP)))
+SymTable: 
+v --> (1, int)
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 20
+
+Program of id: 52
+ExeStack: 
+(print(rH(v));(wH(v, 30);(print(rH(v) + 5);NOP)))
+SymTable: 
+v --> (1, int)
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 20
+
+Program of id: 52
+ExeStack: 
+print(rH(v))
+(wH(v, 30);(print(rH(v) + 5);NOP))
+SymTable: 
+v --> (1, int)
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 20
+
+Program of id: 52
+ExeStack: 
+print(rH(v))
+(wH(v, 30);(print(rH(v) + 5);NOP))
+SymTable: 
+v --> (1, int)
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 20
+
+Program of id: 52
+ExeStack: 
+(wH(v, 30);(print(rH(v) + 5);NOP))
+SymTable: 
+v --> (1, int)
+Out: 
+20
+FileTable: 
+--Empty--
+Heap: 
+1 --> 20
+
+Program of id: 52
+ExeStack: 
+(wH(v, 30);(print(rH(v) + 5);NOP))
+SymTable: 
+v --> (1, int)
+Out: 
+20
+FileTable: 
+--Empty--
+Heap: 
+1 --> 20
+
+Program of id: 52
+ExeStack: 
+wH(v, 30)
+(print(rH(v) + 5);NOP)
+SymTable: 
+v --> (1, int)
+Out: 
+20
+FileTable: 
+--Empty--
+Heap: 
+1 --> 20
+
+Program of id: 52
+ExeStack: 
+wH(v, 30)
+(print(rH(v) + 5);NOP)
+SymTable: 
+v --> (1, int)
+Out: 
+20
+FileTable: 
+--Empty--
+Heap: 
+1 --> 20
+
+Program of id: 52
+ExeStack: 
+(print(rH(v) + 5);NOP)
+SymTable: 
+v --> (1, int)
+Out: 
+20
+FileTable: 
+--Empty--
+Heap: 
+1 --> 30
+
+Program of id: 52
+ExeStack: 
+(print(rH(v) + 5);NOP)
+SymTable: 
+v --> (1, int)
+Out: 
+20
+FileTable: 
+--Empty--
+Heap: 
+1 --> 30
+
+Program of id: 52
+ExeStack: 
+print(rH(v) + 5)
+NOP
+SymTable: 
+v --> (1, int)
+Out: 
+20
+FileTable: 
+--Empty--
+Heap: 
+1 --> 30
+
+Program of id: 52
+ExeStack: 
+print(rH(v) + 5)
+NOP
+SymTable: 
+v --> (1, int)
+Out: 
+20
+FileTable: 
+--Empty--
+Heap: 
+1 --> 30
+
+Program of id: 52
+ExeStack: 
+NOP
+SymTable: 
+v --> (1, int)
+Out: 
+20
+35
+FileTable: 
+--Empty--
+Heap: 
+1 --> 30
+
+Program of id: 52
+ExeStack: 
+NOP
+SymTable: 
+v --> (1, int)
+Out: 
+20
+35
+FileTable: 
+--Empty--
+Heap: 
+1 --> 30
+
+Program of id: 52
+ExeStack: 
+--Empty--
+SymTable: 
+v --> (1, int)
+Out: 
+20
+35
+FileTable: 
+--Empty--
+Heap: 
+1 --> 30
+
+Program of id: 52
+ExeStack: 
+--Empty--
+SymTable: 
+v --> (1, int)
+Out: 
+20
+35
+FileTable: 
+--Empty--
+Heap: 
+1 --> 30
+

@@ -1,0 +1,1935 @@
+Program of id: 26
+ExeStack: 
+(string v;(v=in.txt;(openRFile(v);(int c;(readFile(v, c);(readFile(v, c);(readFile(v, c);(print(c);closeRFile(v)))))))))
+SymTable: 
+--Empty--
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 26
+ExeStack: 
+string v
+(v=in.txt;(openRFile(v);(int c;(readFile(v, c);(readFile(v, c);(readFile(v, c);(print(c);closeRFile(v))))))))
+SymTable: 
+--Empty--
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 26
+ExeStack: 
+string v
+(v=in.txt;(openRFile(v);(int c;(readFile(v, c);(readFile(v, c);(readFile(v, c);(print(c);closeRFile(v))))))))
+SymTable: 
+--Empty--
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 26
+ExeStack: 
+(v=in.txt;(openRFile(v);(int c;(readFile(v, c);(readFile(v, c);(readFile(v, c);(print(c);closeRFile(v))))))))
+SymTable: 
+v --> 
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 26
+ExeStack: 
+(v=in.txt;(openRFile(v);(int c;(readFile(v, c);(readFile(v, c);(readFile(v, c);(print(c);closeRFile(v))))))))
+SymTable: 
+v --> 
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 26
+ExeStack: 
+v=in.txt
+(openRFile(v);(int c;(readFile(v, c);(readFile(v, c);(readFile(v, c);(print(c);closeRFile(v)))))))
+SymTable: 
+v --> 
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 26
+ExeStack: 
+v=in.txt
+(openRFile(v);(int c;(readFile(v, c);(readFile(v, c);(readFile(v, c);(print(c);closeRFile(v)))))))
+SymTable: 
+v --> 
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 26
+ExeStack: 
+(openRFile(v);(int c;(readFile(v, c);(readFile(v, c);(readFile(v, c);(print(c);closeRFile(v)))))))
+SymTable: 
+v --> in.txt
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 26
+ExeStack: 
+(openRFile(v);(int c;(readFile(v, c);(readFile(v, c);(readFile(v, c);(print(c);closeRFile(v)))))))
+SymTable: 
+v --> in.txt
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 26
+ExeStack: 
+openRFile(v)
+(int c;(readFile(v, c);(readFile(v, c);(readFile(v, c);(print(c);closeRFile(v))))))
+SymTable: 
+v --> in.txt
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 26
+ExeStack: 
+openRFile(v)
+(int c;(readFile(v, c);(readFile(v, c);(readFile(v, c);(print(c);closeRFile(v))))))
+SymTable: 
+v --> in.txt
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 26
+ExeStack: 
+(int c;(readFile(v, c);(readFile(v, c);(readFile(v, c);(print(c);closeRFile(v))))))
+SymTable: 
+v --> in.txt
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 26
+ExeStack: 
+(int c;(readFile(v, c);(readFile(v, c);(readFile(v, c);(print(c);closeRFile(v))))))
+SymTable: 
+v --> in.txt
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 26
+ExeStack: 
+int c
+(readFile(v, c);(readFile(v, c);(readFile(v, c);(print(c);closeRFile(v)))))
+SymTable: 
+v --> in.txt
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 26
+ExeStack: 
+int c
+(readFile(v, c);(readFile(v, c);(readFile(v, c);(print(c);closeRFile(v)))))
+SymTable: 
+v --> in.txt
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 26
+ExeStack: 
+(readFile(v, c);(readFile(v, c);(readFile(v, c);(print(c);closeRFile(v)))))
+SymTable: 
+v --> in.txt
+c --> 0
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 26
+ExeStack: 
+(readFile(v, c);(readFile(v, c);(readFile(v, c);(print(c);closeRFile(v)))))
+SymTable: 
+v --> in.txt
+c --> 0
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 26
+ExeStack: 
+readFile(v, c)
+(readFile(v, c);(readFile(v, c);(print(c);closeRFile(v))))
+SymTable: 
+v --> in.txt
+c --> 0
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 26
+ExeStack: 
+readFile(v, c)
+(readFile(v, c);(readFile(v, c);(print(c);closeRFile(v))))
+SymTable: 
+v --> in.txt
+c --> 0
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 26
+ExeStack: 
+(readFile(v, c);(readFile(v, c);(print(c);closeRFile(v))))
+SymTable: 
+v --> in.txt
+c --> 0
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 27
+ExeStack: 
+(string v;(v=in.txt;(openRFile(v);(int c;(readFile(v, c);(readFile(v, c);(readFile(v, c);(print(c);closeRFile(v)))))))))
+SymTable: 
+--Empty--
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 27
+ExeStack: 
+string v
+(v=in.txt;(openRFile(v);(int c;(readFile(v, c);(readFile(v, c);(readFile(v, c);(print(c);closeRFile(v))))))))
+SymTable: 
+--Empty--
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 27
+ExeStack: 
+string v
+(v=in.txt;(openRFile(v);(int c;(readFile(v, c);(readFile(v, c);(readFile(v, c);(print(c);closeRFile(v))))))))
+SymTable: 
+--Empty--
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 27
+ExeStack: 
+(v=in.txt;(openRFile(v);(int c;(readFile(v, c);(readFile(v, c);(readFile(v, c);(print(c);closeRFile(v))))))))
+SymTable: 
+v --> 
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 27
+ExeStack: 
+(v=in.txt;(openRFile(v);(int c;(readFile(v, c);(readFile(v, c);(readFile(v, c);(print(c);closeRFile(v))))))))
+SymTable: 
+v --> 
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 27
+ExeStack: 
+v=in.txt
+(openRFile(v);(int c;(readFile(v, c);(readFile(v, c);(readFile(v, c);(print(c);closeRFile(v)))))))
+SymTable: 
+v --> 
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 27
+ExeStack: 
+v=in.txt
+(openRFile(v);(int c;(readFile(v, c);(readFile(v, c);(readFile(v, c);(print(c);closeRFile(v)))))))
+SymTable: 
+v --> 
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 27
+ExeStack: 
+(openRFile(v);(int c;(readFile(v, c);(readFile(v, c);(readFile(v, c);(print(c);closeRFile(v)))))))
+SymTable: 
+v --> in.txt
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 27
+ExeStack: 
+(openRFile(v);(int c;(readFile(v, c);(readFile(v, c);(readFile(v, c);(print(c);closeRFile(v)))))))
+SymTable: 
+v --> in.txt
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 27
+ExeStack: 
+openRFile(v)
+(int c;(readFile(v, c);(readFile(v, c);(readFile(v, c);(print(c);closeRFile(v))))))
+SymTable: 
+v --> in.txt
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 27
+ExeStack: 
+openRFile(v)
+(int c;(readFile(v, c);(readFile(v, c);(readFile(v, c);(print(c);closeRFile(v))))))
+SymTable: 
+v --> in.txt
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 27
+ExeStack: 
+(int c;(readFile(v, c);(readFile(v, c);(readFile(v, c);(print(c);closeRFile(v))))))
+SymTable: 
+v --> in.txt
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 27
+ExeStack: 
+(int c;(readFile(v, c);(readFile(v, c);(readFile(v, c);(print(c);closeRFile(v))))))
+SymTable: 
+v --> in.txt
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 27
+ExeStack: 
+int c
+(readFile(v, c);(readFile(v, c);(readFile(v, c);(print(c);closeRFile(v)))))
+SymTable: 
+v --> in.txt
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 27
+ExeStack: 
+int c
+(readFile(v, c);(readFile(v, c);(readFile(v, c);(print(c);closeRFile(v)))))
+SymTable: 
+v --> in.txt
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 27
+ExeStack: 
+(readFile(v, c);(readFile(v, c);(readFile(v, c);(print(c);closeRFile(v)))))
+SymTable: 
+v --> in.txt
+c --> 0
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 13
+ExeStack: 
+(string v;(v=in.txt;(openRFile(v);(int c;(readFile(v, c);(readFile(v, c);(readFile(v, c);(print(c);closeRFile(v)))))))))
+SymTable: 
+--Empty--
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 13
+ExeStack: 
+string v
+(v=in.txt;(openRFile(v);(int c;(readFile(v, c);(readFile(v, c);(readFile(v, c);(print(c);closeRFile(v))))))))
+SymTable: 
+--Empty--
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 13
+ExeStack: 
+string v
+(v=in.txt;(openRFile(v);(int c;(readFile(v, c);(readFile(v, c);(readFile(v, c);(print(c);closeRFile(v))))))))
+SymTable: 
+--Empty--
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 13
+ExeStack: 
+(v=in.txt;(openRFile(v);(int c;(readFile(v, c);(readFile(v, c);(readFile(v, c);(print(c);closeRFile(v))))))))
+SymTable: 
+v --> 
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 13
+ExeStack: 
+(v=in.txt;(openRFile(v);(int c;(readFile(v, c);(readFile(v, c);(readFile(v, c);(print(c);closeRFile(v))))))))
+SymTable: 
+v --> 
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 13
+ExeStack: 
+v=in.txt
+(openRFile(v);(int c;(readFile(v, c);(readFile(v, c);(readFile(v, c);(print(c);closeRFile(v)))))))
+SymTable: 
+v --> 
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 13
+ExeStack: 
+v=in.txt
+(openRFile(v);(int c;(readFile(v, c);(readFile(v, c);(readFile(v, c);(print(c);closeRFile(v)))))))
+SymTable: 
+v --> 
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 13
+ExeStack: 
+(openRFile(v);(int c;(readFile(v, c);(readFile(v, c);(readFile(v, c);(print(c);closeRFile(v)))))))
+SymTable: 
+v --> in.txt
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 13
+ExeStack: 
+(openRFile(v);(int c;(readFile(v, c);(readFile(v, c);(readFile(v, c);(print(c);closeRFile(v)))))))
+SymTable: 
+v --> in.txt
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 13
+ExeStack: 
+openRFile(v)
+(int c;(readFile(v, c);(readFile(v, c);(readFile(v, c);(print(c);closeRFile(v))))))
+SymTable: 
+v --> in.txt
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 13
+ExeStack: 
+openRFile(v)
+(int c;(readFile(v, c);(readFile(v, c);(readFile(v, c);(print(c);closeRFile(v))))))
+SymTable: 
+v --> in.txt
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 13
+ExeStack: 
+(int c;(readFile(v, c);(readFile(v, c);(readFile(v, c);(print(c);closeRFile(v))))))
+SymTable: 
+v --> in.txt
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 13
+ExeStack: 
+(string v;(v=in.txt;(openRFile(v);(int c;(readFile(v, c);(readFile(v, c);(readFile(v, c);(print(c);closeRFile(v)))))))))
+SymTable: 
+--Empty--
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 13
+ExeStack: 
+string v
+(v=in.txt;(openRFile(v);(int c;(readFile(v, c);(readFile(v, c);(readFile(v, c);(print(c);closeRFile(v))))))))
+SymTable: 
+--Empty--
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 13
+ExeStack: 
+string v
+(v=in.txt;(openRFile(v);(int c;(readFile(v, c);(readFile(v, c);(readFile(v, c);(print(c);closeRFile(v))))))))
+SymTable: 
+--Empty--
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 13
+ExeStack: 
+(v=in.txt;(openRFile(v);(int c;(readFile(v, c);(readFile(v, c);(readFile(v, c);(print(c);closeRFile(v))))))))
+SymTable: 
+v --> 
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 13
+ExeStack: 
+(v=in.txt;(openRFile(v);(int c;(readFile(v, c);(readFile(v, c);(readFile(v, c);(print(c);closeRFile(v))))))))
+SymTable: 
+v --> 
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 13
+ExeStack: 
+v=in.txt
+(openRFile(v);(int c;(readFile(v, c);(readFile(v, c);(readFile(v, c);(print(c);closeRFile(v)))))))
+SymTable: 
+v --> 
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 13
+ExeStack: 
+v=in.txt
+(openRFile(v);(int c;(readFile(v, c);(readFile(v, c);(readFile(v, c);(print(c);closeRFile(v)))))))
+SymTable: 
+v --> 
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 13
+ExeStack: 
+(openRFile(v);(int c;(readFile(v, c);(readFile(v, c);(readFile(v, c);(print(c);closeRFile(v)))))))
+SymTable: 
+v --> in.txt
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 13
+ExeStack: 
+(openRFile(v);(int c;(readFile(v, c);(readFile(v, c);(readFile(v, c);(print(c);closeRFile(v)))))))
+SymTable: 
+v --> in.txt
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 13
+ExeStack: 
+openRFile(v)
+(int c;(readFile(v, c);(readFile(v, c);(readFile(v, c);(print(c);closeRFile(v))))))
+SymTable: 
+v --> in.txt
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 13
+ExeStack: 
+openRFile(v)
+(int c;(readFile(v, c);(readFile(v, c);(readFile(v, c);(print(c);closeRFile(v))))))
+SymTable: 
+v --> in.txt
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 13
+ExeStack: 
+(int c;(readFile(v, c);(readFile(v, c);(readFile(v, c);(print(c);closeRFile(v))))))
+SymTable: 
+v --> in.txt
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 13
+ExeStack: 
+(int c;(readFile(v, c);(readFile(v, c);(readFile(v, c);(print(c);closeRFile(v))))))
+SymTable: 
+v --> in.txt
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 13
+ExeStack: 
+int c
+(readFile(v, c);(readFile(v, c);(readFile(v, c);(print(c);closeRFile(v)))))
+SymTable: 
+v --> in.txt
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 13
+ExeStack: 
+int c
+(readFile(v, c);(readFile(v, c);(readFile(v, c);(print(c);closeRFile(v)))))
+SymTable: 
+v --> in.txt
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 13
+ExeStack: 
+(readFile(v, c);(readFile(v, c);(readFile(v, c);(print(c);closeRFile(v)))))
+SymTable: 
+v --> in.txt
+c --> 0
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 13
+ExeStack: 
+(readFile(v, c);(readFile(v, c);(readFile(v, c);(print(c);closeRFile(v)))))
+SymTable: 
+v --> in.txt
+c --> 0
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 13
+ExeStack: 
+readFile(v, c)
+(readFile(v, c);(readFile(v, c);(print(c);closeRFile(v))))
+SymTable: 
+v --> in.txt
+c --> 0
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 13
+ExeStack: 
+readFile(v, c)
+(readFile(v, c);(readFile(v, c);(print(c);closeRFile(v))))
+SymTable: 
+v --> in.txt
+c --> 0
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 13
+ExeStack: 
+(readFile(v, c);(readFile(v, c);(print(c);closeRFile(v))))
+SymTable: 
+v --> in.txt
+c --> 0
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 13
+ExeStack: 
+(readFile(v, c);(readFile(v, c);(print(c);closeRFile(v))))
+SymTable: 
+v --> in.txt
+c --> 0
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 13
+ExeStack: 
+readFile(v, c)
+(readFile(v, c);(print(c);closeRFile(v)))
+SymTable: 
+v --> in.txt
+c --> 0
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 13
+ExeStack: 
+readFile(v, c)
+(readFile(v, c);(print(c);closeRFile(v)))
+SymTable: 
+v --> in.txt
+c --> 0
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 13
+ExeStack: 
+(readFile(v, c);(print(c);closeRFile(v)))
+SymTable: 
+v --> in.txt
+c --> 0
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 13
+ExeStack: 
+(readFile(v, c);(print(c);closeRFile(v)))
+SymTable: 
+v --> in.txt
+c --> 0
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 13
+ExeStack: 
+readFile(v, c)
+(print(c);closeRFile(v))
+SymTable: 
+v --> in.txt
+c --> 0
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 13
+ExeStack: 
+readFile(v, c)
+(print(c);closeRFile(v))
+SymTable: 
+v --> in.txt
+c --> 0
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 13
+ExeStack: 
+(print(c);closeRFile(v))
+SymTable: 
+v --> in.txt
+c --> 0
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 13
+ExeStack: 
+(print(c);closeRFile(v))
+SymTable: 
+v --> in.txt
+c --> 0
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 13
+ExeStack: 
+print(c)
+closeRFile(v)
+SymTable: 
+v --> in.txt
+c --> 0
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 13
+ExeStack: 
+print(c)
+closeRFile(v)
+SymTable: 
+v --> in.txt
+c --> 0
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 13
+ExeStack: 
+closeRFile(v)
+SymTable: 
+v --> in.txt
+c --> 0
+Out: 
+0
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 13
+ExeStack: 
+(string v;(v=C:\Users\doria\IdeaProjects\InterpreterWithUI\src\main\in.txt;(openRFile(v);(int c;(readFile(v, c);(readFile(v, c);(readFile(v, c);(print(c);closeRFile(v)))))))))
+SymTable: 
+--Empty--
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 13
+ExeStack: 
+string v
+(v=C:\Users\doria\IdeaProjects\InterpreterWithUI\src\main\in.txt;(openRFile(v);(int c;(readFile(v, c);(readFile(v, c);(readFile(v, c);(print(c);closeRFile(v))))))))
+SymTable: 
+--Empty--
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 13
+ExeStack: 
+string v
+(v=C:\Users\doria\IdeaProjects\InterpreterWithUI\src\main\in.txt;(openRFile(v);(int c;(readFile(v, c);(readFile(v, c);(readFile(v, c);(print(c);closeRFile(v))))))))
+SymTable: 
+--Empty--
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 13
+ExeStack: 
+(v=C:\Users\doria\IdeaProjects\InterpreterWithUI\src\main\in.txt;(openRFile(v);(int c;(readFile(v, c);(readFile(v, c);(readFile(v, c);(print(c);closeRFile(v))))))))
+SymTable: 
+v --> 
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 13
+ExeStack: 
+(v=C:\Users\doria\IdeaProjects\InterpreterWithUI\src\main\in.txt;(openRFile(v);(int c;(readFile(v, c);(readFile(v, c);(readFile(v, c);(print(c);closeRFile(v))))))))
+SymTable: 
+v --> 
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 13
+ExeStack: 
+v=C:\Users\doria\IdeaProjects\InterpreterWithUI\src\main\in.txt
+(openRFile(v);(int c;(readFile(v, c);(readFile(v, c);(readFile(v, c);(print(c);closeRFile(v)))))))
+SymTable: 
+v --> 
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 13
+ExeStack: 
+v=C:\Users\doria\IdeaProjects\InterpreterWithUI\src\main\in.txt
+(openRFile(v);(int c;(readFile(v, c);(readFile(v, c);(readFile(v, c);(print(c);closeRFile(v)))))))
+SymTable: 
+v --> 
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 13
+ExeStack: 
+(openRFile(v);(int c;(readFile(v, c);(readFile(v, c);(readFile(v, c);(print(c);closeRFile(v)))))))
+SymTable: 
+v --> C:\Users\doria\IdeaProjects\InterpreterWithUI\src\main\in.txt
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 13
+ExeStack: 
+(openRFile(v);(int c;(readFile(v, c);(readFile(v, c);(readFile(v, c);(print(c);closeRFile(v)))))))
+SymTable: 
+v --> C:\Users\doria\IdeaProjects\InterpreterWithUI\src\main\in.txt
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 13
+ExeStack: 
+openRFile(v)
+(int c;(readFile(v, c);(readFile(v, c);(readFile(v, c);(print(c);closeRFile(v))))))
+SymTable: 
+v --> C:\Users\doria\IdeaProjects\InterpreterWithUI\src\main\in.txt
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 13
+ExeStack: 
+openRFile(v)
+(int c;(readFile(v, c);(readFile(v, c);(readFile(v, c);(print(c);closeRFile(v))))))
+SymTable: 
+v --> C:\Users\doria\IdeaProjects\InterpreterWithUI\src\main\in.txt
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 13
+ExeStack: 
+(int c;(readFile(v, c);(readFile(v, c);(readFile(v, c);(print(c);closeRFile(v))))))
+SymTable: 
+v --> C:\Users\doria\IdeaProjects\InterpreterWithUI\src\main\in.txt
+Out: 
+--Empty--
+FileTable: 
+C:\Users\doria\IdeaProjects\InterpreterWithUI\src\main\in.txt
+Heap: 
+--Empty--
+
+Program of id: 13
+ExeStack: 
+(int c;(readFile(v, c);(readFile(v, c);(readFile(v, c);(print(c);closeRFile(v))))))
+SymTable: 
+v --> C:\Users\doria\IdeaProjects\InterpreterWithUI\src\main\in.txt
+Out: 
+--Empty--
+FileTable: 
+C:\Users\doria\IdeaProjects\InterpreterWithUI\src\main\in.txt
+Heap: 
+--Empty--
+
+Program of id: 13
+ExeStack: 
+int c
+(readFile(v, c);(readFile(v, c);(readFile(v, c);(print(c);closeRFile(v)))))
+SymTable: 
+v --> C:\Users\doria\IdeaProjects\InterpreterWithUI\src\main\in.txt
+Out: 
+--Empty--
+FileTable: 
+C:\Users\doria\IdeaProjects\InterpreterWithUI\src\main\in.txt
+Heap: 
+--Empty--
+
+Program of id: 13
+ExeStack: 
+int c
+(readFile(v, c);(readFile(v, c);(readFile(v, c);(print(c);closeRFile(v)))))
+SymTable: 
+v --> C:\Users\doria\IdeaProjects\InterpreterWithUI\src\main\in.txt
+Out: 
+--Empty--
+FileTable: 
+C:\Users\doria\IdeaProjects\InterpreterWithUI\src\main\in.txt
+Heap: 
+--Empty--
+
+Program of id: 13
+ExeStack: 
+(readFile(v, c);(readFile(v, c);(readFile(v, c);(print(c);closeRFile(v)))))
+SymTable: 
+v --> C:\Users\doria\IdeaProjects\InterpreterWithUI\src\main\in.txt
+c --> 0
+Out: 
+--Empty--
+FileTable: 
+C:\Users\doria\IdeaProjects\InterpreterWithUI\src\main\in.txt
+Heap: 
+--Empty--
+
+Program of id: 13
+ExeStack: 
+(readFile(v, c);(readFile(v, c);(readFile(v, c);(print(c);closeRFile(v)))))
+SymTable: 
+v --> C:\Users\doria\IdeaProjects\InterpreterWithUI\src\main\in.txt
+c --> 0
+Out: 
+--Empty--
+FileTable: 
+C:\Users\doria\IdeaProjects\InterpreterWithUI\src\main\in.txt
+Heap: 
+--Empty--
+
+Program of id: 13
+ExeStack: 
+readFile(v, c)
+(readFile(v, c);(readFile(v, c);(print(c);closeRFile(v))))
+SymTable: 
+v --> C:\Users\doria\IdeaProjects\InterpreterWithUI\src\main\in.txt
+c --> 0
+Out: 
+--Empty--
+FileTable: 
+C:\Users\doria\IdeaProjects\InterpreterWithUI\src\main\in.txt
+Heap: 
+--Empty--
+
+Program of id: 13
+ExeStack: 
+readFile(v, c)
+(readFile(v, c);(readFile(v, c);(print(c);closeRFile(v))))
+SymTable: 
+v --> C:\Users\doria\IdeaProjects\InterpreterWithUI\src\main\in.txt
+c --> 0
+Out: 
+--Empty--
+FileTable: 
+C:\Users\doria\IdeaProjects\InterpreterWithUI\src\main\in.txt
+Heap: 
+--Empty--
+
+Program of id: 13
+ExeStack: 
+(readFile(v, c);(readFile(v, c);(print(c);closeRFile(v))))
+SymTable: 
+v --> C:\Users\doria\IdeaProjects\InterpreterWithUI\src\main\in.txt
+c --> 3
+Out: 
+--Empty--
+FileTable: 
+C:\Users\doria\IdeaProjects\InterpreterWithUI\src\main\in.txt
+Heap: 
+--Empty--
+
+Program of id: 13
+ExeStack: 
+(readFile(v, c);(readFile(v, c);(print(c);closeRFile(v))))
+SymTable: 
+v --> C:\Users\doria\IdeaProjects\InterpreterWithUI\src\main\in.txt
+c --> 3
+Out: 
+--Empty--
+FileTable: 
+C:\Users\doria\IdeaProjects\InterpreterWithUI\src\main\in.txt
+Heap: 
+--Empty--
+
+Program of id: 13
+ExeStack: 
+readFile(v, c)
+(readFile(v, c);(print(c);closeRFile(v)))
+SymTable: 
+v --> C:\Users\doria\IdeaProjects\InterpreterWithUI\src\main\in.txt
+c --> 3
+Out: 
+--Empty--
+FileTable: 
+C:\Users\doria\IdeaProjects\InterpreterWithUI\src\main\in.txt
+Heap: 
+--Empty--
+
+Program of id: 13
+ExeStack: 
+readFile(v, c)
+(readFile(v, c);(print(c);closeRFile(v)))
+SymTable: 
+v --> C:\Users\doria\IdeaProjects\InterpreterWithUI\src\main\in.txt
+c --> 3
+Out: 
+--Empty--
+FileTable: 
+C:\Users\doria\IdeaProjects\InterpreterWithUI\src\main\in.txt
+Heap: 
+--Empty--
+
+Program of id: 13
+ExeStack: 
+(readFile(v, c);(print(c);closeRFile(v)))
+SymTable: 
+v --> C:\Users\doria\IdeaProjects\InterpreterWithUI\src\main\in.txt
+c --> 4
+Out: 
+--Empty--
+FileTable: 
+C:\Users\doria\IdeaProjects\InterpreterWithUI\src\main\in.txt
+Heap: 
+--Empty--
+
+Program of id: 13
+ExeStack: 
+(readFile(v, c);(print(c);closeRFile(v)))
+SymTable: 
+v --> C:\Users\doria\IdeaProjects\InterpreterWithUI\src\main\in.txt
+c --> 4
+Out: 
+--Empty--
+FileTable: 
+C:\Users\doria\IdeaProjects\InterpreterWithUI\src\main\in.txt
+Heap: 
+--Empty--
+
+Program of id: 13
+ExeStack: 
+readFile(v, c)
+(print(c);closeRFile(v))
+SymTable: 
+v --> C:\Users\doria\IdeaProjects\InterpreterWithUI\src\main\in.txt
+c --> 4
+Out: 
+--Empty--
+FileTable: 
+C:\Users\doria\IdeaProjects\InterpreterWithUI\src\main\in.txt
+Heap: 
+--Empty--
+
+Program of id: 13
+ExeStack: 
+readFile(v, c)
+(print(c);closeRFile(v))
+SymTable: 
+v --> C:\Users\doria\IdeaProjects\InterpreterWithUI\src\main\in.txt
+c --> 4
+Out: 
+--Empty--
+FileTable: 
+C:\Users\doria\IdeaProjects\InterpreterWithUI\src\main\in.txt
+Heap: 
+--Empty--
+
+Program of id: 13
+ExeStack: 
+(print(c);closeRFile(v))
+SymTable: 
+v --> C:\Users\doria\IdeaProjects\InterpreterWithUI\src\main\in.txt
+c --> 5
+Out: 
+--Empty--
+FileTable: 
+C:\Users\doria\IdeaProjects\InterpreterWithUI\src\main\in.txt
+Heap: 
+--Empty--
+
+Program of id: 13
+ExeStack: 
+(print(c);closeRFile(v))
+SymTable: 
+v --> C:\Users\doria\IdeaProjects\InterpreterWithUI\src\main\in.txt
+c --> 5
+Out: 
+--Empty--
+FileTable: 
+C:\Users\doria\IdeaProjects\InterpreterWithUI\src\main\in.txt
+Heap: 
+--Empty--
+
+Program of id: 13
+ExeStack: 
+print(c)
+closeRFile(v)
+SymTable: 
+v --> C:\Users\doria\IdeaProjects\InterpreterWithUI\src\main\in.txt
+c --> 5
+Out: 
+--Empty--
+FileTable: 
+C:\Users\doria\IdeaProjects\InterpreterWithUI\src\main\in.txt
+Heap: 
+--Empty--
+
+Program of id: 13
+ExeStack: 
+print(c)
+closeRFile(v)
+SymTable: 
+v --> C:\Users\doria\IdeaProjects\InterpreterWithUI\src\main\in.txt
+c --> 5
+Out: 
+--Empty--
+FileTable: 
+C:\Users\doria\IdeaProjects\InterpreterWithUI\src\main\in.txt
+Heap: 
+--Empty--
+
+Program of id: 13
+ExeStack: 
+closeRFile(v)
+SymTable: 
+v --> C:\Users\doria\IdeaProjects\InterpreterWithUI\src\main\in.txt
+c --> 5
+Out: 
+5
+FileTable: 
+C:\Users\doria\IdeaProjects\InterpreterWithUI\src\main\in.txt
+Heap: 
+--Empty--
+
+Program of id: 13
+ExeStack: 
+closeRFile(v)
+SymTable: 
+v --> C:\Users\doria\IdeaProjects\InterpreterWithUI\src\main\in.txt
+c --> 5
+Out: 
+5
+FileTable: 
+C:\Users\doria\IdeaProjects\InterpreterWithUI\src\main\in.txt
+Heap: 
+--Empty--
+
+Program of id: 13
+ExeStack: 
+--Empty--
+SymTable: 
+v --> C:\Users\doria\IdeaProjects\InterpreterWithUI\src\main\in.txt
+c --> 5
+Out: 
+5
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 13
+ExeStack: 
+--Empty--
+SymTable: 
+v --> C:\Users\doria\IdeaProjects\InterpreterWithUI\src\main\in.txt
+c --> 5
+Out: 
+5
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 13
+ExeStack: 
+(string v;(v=C:\Users\doria\IdeaProjects\InterpreterWithUI\src\main\in.txt;(openRFile(v);(int c;(readFile(v, c);(readFile(v, c);(readFile(v, c);(print(c);closeRFile(v)))))))))
+SymTable: 
+--Empty--
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 13
+ExeStack: 
+string v
+(v=C:\Users\doria\IdeaProjects\InterpreterWithUI\src\main\in.txt;(openRFile(v);(int c;(readFile(v, c);(readFile(v, c);(readFile(v, c);(print(c);closeRFile(v))))))))
+SymTable: 
+--Empty--
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 13
+ExeStack: 
+string v
+(v=C:\Users\doria\IdeaProjects\InterpreterWithUI\src\main\in.txt;(openRFile(v);(int c;(readFile(v, c);(readFile(v, c);(readFile(v, c);(print(c);closeRFile(v))))))))
+SymTable: 
+--Empty--
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 13
+ExeStack: 
+(v=C:\Users\doria\IdeaProjects\InterpreterWithUI\src\main\in.txt;(openRFile(v);(int c;(readFile(v, c);(readFile(v, c);(readFile(v, c);(print(c);closeRFile(v))))))))
+SymTable: 
+v --> 
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 13
+ExeStack: 
+(v=C:\Users\doria\IdeaProjects\InterpreterWithUI\src\main\in.txt;(openRFile(v);(int c;(readFile(v, c);(readFile(v, c);(readFile(v, c);(print(c);closeRFile(v))))))))
+SymTable: 
+v --> 
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 13
+ExeStack: 
+v=C:\Users\doria\IdeaProjects\InterpreterWithUI\src\main\in.txt
+(openRFile(v);(int c;(readFile(v, c);(readFile(v, c);(readFile(v, c);(print(c);closeRFile(v)))))))
+SymTable: 
+v --> 
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 13
+ExeStack: 
+v=C:\Users\doria\IdeaProjects\InterpreterWithUI\src\main\in.txt
+(openRFile(v);(int c;(readFile(v, c);(readFile(v, c);(readFile(v, c);(print(c);closeRFile(v)))))))
+SymTable: 
+v --> 
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 13
+ExeStack: 
+(openRFile(v);(int c;(readFile(v, c);(readFile(v, c);(readFile(v, c);(print(c);closeRFile(v)))))))
+SymTable: 
+v --> C:\Users\doria\IdeaProjects\InterpreterWithUI\src\main\in.txt
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 13
+ExeStack: 
+(openRFile(v);(int c;(readFile(v, c);(readFile(v, c);(readFile(v, c);(print(c);closeRFile(v)))))))
+SymTable: 
+v --> C:\Users\doria\IdeaProjects\InterpreterWithUI\src\main\in.txt
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 13
+ExeStack: 
+openRFile(v)
+(int c;(readFile(v, c);(readFile(v, c);(readFile(v, c);(print(c);closeRFile(v))))))
+SymTable: 
+v --> C:\Users\doria\IdeaProjects\InterpreterWithUI\src\main\in.txt
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 13
+ExeStack: 
+openRFile(v)
+(int c;(readFile(v, c);(readFile(v, c);(readFile(v, c);(print(c);closeRFile(v))))))
+SymTable: 
+v --> C:\Users\doria\IdeaProjects\InterpreterWithUI\src\main\in.txt
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 13
+ExeStack: 
+(int c;(readFile(v, c);(readFile(v, c);(readFile(v, c);(print(c);closeRFile(v))))))
+SymTable: 
+v --> C:\Users\doria\IdeaProjects\InterpreterWithUI\src\main\in.txt
+Out: 
+--Empty--
+FileTable: 
+C:\Users\doria\IdeaProjects\InterpreterWithUI\src\main\in.txt
+Heap: 
+--Empty--
+
+Program of id: 13
+ExeStack: 
+(int c;(readFile(v, c);(readFile(v, c);(readFile(v, c);(print(c);closeRFile(v))))))
+SymTable: 
+v --> C:\Users\doria\IdeaProjects\InterpreterWithUI\src\main\in.txt
+Out: 
+--Empty--
+FileTable: 
+C:\Users\doria\IdeaProjects\InterpreterWithUI\src\main\in.txt
+Heap: 
+--Empty--
+
+Program of id: 13
+ExeStack: 
+int c
+(readFile(v, c);(readFile(v, c);(readFile(v, c);(print(c);closeRFile(v)))))
+SymTable: 
+v --> C:\Users\doria\IdeaProjects\InterpreterWithUI\src\main\in.txt
+Out: 
+--Empty--
+FileTable: 
+C:\Users\doria\IdeaProjects\InterpreterWithUI\src\main\in.txt
+Heap: 
+--Empty--
+
+Program of id: 13
+ExeStack: 
+int c
+(readFile(v, c);(readFile(v, c);(readFile(v, c);(print(c);closeRFile(v)))))
+SymTable: 
+v --> C:\Users\doria\IdeaProjects\InterpreterWithUI\src\main\in.txt
+Out: 
+--Empty--
+FileTable: 
+C:\Users\doria\IdeaProjects\InterpreterWithUI\src\main\in.txt
+Heap: 
+--Empty--
+
+Program of id: 13
+ExeStack: 
+(readFile(v, c);(readFile(v, c);(readFile(v, c);(print(c);closeRFile(v)))))
+SymTable: 
+v --> C:\Users\doria\IdeaProjects\InterpreterWithUI\src\main\in.txt
+c --> 0
+Out: 
+--Empty--
+FileTable: 
+C:\Users\doria\IdeaProjects\InterpreterWithUI\src\main\in.txt
+Heap: 
+--Empty--
+
+Program of id: 13
+ExeStack: 
+(readFile(v, c);(readFile(v, c);(readFile(v, c);(print(c);closeRFile(v)))))
+SymTable: 
+v --> C:\Users\doria\IdeaProjects\InterpreterWithUI\src\main\in.txt
+c --> 0
+Out: 
+--Empty--
+FileTable: 
+C:\Users\doria\IdeaProjects\InterpreterWithUI\src\main\in.txt
+Heap: 
+--Empty--
+
+Program of id: 13
+ExeStack: 
+readFile(v, c)
+(readFile(v, c);(readFile(v, c);(print(c);closeRFile(v))))
+SymTable: 
+v --> C:\Users\doria\IdeaProjects\InterpreterWithUI\src\main\in.txt
+c --> 0
+Out: 
+--Empty--
+FileTable: 
+C:\Users\doria\IdeaProjects\InterpreterWithUI\src\main\in.txt
+Heap: 
+--Empty--
+
+Program of id: 13
+ExeStack: 
+readFile(v, c)
+(readFile(v, c);(readFile(v, c);(print(c);closeRFile(v))))
+SymTable: 
+v --> C:\Users\doria\IdeaProjects\InterpreterWithUI\src\main\in.txt
+c --> 0
+Out: 
+--Empty--
+FileTable: 
+C:\Users\doria\IdeaProjects\InterpreterWithUI\src\main\in.txt
+Heap: 
+--Empty--
+
+Program of id: 13
+ExeStack: 
+(readFile(v, c);(readFile(v, c);(print(c);closeRFile(v))))
+SymTable: 
+v --> C:\Users\doria\IdeaProjects\InterpreterWithUI\src\main\in.txt
+c --> 3
+Out: 
+--Empty--
+FileTable: 
+C:\Users\doria\IdeaProjects\InterpreterWithUI\src\main\in.txt
+Heap: 
+--Empty--
+
+Program of id: 13
+ExeStack: 
+(readFile(v, c);(readFile(v, c);(print(c);closeRFile(v))))
+SymTable: 
+v --> C:\Users\doria\IdeaProjects\InterpreterWithUI\src\main\in.txt
+c --> 3
+Out: 
+--Empty--
+FileTable: 
+C:\Users\doria\IdeaProjects\InterpreterWithUI\src\main\in.txt
+Heap: 
+--Empty--
+
+Program of id: 13
+ExeStack: 
+readFile(v, c)
+(readFile(v, c);(print(c);closeRFile(v)))
+SymTable: 
+v --> C:\Users\doria\IdeaProjects\InterpreterWithUI\src\main\in.txt
+c --> 3
+Out: 
+--Empty--
+FileTable: 
+C:\Users\doria\IdeaProjects\InterpreterWithUI\src\main\in.txt
+Heap: 
+--Empty--
+
+Program of id: 13
+ExeStack: 
+readFile(v, c)
+(readFile(v, c);(print(c);closeRFile(v)))
+SymTable: 
+v --> C:\Users\doria\IdeaProjects\InterpreterWithUI\src\main\in.txt
+c --> 3
+Out: 
+--Empty--
+FileTable: 
+C:\Users\doria\IdeaProjects\InterpreterWithUI\src\main\in.txt
+Heap: 
+--Empty--
+
+Program of id: 13
+ExeStack: 
+(readFile(v, c);(print(c);closeRFile(v)))
+SymTable: 
+v --> C:\Users\doria\IdeaProjects\InterpreterWithUI\src\main\in.txt
+c --> 4
+Out: 
+--Empty--
+FileTable: 
+C:\Users\doria\IdeaProjects\InterpreterWithUI\src\main\in.txt
+Heap: 
+--Empty--
+
+Program of id: 13
+ExeStack: 
+(readFile(v, c);(print(c);closeRFile(v)))
+SymTable: 
+v --> C:\Users\doria\IdeaProjects\InterpreterWithUI\src\main\in.txt
+c --> 4
+Out: 
+--Empty--
+FileTable: 
+C:\Users\doria\IdeaProjects\InterpreterWithUI\src\main\in.txt
+Heap: 
+--Empty--
+
+Program of id: 13
+ExeStack: 
+readFile(v, c)
+(print(c);closeRFile(v))
+SymTable: 
+v --> C:\Users\doria\IdeaProjects\InterpreterWithUI\src\main\in.txt
+c --> 4
+Out: 
+--Empty--
+FileTable: 
+C:\Users\doria\IdeaProjects\InterpreterWithUI\src\main\in.txt
+Heap: 
+--Empty--
+
+Program of id: 13
+ExeStack: 
+readFile(v, c)
+(print(c);closeRFile(v))
+SymTable: 
+v --> C:\Users\doria\IdeaProjects\InterpreterWithUI\src\main\in.txt
+c --> 4
+Out: 
+--Empty--
+FileTable: 
+C:\Users\doria\IdeaProjects\InterpreterWithUI\src\main\in.txt
+Heap: 
+--Empty--
+
+Program of id: 13
+ExeStack: 
+(print(c);closeRFile(v))
+SymTable: 
+v --> C:\Users\doria\IdeaProjects\InterpreterWithUI\src\main\in.txt
+c --> 5
+Out: 
+--Empty--
+FileTable: 
+C:\Users\doria\IdeaProjects\InterpreterWithUI\src\main\in.txt
+Heap: 
+--Empty--
+
+Program of id: 13
+ExeStack: 
+(print(c);closeRFile(v))
+SymTable: 
+v --> C:\Users\doria\IdeaProjects\InterpreterWithUI\src\main\in.txt
+c --> 5
+Out: 
+--Empty--
+FileTable: 
+C:\Users\doria\IdeaProjects\InterpreterWithUI\src\main\in.txt
+Heap: 
+--Empty--
+
+Program of id: 13
+ExeStack: 
+print(c)
+closeRFile(v)
+SymTable: 
+v --> C:\Users\doria\IdeaProjects\InterpreterWithUI\src\main\in.txt
+c --> 5
+Out: 
+--Empty--
+FileTable: 
+C:\Users\doria\IdeaProjects\InterpreterWithUI\src\main\in.txt
+Heap: 
+--Empty--
+
+Program of id: 13
+ExeStack: 
+print(c)
+closeRFile(v)
+SymTable: 
+v --> C:\Users\doria\IdeaProjects\InterpreterWithUI\src\main\in.txt
+c --> 5
+Out: 
+--Empty--
+FileTable: 
+C:\Users\doria\IdeaProjects\InterpreterWithUI\src\main\in.txt
+Heap: 
+--Empty--
+
+Program of id: 13
+ExeStack: 
+closeRFile(v)
+SymTable: 
+v --> C:\Users\doria\IdeaProjects\InterpreterWithUI\src\main\in.txt
+c --> 5
+Out: 
+5
+FileTable: 
+C:\Users\doria\IdeaProjects\InterpreterWithUI\src\main\in.txt
+Heap: 
+--Empty--
+
+Program of id: 13
+ExeStack: 
+closeRFile(v)
+SymTable: 
+v --> C:\Users\doria\IdeaProjects\InterpreterWithUI\src\main\in.txt
+c --> 5
+Out: 
+5
+FileTable: 
+C:\Users\doria\IdeaProjects\InterpreterWithUI\src\main\in.txt
+Heap: 
+--Empty--
+
+Program of id: 13
+ExeStack: 
+--Empty--
+SymTable: 
+v --> C:\Users\doria\IdeaProjects\InterpreterWithUI\src\main\in.txt
+c --> 5
+Out: 
+5
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 13
+ExeStack: 
+--Empty--
+SymTable: 
+v --> C:\Users\doria\IdeaProjects\InterpreterWithUI\src\main\in.txt
+c --> 5
+Out: 
+5
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
