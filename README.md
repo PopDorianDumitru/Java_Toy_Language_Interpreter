@@ -1,4 +1,4 @@
-##Java Toy Language Interpreter
+# Java Toy Language Interpreter
 
 Welcome to the Java Toy Language Interpreter! This project aims to provide a simple yet extensible interpreter for a toy language written in Java. The interpreter supports the execution of programs written in the toy language, and it includes branches for different synchronization mechanisms for threads as well as procedures.
 
@@ -17,6 +17,6 @@ Explore the branches for different features:
 git checkout Barrier
 ```
 
-##Toy Language Features
+## Toy Language Features
 The toy language supported by this interpreter includes basic programming constructs such as variables, loops, conditionals, and more. It is designed to be simple and easy to understand, making it suitable for educational purposes.
 
