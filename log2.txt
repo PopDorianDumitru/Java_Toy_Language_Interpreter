@@ -1,0 +1,248 @@
+Program of id: 39
+ExeStack: 
+(bool a;(int v;(a=true;((IF(a) THEN (v=2) ELSE (v=3));print(v)))))
+SymTable: 
+--Empty--
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 39
+ExeStack: 
+bool a
+(int v;(a=true;((IF(a) THEN (v=2) ELSE (v=3));print(v))))
+SymTable: 
+--Empty--
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 39
+ExeStack: 
+bool a
+(int v;(a=true;((IF(a) THEN (v=2) ELSE (v=3));print(v))))
+SymTable: 
+--Empty--
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 39
+ExeStack: 
+(int v;(a=true;((IF(a) THEN (v=2) ELSE (v=3));print(v))))
+SymTable: 
+a --> true
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 39
+ExeStack: 
+(int v;(a=true;((IF(a) THEN (v=2) ELSE (v=3));print(v))))
+SymTable: 
+a --> true
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 39
+ExeStack: 
+int v
+(a=true;((IF(a) THEN (v=2) ELSE (v=3));print(v)))
+SymTable: 
+a --> true
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 39
+ExeStack: 
+int v
+(a=true;((IF(a) THEN (v=2) ELSE (v=3));print(v)))
+SymTable: 
+a --> true
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 39
+ExeStack: 
+(a=true;((IF(a) THEN (v=2) ELSE (v=3));print(v)))
+SymTable: 
+a --> true
+v --> 0
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 39
+ExeStack: 
+(a=true;((IF(a) THEN (v=2) ELSE (v=3));print(v)))
+SymTable: 
+a --> true
+v --> 0
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 39
+ExeStack: 
+a=true
+((IF(a) THEN (v=2) ELSE (v=3));print(v))
+SymTable: 
+a --> true
+v --> 0
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 39
+ExeStack: 
+a=true
+((IF(a) THEN (v=2) ELSE (v=3));print(v))
+SymTable: 
+a --> true
+v --> 0
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 39
+ExeStack: 
+((IF(a) THEN (v=2) ELSE (v=3));print(v))
+SymTable: 
+a --> true
+v --> 0
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 39
+ExeStack: 
+((IF(a) THEN (v=2) ELSE (v=3));print(v))
+SymTable: 
+a --> true
+v --> 0
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 39
+ExeStack: 
+(IF(a) THEN (v=2) ELSE (v=3))
+print(v)
+SymTable: 
+a --> true
+v --> 0
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 39
+ExeStack: 
+(IF(a) THEN (v=2) ELSE (v=3))
+print(v)
+SymTable: 
+a --> true
+v --> 0
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 39
+ExeStack: 
+print(v)
+SymTable: 
+a --> true
+v --> 2
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 39
+ExeStack: 
+print(v)
+SymTable: 
+a --> true
+v --> 2
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 39
+ExeStack: 
+--Empty--
+SymTable: 
+a --> true
+v --> 2
+Out: 
+2
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 39
+ExeStack: 
+--Empty--
+SymTable: 
+a --> true
+v --> 2
+Out: 
+2
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
