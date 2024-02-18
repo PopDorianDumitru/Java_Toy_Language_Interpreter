@@ -1,0 +1,4618 @@
+Program of id: 1
+ExeStack: 
+(procedure sum([a, b]) (int v;(v=a + b;print(v)));(procedure product([a, b]) (v=a * b;print(v));(int v;(int w;(v=2;(w=5;(call sum([v * 10, w]);NOP)))))))
+SymTable: 
+--Empty--
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 1
+ExeStack: 
+procedure sum([a, b]) (int v;(v=a + b;print(v)))
+(procedure product([a, b]) (v=a * b;print(v));(int v;(int w;(v=2;(w=5;(call sum([v * 10, w]);NOP))))))
+SymTable: 
+--Empty--
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 1
+ExeStack: 
+procedure sum([a, b]) (int v;(v=a + b;print(v)))
+(procedure product([a, b]) (v=a * b;print(v));(int v;(int w;(v=2;(w=5;(call sum([v * 10, w]);NOP))))))
+SymTable: 
+--Empty--
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 1
+ExeStack: 
+(procedure product([a, b]) (v=a * b;print(v));(int v;(int w;(v=2;(w=5;(call sum([v * 10, w]);NOP))))))
+SymTable: 
+--Empty--
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 1
+ExeStack: 
+(procedure product([a, b]) (v=a * b;print(v));(int v;(int w;(v=2;(w=5;(call sum([v * 10, w]);NOP))))))
+SymTable: 
+--Empty--
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 1
+ExeStack: 
+procedure product([a, b]) (v=a * b;print(v))
+(int v;(int w;(v=2;(w=5;(call sum([v * 10, w]);NOP)))))
+SymTable: 
+--Empty--
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 1
+ExeStack: 
+procedure product([a, b]) (v=a * b;print(v))
+(int v;(int w;(v=2;(w=5;(call sum([v * 10, w]);NOP)))))
+SymTable: 
+--Empty--
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 1
+ExeStack: 
+(int v;(int w;(v=2;(w=5;(call sum([v * 10, w]);NOP)))))
+SymTable: 
+--Empty--
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 1
+ExeStack: 
+(int v;(int w;(v=2;(w=5;(call sum([v * 10, w]);NOP)))))
+SymTable: 
+--Empty--
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 1
+ExeStack: 
+int v
+(int w;(v=2;(w=5;(call sum([v * 10, w]);NOP))))
+SymTable: 
+--Empty--
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 1
+ExeStack: 
+int v
+(int w;(v=2;(w=5;(call sum([v * 10, w]);NOP))))
+SymTable: 
+--Empty--
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 1
+ExeStack: 
+(int w;(v=2;(w=5;(call sum([v * 10, w]);NOP))))
+SymTable: 
+v --> 0
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 1
+ExeStack: 
+(int w;(v=2;(w=5;(call sum([v * 10, w]);NOP))))
+SymTable: 
+v --> 0
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 1
+ExeStack: 
+int w
+(v=2;(w=5;(call sum([v * 10, w]);NOP)))
+SymTable: 
+v --> 0
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 1
+ExeStack: 
+int w
+(v=2;(w=5;(call sum([v * 10, w]);NOP)))
+SymTable: 
+v --> 0
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 1
+ExeStack: 
+(v=2;(w=5;(call sum([v * 10, w]);NOP)))
+SymTable: 
+w --> 0
+v --> 0
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 1
+ExeStack: 
+(v=2;(w=5;(call sum([v * 10, w]);NOP)))
+SymTable: 
+w --> 0
+v --> 0
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 1
+ExeStack: 
+v=2
+(w=5;(call sum([v * 10, w]);NOP))
+SymTable: 
+w --> 0
+v --> 0
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 1
+ExeStack: 
+v=2
+(w=5;(call sum([v * 10, w]);NOP))
+SymTable: 
+w --> 0
+v --> 0
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 1
+ExeStack: 
+(w=5;(call sum([v * 10, w]);NOP))
+SymTable: 
+w --> 0
+v --> 2
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 1
+ExeStack: 
+(w=5;(call sum([v * 10, w]);NOP))
+SymTable: 
+w --> 0
+v --> 2
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 1
+ExeStack: 
+w=5
+(call sum([v * 10, w]);NOP)
+SymTable: 
+w --> 0
+v --> 2
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 1
+ExeStack: 
+w=5
+(call sum([v * 10, w]);NOP)
+SymTable: 
+w --> 0
+v --> 2
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 1
+ExeStack: 
+(call sum([v * 10, w]);NOP)
+SymTable: 
+w --> 5
+v --> 2
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 1
+ExeStack: 
+(call sum([v * 10, w]);NOP)
+SymTable: 
+w --> 5
+v --> 2
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 1
+ExeStack: 
+call sum([v * 10, w])
+NOP
+SymTable: 
+w --> 5
+v --> 2
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 1
+ExeStack: 
+call sum([v * 10, w])
+NOP
+SymTable: 
+w --> 5
+v --> 2
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 1
+ExeStack: 
+(int v;(v=a + b;print(v)))
+return
+NOP
+SymTable: 
+b --> 5
+a --> 20
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 1
+ExeStack: 
+(int v;(v=a + b;print(v)))
+return
+NOP
+SymTable: 
+b --> 5
+a --> 20
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 1
+ExeStack: 
+int v
+(v=a + b;print(v))
+return
+NOP
+SymTable: 
+b --> 5
+a --> 20
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 1
+ExeStack: 
+int v
+(v=a + b;print(v))
+return
+NOP
+SymTable: 
+b --> 5
+a --> 20
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 1
+ExeStack: 
+(v=a + b;print(v))
+return
+NOP
+SymTable: 
+b --> 5
+a --> 20
+v --> 0
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 1
+ExeStack: 
+(v=a + b;print(v))
+return
+NOP
+SymTable: 
+b --> 5
+a --> 20
+v --> 0
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 1
+ExeStack: 
+v=a + b
+print(v)
+return
+NOP
+SymTable: 
+b --> 5
+a --> 20
+v --> 0
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 1
+ExeStack: 
+v=a + b
+print(v)
+return
+NOP
+SymTable: 
+b --> 5
+a --> 20
+v --> 0
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 1
+ExeStack: 
+print(v)
+return
+NOP
+SymTable: 
+b --> 5
+a --> 20
+v --> 25
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 1
+ExeStack: 
+print(v)
+return
+NOP
+SymTable: 
+b --> 5
+a --> 20
+v --> 25
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 1
+ExeStack: 
+return
+NOP
+SymTable: 
+b --> 5
+a --> 20
+v --> 25
+Out: 
+25
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 1
+ExeStack: 
+return
+NOP
+SymTable: 
+b --> 5
+a --> 20
+v --> 25
+Out: 
+25
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 1
+ExeStack: 
+--Empty--
+SymTable: 
+w --> 5
+v --> 2
+Out: 
+25
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 1
+ExeStack: 
+--Empty--
+SymTable: 
+w --> 5
+v --> 2
+Out: 
+25
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 1
+ExeStack: 
+(procedure sum([a, b]) (int v;(v=a + b;print(v)));(procedure product([a, b]) (v=a * b;print(v));(int v;(int w;(v=2;(w=5;(call sum([v * 10, w]);(print(v);(fork(call product([v, w]));;fork(call sum([v, w]));)))))))))
+SymTable: 
+--Empty--
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 1
+ExeStack: 
+procedure sum([a, b]) (int v;(v=a + b;print(v)))
+(procedure product([a, b]) (v=a * b;print(v));(int v;(int w;(v=2;(w=5;(call sum([v * 10, w]);(print(v);(fork(call product([v, w]));;fork(call sum([v, w]));))))))))
+SymTable: 
+--Empty--
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 1
+ExeStack: 
+procedure sum([a, b]) (int v;(v=a + b;print(v)))
+(procedure product([a, b]) (v=a * b;print(v));(int v;(int w;(v=2;(w=5;(call sum([v * 10, w]);(print(v);(fork(call product([v, w]));;fork(call sum([v, w]));))))))))
+SymTable: 
+--Empty--
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 1
+ExeStack: 
+(procedure product([a, b]) (v=a * b;print(v));(int v;(int w;(v=2;(w=5;(call sum([v * 10, w]);(print(v);(fork(call product([v, w]));;fork(call sum([v, w]));))))))))
+SymTable: 
+--Empty--
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 1
+ExeStack: 
+(procedure product([a, b]) (v=a * b;print(v));(int v;(int w;(v=2;(w=5;(call sum([v * 10, w]);(print(v);(fork(call product([v, w]));;fork(call sum([v, w]));))))))))
+SymTable: 
+--Empty--
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 1
+ExeStack: 
+procedure product([a, b]) (v=a * b;print(v))
+(int v;(int w;(v=2;(w=5;(call sum([v * 10, w]);(print(v);(fork(call product([v, w]));;fork(call sum([v, w]));)))))))
+SymTable: 
+--Empty--
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 1
+ExeStack: 
+procedure product([a, b]) (v=a * b;print(v))
+(int v;(int w;(v=2;(w=5;(call sum([v * 10, w]);(print(v);(fork(call product([v, w]));;fork(call sum([v, w]));)))))))
+SymTable: 
+--Empty--
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 1
+ExeStack: 
+(int v;(int w;(v=2;(w=5;(call sum([v * 10, w]);(print(v);(fork(call product([v, w]));;fork(call sum([v, w]));)))))))
+SymTable: 
+--Empty--
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 1
+ExeStack: 
+(int v;(int w;(v=2;(w=5;(call sum([v * 10, w]);(print(v);(fork(call product([v, w]));;fork(call sum([v, w]));)))))))
+SymTable: 
+--Empty--
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 1
+ExeStack: 
+int v
+(int w;(v=2;(w=5;(call sum([v * 10, w]);(print(v);(fork(call product([v, w]));;fork(call sum([v, w]));))))))
+SymTable: 
+--Empty--
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 1
+ExeStack: 
+int v
+(int w;(v=2;(w=5;(call sum([v * 10, w]);(print(v);(fork(call product([v, w]));;fork(call sum([v, w]));))))))
+SymTable: 
+--Empty--
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 1
+ExeStack: 
+(int w;(v=2;(w=5;(call sum([v * 10, w]);(print(v);(fork(call product([v, w]));;fork(call sum([v, w]));))))))
+SymTable: 
+v --> 0
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 1
+ExeStack: 
+(int w;(v=2;(w=5;(call sum([v * 10, w]);(print(v);(fork(call product([v, w]));;fork(call sum([v, w]));))))))
+SymTable: 
+v --> 0
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 1
+ExeStack: 
+int w
+(v=2;(w=5;(call sum([v * 10, w]);(print(v);(fork(call product([v, w]));;fork(call sum([v, w]));)))))
+SymTable: 
+v --> 0
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 1
+ExeStack: 
+int w
+(v=2;(w=5;(call sum([v * 10, w]);(print(v);(fork(call product([v, w]));;fork(call sum([v, w]));)))))
+SymTable: 
+v --> 0
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 1
+ExeStack: 
+(v=2;(w=5;(call sum([v * 10, w]);(print(v);(fork(call product([v, w]));;fork(call sum([v, w]));)))))
+SymTable: 
+w --> 0
+v --> 0
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 1
+ExeStack: 
+(v=2;(w=5;(call sum([v * 10, w]);(print(v);(fork(call product([v, w]));;fork(call sum([v, w]));)))))
+SymTable: 
+w --> 0
+v --> 0
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 1
+ExeStack: 
+v=2
+(w=5;(call sum([v * 10, w]);(print(v);(fork(call product([v, w]));;fork(call sum([v, w]));))))
+SymTable: 
+w --> 0
+v --> 0
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 1
+ExeStack: 
+v=2
+(w=5;(call sum([v * 10, w]);(print(v);(fork(call product([v, w]));;fork(call sum([v, w]));))))
+SymTable: 
+w --> 0
+v --> 0
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 1
+ExeStack: 
+(w=5;(call sum([v * 10, w]);(print(v);(fork(call product([v, w]));;fork(call sum([v, w]));))))
+SymTable: 
+w --> 0
+v --> 2
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 1
+ExeStack: 
+(w=5;(call sum([v * 10, w]);(print(v);(fork(call product([v, w]));;fork(call sum([v, w]));))))
+SymTable: 
+w --> 0
+v --> 2
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 1
+ExeStack: 
+w=5
+(call sum([v * 10, w]);(print(v);(fork(call product([v, w]));;fork(call sum([v, w]));)))
+SymTable: 
+w --> 0
+v --> 2
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 1
+ExeStack: 
+w=5
+(call sum([v * 10, w]);(print(v);(fork(call product([v, w]));;fork(call sum([v, w]));)))
+SymTable: 
+w --> 0
+v --> 2
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 1
+ExeStack: 
+(call sum([v * 10, w]);(print(v);(fork(call product([v, w]));;fork(call sum([v, w]));)))
+SymTable: 
+w --> 5
+v --> 2
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 1
+ExeStack: 
+(call sum([v * 10, w]);(print(v);(fork(call product([v, w]));;fork(call sum([v, w]));)))
+SymTable: 
+w --> 5
+v --> 2
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 1
+ExeStack: 
+call sum([v * 10, w])
+(print(v);(fork(call product([v, w]));;fork(call sum([v, w]));))
+SymTable: 
+w --> 5
+v --> 2
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 1
+ExeStack: 
+call sum([v * 10, w])
+(print(v);(fork(call product([v, w]));;fork(call sum([v, w]));))
+SymTable: 
+w --> 5
+v --> 2
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 1
+ExeStack: 
+(int v;(v=a + b;print(v)))
+return
+(print(v);(fork(call product([v, w]));;fork(call sum([v, w]));))
+SymTable: 
+b --> 5
+a --> 20
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 1
+ExeStack: 
+(int v;(v=a + b;print(v)))
+return
+(print(v);(fork(call product([v, w]));;fork(call sum([v, w]));))
+SymTable: 
+b --> 5
+a --> 20
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 1
+ExeStack: 
+int v
+(v=a + b;print(v))
+return
+(print(v);(fork(call product([v, w]));;fork(call sum([v, w]));))
+SymTable: 
+b --> 5
+a --> 20
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 1
+ExeStack: 
+int v
+(v=a + b;print(v))
+return
+(print(v);(fork(call product([v, w]));;fork(call sum([v, w]));))
+SymTable: 
+b --> 5
+a --> 20
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 1
+ExeStack: 
+(v=a + b;print(v))
+return
+(print(v);(fork(call product([v, w]));;fork(call sum([v, w]));))
+SymTable: 
+b --> 5
+a --> 20
+v --> 0
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 1
+ExeStack: 
+(v=a + b;print(v))
+return
+(print(v);(fork(call product([v, w]));;fork(call sum([v, w]));))
+SymTable: 
+b --> 5
+a --> 20
+v --> 0
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 1
+ExeStack: 
+v=a + b
+print(v)
+return
+(print(v);(fork(call product([v, w]));;fork(call sum([v, w]));))
+SymTable: 
+b --> 5
+a --> 20
+v --> 0
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 1
+ExeStack: 
+v=a + b
+print(v)
+return
+(print(v);(fork(call product([v, w]));;fork(call sum([v, w]));))
+SymTable: 
+b --> 5
+a --> 20
+v --> 0
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 1
+ExeStack: 
+print(v)
+return
+(print(v);(fork(call product([v, w]));;fork(call sum([v, w]));))
+SymTable: 
+b --> 5
+a --> 20
+v --> 25
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 1
+ExeStack: 
+print(v)
+return
+(print(v);(fork(call product([v, w]));;fork(call sum([v, w]));))
+SymTable: 
+b --> 5
+a --> 20
+v --> 25
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 1
+ExeStack: 
+return
+(print(v);(fork(call product([v, w]));;fork(call sum([v, w]));))
+SymTable: 
+b --> 5
+a --> 20
+v --> 25
+Out: 
+25
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 1
+ExeStack: 
+return
+(print(v);(fork(call product([v, w]));;fork(call sum([v, w]));))
+SymTable: 
+b --> 5
+a --> 20
+v --> 25
+Out: 
+25
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 1
+ExeStack: 
+--Empty--
+SymTable: 
+w --> 5
+v --> 2
+Out: 
+25
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 1
+ExeStack: 
+--Empty--
+SymTable: 
+w --> 5
+v --> 2
+Out: 
+25
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 1
+ExeStack: 
+(procedure sum([a, b]) (int v;(v=a + b;print(v)));(procedure product([a, b]) (v=a * b;print(v));(int v;(int w;(v=2;(w=5;(call sum([v * 10, w]);(print(v);(fork(call product([v, w]));;fork(call sum([v, w]));)))))))))
+SymTable: 
+--Empty--
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 1
+ExeStack: 
+procedure sum([a, b]) (int v;(v=a + b;print(v)))
+(procedure product([a, b]) (v=a * b;print(v));(int v;(int w;(v=2;(w=5;(call sum([v * 10, w]);(print(v);(fork(call product([v, w]));;fork(call sum([v, w]));))))))))
+SymTable: 
+--Empty--
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 1
+ExeStack: 
+procedure sum([a, b]) (int v;(v=a + b;print(v)))
+(procedure product([a, b]) (v=a * b;print(v));(int v;(int w;(v=2;(w=5;(call sum([v * 10, w]);(print(v);(fork(call product([v, w]));;fork(call sum([v, w]));))))))))
+SymTable: 
+--Empty--
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 1
+ExeStack: 
+(procedure product([a, b]) (v=a * b;print(v));(int v;(int w;(v=2;(w=5;(call sum([v * 10, w]);(print(v);(fork(call product([v, w]));;fork(call sum([v, w]));))))))))
+SymTable: 
+--Empty--
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 1
+ExeStack: 
+(procedure product([a, b]) (v=a * b;print(v));(int v;(int w;(v=2;(w=5;(call sum([v * 10, w]);(print(v);(fork(call product([v, w]));;fork(call sum([v, w]));))))))))
+SymTable: 
+--Empty--
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 1
+ExeStack: 
+procedure product([a, b]) (v=a * b;print(v))
+(int v;(int w;(v=2;(w=5;(call sum([v * 10, w]);(print(v);(fork(call product([v, w]));;fork(call sum([v, w]));)))))))
+SymTable: 
+--Empty--
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 1
+ExeStack: 
+procedure product([a, b]) (v=a * b;print(v))
+(int v;(int w;(v=2;(w=5;(call sum([v * 10, w]);(print(v);(fork(call product([v, w]));;fork(call sum([v, w]));)))))))
+SymTable: 
+--Empty--
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 1
+ExeStack: 
+(int v;(int w;(v=2;(w=5;(call sum([v * 10, w]);(print(v);(fork(call product([v, w]));;fork(call sum([v, w]));)))))))
+SymTable: 
+--Empty--
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 1
+ExeStack: 
+(int v;(int w;(v=2;(w=5;(call sum([v * 10, w]);(print(v);(fork(call product([v, w]));;fork(call sum([v, w]));)))))))
+SymTable: 
+--Empty--
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 1
+ExeStack: 
+int v
+(int w;(v=2;(w=5;(call sum([v * 10, w]);(print(v);(fork(call product([v, w]));;fork(call sum([v, w]));))))))
+SymTable: 
+--Empty--
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 1
+ExeStack: 
+int v
+(int w;(v=2;(w=5;(call sum([v * 10, w]);(print(v);(fork(call product([v, w]));;fork(call sum([v, w]));))))))
+SymTable: 
+--Empty--
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 1
+ExeStack: 
+(int w;(v=2;(w=5;(call sum([v * 10, w]);(print(v);(fork(call product([v, w]));;fork(call sum([v, w]));))))))
+SymTable: 
+v --> 0
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 1
+ExeStack: 
+(int w;(v=2;(w=5;(call sum([v * 10, w]);(print(v);(fork(call product([v, w]));;fork(call sum([v, w]));))))))
+SymTable: 
+v --> 0
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 1
+ExeStack: 
+int w
+(v=2;(w=5;(call sum([v * 10, w]);(print(v);(fork(call product([v, w]));;fork(call sum([v, w]));)))))
+SymTable: 
+v --> 0
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 1
+ExeStack: 
+int w
+(v=2;(w=5;(call sum([v * 10, w]);(print(v);(fork(call product([v, w]));;fork(call sum([v, w]));)))))
+SymTable: 
+v --> 0
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 1
+ExeStack: 
+(v=2;(w=5;(call sum([v * 10, w]);(print(v);(fork(call product([v, w]));;fork(call sum([v, w]));)))))
+SymTable: 
+w --> 0
+v --> 0
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 1
+ExeStack: 
+(v=2;(w=5;(call sum([v * 10, w]);(print(v);(fork(call product([v, w]));;fork(call sum([v, w]));)))))
+SymTable: 
+w --> 0
+v --> 0
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 1
+ExeStack: 
+v=2
+(w=5;(call sum([v * 10, w]);(print(v);(fork(call product([v, w]));;fork(call sum([v, w]));))))
+SymTable: 
+w --> 0
+v --> 0
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 1
+ExeStack: 
+v=2
+(w=5;(call sum([v * 10, w]);(print(v);(fork(call product([v, w]));;fork(call sum([v, w]));))))
+SymTable: 
+w --> 0
+v --> 0
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 1
+ExeStack: 
+(w=5;(call sum([v * 10, w]);(print(v);(fork(call product([v, w]));;fork(call sum([v, w]));))))
+SymTable: 
+w --> 0
+v --> 2
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 1
+ExeStack: 
+(w=5;(call sum([v * 10, w]);(print(v);(fork(call product([v, w]));;fork(call sum([v, w]));))))
+SymTable: 
+w --> 0
+v --> 2
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 1
+ExeStack: 
+w=5
+(call sum([v * 10, w]);(print(v);(fork(call product([v, w]));;fork(call sum([v, w]));)))
+SymTable: 
+w --> 0
+v --> 2
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 1
+ExeStack: 
+w=5
+(call sum([v * 10, w]);(print(v);(fork(call product([v, w]));;fork(call sum([v, w]));)))
+SymTable: 
+w --> 0
+v --> 2
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 1
+ExeStack: 
+(call sum([v * 10, w]);(print(v);(fork(call product([v, w]));;fork(call sum([v, w]));)))
+SymTable: 
+w --> 5
+v --> 2
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 1
+ExeStack: 
+(call sum([v * 10, w]);(print(v);(fork(call product([v, w]));;fork(call sum([v, w]));)))
+SymTable: 
+w --> 5
+v --> 2
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 1
+ExeStack: 
+call sum([v * 10, w])
+(print(v);(fork(call product([v, w]));;fork(call sum([v, w]));))
+SymTable: 
+w --> 5
+v --> 2
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 1
+ExeStack: 
+call sum([v * 10, w])
+(print(v);(fork(call product([v, w]));;fork(call sum([v, w]));))
+SymTable: 
+w --> 5
+v --> 2
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 1
+ExeStack: 
+(int v;(v=a + b;print(v)))
+return
+(print(v);(fork(call product([v, w]));;fork(call sum([v, w]));))
+SymTable: 
+b --> 5
+a --> 20
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 1
+ExeStack: 
+(int v;(v=a + b;print(v)))
+return
+(print(v);(fork(call product([v, w]));;fork(call sum([v, w]));))
+SymTable: 
+b --> 5
+a --> 20
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 1
+ExeStack: 
+int v
+(v=a + b;print(v))
+return
+(print(v);(fork(call product([v, w]));;fork(call sum([v, w]));))
+SymTable: 
+b --> 5
+a --> 20
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 1
+ExeStack: 
+int v
+(v=a + b;print(v))
+return
+(print(v);(fork(call product([v, w]));;fork(call sum([v, w]));))
+SymTable: 
+b --> 5
+a --> 20
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 1
+ExeStack: 
+(v=a + b;print(v))
+return
+(print(v);(fork(call product([v, w]));;fork(call sum([v, w]));))
+SymTable: 
+b --> 5
+a --> 20
+v --> 0
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 1
+ExeStack: 
+(v=a + b;print(v))
+return
+(print(v);(fork(call product([v, w]));;fork(call sum([v, w]));))
+SymTable: 
+b --> 5
+a --> 20
+v --> 0
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 1
+ExeStack: 
+v=a + b
+print(v)
+return
+(print(v);(fork(call product([v, w]));;fork(call sum([v, w]));))
+SymTable: 
+b --> 5
+a --> 20
+v --> 0
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 1
+ExeStack: 
+v=a + b
+print(v)
+return
+(print(v);(fork(call product([v, w]));;fork(call sum([v, w]));))
+SymTable: 
+b --> 5
+a --> 20
+v --> 0
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 1
+ExeStack: 
+print(v)
+return
+(print(v);(fork(call product([v, w]));;fork(call sum([v, w]));))
+SymTable: 
+b --> 5
+a --> 20
+v --> 25
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 1
+ExeStack: 
+print(v)
+return
+(print(v);(fork(call product([v, w]));;fork(call sum([v, w]));))
+SymTable: 
+b --> 5
+a --> 20
+v --> 25
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 1
+ExeStack: 
+return
+(print(v);(fork(call product([v, w]));;fork(call sum([v, w]));))
+SymTable: 
+b --> 5
+a --> 20
+v --> 25
+Out: 
+25
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 1
+ExeStack: 
+return
+(print(v);(fork(call product([v, w]));;fork(call sum([v, w]));))
+SymTable: 
+b --> 5
+a --> 20
+v --> 25
+Out: 
+25
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 1
+ExeStack: 
+(print(v);(fork(call product([v, w]));;fork(call sum([v, w]));))
+SymTable: 
+w --> 5
+v --> 2
+Out: 
+25
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 1
+ExeStack: 
+(print(v);(fork(call product([v, w]));;fork(call sum([v, w]));))
+SymTable: 
+w --> 5
+v --> 2
+Out: 
+25
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 1
+ExeStack: 
+print(v)
+(fork(call product([v, w]));;fork(call sum([v, w]));)
+SymTable: 
+w --> 5
+v --> 2
+Out: 
+25
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 1
+ExeStack: 
+print(v)
+(fork(call product([v, w]));;fork(call sum([v, w]));)
+SymTable: 
+w --> 5
+v --> 2
+Out: 
+25
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 1
+ExeStack: 
+(fork(call product([v, w]));;fork(call sum([v, w]));)
+SymTable: 
+w --> 5
+v --> 2
+Out: 
+25
+2
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 1
+ExeStack: 
+(fork(call product([v, w]));;fork(call sum([v, w]));)
+SymTable: 
+w --> 5
+v --> 2
+Out: 
+25
+2
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 1
+ExeStack: 
+fork(call product([v, w]));
+fork(call sum([v, w]));
+SymTable: 
+w --> 5
+v --> 2
+Out: 
+25
+2
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 1
+ExeStack: 
+fork(call product([v, w]));
+fork(call sum([v, w]));
+SymTable: 
+w --> 5
+v --> 2
+Out: 
+25
+2
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 1
+ExeStack: 
+fork(call sum([v, w]));
+SymTable: 
+w --> 5
+v --> 2
+Out: 
+25
+2
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 2
+ExeStack: 
+call product([v, w])
+SymTable: 
+w --> 5
+v --> 2
+Out: 
+25
+2
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 1
+ExeStack: 
+fork(call sum([v, w]));
+SymTable: 
+w --> 5
+v --> 2
+Out: 
+25
+2
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 2
+ExeStack: 
+call product([v, w])
+SymTable: 
+w --> 5
+v --> 2
+Out: 
+25
+2
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 1
+ExeStack: 
+--Empty--
+SymTable: 
+w --> 5
+v --> 2
+Out: 
+25
+2
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 2
+ExeStack: 
+(v=a * b;print(v))
+return
+SymTable: 
+b --> 5
+a --> 2
+Out: 
+25
+2
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 3
+ExeStack: 
+call sum([v, w])
+SymTable: 
+w --> 5
+v --> 2
+Out: 
+25
+2
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 1
+ExeStack: 
+--Empty--
+SymTable: 
+w --> 5
+v --> 2
+Out: 
+25
+2
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 2
+ExeStack: 
+(v=a * b;print(v))
+return
+SymTable: 
+b --> 5
+a --> 2
+Out: 
+25
+2
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 3
+ExeStack: 
+call sum([v, w])
+SymTable: 
+w --> 5
+v --> 2
+Out: 
+25
+2
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 2
+ExeStack: 
+v=a * b
+print(v)
+return
+SymTable: 
+b --> 5
+a --> 2
+Out: 
+25
+2
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 3
+ExeStack: 
+(int v;(v=a + b;print(v)))
+return
+SymTable: 
+b --> 5
+a --> 2
+Out: 
+25
+2
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 2
+ExeStack: 
+v=a * b
+print(v)
+return
+SymTable: 
+b --> 5
+a --> 2
+Out: 
+25
+2
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 3
+ExeStack: 
+(int v;(v=a + b;print(v)))
+return
+SymTable: 
+b --> 5
+a --> 2
+Out: 
+25
+2
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 2
+ExeStack: 
+print(v)
+return
+SymTable: 
+b --> 5
+a --> 2
+Out: 
+25
+2
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 3
+ExeStack: 
+int v
+(v=a + b;print(v))
+return
+SymTable: 
+b --> 5
+a --> 2
+Out: 
+25
+2
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 2
+ExeStack: 
+print(v)
+return
+SymTable: 
+b --> 5
+a --> 2
+Out: 
+25
+2
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 3
+ExeStack: 
+int v
+(v=a + b;print(v))
+return
+SymTable: 
+b --> 5
+a --> 2
+Out: 
+25
+2
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 2
+ExeStack: 
+return
+SymTable: 
+b --> 5
+a --> 2
+Out: 
+25
+2
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 3
+ExeStack: 
+(v=a + b;print(v))
+return
+SymTable: 
+b --> 5
+a --> 2
+v --> 0
+Out: 
+25
+2
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 2
+ExeStack: 
+return
+SymTable: 
+b --> 5
+a --> 2
+Out: 
+25
+2
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 3
+ExeStack: 
+(v=a + b;print(v))
+return
+SymTable: 
+b --> 5
+a --> 2
+v --> 0
+Out: 
+25
+2
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 2
+ExeStack: 
+--Empty--
+SymTable: 
+w --> 5
+v --> 2
+Out: 
+25
+2
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 3
+ExeStack: 
+v=a + b
+print(v)
+return
+SymTable: 
+b --> 5
+a --> 2
+v --> 0
+Out: 
+25
+2
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 2
+ExeStack: 
+--Empty--
+SymTable: 
+w --> 5
+v --> 2
+Out: 
+25
+2
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 3
+ExeStack: 
+v=a + b
+print(v)
+return
+SymTable: 
+b --> 5
+a --> 2
+v --> 0
+Out: 
+25
+2
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 3
+ExeStack: 
+print(v)
+return
+SymTable: 
+b --> 5
+a --> 2
+v --> 7
+Out: 
+25
+2
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 3
+ExeStack: 
+print(v)
+return
+SymTable: 
+b --> 5
+a --> 2
+v --> 7
+Out: 
+25
+2
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 3
+ExeStack: 
+return
+SymTable: 
+b --> 5
+a --> 2
+v --> 7
+Out: 
+25
+2
+7
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 3
+ExeStack: 
+return
+SymTable: 
+b --> 5
+a --> 2
+v --> 7
+Out: 
+25
+2
+7
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 3
+ExeStack: 
+--Empty--
+SymTable: 
+w --> 5
+v --> 2
+Out: 
+25
+2
+7
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 3
+ExeStack: 
+--Empty--
+SymTable: 
+w --> 5
+v --> 2
+Out: 
+25
+2
+7
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 4
+ExeStack: 
+(procedure sum([a, b]) (int v;(v=a + b;print(v)));(procedure product([a, b]) (v=a * b;print(v));(int v;(int w;(v=2;(w=5;(call sum([v * 10, w]);(print(v);(fork(call product([v, w]));;fork(call sum([v, w]));)))))))))
+SymTable: 
+--Empty--
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 4
+ExeStack: 
+procedure sum([a, b]) (int v;(v=a + b;print(v)))
+(procedure product([a, b]) (v=a * b;print(v));(int v;(int w;(v=2;(w=5;(call sum([v * 10, w]);(print(v);(fork(call product([v, w]));;fork(call sum([v, w]));))))))))
+SymTable: 
+--Empty--
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 4
+ExeStack: 
+procedure sum([a, b]) (int v;(v=a + b;print(v)))
+(procedure product([a, b]) (v=a * b;print(v));(int v;(int w;(v=2;(w=5;(call sum([v * 10, w]);(print(v);(fork(call product([v, w]));;fork(call sum([v, w]));))))))))
+SymTable: 
+--Empty--
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 4
+ExeStack: 
+(procedure product([a, b]) (v=a * b;print(v));(int v;(int w;(v=2;(w=5;(call sum([v * 10, w]);(print(v);(fork(call product([v, w]));;fork(call sum([v, w]));))))))))
+SymTable: 
+--Empty--
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 4
+ExeStack: 
+(procedure product([a, b]) (v=a * b;print(v));(int v;(int w;(v=2;(w=5;(call sum([v * 10, w]);(print(v);(fork(call product([v, w]));;fork(call sum([v, w]));))))))))
+SymTable: 
+--Empty--
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 4
+ExeStack: 
+procedure product([a, b]) (v=a * b;print(v))
+(int v;(int w;(v=2;(w=5;(call sum([v * 10, w]);(print(v);(fork(call product([v, w]));;fork(call sum([v, w]));)))))))
+SymTable: 
+--Empty--
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 4
+ExeStack: 
+procedure product([a, b]) (v=a * b;print(v))
+(int v;(int w;(v=2;(w=5;(call sum([v * 10, w]);(print(v);(fork(call product([v, w]));;fork(call sum([v, w]));)))))))
+SymTable: 
+--Empty--
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 4
+ExeStack: 
+(int v;(int w;(v=2;(w=5;(call sum([v * 10, w]);(print(v);(fork(call product([v, w]));;fork(call sum([v, w]));)))))))
+SymTable: 
+--Empty--
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 4
+ExeStack: 
+(int v;(int w;(v=2;(w=5;(call sum([v * 10, w]);(print(v);(fork(call product([v, w]));;fork(call sum([v, w]));)))))))
+SymTable: 
+--Empty--
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 4
+ExeStack: 
+int v
+(int w;(v=2;(w=5;(call sum([v * 10, w]);(print(v);(fork(call product([v, w]));;fork(call sum([v, w]));))))))
+SymTable: 
+--Empty--
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 4
+ExeStack: 
+int v
+(int w;(v=2;(w=5;(call sum([v * 10, w]);(print(v);(fork(call product([v, w]));;fork(call sum([v, w]));))))))
+SymTable: 
+--Empty--
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 4
+ExeStack: 
+(int w;(v=2;(w=5;(call sum([v * 10, w]);(print(v);(fork(call product([v, w]));;fork(call sum([v, w]));))))))
+SymTable: 
+v --> 0
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 4
+ExeStack: 
+(int w;(v=2;(w=5;(call sum([v * 10, w]);(print(v);(fork(call product([v, w]));;fork(call sum([v, w]));))))))
+SymTable: 
+v --> 0
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 4
+ExeStack: 
+int w
+(v=2;(w=5;(call sum([v * 10, w]);(print(v);(fork(call product([v, w]));;fork(call sum([v, w]));)))))
+SymTable: 
+v --> 0
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 4
+ExeStack: 
+int w
+(v=2;(w=5;(call sum([v * 10, w]);(print(v);(fork(call product([v, w]));;fork(call sum([v, w]));)))))
+SymTable: 
+v --> 0
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 4
+ExeStack: 
+(v=2;(w=5;(call sum([v * 10, w]);(print(v);(fork(call product([v, w]));;fork(call sum([v, w]));)))))
+SymTable: 
+w --> 0
+v --> 0
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 4
+ExeStack: 
+(v=2;(w=5;(call sum([v * 10, w]);(print(v);(fork(call product([v, w]));;fork(call sum([v, w]));)))))
+SymTable: 
+w --> 0
+v --> 0
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 4
+ExeStack: 
+v=2
+(w=5;(call sum([v * 10, w]);(print(v);(fork(call product([v, w]));;fork(call sum([v, w]));))))
+SymTable: 
+w --> 0
+v --> 0
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 4
+ExeStack: 
+v=2
+(w=5;(call sum([v * 10, w]);(print(v);(fork(call product([v, w]));;fork(call sum([v, w]));))))
+SymTable: 
+w --> 0
+v --> 0
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 4
+ExeStack: 
+(w=5;(call sum([v * 10, w]);(print(v);(fork(call product([v, w]));;fork(call sum([v, w]));))))
+SymTable: 
+w --> 0
+v --> 2
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 4
+ExeStack: 
+(w=5;(call sum([v * 10, w]);(print(v);(fork(call product([v, w]));;fork(call sum([v, w]));))))
+SymTable: 
+w --> 0
+v --> 2
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 4
+ExeStack: 
+w=5
+(call sum([v * 10, w]);(print(v);(fork(call product([v, w]));;fork(call sum([v, w]));)))
+SymTable: 
+w --> 0
+v --> 2
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 4
+ExeStack: 
+w=5
+(call sum([v * 10, w]);(print(v);(fork(call product([v, w]));;fork(call sum([v, w]));)))
+SymTable: 
+w --> 0
+v --> 2
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 4
+ExeStack: 
+(call sum([v * 10, w]);(print(v);(fork(call product([v, w]));;fork(call sum([v, w]));)))
+SymTable: 
+w --> 5
+v --> 2
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 4
+ExeStack: 
+(call sum([v * 10, w]);(print(v);(fork(call product([v, w]));;fork(call sum([v, w]));)))
+SymTable: 
+w --> 5
+v --> 2
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 4
+ExeStack: 
+call sum([v * 10, w])
+(print(v);(fork(call product([v, w]));;fork(call sum([v, w]));))
+SymTable: 
+w --> 5
+v --> 2
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 4
+ExeStack: 
+call sum([v * 10, w])
+(print(v);(fork(call product([v, w]));;fork(call sum([v, w]));))
+SymTable: 
+w --> 5
+v --> 2
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 4
+ExeStack: 
+(int v;(v=a + b;print(v)))
+return
+(print(v);(fork(call product([v, w]));;fork(call sum([v, w]));))
+SymTable: 
+b --> 5
+a --> 20
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 4
+ExeStack: 
+(int v;(v=a + b;print(v)))
+return
+(print(v);(fork(call product([v, w]));;fork(call sum([v, w]));))
+SymTable: 
+b --> 5
+a --> 20
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 4
+ExeStack: 
+int v
+(v=a + b;print(v))
+return
+(print(v);(fork(call product([v, w]));;fork(call sum([v, w]));))
+SymTable: 
+b --> 5
+a --> 20
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 4
+ExeStack: 
+int v
+(v=a + b;print(v))
+return
+(print(v);(fork(call product([v, w]));;fork(call sum([v, w]));))
+SymTable: 
+b --> 5
+a --> 20
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 4
+ExeStack: 
+(v=a + b;print(v))
+return
+(print(v);(fork(call product([v, w]));;fork(call sum([v, w]));))
+SymTable: 
+b --> 5
+a --> 20
+v --> 0
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 4
+ExeStack: 
+(v=a + b;print(v))
+return
+(print(v);(fork(call product([v, w]));;fork(call sum([v, w]));))
+SymTable: 
+b --> 5
+a --> 20
+v --> 0
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 4
+ExeStack: 
+v=a + b
+print(v)
+return
+(print(v);(fork(call product([v, w]));;fork(call sum([v, w]));))
+SymTable: 
+b --> 5
+a --> 20
+v --> 0
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 4
+ExeStack: 
+v=a + b
+print(v)
+return
+(print(v);(fork(call product([v, w]));;fork(call sum([v, w]));))
+SymTable: 
+b --> 5
+a --> 20
+v --> 0
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 4
+ExeStack: 
+print(v)
+return
+(print(v);(fork(call product([v, w]));;fork(call sum([v, w]));))
+SymTable: 
+b --> 5
+a --> 20
+v --> 25
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 4
+ExeStack: 
+print(v)
+return
+(print(v);(fork(call product([v, w]));;fork(call sum([v, w]));))
+SymTable: 
+b --> 5
+a --> 20
+v --> 25
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 4
+ExeStack: 
+return
+(print(v);(fork(call product([v, w]));;fork(call sum([v, w]));))
+SymTable: 
+b --> 5
+a --> 20
+v --> 25
+Out: 
+25
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 4
+ExeStack: 
+return
+(print(v);(fork(call product([v, w]));;fork(call sum([v, w]));))
+SymTable: 
+b --> 5
+a --> 20
+v --> 25
+Out: 
+25
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 4
+ExeStack: 
+(print(v);(fork(call product([v, w]));;fork(call sum([v, w]));))
+SymTable: 
+w --> 5
+v --> 2
+Out: 
+25
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 4
+ExeStack: 
+(print(v);(fork(call product([v, w]));;fork(call sum([v, w]));))
+SymTable: 
+w --> 5
+v --> 2
+Out: 
+25
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 4
+ExeStack: 
+print(v)
+(fork(call product([v, w]));;fork(call sum([v, w]));)
+SymTable: 
+w --> 5
+v --> 2
+Out: 
+25
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 4
+ExeStack: 
+print(v)
+(fork(call product([v, w]));;fork(call sum([v, w]));)
+SymTable: 
+w --> 5
+v --> 2
+Out: 
+25
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 4
+ExeStack: 
+(fork(call product([v, w]));;fork(call sum([v, w]));)
+SymTable: 
+w --> 5
+v --> 2
+Out: 
+25
+2
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 4
+ExeStack: 
+(fork(call product([v, w]));;fork(call sum([v, w]));)
+SymTable: 
+w --> 5
+v --> 2
+Out: 
+25
+2
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 4
+ExeStack: 
+fork(call product([v, w]));
+fork(call sum([v, w]));
+SymTable: 
+w --> 5
+v --> 2
+Out: 
+25
+2
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 4
+ExeStack: 
+fork(call product([v, w]));
+fork(call sum([v, w]));
+SymTable: 
+w --> 5
+v --> 2
+Out: 
+25
+2
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 4
+ExeStack: 
+fork(call sum([v, w]));
+SymTable: 
+w --> 5
+v --> 2
+Out: 
+25
+2
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 5
+ExeStack: 
+call product([v, w])
+SymTable: 
+w --> 5
+v --> 2
+Out: 
+25
+2
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 4
+ExeStack: 
+fork(call sum([v, w]));
+SymTable: 
+w --> 5
+v --> 2
+Out: 
+25
+2
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 5
+ExeStack: 
+call product([v, w])
+SymTable: 
+w --> 5
+v --> 2
+Out: 
+25
+2
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 4
+ExeStack: 
+--Empty--
+SymTable: 
+w --> 5
+v --> 2
+Out: 
+25
+2
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 5
+ExeStack: 
+(v=a * b;print(v))
+return
+SymTable: 
+b --> 5
+a --> 2
+Out: 
+25
+2
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 6
+ExeStack: 
+call sum([v, w])
+SymTable: 
+w --> 5
+v --> 2
+Out: 
+25
+2
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 4
+ExeStack: 
+--Empty--
+SymTable: 
+w --> 5
+v --> 2
+Out: 
+25
+2
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 5
+ExeStack: 
+(v=a * b;print(v))
+return
+SymTable: 
+b --> 5
+a --> 2
+Out: 
+25
+2
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 6
+ExeStack: 
+call sum([v, w])
+SymTable: 
+w --> 5
+v --> 2
+Out: 
+25
+2
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 5
+ExeStack: 
+v=a * b
+print(v)
+return
+SymTable: 
+b --> 5
+a --> 2
+Out: 
+25
+2
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 6
+ExeStack: 
+(int v;(v=a + b;print(v)))
+return
+SymTable: 
+b --> 5
+a --> 2
+Out: 
+25
+2
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 5
+ExeStack: 
+v=a * b
+print(v)
+return
+SymTable: 
+b --> 5
+a --> 2
+Out: 
+25
+2
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 6
+ExeStack: 
+(int v;(v=a + b;print(v)))
+return
+SymTable: 
+b --> 5
+a --> 2
+Out: 
+25
+2
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 5
+ExeStack: 
+print(v)
+return
+SymTable: 
+b --> 5
+a --> 2
+Out: 
+25
+2
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 6
+ExeStack: 
+int v
+(v=a + b;print(v))
+return
+SymTable: 
+b --> 5
+a --> 2
+Out: 
+25
+2
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 5
+ExeStack: 
+print(v)
+return
+SymTable: 
+b --> 5
+a --> 2
+Out: 
+25
+2
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 6
+ExeStack: 
+int v
+(v=a + b;print(v))
+return
+SymTable: 
+b --> 5
+a --> 2
+Out: 
+25
+2
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 5
+ExeStack: 
+return
+SymTable: 
+b --> 5
+a --> 2
+Out: 
+25
+2
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 6
+ExeStack: 
+(v=a + b;print(v))
+return
+SymTable: 
+b --> 5
+a --> 2
+v --> 0
+Out: 
+25
+2
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 5
+ExeStack: 
+return
+SymTable: 
+b --> 5
+a --> 2
+Out: 
+25
+2
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 6
+ExeStack: 
+(v=a + b;print(v))
+return
+SymTable: 
+b --> 5
+a --> 2
+v --> 0
+Out: 
+25
+2
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 5
+ExeStack: 
+--Empty--
+SymTable: 
+w --> 5
+v --> 2
+Out: 
+25
+2
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 6
+ExeStack: 
+v=a + b
+print(v)
+return
+SymTable: 
+b --> 5
+a --> 2
+v --> 0
+Out: 
+25
+2
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 5
+ExeStack: 
+--Empty--
+SymTable: 
+w --> 5
+v --> 2
+Out: 
+25
+2
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 6
+ExeStack: 
+v=a + b
+print(v)
+return
+SymTable: 
+b --> 5
+a --> 2
+v --> 0
+Out: 
+25
+2
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 6
+ExeStack: 
+print(v)
+return
+SymTable: 
+b --> 5
+a --> 2
+v --> 7
+Out: 
+25
+2
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 6
+ExeStack: 
+print(v)
+return
+SymTable: 
+b --> 5
+a --> 2
+v --> 7
+Out: 
+25
+2
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 6
+ExeStack: 
+return
+SymTable: 
+b --> 5
+a --> 2
+v --> 7
+Out: 
+25
+2
+7
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 6
+ExeStack: 
+return
+SymTable: 
+b --> 5
+a --> 2
+v --> 7
+Out: 
+25
+2
+7
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 6
+ExeStack: 
+--Empty--
+SymTable: 
+w --> 5
+v --> 2
+Out: 
+25
+2
+7
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 6
+ExeStack: 
+--Empty--
+SymTable: 
+w --> 5
+v --> 2
+Out: 
+25
+2
+7
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 1
+ExeStack: 
+(procedure sum([a, b]) (int v;(v=a + b;print(v)));(procedure product([a, b]) ((int v;v=a * b);print(v));(int v;(int w;(v=2;(w=5;(call sum([v * 10, w]);(print(v);(fork(call product([v, w]));;fork(call sum([v, w]));)))))))))
+SymTable: 
+--Empty--
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 1
+ExeStack: 
+procedure sum([a, b]) (int v;(v=a + b;print(v)))
+(procedure product([a, b]) ((int v;v=a * b);print(v));(int v;(int w;(v=2;(w=5;(call sum([v * 10, w]);(print(v);(fork(call product([v, w]));;fork(call sum([v, w]));))))))))
+SymTable: 
+--Empty--
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 1
+ExeStack: 
+procedure sum([a, b]) (int v;(v=a + b;print(v)))
+(procedure product([a, b]) ((int v;v=a * b);print(v));(int v;(int w;(v=2;(w=5;(call sum([v * 10, w]);(print(v);(fork(call product([v, w]));;fork(call sum([v, w]));))))))))
+SymTable: 
+--Empty--
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 1
+ExeStack: 
+(procedure product([a, b]) ((int v;v=a * b);print(v));(int v;(int w;(v=2;(w=5;(call sum([v * 10, w]);(print(v);(fork(call product([v, w]));;fork(call sum([v, w]));))))))))
+SymTable: 
+--Empty--
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 1
+ExeStack: 
+(procedure product([a, b]) ((int v;v=a * b);print(v));(int v;(int w;(v=2;(w=5;(call sum([v * 10, w]);(print(v);(fork(call product([v, w]));;fork(call sum([v, w]));))))))))
+SymTable: 
+--Empty--
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 1
+ExeStack: 
+procedure product([a, b]) ((int v;v=a * b);print(v))
+(int v;(int w;(v=2;(w=5;(call sum([v * 10, w]);(print(v);(fork(call product([v, w]));;fork(call sum([v, w]));)))))))
+SymTable: 
+--Empty--
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 1
+ExeStack: 
+procedure product([a, b]) ((int v;v=a * b);print(v))
+(int v;(int w;(v=2;(w=5;(call sum([v * 10, w]);(print(v);(fork(call product([v, w]));;fork(call sum([v, w]));)))))))
+SymTable: 
+--Empty--
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 1
+ExeStack: 
+(int v;(int w;(v=2;(w=5;(call sum([v * 10, w]);(print(v);(fork(call product([v, w]));;fork(call sum([v, w]));)))))))
+SymTable: 
+--Empty--
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 1
+ExeStack: 
+(int v;(int w;(v=2;(w=5;(call sum([v * 10, w]);(print(v);(fork(call product([v, w]));;fork(call sum([v, w]));)))))))
+SymTable: 
+--Empty--
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 1
+ExeStack: 
+int v
+(int w;(v=2;(w=5;(call sum([v * 10, w]);(print(v);(fork(call product([v, w]));;fork(call sum([v, w]));))))))
+SymTable: 
+--Empty--
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 1
+ExeStack: 
+int v
+(int w;(v=2;(w=5;(call sum([v * 10, w]);(print(v);(fork(call product([v, w]));;fork(call sum([v, w]));))))))
+SymTable: 
+--Empty--
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 1
+ExeStack: 
+(int w;(v=2;(w=5;(call sum([v * 10, w]);(print(v);(fork(call product([v, w]));;fork(call sum([v, w]));))))))
+SymTable: 
+v --> 0
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 1
+ExeStack: 
+(int w;(v=2;(w=5;(call sum([v * 10, w]);(print(v);(fork(call product([v, w]));;fork(call sum([v, w]));))))))
+SymTable: 
+v --> 0
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 1
+ExeStack: 
+int w
+(v=2;(w=5;(call sum([v * 10, w]);(print(v);(fork(call product([v, w]));;fork(call sum([v, w]));)))))
+SymTable: 
+v --> 0
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 1
+ExeStack: 
+int w
+(v=2;(w=5;(call sum([v * 10, w]);(print(v);(fork(call product([v, w]));;fork(call sum([v, w]));)))))
+SymTable: 
+v --> 0
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 1
+ExeStack: 
+(v=2;(w=5;(call sum([v * 10, w]);(print(v);(fork(call product([v, w]));;fork(call sum([v, w]));)))))
+SymTable: 
+w --> 0
+v --> 0
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 1
+ExeStack: 
+(v=2;(w=5;(call sum([v * 10, w]);(print(v);(fork(call product([v, w]));;fork(call sum([v, w]));)))))
+SymTable: 
+w --> 0
+v --> 0
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 1
+ExeStack: 
+v=2
+(w=5;(call sum([v * 10, w]);(print(v);(fork(call product([v, w]));;fork(call sum([v, w]));))))
+SymTable: 
+w --> 0
+v --> 0
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 1
+ExeStack: 
+v=2
+(w=5;(call sum([v * 10, w]);(print(v);(fork(call product([v, w]));;fork(call sum([v, w]));))))
+SymTable: 
+w --> 0
+v --> 0
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 1
+ExeStack: 
+(w=5;(call sum([v * 10, w]);(print(v);(fork(call product([v, w]));;fork(call sum([v, w]));))))
+SymTable: 
+w --> 0
+v --> 2
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 1
+ExeStack: 
+(w=5;(call sum([v * 10, w]);(print(v);(fork(call product([v, w]));;fork(call sum([v, w]));))))
+SymTable: 
+w --> 0
+v --> 2
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 1
+ExeStack: 
+w=5
+(call sum([v * 10, w]);(print(v);(fork(call product([v, w]));;fork(call sum([v, w]));)))
+SymTable: 
+w --> 0
+v --> 2
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 1
+ExeStack: 
+w=5
+(call sum([v * 10, w]);(print(v);(fork(call product([v, w]));;fork(call sum([v, w]));)))
+SymTable: 
+w --> 0
+v --> 2
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 1
+ExeStack: 
+(call sum([v * 10, w]);(print(v);(fork(call product([v, w]));;fork(call sum([v, w]));)))
+SymTable: 
+w --> 5
+v --> 2
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 1
+ExeStack: 
+(call sum([v * 10, w]);(print(v);(fork(call product([v, w]));;fork(call sum([v, w]));)))
+SymTable: 
+w --> 5
+v --> 2
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 1
+ExeStack: 
+call sum([v * 10, w])
+(print(v);(fork(call product([v, w]));;fork(call sum([v, w]));))
+SymTable: 
+w --> 5
+v --> 2
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 1
+ExeStack: 
+call sum([v * 10, w])
+(print(v);(fork(call product([v, w]));;fork(call sum([v, w]));))
+SymTable: 
+w --> 5
+v --> 2
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 1
+ExeStack: 
+(int v;(v=a + b;print(v)))
+return
+(print(v);(fork(call product([v, w]));;fork(call sum([v, w]));))
+SymTable: 
+b --> 5
+a --> 20
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 1
+ExeStack: 
+(int v;(v=a + b;print(v)))
+return
+(print(v);(fork(call product([v, w]));;fork(call sum([v, w]));))
+SymTable: 
+b --> 5
+a --> 20
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 1
+ExeStack: 
+int v
+(v=a + b;print(v))
+return
+(print(v);(fork(call product([v, w]));;fork(call sum([v, w]));))
+SymTable: 
+b --> 5
+a --> 20
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 1
+ExeStack: 
+int v
+(v=a + b;print(v))
+return
+(print(v);(fork(call product([v, w]));;fork(call sum([v, w]));))
+SymTable: 
+b --> 5
+a --> 20
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 1
+ExeStack: 
+(v=a + b;print(v))
+return
+(print(v);(fork(call product([v, w]));;fork(call sum([v, w]));))
+SymTable: 
+b --> 5
+a --> 20
+v --> 0
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 1
+ExeStack: 
+(v=a + b;print(v))
+return
+(print(v);(fork(call product([v, w]));;fork(call sum([v, w]));))
+SymTable: 
+b --> 5
+a --> 20
+v --> 0
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 1
+ExeStack: 
+v=a + b
+print(v)
+return
+(print(v);(fork(call product([v, w]));;fork(call sum([v, w]));))
+SymTable: 
+b --> 5
+a --> 20
+v --> 0
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 1
+ExeStack: 
+v=a + b
+print(v)
+return
+(print(v);(fork(call product([v, w]));;fork(call sum([v, w]));))
+SymTable: 
+b --> 5
+a --> 20
+v --> 0
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 1
+ExeStack: 
+print(v)
+return
+(print(v);(fork(call product([v, w]));;fork(call sum([v, w]));))
+SymTable: 
+b --> 5
+a --> 20
+v --> 25
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 1
+ExeStack: 
+print(v)
+return
+(print(v);(fork(call product([v, w]));;fork(call sum([v, w]));))
+SymTable: 
+b --> 5
+a --> 20
+v --> 25
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 1
+ExeStack: 
+return
+(print(v);(fork(call product([v, w]));;fork(call sum([v, w]));))
+SymTable: 
+b --> 5
+a --> 20
+v --> 25
+Out: 
+25
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 1
+ExeStack: 
+return
+(print(v);(fork(call product([v, w]));;fork(call sum([v, w]));))
+SymTable: 
+b --> 5
+a --> 20
+v --> 25
+Out: 
+25
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 1
+ExeStack: 
+(print(v);(fork(call product([v, w]));;fork(call sum([v, w]));))
+SymTable: 
+w --> 5
+v --> 2
+Out: 
+25
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 1
+ExeStack: 
+(print(v);(fork(call product([v, w]));;fork(call sum([v, w]));))
+SymTable: 
+w --> 5
+v --> 2
+Out: 
+25
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 1
+ExeStack: 
+print(v)
+(fork(call product([v, w]));;fork(call sum([v, w]));)
+SymTable: 
+w --> 5
+v --> 2
+Out: 
+25
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 1
+ExeStack: 
+print(v)
+(fork(call product([v, w]));;fork(call sum([v, w]));)
+SymTable: 
+w --> 5
+v --> 2
+Out: 
+25
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 1
+ExeStack: 
+(fork(call product([v, w]));;fork(call sum([v, w]));)
+SymTable: 
+w --> 5
+v --> 2
+Out: 
+25
+2
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 1
+ExeStack: 
+(fork(call product([v, w]));;fork(call sum([v, w]));)
+SymTable: 
+w --> 5
+v --> 2
+Out: 
+25
+2
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 1
+ExeStack: 
+fork(call product([v, w]));
+fork(call sum([v, w]));
+SymTable: 
+w --> 5
+v --> 2
+Out: 
+25
+2
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 1
+ExeStack: 
+fork(call product([v, w]));
+fork(call sum([v, w]));
+SymTable: 
+w --> 5
+v --> 2
+Out: 
+25
+2
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 1
+ExeStack: 
+fork(call sum([v, w]));
+SymTable: 
+w --> 5
+v --> 2
+Out: 
+25
+2
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 2
+ExeStack: 
+call product([v, w])
+SymTable: 
+w --> 5
+v --> 2
+Out: 
+25
+2
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 1
+ExeStack: 
+fork(call sum([v, w]));
+SymTable: 
+w --> 5
+v --> 2
+Out: 
+25
+2
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 2
+ExeStack: 
+call product([v, w])
+SymTable: 
+w --> 5
+v --> 2
+Out: 
+25
+2
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 1
+ExeStack: 
+--Empty--
+SymTable: 
+w --> 5
+v --> 2
+Out: 
+25
+2
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 2
+ExeStack: 
+((int v;v=a * b);print(v))
+return
+SymTable: 
+b --> 5
+a --> 2
+Out: 
+25
+2
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 3
+ExeStack: 
+call sum([v, w])
+SymTable: 
+w --> 5
+v --> 2
+Out: 
+25
+2
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 1
+ExeStack: 
+--Empty--
+SymTable: 
+w --> 5
+v --> 2
+Out: 
+25
+2
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 2
+ExeStack: 
+((int v;v=a * b);print(v))
+return
+SymTable: 
+b --> 5
+a --> 2
+Out: 
+25
+2
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 3
+ExeStack: 
+call sum([v, w])
+SymTable: 
+w --> 5
+v --> 2
+Out: 
+25
+2
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 2
+ExeStack: 
+(int v;v=a * b)
+print(v)
+return
+SymTable: 
+b --> 5
+a --> 2
+Out: 
+25
+2
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 3
+ExeStack: 
+(int v;(v=a + b;print(v)))
+return
+SymTable: 
+b --> 5
+a --> 2
+Out: 
+25
+2
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 2
+ExeStack: 
+(int v;v=a * b)
+print(v)
+return
+SymTable: 
+b --> 5
+a --> 2
+Out: 
+25
+2
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 3
+ExeStack: 
+(int v;(v=a + b;print(v)))
+return
+SymTable: 
+b --> 5
+a --> 2
+Out: 
+25
+2
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 2
+ExeStack: 
+int v
+v=a * b
+print(v)
+return
+SymTable: 
+b --> 5
+a --> 2
+Out: 
+25
+2
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 3
+ExeStack: 
+int v
+(v=a + b;print(v))
+return
+SymTable: 
+b --> 5
+a --> 2
+Out: 
+25
+2
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 2
+ExeStack: 
+int v
+v=a * b
+print(v)
+return
+SymTable: 
+b --> 5
+a --> 2
+Out: 
+25
+2
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 3
+ExeStack: 
+int v
+(v=a + b;print(v))
+return
+SymTable: 
+b --> 5
+a --> 2
+Out: 
+25
+2
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 2
+ExeStack: 
+v=a * b
+print(v)
+return
+SymTable: 
+b --> 5
+a --> 2
+v --> 0
+Out: 
+25
+2
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 3
+ExeStack: 
+(v=a + b;print(v))
+return
+SymTable: 
+b --> 5
+a --> 2
+v --> 0
+Out: 
+25
+2
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 2
+ExeStack: 
+v=a * b
+print(v)
+return
+SymTable: 
+b --> 5
+a --> 2
+v --> 0
+Out: 
+25
+2
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 3
+ExeStack: 
+(v=a + b;print(v))
+return
+SymTable: 
+b --> 5
+a --> 2
+v --> 0
+Out: 
+25
+2
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 2
+ExeStack: 
+print(v)
+return
+SymTable: 
+b --> 5
+a --> 2
+v --> 10
+Out: 
+25
+2
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 3
+ExeStack: 
+v=a + b
+print(v)
+return
+SymTable: 
+b --> 5
+a --> 2
+v --> 0
+Out: 
+25
+2
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 2
+ExeStack: 
+print(v)
+return
+SymTable: 
+b --> 5
+a --> 2
+v --> 10
+Out: 
+25
+2
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 3
+ExeStack: 
+v=a + b
+print(v)
+return
+SymTable: 
+b --> 5
+a --> 2
+v --> 0
+Out: 
+25
+2
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 2
+ExeStack: 
+return
+SymTable: 
+b --> 5
+a --> 2
+v --> 10
+Out: 
+25
+2
+10
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 3
+ExeStack: 
+print(v)
+return
+SymTable: 
+b --> 5
+a --> 2
+v --> 7
+Out: 
+25
+2
+10
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 2
+ExeStack: 
+return
+SymTable: 
+b --> 5
+a --> 2
+v --> 10
+Out: 
+25
+2
+10
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 3
+ExeStack: 
+print(v)
+return
+SymTable: 
+b --> 5
+a --> 2
+v --> 7
+Out: 
+25
+2
+10
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 2
+ExeStack: 
+--Empty--
+SymTable: 
+w --> 5
+v --> 2
+Out: 
+25
+2
+10
+7
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 3
+ExeStack: 
+return
+SymTable: 
+b --> 5
+a --> 2
+v --> 7
+Out: 
+25
+2
+10
+7
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 2
+ExeStack: 
+--Empty--
+SymTable: 
+w --> 5
+v --> 2
+Out: 
+25
+2
+10
+7
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 3
+ExeStack: 
+return
+SymTable: 
+b --> 5
+a --> 2
+v --> 7
+Out: 
+25
+2
+10
+7
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 3
+ExeStack: 
+--Empty--
+SymTable: 
+w --> 5
+v --> 2
+Out: 
+25
+2
+10
+7
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 3
+ExeStack: 
+--Empty--
+SymTable: 
+w --> 5
+v --> 2
+Out: 
+25
+2
+10
+7
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+

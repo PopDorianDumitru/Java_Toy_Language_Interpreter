@@ -1,0 +1,1197 @@
+Program of id: 10
+ExeStack: 
+(Ref int v;(new( v, 20 );(new( v, 10 );(print(rH(v));(new( v, 5 );(Ref int a;(Ref int b;(new( a, 0 );(new( b, 1 );new( v, 3 ))))))))))
+SymTable: 
+--Empty--
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 10
+ExeStack: 
+Ref int v
+(new( v, 20 );(new( v, 10 );(print(rH(v));(new( v, 5 );(Ref int a;(Ref int b;(new( a, 0 );(new( b, 1 );new( v, 3 )))))))))
+SymTable: 
+--Empty--
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 10
+ExeStack: 
+Ref int v
+(new( v, 20 );(new( v, 10 );(print(rH(v));(new( v, 5 );(Ref int a;(Ref int b;(new( a, 0 );(new( b, 1 );new( v, 3 )))))))))
+SymTable: 
+--Empty--
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 10
+ExeStack: 
+(new( v, 20 );(new( v, 10 );(print(rH(v));(new( v, 5 );(Ref int a;(Ref int b;(new( a, 0 );(new( b, 1 );new( v, 3 )))))))))
+SymTable: 
+v --> (-1, int)
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 10
+ExeStack: 
+(new( v, 20 );(new( v, 10 );(print(rH(v));(new( v, 5 );(Ref int a;(Ref int b;(new( a, 0 );(new( b, 1 );new( v, 3 )))))))))
+SymTable: 
+v --> (-1, int)
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 10
+ExeStack: 
+new( v, 20 )
+(new( v, 10 );(print(rH(v));(new( v, 5 );(Ref int a;(Ref int b;(new( a, 0 );(new( b, 1 );new( v, 3 ))))))))
+SymTable: 
+v --> (-1, int)
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 10
+ExeStack: 
+new( v, 20 )
+(new( v, 10 );(print(rH(v));(new( v, 5 );(Ref int a;(Ref int b;(new( a, 0 );(new( b, 1 );new( v, 3 ))))))))
+SymTable: 
+v --> (-1, int)
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 10
+ExeStack: 
+(new( v, 10 );(print(rH(v));(new( v, 5 );(Ref int a;(Ref int b;(new( a, 0 );(new( b, 1 );new( v, 3 ))))))))
+SymTable: 
+v --> (1, int)
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 20
+
+Program of id: 10
+ExeStack: 
+(new( v, 10 );(print(rH(v));(new( v, 5 );(Ref int a;(Ref int b;(new( a, 0 );(new( b, 1 );new( v, 3 ))))))))
+SymTable: 
+v --> (1, int)
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 20
+
+Program of id: 10
+ExeStack: 
+new( v, 10 )
+(print(rH(v));(new( v, 5 );(Ref int a;(Ref int b;(new( a, 0 );(new( b, 1 );new( v, 3 )))))))
+SymTable: 
+v --> (1, int)
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 20
+
+Program of id: 10
+ExeStack: 
+new( v, 10 )
+(print(rH(v));(new( v, 5 );(Ref int a;(Ref int b;(new( a, 0 );(new( b, 1 );new( v, 3 )))))))
+SymTable: 
+v --> (1, int)
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 20
+
+Program of id: 10
+ExeStack: 
+(print(rH(v));(new( v, 5 );(Ref int a;(Ref int b;(new( a, 0 );(new( b, 1 );new( v, 3 )))))))
+SymTable: 
+v --> (2, int)
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 20
+2 --> 10
+
+Program of id: 10
+ExeStack: 
+(print(rH(v));(new( v, 5 );(Ref int a;(Ref int b;(new( a, 0 );(new( b, 1 );new( v, 3 )))))))
+SymTable: 
+v --> (2, int)
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+2 --> 10
+
+Program of id: 10
+ExeStack: 
+print(rH(v))
+(new( v, 5 );(Ref int a;(Ref int b;(new( a, 0 );(new( b, 1 );new( v, 3 ))))))
+SymTable: 
+v --> (2, int)
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+2 --> 10
+
+Program of id: 10
+ExeStack: 
+print(rH(v))
+(new( v, 5 );(Ref int a;(Ref int b;(new( a, 0 );(new( b, 1 );new( v, 3 ))))))
+SymTable: 
+v --> (2, int)
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+2 --> 10
+
+Program of id: 10
+ExeStack: 
+(new( v, 5 );(Ref int a;(Ref int b;(new( a, 0 );(new( b, 1 );new( v, 3 ))))))
+SymTable: 
+v --> (2, int)
+Out: 
+10
+FileTable: 
+--Empty--
+Heap: 
+2 --> 10
+
+Program of id: 10
+ExeStack: 
+(new( v, 5 );(Ref int a;(Ref int b;(new( a, 0 );(new( b, 1 );new( v, 3 ))))))
+SymTable: 
+v --> (2, int)
+Out: 
+10
+FileTable: 
+--Empty--
+Heap: 
+2 --> 10
+
+Program of id: 10
+ExeStack: 
+new( v, 5 )
+(Ref int a;(Ref int b;(new( a, 0 );(new( b, 1 );new( v, 3 )))))
+SymTable: 
+v --> (2, int)
+Out: 
+10
+FileTable: 
+--Empty--
+Heap: 
+2 --> 10
+
+Program of id: 10
+ExeStack: 
+new( v, 5 )
+(Ref int a;(Ref int b;(new( a, 0 );(new( b, 1 );new( v, 3 )))))
+SymTable: 
+v --> (2, int)
+Out: 
+10
+FileTable: 
+--Empty--
+Heap: 
+2 --> 10
+
+Program of id: 10
+ExeStack: 
+(Ref int a;(Ref int b;(new( a, 0 );(new( b, 1 );new( v, 3 )))))
+SymTable: 
+v --> (3, int)
+Out: 
+10
+FileTable: 
+--Empty--
+Heap: 
+2 --> 10
+3 --> 5
+
+Program of id: 10
+ExeStack: 
+(Ref int a;(Ref int b;(new( a, 0 );(new( b, 1 );new( v, 3 )))))
+SymTable: 
+v --> (3, int)
+Out: 
+10
+FileTable: 
+--Empty--
+Heap: 
+3 --> 5
+
+Program of id: 10
+ExeStack: 
+Ref int a
+(Ref int b;(new( a, 0 );(new( b, 1 );new( v, 3 ))))
+SymTable: 
+v --> (3, int)
+Out: 
+10
+FileTable: 
+--Empty--
+Heap: 
+3 --> 5
+
+Program of id: 10
+ExeStack: 
+Ref int a
+(Ref int b;(new( a, 0 );(new( b, 1 );new( v, 3 ))))
+SymTable: 
+v --> (3, int)
+Out: 
+10
+FileTable: 
+--Empty--
+Heap: 
+3 --> 5
+
+Program of id: 10
+ExeStack: 
+(Ref int b;(new( a, 0 );(new( b, 1 );new( v, 3 ))))
+SymTable: 
+a --> (-1, int)
+v --> (3, int)
+Out: 
+10
+FileTable: 
+--Empty--
+Heap: 
+3 --> 5
+
+Program of id: 10
+ExeStack: 
+(Ref int b;(new( a, 0 );(new( b, 1 );new( v, 3 ))))
+SymTable: 
+a --> (-1, int)
+v --> (3, int)
+Out: 
+10
+FileTable: 
+--Empty--
+Heap: 
+3 --> 5
+
+Program of id: 10
+ExeStack: 
+Ref int b
+(new( a, 0 );(new( b, 1 );new( v, 3 )))
+SymTable: 
+a --> (-1, int)
+v --> (3, int)
+Out: 
+10
+FileTable: 
+--Empty--
+Heap: 
+3 --> 5
+
+Program of id: 10
+ExeStack: 
+Ref int b
+(new( a, 0 );(new( b, 1 );new( v, 3 )))
+SymTable: 
+a --> (-1, int)
+v --> (3, int)
+Out: 
+10
+FileTable: 
+--Empty--
+Heap: 
+3 --> 5
+
+Program of id: 10
+ExeStack: 
+(new( a, 0 );(new( b, 1 );new( v, 3 )))
+SymTable: 
+b --> (-1, int)
+a --> (-1, int)
+v --> (3, int)
+Out: 
+10
+FileTable: 
+--Empty--
+Heap: 
+3 --> 5
+
+Program of id: 10
+ExeStack: 
+(new( a, 0 );(new( b, 1 );new( v, 3 )))
+SymTable: 
+b --> (-1, int)
+a --> (-1, int)
+v --> (3, int)
+Out: 
+10
+FileTable: 
+--Empty--
+Heap: 
+3 --> 5
+
+Program of id: 10
+ExeStack: 
+new( a, 0 )
+(new( b, 1 );new( v, 3 ))
+SymTable: 
+b --> (-1, int)
+a --> (-1, int)
+v --> (3, int)
+Out: 
+10
+FileTable: 
+--Empty--
+Heap: 
+3 --> 5
+
+Program of id: 10
+ExeStack: 
+new( a, 0 )
+(new( b, 1 );new( v, 3 ))
+SymTable: 
+b --> (-1, int)
+a --> (-1, int)
+v --> (3, int)
+Out: 
+10
+FileTable: 
+--Empty--
+Heap: 
+3 --> 5
+
+Program of id: 10
+ExeStack: 
+(new( b, 1 );new( v, 3 ))
+SymTable: 
+b --> (-1, int)
+a --> (4, int)
+v --> (3, int)
+Out: 
+10
+FileTable: 
+--Empty--
+Heap: 
+3 --> 5
+4 --> 0
+
+Program of id: 10
+ExeStack: 
+(new( b, 1 );new( v, 3 ))
+SymTable: 
+b --> (-1, int)
+a --> (4, int)
+v --> (3, int)
+Out: 
+10
+FileTable: 
+--Empty--
+Heap: 
+3 --> 5
+4 --> 0
+
+Program of id: 10
+ExeStack: 
+new( b, 1 )
+new( v, 3 )
+SymTable: 
+b --> (-1, int)
+a --> (4, int)
+v --> (3, int)
+Out: 
+10
+FileTable: 
+--Empty--
+Heap: 
+3 --> 5
+4 --> 0
+
+Program of id: 10
+ExeStack: 
+new( b, 1 )
+new( v, 3 )
+SymTable: 
+b --> (-1, int)
+a --> (4, int)
+v --> (3, int)
+Out: 
+10
+FileTable: 
+--Empty--
+Heap: 
+3 --> 5
+4 --> 0
+
+Program of id: 10
+ExeStack: 
+new( v, 3 )
+SymTable: 
+b --> (5, int)
+a --> (4, int)
+v --> (3, int)
+Out: 
+10
+FileTable: 
+--Empty--
+Heap: 
+3 --> 5
+4 --> 0
+5 --> 1
+
+Program of id: 10
+ExeStack: 
+new( v, 3 )
+SymTable: 
+b --> (5, int)
+a --> (4, int)
+v --> (3, int)
+Out: 
+10
+FileTable: 
+--Empty--
+Heap: 
+3 --> 5
+4 --> 0
+5 --> 1
+
+Program of id: 10
+ExeStack: 
+--Empty--
+SymTable: 
+b --> (5, int)
+a --> (4, int)
+v --> (6, int)
+Out: 
+10
+FileTable: 
+--Empty--
+Heap: 
+3 --> 5
+4 --> 0
+5 --> 1
+6 --> 3
+
+Program of id: 1
+ExeStack: 
+(int v;(v=4;(While( v > 0 ){ (print(v);v=v - 1) };print(v))))
+SymTable: 
+--Empty--
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 1
+ExeStack: 
+int v
+(v=4;(While( v > 0 ){ (print(v);v=v - 1) };print(v)))
+SymTable: 
+--Empty--
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 1
+ExeStack: 
+int v
+(v=4;(While( v > 0 ){ (print(v);v=v - 1) };print(v)))
+SymTable: 
+--Empty--
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 1
+ExeStack: 
+(v=4;(While( v > 0 ){ (print(v);v=v - 1) };print(v)))
+SymTable: 
+v --> 0
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 1
+ExeStack: 
+(v=4;(While( v > 0 ){ (print(v);v=v - 1) };print(v)))
+SymTable: 
+v --> 0
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 1
+ExeStack: 
+v=4
+(While( v > 0 ){ (print(v);v=v - 1) };print(v))
+SymTable: 
+v --> 0
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 1
+ExeStack: 
+v=4
+(While( v > 0 ){ (print(v);v=v - 1) };print(v))
+SymTable: 
+v --> 0
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 1
+ExeStack: 
+(While( v > 0 ){ (print(v);v=v - 1) };print(v))
+SymTable: 
+v --> 4
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 1
+ExeStack: 
+(While( v > 0 ){ (print(v);v=v - 1) };print(v))
+SymTable: 
+v --> 4
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 1
+ExeStack: 
+While( v > 0 ){ (print(v);v=v - 1) }
+print(v)
+SymTable: 
+v --> 4
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 1
+ExeStack: 
+While( v > 0 ){ (print(v);v=v - 1) }
+print(v)
+SymTable: 
+v --> 4
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 1
+ExeStack: 
+(print(v);v=v - 1)
+While( v > 0 ){ (print(v);v=v - 1) }
+print(v)
+SymTable: 
+v --> 4
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 1
+ExeStack: 
+(print(v);v=v - 1)
+While( v > 0 ){ (print(v);v=v - 1) }
+print(v)
+SymTable: 
+v --> 4
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 1
+ExeStack: 
+print(v)
+v=v - 1
+While( v > 0 ){ (print(v);v=v - 1) }
+print(v)
+SymTable: 
+v --> 4
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 1
+ExeStack: 
+print(v)
+v=v - 1
+While( v > 0 ){ (print(v);v=v - 1) }
+print(v)
+SymTable: 
+v --> 4
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 1
+ExeStack: 
+v=v - 1
+While( v > 0 ){ (print(v);v=v - 1) }
+print(v)
+SymTable: 
+v --> 4
+Out: 
+4
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 1
+ExeStack: 
+v=v - 1
+While( v > 0 ){ (print(v);v=v - 1) }
+print(v)
+SymTable: 
+v --> 4
+Out: 
+4
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 1
+ExeStack: 
+While( v > 0 ){ (print(v);v=v - 1) }
+print(v)
+SymTable: 
+v --> 3
+Out: 
+4
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 1
+ExeStack: 
+While( v > 0 ){ (print(v);v=v - 1) }
+print(v)
+SymTable: 
+v --> 3
+Out: 
+4
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 1
+ExeStack: 
+(print(v);v=v - 1)
+While( v > 0 ){ (print(v);v=v - 1) }
+print(v)
+SymTable: 
+v --> 3
+Out: 
+4
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 1
+ExeStack: 
+(print(v);v=v - 1)
+While( v > 0 ){ (print(v);v=v - 1) }
+print(v)
+SymTable: 
+v --> 3
+Out: 
+4
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 1
+ExeStack: 
+print(v)
+v=v - 1
+While( v > 0 ){ (print(v);v=v - 1) }
+print(v)
+SymTable: 
+v --> 3
+Out: 
+4
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 1
+ExeStack: 
+print(v)
+v=v - 1
+While( v > 0 ){ (print(v);v=v - 1) }
+print(v)
+SymTable: 
+v --> 3
+Out: 
+4
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 1
+ExeStack: 
+v=v - 1
+While( v > 0 ){ (print(v);v=v - 1) }
+print(v)
+SymTable: 
+v --> 3
+Out: 
+4
+3
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 1
+ExeStack: 
+v=v - 1
+While( v > 0 ){ (print(v);v=v - 1) }
+print(v)
+SymTable: 
+v --> 3
+Out: 
+4
+3
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 1
+ExeStack: 
+While( v > 0 ){ (print(v);v=v - 1) }
+print(v)
+SymTable: 
+v --> 2
+Out: 
+4
+3
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 1
+ExeStack: 
+While( v > 0 ){ (print(v);v=v - 1) }
+print(v)
+SymTable: 
+v --> 2
+Out: 
+4
+3
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 1
+ExeStack: 
+(print(v);v=v - 1)
+While( v > 0 ){ (print(v);v=v - 1) }
+print(v)
+SymTable: 
+v --> 2
+Out: 
+4
+3
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 1
+ExeStack: 
+(print(v);v=v - 1)
+While( v > 0 ){ (print(v);v=v - 1) }
+print(v)
+SymTable: 
+v --> 2
+Out: 
+4
+3
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 1
+ExeStack: 
+print(v)
+v=v - 1
+While( v > 0 ){ (print(v);v=v - 1) }
+print(v)
+SymTable: 
+v --> 2
+Out: 
+4
+3
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 1
+ExeStack: 
+print(v)
+v=v - 1
+While( v > 0 ){ (print(v);v=v - 1) }
+print(v)
+SymTable: 
+v --> 2
+Out: 
+4
+3
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 1
+ExeStack: 
+v=v - 1
+While( v > 0 ){ (print(v);v=v - 1) }
+print(v)
+SymTable: 
+v --> 2
+Out: 
+4
+3
+2
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 1
+ExeStack: 
+v=v - 1
+While( v > 0 ){ (print(v);v=v - 1) }
+print(v)
+SymTable: 
+v --> 2
+Out: 
+4
+3
+2
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 1
+ExeStack: 
+While( v > 0 ){ (print(v);v=v - 1) }
+print(v)
+SymTable: 
+v --> 1
+Out: 
+4
+3
+2
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 1
+ExeStack: 
+While( v > 0 ){ (print(v);v=v - 1) }
+print(v)
+SymTable: 
+v --> 1
+Out: 
+4
+3
+2
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 1
+ExeStack: 
+(print(v);v=v - 1)
+While( v > 0 ){ (print(v);v=v - 1) }
+print(v)
+SymTable: 
+v --> 1
+Out: 
+4
+3
+2
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 1
+ExeStack: 
+(print(v);v=v - 1)
+While( v > 0 ){ (print(v);v=v - 1) }
+print(v)
+SymTable: 
+v --> 1
+Out: 
+4
+3
+2
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 1
+ExeStack: 
+print(v)
+v=v - 1
+While( v > 0 ){ (print(v);v=v - 1) }
+print(v)
+SymTable: 
+v --> 1
+Out: 
+4
+3
+2
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 1
+ExeStack: 
+print(v)
+v=v - 1
+While( v > 0 ){ (print(v);v=v - 1) }
+print(v)
+SymTable: 
+v --> 1
+Out: 
+4
+3
+2
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 1
+ExeStack: 
+v=v - 1
+While( v > 0 ){ (print(v);v=v - 1) }
+print(v)
+SymTable: 
+v --> 1
+Out: 
+4
+3
+2
+1
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 1
+ExeStack: 
+v=v - 1
+While( v > 0 ){ (print(v);v=v - 1) }
+print(v)
+SymTable: 
+v --> 1
+Out: 
+4
+3
+2
+1
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 1
+ExeStack: 
+While( v > 0 ){ (print(v);v=v - 1) }
+print(v)
+SymTable: 
+v --> 0
+Out: 
+4
+3
+2
+1
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 1
+ExeStack: 
+While( v > 0 ){ (print(v);v=v - 1) }
+print(v)
+SymTable: 
+v --> 0
+Out: 
+4
+3
+2
+1
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 1
+ExeStack: 
+print(v)
+SymTable: 
+v --> 0
+Out: 
+4
+3
+2
+1
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 1
+ExeStack: 
+print(v)
+SymTable: 
+v --> 0
+Out: 
+4
+3
+2
+1
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 1
+ExeStack: 
+--Empty--
+SymTable: 
+v --> 0
+Out: 
+4
+3
+2
+1
+0
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 1
+ExeStack: 
+--Empty--
+SymTable: 
+v --> 0
+Out: 
+4
+3
+2
+1
+0
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+

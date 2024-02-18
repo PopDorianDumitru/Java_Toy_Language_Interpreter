@@ -1,0 +1,12580 @@
+Program of id: 78
+ExeStack: 
+(int v;(v=10;(Ref int a;(new( a, 22 );(fork((wH(a, 30);(v=32;(print(v);print(rH(a))))));;(NOP;(NOP;(NOP;(NOP;(print(v);print(rH(a))))))))))))
+SymTable: 
+--Empty--
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 78
+ExeStack: 
+int v
+(v=10;(Ref int a;(new( a, 22 );(fork((wH(a, 30);(v=32;(print(v);print(rH(a))))));;(NOP;(NOP;(NOP;(NOP;(print(v);print(rH(a)))))))))))
+SymTable: 
+--Empty--
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 78
+ExeStack: 
+int v
+(v=10;(Ref int a;(new( a, 22 );(fork((wH(a, 30);(v=32;(print(v);print(rH(a))))));;(NOP;(NOP;(NOP;(NOP;(print(v);print(rH(a)))))))))))
+SymTable: 
+--Empty--
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 78
+ExeStack: 
+(v=10;(Ref int a;(new( a, 22 );(fork((wH(a, 30);(v=32;(print(v);print(rH(a))))));;(NOP;(NOP;(NOP;(NOP;(print(v);print(rH(a)))))))))))
+SymTable: 
+v --> 0
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 78
+ExeStack: 
+(v=10;(Ref int a;(new( a, 22 );(fork((wH(a, 30);(v=32;(print(v);print(rH(a))))));;(NOP;(NOP;(NOP;(NOP;(print(v);print(rH(a)))))))))))
+SymTable: 
+v --> 0
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 78
+ExeStack: 
+v=10
+(Ref int a;(new( a, 22 );(fork((wH(a, 30);(v=32;(print(v);print(rH(a))))));;(NOP;(NOP;(NOP;(NOP;(print(v);print(rH(a))))))))))
+SymTable: 
+v --> 0
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 78
+ExeStack: 
+v=10
+(Ref int a;(new( a, 22 );(fork((wH(a, 30);(v=32;(print(v);print(rH(a))))));;(NOP;(NOP;(NOP;(NOP;(print(v);print(rH(a))))))))))
+SymTable: 
+v --> 0
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 78
+ExeStack: 
+(Ref int a;(new( a, 22 );(fork((wH(a, 30);(v=32;(print(v);print(rH(a))))));;(NOP;(NOP;(NOP;(NOP;(print(v);print(rH(a))))))))))
+SymTable: 
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 78
+ExeStack: 
+(Ref int a;(new( a, 22 );(fork((wH(a, 30);(v=32;(print(v);print(rH(a))))));;(NOP;(NOP;(NOP;(NOP;(print(v);print(rH(a))))))))))
+SymTable: 
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 78
+ExeStack: 
+Ref int a
+(new( a, 22 );(fork((wH(a, 30);(v=32;(print(v);print(rH(a))))));;(NOP;(NOP;(NOP;(NOP;(print(v);print(rH(a)))))))))
+SymTable: 
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 78
+ExeStack: 
+Ref int a
+(new( a, 22 );(fork((wH(a, 30);(v=32;(print(v);print(rH(a))))));;(NOP;(NOP;(NOP;(NOP;(print(v);print(rH(a)))))))))
+SymTable: 
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 78
+ExeStack: 
+(new( a, 22 );(fork((wH(a, 30);(v=32;(print(v);print(rH(a))))));;(NOP;(NOP;(NOP;(NOP;(print(v);print(rH(a)))))))))
+SymTable: 
+a --> (-1, int)
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 78
+ExeStack: 
+(new( a, 22 );(fork((wH(a, 30);(v=32;(print(v);print(rH(a))))));;(NOP;(NOP;(NOP;(NOP;(print(v);print(rH(a)))))))))
+SymTable: 
+a --> (-1, int)
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 78
+ExeStack: 
+new( a, 22 )
+(fork((wH(a, 30);(v=32;(print(v);print(rH(a))))));;(NOP;(NOP;(NOP;(NOP;(print(v);print(rH(a))))))))
+SymTable: 
+a --> (-1, int)
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 78
+ExeStack: 
+new( a, 22 )
+(fork((wH(a, 30);(v=32;(print(v);print(rH(a))))));;(NOP;(NOP;(NOP;(NOP;(print(v);print(rH(a))))))))
+SymTable: 
+a --> (-1, int)
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 78
+ExeStack: 
+(fork((wH(a, 30);(v=32;(print(v);print(rH(a))))));;(NOP;(NOP;(NOP;(NOP;(print(v);print(rH(a))))))))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 22
+
+Program of id: 78
+ExeStack: 
+(fork((wH(a, 30);(v=32;(print(v);print(rH(a))))));;(NOP;(NOP;(NOP;(NOP;(print(v);print(rH(a))))))))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 22
+
+Program of id: 78
+ExeStack: 
+fork((wH(a, 30);(v=32;(print(v);print(rH(a))))));
+(NOP;(NOP;(NOP;(NOP;(print(v);print(rH(a)))))))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 22
+
+Program of id: 78
+ExeStack: 
+fork((wH(a, 30);(v=32;(print(v);print(rH(a))))));
+(NOP;(NOP;(NOP;(NOP;(print(v);print(rH(a)))))))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 22
+
+Program of id: 78
+ExeStack: 
+(NOP;(NOP;(NOP;(NOP;(print(v);print(rH(a)))))))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 22
+
+Program of id: 79
+ExeStack: 
+(wH(a, 30);(v=32;(print(v);print(rH(a)))))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 22
+
+Program of id: 78
+ExeStack: 
+(NOP;(NOP;(NOP;(NOP;(print(v);print(rH(a)))))))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 22
+
+Program of id: 79
+ExeStack: 
+(wH(a, 30);(v=32;(print(v);print(rH(a)))))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 22
+
+Program of id: 78
+ExeStack: 
+NOP
+(NOP;(NOP;(NOP;(print(v);print(rH(a))))))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 22
+
+Program of id: 79
+ExeStack: 
+wH(a, 30)
+(v=32;(print(v);print(rH(a))))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 22
+
+Program of id: 78
+ExeStack: 
+NOP
+(NOP;(NOP;(NOP;(print(v);print(rH(a))))))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 22
+
+Program of id: 79
+ExeStack: 
+wH(a, 30)
+(v=32;(print(v);print(rH(a))))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 22
+
+Program of id: 78
+ExeStack: 
+(NOP;(NOP;(NOP;(print(v);print(rH(a))))))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 30
+
+Program of id: 79
+ExeStack: 
+(v=32;(print(v);print(rH(a))))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 30
+
+Program of id: 78
+ExeStack: 
+(NOP;(NOP;(NOP;(print(v);print(rH(a))))))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 30
+
+Program of id: 79
+ExeStack: 
+(v=32;(print(v);print(rH(a))))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 30
+
+Program of id: 78
+ExeStack: 
+NOP
+(NOP;(NOP;(print(v);print(rH(a)))))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 30
+
+Program of id: 79
+ExeStack: 
+v=32
+(print(v);print(rH(a)))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 30
+
+Program of id: 78
+ExeStack: 
+NOP
+(NOP;(NOP;(print(v);print(rH(a)))))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 30
+
+Program of id: 79
+ExeStack: 
+v=32
+(print(v);print(rH(a)))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 30
+
+Program of id: 78
+ExeStack: 
+(NOP;(NOP;(print(v);print(rH(a)))))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 30
+
+Program of id: 79
+ExeStack: 
+(print(v);print(rH(a)))
+SymTable: 
+a --> (1, int)
+v --> 32
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 30
+
+Program of id: 78
+ExeStack: 
+(NOP;(NOP;(print(v);print(rH(a)))))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 30
+
+Program of id: 79
+ExeStack: 
+(print(v);print(rH(a)))
+SymTable: 
+a --> (1, int)
+v --> 32
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 30
+
+Program of id: 78
+ExeStack: 
+NOP
+(NOP;(print(v);print(rH(a))))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 30
+
+Program of id: 79
+ExeStack: 
+print(v)
+print(rH(a))
+SymTable: 
+a --> (1, int)
+v --> 32
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 30
+
+Program of id: 78
+ExeStack: 
+NOP
+(NOP;(print(v);print(rH(a))))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 30
+
+Program of id: 79
+ExeStack: 
+print(v)
+print(rH(a))
+SymTable: 
+a --> (1, int)
+v --> 32
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 30
+
+Program of id: 78
+ExeStack: 
+(NOP;(print(v);print(rH(a))))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+32
+FileTable: 
+--Empty--
+Heap: 
+1 --> 30
+
+Program of id: 79
+ExeStack: 
+print(rH(a))
+SymTable: 
+a --> (1, int)
+v --> 32
+Out: 
+32
+FileTable: 
+--Empty--
+Heap: 
+1 --> 30
+
+Program of id: 78
+ExeStack: 
+(NOP;(print(v);print(rH(a))))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+32
+FileTable: 
+--Empty--
+Heap: 
+1 --> 30
+
+Program of id: 79
+ExeStack: 
+print(rH(a))
+SymTable: 
+a --> (1, int)
+v --> 32
+Out: 
+32
+FileTable: 
+--Empty--
+Heap: 
+1 --> 30
+
+Program of id: 78
+ExeStack: 
+NOP
+(print(v);print(rH(a)))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+32
+30
+FileTable: 
+--Empty--
+Heap: 
+1 --> 30
+
+Program of id: 79
+ExeStack: 
+--Empty--
+SymTable: 
+a --> (1, int)
+v --> 32
+Out: 
+32
+30
+FileTable: 
+--Empty--
+Heap: 
+1 --> 30
+
+Program of id: 78
+ExeStack: 
+NOP
+(print(v);print(rH(a)))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+32
+30
+FileTable: 
+--Empty--
+Heap: 
+1 --> 30
+
+Program of id: 79
+ExeStack: 
+--Empty--
+SymTable: 
+a --> (1, int)
+v --> 32
+Out: 
+32
+30
+FileTable: 
+--Empty--
+Heap: 
+1 --> 30
+
+Program of id: 78
+ExeStack: 
+(print(v);print(rH(a)))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+32
+30
+FileTable: 
+--Empty--
+Heap: 
+1 --> 30
+
+Program of id: 78
+ExeStack: 
+(print(v);print(rH(a)))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+32
+30
+FileTable: 
+--Empty--
+Heap: 
+1 --> 30
+
+Program of id: 78
+ExeStack: 
+print(v)
+print(rH(a))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+32
+30
+FileTable: 
+--Empty--
+Heap: 
+1 --> 30
+
+Program of id: 78
+ExeStack: 
+print(v)
+print(rH(a))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+32
+30
+FileTable: 
+--Empty--
+Heap: 
+1 --> 30
+
+Program of id: 78
+ExeStack: 
+print(rH(a))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+32
+30
+10
+FileTable: 
+--Empty--
+Heap: 
+1 --> 30
+
+Program of id: 78
+ExeStack: 
+print(rH(a))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+32
+30
+10
+FileTable: 
+--Empty--
+Heap: 
+1 --> 30
+
+Program of id: 78
+ExeStack: 
+--Empty--
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+32
+30
+10
+30
+FileTable: 
+--Empty--
+Heap: 
+1 --> 30
+
+Program of id: 78
+ExeStack: 
+--Empty--
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+32
+30
+10
+30
+FileTable: 
+--Empty--
+Heap: 
+1 --> 30
+
+Program of id: 13
+ExeStack: 
+(int v;(v=10;(Ref int a;(new( a, 22 );(fork((wH(a, 30);(v=32;(print(v);print(rH(a))))));;(NOP;(NOP;(NOP;(NOP;(print(v);print(rH(a))))))))))))
+SymTable: 
+--Empty--
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 13
+ExeStack: 
+int v
+(v=10;(Ref int a;(new( a, 22 );(fork((wH(a, 30);(v=32;(print(v);print(rH(a))))));;(NOP;(NOP;(NOP;(NOP;(print(v);print(rH(a)))))))))))
+SymTable: 
+--Empty--
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 13
+ExeStack: 
+int v
+(v=10;(Ref int a;(new( a, 22 );(fork((wH(a, 30);(v=32;(print(v);print(rH(a))))));;(NOP;(NOP;(NOP;(NOP;(print(v);print(rH(a)))))))))))
+SymTable: 
+--Empty--
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 13
+ExeStack: 
+(v=10;(Ref int a;(new( a, 22 );(fork((wH(a, 30);(v=32;(print(v);print(rH(a))))));;(NOP;(NOP;(NOP;(NOP;(print(v);print(rH(a)))))))))))
+SymTable: 
+v --> 0
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 13
+ExeStack: 
+(v=10;(Ref int a;(new( a, 22 );(fork((wH(a, 30);(v=32;(print(v);print(rH(a))))));;(NOP;(NOP;(NOP;(NOP;(print(v);print(rH(a)))))))))))
+SymTable: 
+v --> 0
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 13
+ExeStack: 
+v=10
+(Ref int a;(new( a, 22 );(fork((wH(a, 30);(v=32;(print(v);print(rH(a))))));;(NOP;(NOP;(NOP;(NOP;(print(v);print(rH(a))))))))))
+SymTable: 
+v --> 0
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 13
+ExeStack: 
+v=10
+(Ref int a;(new( a, 22 );(fork((wH(a, 30);(v=32;(print(v);print(rH(a))))));;(NOP;(NOP;(NOP;(NOP;(print(v);print(rH(a))))))))))
+SymTable: 
+v --> 0
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 13
+ExeStack: 
+(Ref int a;(new( a, 22 );(fork((wH(a, 30);(v=32;(print(v);print(rH(a))))));;(NOP;(NOP;(NOP;(NOP;(print(v);print(rH(a))))))))))
+SymTable: 
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 13
+ExeStack: 
+(Ref int a;(new( a, 22 );(fork((wH(a, 30);(v=32;(print(v);print(rH(a))))));;(NOP;(NOP;(NOP;(NOP;(print(v);print(rH(a))))))))))
+SymTable: 
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 13
+ExeStack: 
+Ref int a
+(new( a, 22 );(fork((wH(a, 30);(v=32;(print(v);print(rH(a))))));;(NOP;(NOP;(NOP;(NOP;(print(v);print(rH(a)))))))))
+SymTable: 
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 13
+ExeStack: 
+Ref int a
+(new( a, 22 );(fork((wH(a, 30);(v=32;(print(v);print(rH(a))))));;(NOP;(NOP;(NOP;(NOP;(print(v);print(rH(a)))))))))
+SymTable: 
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 13
+ExeStack: 
+(new( a, 22 );(fork((wH(a, 30);(v=32;(print(v);print(rH(a))))));;(NOP;(NOP;(NOP;(NOP;(print(v);print(rH(a)))))))))
+SymTable: 
+a --> (-1, int)
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 13
+ExeStack: 
+(new( a, 22 );(fork((wH(a, 30);(v=32;(print(v);print(rH(a))))));;(NOP;(NOP;(NOP;(NOP;(print(v);print(rH(a)))))))))
+SymTable: 
+a --> (-1, int)
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 13
+ExeStack: 
+new( a, 22 )
+(fork((wH(a, 30);(v=32;(print(v);print(rH(a))))));;(NOP;(NOP;(NOP;(NOP;(print(v);print(rH(a))))))))
+SymTable: 
+a --> (-1, int)
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 13
+ExeStack: 
+new( a, 22 )
+(fork((wH(a, 30);(v=32;(print(v);print(rH(a))))));;(NOP;(NOP;(NOP;(NOP;(print(v);print(rH(a))))))))
+SymTable: 
+a --> (-1, int)
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 13
+ExeStack: 
+(fork((wH(a, 30);(v=32;(print(v);print(rH(a))))));;(NOP;(NOP;(NOP;(NOP;(print(v);print(rH(a))))))))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 22
+
+Program of id: 13
+ExeStack: 
+(fork((wH(a, 30);(v=32;(print(v);print(rH(a))))));;(NOP;(NOP;(NOP;(NOP;(print(v);print(rH(a))))))))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 22
+
+Program of id: 13
+ExeStack: 
+fork((wH(a, 30);(v=32;(print(v);print(rH(a))))));
+(NOP;(NOP;(NOP;(NOP;(print(v);print(rH(a)))))))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 22
+
+Program of id: 13
+ExeStack: 
+fork((wH(a, 30);(v=32;(print(v);print(rH(a))))));
+(NOP;(NOP;(NOP;(NOP;(print(v);print(rH(a)))))))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 22
+
+Program of id: 13
+ExeStack: 
+(NOP;(NOP;(NOP;(NOP;(print(v);print(rH(a)))))))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 22
+
+Program of id: 14
+ExeStack: 
+(wH(a, 30);(v=32;(print(v);print(rH(a)))))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 22
+
+Program of id: 13
+ExeStack: 
+(NOP;(NOP;(NOP;(NOP;(print(v);print(rH(a)))))))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 22
+
+Program of id: 14
+ExeStack: 
+(wH(a, 30);(v=32;(print(v);print(rH(a)))))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 22
+
+Program of id: 13
+ExeStack: 
+NOP
+(NOP;(NOP;(NOP;(print(v);print(rH(a))))))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 22
+
+Program of id: 14
+ExeStack: 
+wH(a, 30)
+(v=32;(print(v);print(rH(a))))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 22
+
+Program of id: 13
+ExeStack: 
+NOP
+(NOP;(NOP;(NOP;(print(v);print(rH(a))))))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 22
+
+Program of id: 14
+ExeStack: 
+wH(a, 30)
+(v=32;(print(v);print(rH(a))))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 22
+
+Program of id: 13
+ExeStack: 
+(NOP;(NOP;(NOP;(print(v);print(rH(a))))))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 30
+
+Program of id: 14
+ExeStack: 
+(v=32;(print(v);print(rH(a))))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 30
+
+Program of id: 13
+ExeStack: 
+(int v;(v=10;(Ref int a;(new( a, 22 );(fork((wH(a, 30);(v=32;(print(v);print(rH(a))))));;(NOP;(NOP;(NOP;(NOP;(print(v);print(rH(a))))))))))))
+SymTable: 
+--Empty--
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 13
+ExeStack: 
+int v
+(v=10;(Ref int a;(new( a, 22 );(fork((wH(a, 30);(v=32;(print(v);print(rH(a))))));;(NOP;(NOP;(NOP;(NOP;(print(v);print(rH(a)))))))))))
+SymTable: 
+--Empty--
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 13
+ExeStack: 
+int v
+(v=10;(Ref int a;(new( a, 22 );(fork((wH(a, 30);(v=32;(print(v);print(rH(a))))));;(NOP;(NOP;(NOP;(NOP;(print(v);print(rH(a)))))))))))
+SymTable: 
+--Empty--
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 13
+ExeStack: 
+(v=10;(Ref int a;(new( a, 22 );(fork((wH(a, 30);(v=32;(print(v);print(rH(a))))));;(NOP;(NOP;(NOP;(NOP;(print(v);print(rH(a)))))))))))
+SymTable: 
+v --> 0
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 13
+ExeStack: 
+(v=10;(Ref int a;(new( a, 22 );(fork((wH(a, 30);(v=32;(print(v);print(rH(a))))));;(NOP;(NOP;(NOP;(NOP;(print(v);print(rH(a)))))))))))
+SymTable: 
+v --> 0
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 13
+ExeStack: 
+v=10
+(Ref int a;(new( a, 22 );(fork((wH(a, 30);(v=32;(print(v);print(rH(a))))));;(NOP;(NOP;(NOP;(NOP;(print(v);print(rH(a))))))))))
+SymTable: 
+v --> 0
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 13
+ExeStack: 
+v=10
+(Ref int a;(new( a, 22 );(fork((wH(a, 30);(v=32;(print(v);print(rH(a))))));;(NOP;(NOP;(NOP;(NOP;(print(v);print(rH(a))))))))))
+SymTable: 
+v --> 0
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 13
+ExeStack: 
+(Ref int a;(new( a, 22 );(fork((wH(a, 30);(v=32;(print(v);print(rH(a))))));;(NOP;(NOP;(NOP;(NOP;(print(v);print(rH(a))))))))))
+SymTable: 
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 13
+ExeStack: 
+(Ref int a;(new( a, 22 );(fork((wH(a, 30);(v=32;(print(v);print(rH(a))))));;(NOP;(NOP;(NOP;(NOP;(print(v);print(rH(a))))))))))
+SymTable: 
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 13
+ExeStack: 
+Ref int a
+(new( a, 22 );(fork((wH(a, 30);(v=32;(print(v);print(rH(a))))));;(NOP;(NOP;(NOP;(NOP;(print(v);print(rH(a)))))))))
+SymTable: 
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 13
+ExeStack: 
+Ref int a
+(new( a, 22 );(fork((wH(a, 30);(v=32;(print(v);print(rH(a))))));;(NOP;(NOP;(NOP;(NOP;(print(v);print(rH(a)))))))))
+SymTable: 
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 13
+ExeStack: 
+(new( a, 22 );(fork((wH(a, 30);(v=32;(print(v);print(rH(a))))));;(NOP;(NOP;(NOP;(NOP;(print(v);print(rH(a)))))))))
+SymTable: 
+a --> (-1, int)
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 13
+ExeStack: 
+(new( a, 22 );(fork((wH(a, 30);(v=32;(print(v);print(rH(a))))));;(NOP;(NOP;(NOP;(NOP;(print(v);print(rH(a)))))))))
+SymTable: 
+a --> (-1, int)
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 13
+ExeStack: 
+new( a, 22 )
+(fork((wH(a, 30);(v=32;(print(v);print(rH(a))))));;(NOP;(NOP;(NOP;(NOP;(print(v);print(rH(a))))))))
+SymTable: 
+a --> (-1, int)
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 13
+ExeStack: 
+new( a, 22 )
+(fork((wH(a, 30);(v=32;(print(v);print(rH(a))))));;(NOP;(NOP;(NOP;(NOP;(print(v);print(rH(a))))))))
+SymTable: 
+a --> (-1, int)
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 13
+ExeStack: 
+(fork((wH(a, 30);(v=32;(print(v);print(rH(a))))));;(NOP;(NOP;(NOP;(NOP;(print(v);print(rH(a))))))))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 22
+
+Program of id: 13
+ExeStack: 
+(fork((wH(a, 30);(v=32;(print(v);print(rH(a))))));;(NOP;(NOP;(NOP;(NOP;(print(v);print(rH(a))))))))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 22
+
+Program of id: 13
+ExeStack: 
+fork((wH(a, 30);(v=32;(print(v);print(rH(a))))));
+(NOP;(NOP;(NOP;(NOP;(print(v);print(rH(a)))))))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 22
+
+Program of id: 13
+ExeStack: 
+fork((wH(a, 30);(v=32;(print(v);print(rH(a))))));
+(NOP;(NOP;(NOP;(NOP;(print(v);print(rH(a)))))))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 22
+
+Program of id: 13
+ExeStack: 
+(NOP;(NOP;(NOP;(NOP;(print(v);print(rH(a)))))))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 22
+
+Program of id: 14
+ExeStack: 
+(wH(a, 30);(v=32;(print(v);print(rH(a)))))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 22
+
+Program of id: 13
+ExeStack: 
+(NOP;(NOP;(NOP;(NOP;(print(v);print(rH(a)))))))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 22
+
+Program of id: 14
+ExeStack: 
+(wH(a, 30);(v=32;(print(v);print(rH(a)))))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 22
+
+Program of id: 13
+ExeStack: 
+NOP
+(NOP;(NOP;(NOP;(print(v);print(rH(a))))))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 22
+
+Program of id: 14
+ExeStack: 
+wH(a, 30)
+(v=32;(print(v);print(rH(a))))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 22
+
+Program of id: 13
+ExeStack: 
+NOP
+(NOP;(NOP;(NOP;(print(v);print(rH(a))))))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 22
+
+Program of id: 14
+ExeStack: 
+wH(a, 30)
+(v=32;(print(v);print(rH(a))))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 22
+
+Program of id: 13
+ExeStack: 
+(NOP;(NOP;(NOP;(print(v);print(rH(a))))))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 30
+
+Program of id: 14
+ExeStack: 
+(v=32;(print(v);print(rH(a))))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 30
+
+Program of id: 13
+ExeStack: 
+(NOP;(NOP;(NOP;(print(v);print(rH(a))))))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 30
+
+Program of id: 14
+ExeStack: 
+(v=32;(print(v);print(rH(a))))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 30
+
+Program of id: 13
+ExeStack: 
+NOP
+(NOP;(NOP;(print(v);print(rH(a)))))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 30
+
+Program of id: 14
+ExeStack: 
+v=32
+(print(v);print(rH(a)))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 30
+
+Program of id: 13
+ExeStack: 
+NOP
+(NOP;(NOP;(print(v);print(rH(a)))))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 30
+
+Program of id: 14
+ExeStack: 
+v=32
+(print(v);print(rH(a)))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 30
+
+Program of id: 13
+ExeStack: 
+(NOP;(NOP;(print(v);print(rH(a)))))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 30
+
+Program of id: 14
+ExeStack: 
+(print(v);print(rH(a)))
+SymTable: 
+a --> (1, int)
+v --> 32
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 30
+
+Program of id: 13
+ExeStack: 
+(NOP;(NOP;(print(v);print(rH(a)))))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 30
+
+Program of id: 14
+ExeStack: 
+(print(v);print(rH(a)))
+SymTable: 
+a --> (1, int)
+v --> 32
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 30
+
+Program of id: 13
+ExeStack: 
+NOP
+(NOP;(print(v);print(rH(a))))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 30
+
+Program of id: 14
+ExeStack: 
+print(v)
+print(rH(a))
+SymTable: 
+a --> (1, int)
+v --> 32
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 30
+
+Program of id: 13
+ExeStack: 
+(int v;(v=10;(Ref int a;(new( a, 22 );(fork((wH(a, 30);(v=32;(print(v);print(rH(a))))));;(NOP;(NOP;(NOP;(NOP;(print(v);print(rH(a))))))))))))
+SymTable: 
+--Empty--
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 13
+ExeStack: 
+int v
+(v=10;(Ref int a;(new( a, 22 );(fork((wH(a, 30);(v=32;(print(v);print(rH(a))))));;(NOP;(NOP;(NOP;(NOP;(print(v);print(rH(a)))))))))))
+SymTable: 
+--Empty--
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 13
+ExeStack: 
+int v
+(v=10;(Ref int a;(new( a, 22 );(fork((wH(a, 30);(v=32;(print(v);print(rH(a))))));;(NOP;(NOP;(NOP;(NOP;(print(v);print(rH(a)))))))))))
+SymTable: 
+--Empty--
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 13
+ExeStack: 
+(v=10;(Ref int a;(new( a, 22 );(fork((wH(a, 30);(v=32;(print(v);print(rH(a))))));;(NOP;(NOP;(NOP;(NOP;(print(v);print(rH(a)))))))))))
+SymTable: 
+v --> 0
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 13
+ExeStack: 
+(v=10;(Ref int a;(new( a, 22 );(fork((wH(a, 30);(v=32;(print(v);print(rH(a))))));;(NOP;(NOP;(NOP;(NOP;(print(v);print(rH(a)))))))))))
+SymTable: 
+v --> 0
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 13
+ExeStack: 
+v=10
+(Ref int a;(new( a, 22 );(fork((wH(a, 30);(v=32;(print(v);print(rH(a))))));;(NOP;(NOP;(NOP;(NOP;(print(v);print(rH(a))))))))))
+SymTable: 
+v --> 0
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 13
+ExeStack: 
+v=10
+(Ref int a;(new( a, 22 );(fork((wH(a, 30);(v=32;(print(v);print(rH(a))))));;(NOP;(NOP;(NOP;(NOP;(print(v);print(rH(a))))))))))
+SymTable: 
+v --> 0
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 13
+ExeStack: 
+(Ref int a;(new( a, 22 );(fork((wH(a, 30);(v=32;(print(v);print(rH(a))))));;(NOP;(NOP;(NOP;(NOP;(print(v);print(rH(a))))))))))
+SymTable: 
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 13
+ExeStack: 
+(Ref int a;(new( a, 22 );(fork((wH(a, 30);(v=32;(print(v);print(rH(a))))));;(NOP;(NOP;(NOP;(NOP;(print(v);print(rH(a))))))))))
+SymTable: 
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 13
+ExeStack: 
+Ref int a
+(new( a, 22 );(fork((wH(a, 30);(v=32;(print(v);print(rH(a))))));;(NOP;(NOP;(NOP;(NOP;(print(v);print(rH(a)))))))))
+SymTable: 
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 13
+ExeStack: 
+Ref int a
+(new( a, 22 );(fork((wH(a, 30);(v=32;(print(v);print(rH(a))))));;(NOP;(NOP;(NOP;(NOP;(print(v);print(rH(a)))))))))
+SymTable: 
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 13
+ExeStack: 
+(new( a, 22 );(fork((wH(a, 30);(v=32;(print(v);print(rH(a))))));;(NOP;(NOP;(NOP;(NOP;(print(v);print(rH(a)))))))))
+SymTable: 
+a --> (-1, int)
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 13
+ExeStack: 
+(new( a, 22 );(fork((wH(a, 30);(v=32;(print(v);print(rH(a))))));;(NOP;(NOP;(NOP;(NOP;(print(v);print(rH(a)))))))))
+SymTable: 
+a --> (-1, int)
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 13
+ExeStack: 
+new( a, 22 )
+(fork((wH(a, 30);(v=32;(print(v);print(rH(a))))));;(NOP;(NOP;(NOP;(NOP;(print(v);print(rH(a))))))))
+SymTable: 
+a --> (-1, int)
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 13
+ExeStack: 
+new( a, 22 )
+(fork((wH(a, 30);(v=32;(print(v);print(rH(a))))));;(NOP;(NOP;(NOP;(NOP;(print(v);print(rH(a))))))))
+SymTable: 
+a --> (-1, int)
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 13
+ExeStack: 
+(fork((wH(a, 30);(v=32;(print(v);print(rH(a))))));;(NOP;(NOP;(NOP;(NOP;(print(v);print(rH(a))))))))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 22
+
+Program of id: 13
+ExeStack: 
+(fork((wH(a, 30);(v=32;(print(v);print(rH(a))))));;(NOP;(NOP;(NOP;(NOP;(print(v);print(rH(a))))))))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 22
+
+Program of id: 13
+ExeStack: 
+fork((wH(a, 30);(v=32;(print(v);print(rH(a))))));
+(NOP;(NOP;(NOP;(NOP;(print(v);print(rH(a)))))))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 22
+
+Program of id: 13
+ExeStack: 
+fork((wH(a, 30);(v=32;(print(v);print(rH(a))))));
+(NOP;(NOP;(NOP;(NOP;(print(v);print(rH(a)))))))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 22
+
+Program of id: 13
+ExeStack: 
+(NOP;(NOP;(NOP;(NOP;(print(v);print(rH(a)))))))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 22
+
+Program of id: 14
+ExeStack: 
+(wH(a, 30);(v=32;(print(v);print(rH(a)))))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 22
+
+Program of id: 13
+ExeStack: 
+(NOP;(NOP;(NOP;(NOP;(print(v);print(rH(a)))))))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 22
+
+Program of id: 14
+ExeStack: 
+(wH(a, 30);(v=32;(print(v);print(rH(a)))))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 22
+
+Program of id: 13
+ExeStack: 
+NOP
+(NOP;(NOP;(NOP;(print(v);print(rH(a))))))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 22
+
+Program of id: 14
+ExeStack: 
+wH(a, 30)
+(v=32;(print(v);print(rH(a))))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 22
+
+Program of id: 13
+ExeStack: 
+NOP
+(NOP;(NOP;(NOP;(print(v);print(rH(a))))))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 22
+
+Program of id: 14
+ExeStack: 
+wH(a, 30)
+(v=32;(print(v);print(rH(a))))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 22
+
+Program of id: 13
+ExeStack: 
+(NOP;(NOP;(NOP;(print(v);print(rH(a))))))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 30
+
+Program of id: 14
+ExeStack: 
+(v=32;(print(v);print(rH(a))))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 30
+
+Program of id: 13
+ExeStack: 
+(NOP;(NOP;(NOP;(print(v);print(rH(a))))))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 30
+
+Program of id: 14
+ExeStack: 
+(v=32;(print(v);print(rH(a))))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 30
+
+Program of id: 13
+ExeStack: 
+NOP
+(NOP;(NOP;(print(v);print(rH(a)))))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 30
+
+Program of id: 14
+ExeStack: 
+v=32
+(print(v);print(rH(a)))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 30
+
+Program of id: 13
+ExeStack: 
+NOP
+(NOP;(NOP;(print(v);print(rH(a)))))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 30
+
+Program of id: 14
+ExeStack: 
+v=32
+(print(v);print(rH(a)))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 30
+
+Program of id: 13
+ExeStack: 
+(NOP;(NOP;(print(v);print(rH(a)))))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 30
+
+Program of id: 14
+ExeStack: 
+(print(v);print(rH(a)))
+SymTable: 
+a --> (1, int)
+v --> 32
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 30
+
+Program of id: 13
+ExeStack: 
+(NOP;(NOP;(print(v);print(rH(a)))))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 30
+
+Program of id: 14
+ExeStack: 
+(print(v);print(rH(a)))
+SymTable: 
+a --> (1, int)
+v --> 32
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 30
+
+Program of id: 13
+ExeStack: 
+NOP
+(NOP;(print(v);print(rH(a))))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 30
+
+Program of id: 14
+ExeStack: 
+print(v)
+print(rH(a))
+SymTable: 
+a --> (1, int)
+v --> 32
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 30
+
+Program of id: 13
+ExeStack: 
+NOP
+(NOP;(print(v);print(rH(a))))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 30
+
+Program of id: 14
+ExeStack: 
+print(v)
+print(rH(a))
+SymTable: 
+a --> (1, int)
+v --> 32
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 30
+
+Program of id: 13
+ExeStack: 
+(NOP;(print(v);print(rH(a))))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+32
+FileTable: 
+--Empty--
+Heap: 
+1 --> 30
+
+Program of id: 14
+ExeStack: 
+print(rH(a))
+SymTable: 
+a --> (1, int)
+v --> 32
+Out: 
+32
+FileTable: 
+--Empty--
+Heap: 
+1 --> 30
+
+Program of id: 13
+ExeStack: 
+(NOP;(print(v);print(rH(a))))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+32
+FileTable: 
+--Empty--
+Heap: 
+1 --> 30
+
+Program of id: 14
+ExeStack: 
+print(rH(a))
+SymTable: 
+a --> (1, int)
+v --> 32
+Out: 
+32
+FileTable: 
+--Empty--
+Heap: 
+1 --> 30
+
+Program of id: 13
+ExeStack: 
+NOP
+(print(v);print(rH(a)))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+32
+30
+FileTable: 
+--Empty--
+Heap: 
+1 --> 30
+
+Program of id: 14
+ExeStack: 
+--Empty--
+SymTable: 
+a --> (1, int)
+v --> 32
+Out: 
+32
+30
+FileTable: 
+--Empty--
+Heap: 
+1 --> 30
+
+Program of id: 13
+ExeStack: 
+NOP
+(print(v);print(rH(a)))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+32
+30
+FileTable: 
+--Empty--
+Heap: 
+1 --> 30
+
+Program of id: 14
+ExeStack: 
+--Empty--
+SymTable: 
+a --> (1, int)
+v --> 32
+Out: 
+32
+30
+FileTable: 
+--Empty--
+Heap: 
+1 --> 30
+
+Program of id: 13
+ExeStack: 
+(print(v);print(rH(a)))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+32
+30
+FileTable: 
+--Empty--
+Heap: 
+1 --> 30
+
+Program of id: 13
+ExeStack: 
+(print(v);print(rH(a)))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+32
+30
+FileTable: 
+--Empty--
+Heap: 
+1 --> 30
+
+Program of id: 13
+ExeStack: 
+print(v)
+print(rH(a))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+32
+30
+FileTable: 
+--Empty--
+Heap: 
+1 --> 30
+
+Program of id: 13
+ExeStack: 
+print(v)
+print(rH(a))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+32
+30
+FileTable: 
+--Empty--
+Heap: 
+1 --> 30
+
+Program of id: 13
+ExeStack: 
+print(rH(a))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+32
+30
+10
+FileTable: 
+--Empty--
+Heap: 
+1 --> 30
+
+Program of id: 13
+ExeStack: 
+print(rH(a))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+32
+30
+10
+FileTable: 
+--Empty--
+Heap: 
+1 --> 30
+
+Program of id: 13
+ExeStack: 
+--Empty--
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+32
+30
+10
+30
+FileTable: 
+--Empty--
+Heap: 
+1 --> 30
+
+Program of id: 13
+ExeStack: 
+--Empty--
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+32
+30
+10
+30
+FileTable: 
+--Empty--
+Heap: 
+1 --> 30
+
+Program of id: 13
+ExeStack: 
+(int v;(v=10;(Ref int a;(new( a, 22 );(fork((wH(a, 30);(v=32;(print(v);print(rH(a))))));;(NOP;(NOP;(NOP;(NOP;(print(v);print(rH(a))))))))))))
+SymTable: 
+--Empty--
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 13
+ExeStack: 
+int v
+(v=10;(Ref int a;(new( a, 22 );(fork((wH(a, 30);(v=32;(print(v);print(rH(a))))));;(NOP;(NOP;(NOP;(NOP;(print(v);print(rH(a)))))))))))
+SymTable: 
+--Empty--
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 13
+ExeStack: 
+int v
+(v=10;(Ref int a;(new( a, 22 );(fork((wH(a, 30);(v=32;(print(v);print(rH(a))))));;(NOP;(NOP;(NOP;(NOP;(print(v);print(rH(a)))))))))))
+SymTable: 
+--Empty--
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 13
+ExeStack: 
+(v=10;(Ref int a;(new( a, 22 );(fork((wH(a, 30);(v=32;(print(v);print(rH(a))))));;(NOP;(NOP;(NOP;(NOP;(print(v);print(rH(a)))))))))))
+SymTable: 
+v --> 0
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 13
+ExeStack: 
+(v=10;(Ref int a;(new( a, 22 );(fork((wH(a, 30);(v=32;(print(v);print(rH(a))))));;(NOP;(NOP;(NOP;(NOP;(print(v);print(rH(a)))))))))))
+SymTable: 
+v --> 0
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 13
+ExeStack: 
+v=10
+(Ref int a;(new( a, 22 );(fork((wH(a, 30);(v=32;(print(v);print(rH(a))))));;(NOP;(NOP;(NOP;(NOP;(print(v);print(rH(a))))))))))
+SymTable: 
+v --> 0
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 13
+ExeStack: 
+v=10
+(Ref int a;(new( a, 22 );(fork((wH(a, 30);(v=32;(print(v);print(rH(a))))));;(NOP;(NOP;(NOP;(NOP;(print(v);print(rH(a))))))))))
+SymTable: 
+v --> 0
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 13
+ExeStack: 
+(Ref int a;(new( a, 22 );(fork((wH(a, 30);(v=32;(print(v);print(rH(a))))));;(NOP;(NOP;(NOP;(NOP;(print(v);print(rH(a))))))))))
+SymTable: 
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 13
+ExeStack: 
+(Ref int a;(new( a, 22 );(fork((wH(a, 30);(v=32;(print(v);print(rH(a))))));;(NOP;(NOP;(NOP;(NOP;(print(v);print(rH(a))))))))))
+SymTable: 
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 13
+ExeStack: 
+Ref int a
+(new( a, 22 );(fork((wH(a, 30);(v=32;(print(v);print(rH(a))))));;(NOP;(NOP;(NOP;(NOP;(print(v);print(rH(a)))))))))
+SymTable: 
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 13
+ExeStack: 
+Ref int a
+(new( a, 22 );(fork((wH(a, 30);(v=32;(print(v);print(rH(a))))));;(NOP;(NOP;(NOP;(NOP;(print(v);print(rH(a)))))))))
+SymTable: 
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 13
+ExeStack: 
+(new( a, 22 );(fork((wH(a, 30);(v=32;(print(v);print(rH(a))))));;(NOP;(NOP;(NOP;(NOP;(print(v);print(rH(a)))))))))
+SymTable: 
+a --> (-1, int)
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 13
+ExeStack: 
+(new( a, 22 );(fork((wH(a, 30);(v=32;(print(v);print(rH(a))))));;(NOP;(NOP;(NOP;(NOP;(print(v);print(rH(a)))))))))
+SymTable: 
+a --> (-1, int)
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 13
+ExeStack: 
+new( a, 22 )
+(fork((wH(a, 30);(v=32;(print(v);print(rH(a))))));;(NOP;(NOP;(NOP;(NOP;(print(v);print(rH(a))))))))
+SymTable: 
+a --> (-1, int)
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 13
+ExeStack: 
+new( a, 22 )
+(fork((wH(a, 30);(v=32;(print(v);print(rH(a))))));;(NOP;(NOP;(NOP;(NOP;(print(v);print(rH(a))))))))
+SymTable: 
+a --> (-1, int)
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 13
+ExeStack: 
+(fork((wH(a, 30);(v=32;(print(v);print(rH(a))))));;(NOP;(NOP;(NOP;(NOP;(print(v);print(rH(a))))))))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 22
+
+Program of id: 13
+ExeStack: 
+(fork((wH(a, 30);(v=32;(print(v);print(rH(a))))));;(NOP;(NOP;(NOP;(NOP;(print(v);print(rH(a))))))))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 22
+
+Program of id: 13
+ExeStack: 
+fork((wH(a, 30);(v=32;(print(v);print(rH(a))))));
+(NOP;(NOP;(NOP;(NOP;(print(v);print(rH(a)))))))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 22
+
+Program of id: 13
+ExeStack: 
+fork((wH(a, 30);(v=32;(print(v);print(rH(a))))));
+(NOP;(NOP;(NOP;(NOP;(print(v);print(rH(a)))))))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 22
+
+Program of id: 13
+ExeStack: 
+(NOP;(NOP;(NOP;(NOP;(print(v);print(rH(a)))))))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 22
+
+Program of id: 14
+ExeStack: 
+(wH(a, 30);(v=32;(print(v);print(rH(a)))))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 22
+
+Program of id: 13
+ExeStack: 
+(NOP;(NOP;(NOP;(NOP;(print(v);print(rH(a)))))))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 22
+
+Program of id: 14
+ExeStack: 
+(wH(a, 30);(v=32;(print(v);print(rH(a)))))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 22
+
+Program of id: 13
+ExeStack: 
+NOP
+(NOP;(NOP;(NOP;(print(v);print(rH(a))))))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 22
+
+Program of id: 14
+ExeStack: 
+wH(a, 30)
+(v=32;(print(v);print(rH(a))))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 22
+
+Program of id: 13
+ExeStack: 
+NOP
+(NOP;(NOP;(NOP;(print(v);print(rH(a))))))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 22
+
+Program of id: 14
+ExeStack: 
+wH(a, 30)
+(v=32;(print(v);print(rH(a))))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 22
+
+Program of id: 13
+ExeStack: 
+(NOP;(NOP;(NOP;(print(v);print(rH(a))))))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 30
+
+Program of id: 14
+ExeStack: 
+(v=32;(print(v);print(rH(a))))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 30
+
+Program of id: 13
+ExeStack: 
+(int v;(v=10;(Ref int a;(new( a, 22 );(fork((wH(a, 30);(v=32;(print(v);print(rH(a))))));;(NOP;(NOP;(NOP;(NOP;(print(v);print(rH(a))))))))))))
+SymTable: 
+--Empty--
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 13
+ExeStack: 
+int v
+(v=10;(Ref int a;(new( a, 22 );(fork((wH(a, 30);(v=32;(print(v);print(rH(a))))));;(NOP;(NOP;(NOP;(NOP;(print(v);print(rH(a)))))))))))
+SymTable: 
+--Empty--
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 13
+ExeStack: 
+int v
+(v=10;(Ref int a;(new( a, 22 );(fork((wH(a, 30);(v=32;(print(v);print(rH(a))))));;(NOP;(NOP;(NOP;(NOP;(print(v);print(rH(a)))))))))))
+SymTable: 
+--Empty--
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 13
+ExeStack: 
+(v=10;(Ref int a;(new( a, 22 );(fork((wH(a, 30);(v=32;(print(v);print(rH(a))))));;(NOP;(NOP;(NOP;(NOP;(print(v);print(rH(a)))))))))))
+SymTable: 
+v --> 0
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 13
+ExeStack: 
+(v=10;(Ref int a;(new( a, 22 );(fork((wH(a, 30);(v=32;(print(v);print(rH(a))))));;(NOP;(NOP;(NOP;(NOP;(print(v);print(rH(a)))))))))))
+SymTable: 
+v --> 0
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 13
+ExeStack: 
+v=10
+(Ref int a;(new( a, 22 );(fork((wH(a, 30);(v=32;(print(v);print(rH(a))))));;(NOP;(NOP;(NOP;(NOP;(print(v);print(rH(a))))))))))
+SymTable: 
+v --> 0
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 13
+ExeStack: 
+(int v;(v=10;(Ref int a;(new( a, 22 );(fork((wH(a, 30);(v=32;(print(v);print(rH(a))))));;(NOP;(NOP;(NOP;(NOP;(print(v);print(rH(a))))))))))))
+SymTable: 
+--Empty--
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 13
+ExeStack: 
+int v
+(v=10;(Ref int a;(new( a, 22 );(fork((wH(a, 30);(v=32;(print(v);print(rH(a))))));;(NOP;(NOP;(NOP;(NOP;(print(v);print(rH(a)))))))))))
+SymTable: 
+--Empty--
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 13
+ExeStack: 
+int v
+(v=10;(Ref int a;(new( a, 22 );(fork((wH(a, 30);(v=32;(print(v);print(rH(a))))));;(NOP;(NOP;(NOP;(NOP;(print(v);print(rH(a)))))))))))
+SymTable: 
+--Empty--
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 13
+ExeStack: 
+(v=10;(Ref int a;(new( a, 22 );(fork((wH(a, 30);(v=32;(print(v);print(rH(a))))));;(NOP;(NOP;(NOP;(NOP;(print(v);print(rH(a)))))))))))
+SymTable: 
+v --> 0
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 13
+ExeStack: 
+(v=10;(Ref int a;(new( a, 22 );(fork((wH(a, 30);(v=32;(print(v);print(rH(a))))));;(NOP;(NOP;(NOP;(NOP;(print(v);print(rH(a)))))))))))
+SymTable: 
+v --> 0
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 13
+ExeStack: 
+v=10
+(Ref int a;(new( a, 22 );(fork((wH(a, 30);(v=32;(print(v);print(rH(a))))));;(NOP;(NOP;(NOP;(NOP;(print(v);print(rH(a))))))))))
+SymTable: 
+v --> 0
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 13
+ExeStack: 
+v=10
+(Ref int a;(new( a, 22 );(fork((wH(a, 30);(v=32;(print(v);print(rH(a))))));;(NOP;(NOP;(NOP;(NOP;(print(v);print(rH(a))))))))))
+SymTable: 
+v --> 0
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 13
+ExeStack: 
+(Ref int a;(new( a, 22 );(fork((wH(a, 30);(v=32;(print(v);print(rH(a))))));;(NOP;(NOP;(NOP;(NOP;(print(v);print(rH(a))))))))))
+SymTable: 
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 13
+ExeStack: 
+(Ref int a;(new( a, 22 );(fork((wH(a, 30);(v=32;(print(v);print(rH(a))))));;(NOP;(NOP;(NOP;(NOP;(print(v);print(rH(a))))))))))
+SymTable: 
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 13
+ExeStack: 
+Ref int a
+(new( a, 22 );(fork((wH(a, 30);(v=32;(print(v);print(rH(a))))));;(NOP;(NOP;(NOP;(NOP;(print(v);print(rH(a)))))))))
+SymTable: 
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 13
+ExeStack: 
+Ref int a
+(new( a, 22 );(fork((wH(a, 30);(v=32;(print(v);print(rH(a))))));;(NOP;(NOP;(NOP;(NOP;(print(v);print(rH(a)))))))))
+SymTable: 
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 13
+ExeStack: 
+(new( a, 22 );(fork((wH(a, 30);(v=32;(print(v);print(rH(a))))));;(NOP;(NOP;(NOP;(NOP;(print(v);print(rH(a)))))))))
+SymTable: 
+a --> (-1, int)
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 13
+ExeStack: 
+(new( a, 22 );(fork((wH(a, 30);(v=32;(print(v);print(rH(a))))));;(NOP;(NOP;(NOP;(NOP;(print(v);print(rH(a)))))))))
+SymTable: 
+a --> (-1, int)
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 13
+ExeStack: 
+new( a, 22 )
+(fork((wH(a, 30);(v=32;(print(v);print(rH(a))))));;(NOP;(NOP;(NOP;(NOP;(print(v);print(rH(a))))))))
+SymTable: 
+a --> (-1, int)
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 13
+ExeStack: 
+new( a, 22 )
+(fork((wH(a, 30);(v=32;(print(v);print(rH(a))))));;(NOP;(NOP;(NOP;(NOP;(print(v);print(rH(a))))))))
+SymTable: 
+a --> (-1, int)
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 13
+ExeStack: 
+(fork((wH(a, 30);(v=32;(print(v);print(rH(a))))));;(NOP;(NOP;(NOP;(NOP;(print(v);print(rH(a))))))))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 22
+
+Program of id: 13
+ExeStack: 
+(fork((wH(a, 30);(v=32;(print(v);print(rH(a))))));;(NOP;(NOP;(NOP;(NOP;(print(v);print(rH(a))))))))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 22
+
+Program of id: 13
+ExeStack: 
+fork((wH(a, 30);(v=32;(print(v);print(rH(a))))));
+(NOP;(NOP;(NOP;(NOP;(print(v);print(rH(a)))))))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 22
+
+Program of id: 13
+ExeStack: 
+fork((wH(a, 30);(v=32;(print(v);print(rH(a))))));
+(NOP;(NOP;(NOP;(NOP;(print(v);print(rH(a)))))))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 22
+
+Program of id: 13
+ExeStack: 
+(NOP;(NOP;(NOP;(NOP;(print(v);print(rH(a)))))))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 22
+
+Program of id: 14
+ExeStack: 
+(wH(a, 30);(v=32;(print(v);print(rH(a)))))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 22
+
+Program of id: 13
+ExeStack: 
+(NOP;(NOP;(NOP;(NOP;(print(v);print(rH(a)))))))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 22
+
+Program of id: 14
+ExeStack: 
+(wH(a, 30);(v=32;(print(v);print(rH(a)))))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 22
+
+Program of id: 13
+ExeStack: 
+NOP
+(NOP;(NOP;(NOP;(print(v);print(rH(a))))))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 22
+
+Program of id: 14
+ExeStack: 
+wH(a, 30)
+(v=32;(print(v);print(rH(a))))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 22
+
+Program of id: 13
+ExeStack: 
+NOP
+(NOP;(NOP;(NOP;(print(v);print(rH(a))))))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 22
+
+Program of id: 14
+ExeStack: 
+wH(a, 30)
+(v=32;(print(v);print(rH(a))))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 22
+
+Program of id: 13
+ExeStack: 
+(NOP;(NOP;(NOP;(print(v);print(rH(a))))))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 30
+
+Program of id: 14
+ExeStack: 
+(v=32;(print(v);print(rH(a))))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 30
+
+Program of id: 13
+ExeStack: 
+(NOP;(NOP;(NOP;(print(v);print(rH(a))))))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 30
+
+Program of id: 14
+ExeStack: 
+(v=32;(print(v);print(rH(a))))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 30
+
+Program of id: 13
+ExeStack: 
+NOP
+(NOP;(NOP;(print(v);print(rH(a)))))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 30
+
+Program of id: 14
+ExeStack: 
+v=32
+(print(v);print(rH(a)))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 30
+
+Program of id: 13
+ExeStack: 
+NOP
+(NOP;(NOP;(print(v);print(rH(a)))))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 30
+
+Program of id: 14
+ExeStack: 
+v=32
+(print(v);print(rH(a)))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 30
+
+Program of id: 13
+ExeStack: 
+(NOP;(NOP;(print(v);print(rH(a)))))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 30
+
+Program of id: 14
+ExeStack: 
+(print(v);print(rH(a)))
+SymTable: 
+a --> (1, int)
+v --> 32
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 30
+
+Program of id: 13
+ExeStack: 
+(NOP;(NOP;(print(v);print(rH(a)))))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 30
+
+Program of id: 14
+ExeStack: 
+(print(v);print(rH(a)))
+SymTable: 
+a --> (1, int)
+v --> 32
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 30
+
+Program of id: 13
+ExeStack: 
+NOP
+(NOP;(print(v);print(rH(a))))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 30
+
+Program of id: 14
+ExeStack: 
+print(v)
+print(rH(a))
+SymTable: 
+a --> (1, int)
+v --> 32
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 30
+
+Program of id: 13
+ExeStack: 
+NOP
+(NOP;(print(v);print(rH(a))))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 30
+
+Program of id: 14
+ExeStack: 
+print(v)
+print(rH(a))
+SymTable: 
+a --> (1, int)
+v --> 32
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 30
+
+Program of id: 13
+ExeStack: 
+(NOP;(print(v);print(rH(a))))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+32
+FileTable: 
+--Empty--
+Heap: 
+1 --> 30
+
+Program of id: 14
+ExeStack: 
+print(rH(a))
+SymTable: 
+a --> (1, int)
+v --> 32
+Out: 
+32
+FileTable: 
+--Empty--
+Heap: 
+1 --> 30
+
+Program of id: 13
+ExeStack: 
+(NOP;(print(v);print(rH(a))))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+32
+FileTable: 
+--Empty--
+Heap: 
+1 --> 30
+
+Program of id: 14
+ExeStack: 
+print(rH(a))
+SymTable: 
+a --> (1, int)
+v --> 32
+Out: 
+32
+FileTable: 
+--Empty--
+Heap: 
+1 --> 30
+
+Program of id: 13
+ExeStack: 
+NOP
+(print(v);print(rH(a)))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+32
+30
+FileTable: 
+--Empty--
+Heap: 
+1 --> 30
+
+Program of id: 14
+ExeStack: 
+--Empty--
+SymTable: 
+a --> (1, int)
+v --> 32
+Out: 
+32
+30
+FileTable: 
+--Empty--
+Heap: 
+1 --> 30
+
+Program of id: 13
+ExeStack: 
+NOP
+(print(v);print(rH(a)))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+32
+30
+FileTable: 
+--Empty--
+Heap: 
+1 --> 30
+
+Program of id: 14
+ExeStack: 
+--Empty--
+SymTable: 
+a --> (1, int)
+v --> 32
+Out: 
+32
+30
+FileTable: 
+--Empty--
+Heap: 
+1 --> 30
+
+Program of id: 13
+ExeStack: 
+(print(v);print(rH(a)))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+32
+30
+FileTable: 
+--Empty--
+Heap: 
+1 --> 30
+
+Program of id: 13
+ExeStack: 
+(print(v);print(rH(a)))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+32
+30
+FileTable: 
+--Empty--
+Heap: 
+1 --> 30
+
+Program of id: 13
+ExeStack: 
+print(v)
+print(rH(a))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+32
+30
+FileTable: 
+--Empty--
+Heap: 
+1 --> 30
+
+Program of id: 13
+ExeStack: 
+print(v)
+print(rH(a))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+32
+30
+FileTable: 
+--Empty--
+Heap: 
+1 --> 30
+
+Program of id: 13
+ExeStack: 
+print(rH(a))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+32
+30
+10
+FileTable: 
+--Empty--
+Heap: 
+1 --> 30
+
+Program of id: 13
+ExeStack: 
+print(rH(a))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+32
+30
+10
+FileTable: 
+--Empty--
+Heap: 
+1 --> 30
+
+Program of id: 13
+ExeStack: 
+--Empty--
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+32
+30
+10
+30
+FileTable: 
+--Empty--
+Heap: 
+1 --> 30
+
+Program of id: 13
+ExeStack: 
+--Empty--
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+32
+30
+10
+30
+FileTable: 
+--Empty--
+Heap: 
+1 --> 30
+
+Program of id: 40
+ExeStack: 
+(int v;(v=10;(Ref int a;(new( a, 22 );(fork((wH(a, 30);(v=32;(print(v);print(rH(a))))));;(NOP;(NOP;(NOP;(NOP;(print(v);print(rH(a))))))))))))
+SymTable: 
+--Empty--
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 40
+ExeStack: 
+int v
+(v=10;(Ref int a;(new( a, 22 );(fork((wH(a, 30);(v=32;(print(v);print(rH(a))))));;(NOP;(NOP;(NOP;(NOP;(print(v);print(rH(a)))))))))))
+SymTable: 
+--Empty--
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 40
+ExeStack: 
+int v
+(v=10;(Ref int a;(new( a, 22 );(fork((wH(a, 30);(v=32;(print(v);print(rH(a))))));;(NOP;(NOP;(NOP;(NOP;(print(v);print(rH(a)))))))))))
+SymTable: 
+--Empty--
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 40
+ExeStack: 
+(v=10;(Ref int a;(new( a, 22 );(fork((wH(a, 30);(v=32;(print(v);print(rH(a))))));;(NOP;(NOP;(NOP;(NOP;(print(v);print(rH(a)))))))))))
+SymTable: 
+v --> 0
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 40
+ExeStack: 
+(v=10;(Ref int a;(new( a, 22 );(fork((wH(a, 30);(v=32;(print(v);print(rH(a))))));;(NOP;(NOP;(NOP;(NOP;(print(v);print(rH(a)))))))))))
+SymTable: 
+v --> 0
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 40
+ExeStack: 
+v=10
+(Ref int a;(new( a, 22 );(fork((wH(a, 30);(v=32;(print(v);print(rH(a))))));;(NOP;(NOP;(NOP;(NOP;(print(v);print(rH(a))))))))))
+SymTable: 
+v --> 0
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 40
+ExeStack: 
+v=10
+(Ref int a;(new( a, 22 );(fork((wH(a, 30);(v=32;(print(v);print(rH(a))))));;(NOP;(NOP;(NOP;(NOP;(print(v);print(rH(a))))))))))
+SymTable: 
+v --> 0
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 40
+ExeStack: 
+(Ref int a;(new( a, 22 );(fork((wH(a, 30);(v=32;(print(v);print(rH(a))))));;(NOP;(NOP;(NOP;(NOP;(print(v);print(rH(a))))))))))
+SymTable: 
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 40
+ExeStack: 
+(Ref int a;(new( a, 22 );(fork((wH(a, 30);(v=32;(print(v);print(rH(a))))));;(NOP;(NOP;(NOP;(NOP;(print(v);print(rH(a))))))))))
+SymTable: 
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 40
+ExeStack: 
+Ref int a
+(new( a, 22 );(fork((wH(a, 30);(v=32;(print(v);print(rH(a))))));;(NOP;(NOP;(NOP;(NOP;(print(v);print(rH(a)))))))))
+SymTable: 
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 40
+ExeStack: 
+Ref int a
+(new( a, 22 );(fork((wH(a, 30);(v=32;(print(v);print(rH(a))))));;(NOP;(NOP;(NOP;(NOP;(print(v);print(rH(a)))))))))
+SymTable: 
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 40
+ExeStack: 
+(new( a, 22 );(fork((wH(a, 30);(v=32;(print(v);print(rH(a))))));;(NOP;(NOP;(NOP;(NOP;(print(v);print(rH(a)))))))))
+SymTable: 
+a --> (-1, int)
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 40
+ExeStack: 
+(new( a, 22 );(fork((wH(a, 30);(v=32;(print(v);print(rH(a))))));;(NOP;(NOP;(NOP;(NOP;(print(v);print(rH(a)))))))))
+SymTable: 
+a --> (-1, int)
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 40
+ExeStack: 
+new( a, 22 )
+(fork((wH(a, 30);(v=32;(print(v);print(rH(a))))));;(NOP;(NOP;(NOP;(NOP;(print(v);print(rH(a))))))))
+SymTable: 
+a --> (-1, int)
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 40
+ExeStack: 
+new( a, 22 )
+(fork((wH(a, 30);(v=32;(print(v);print(rH(a))))));;(NOP;(NOP;(NOP;(NOP;(print(v);print(rH(a))))))))
+SymTable: 
+a --> (-1, int)
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 40
+ExeStack: 
+(fork((wH(a, 30);(v=32;(print(v);print(rH(a))))));;(NOP;(NOP;(NOP;(NOP;(print(v);print(rH(a))))))))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 22
+
+Program of id: 40
+ExeStack: 
+(fork((wH(a, 30);(v=32;(print(v);print(rH(a))))));;(NOP;(NOP;(NOP;(NOP;(print(v);print(rH(a))))))))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 22
+
+Program of id: 40
+ExeStack: 
+fork((wH(a, 30);(v=32;(print(v);print(rH(a))))));
+(NOP;(NOP;(NOP;(NOP;(print(v);print(rH(a)))))))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 22
+
+Program of id: 40
+ExeStack: 
+fork((wH(a, 30);(v=32;(print(v);print(rH(a))))));
+(NOP;(NOP;(NOP;(NOP;(print(v);print(rH(a)))))))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 22
+
+Program of id: 40
+ExeStack: 
+(NOP;(NOP;(NOP;(NOP;(print(v);print(rH(a)))))))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 22
+
+Program of id: 41
+ExeStack: 
+(wH(a, 30);(v=32;(print(v);print(rH(a)))))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 22
+
+Program of id: 40
+ExeStack: 
+(NOP;(NOP;(NOP;(NOP;(print(v);print(rH(a)))))))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 22
+
+Program of id: 41
+ExeStack: 
+(wH(a, 30);(v=32;(print(v);print(rH(a)))))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 22
+
+Program of id: 40
+ExeStack: 
+NOP
+(NOP;(NOP;(NOP;(print(v);print(rH(a))))))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 22
+
+Program of id: 41
+ExeStack: 
+wH(a, 30)
+(v=32;(print(v);print(rH(a))))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 22
+
+Program of id: 40
+ExeStack: 
+NOP
+(NOP;(NOP;(NOP;(print(v);print(rH(a))))))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 22
+
+Program of id: 41
+ExeStack: 
+wH(a, 30)
+(v=32;(print(v);print(rH(a))))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 22
+
+Program of id: 40
+ExeStack: 
+(NOP;(NOP;(NOP;(print(v);print(rH(a))))))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 30
+
+Program of id: 41
+ExeStack: 
+(v=32;(print(v);print(rH(a))))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 30
+
+Program of id: 40
+ExeStack: 
+(NOP;(NOP;(NOP;(print(v);print(rH(a))))))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 30
+
+Program of id: 41
+ExeStack: 
+(v=32;(print(v);print(rH(a))))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 30
+
+Program of id: 40
+ExeStack: 
+NOP
+(NOP;(NOP;(print(v);print(rH(a)))))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 30
+
+Program of id: 41
+ExeStack: 
+v=32
+(print(v);print(rH(a)))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 30
+
+Program of id: 40
+ExeStack: 
+NOP
+(NOP;(NOP;(print(v);print(rH(a)))))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 30
+
+Program of id: 41
+ExeStack: 
+v=32
+(print(v);print(rH(a)))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 30
+
+Program of id: 40
+ExeStack: 
+(NOP;(NOP;(print(v);print(rH(a)))))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 30
+
+Program of id: 41
+ExeStack: 
+(print(v);print(rH(a)))
+SymTable: 
+a --> (1, int)
+v --> 32
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 30
+
+Program of id: 40
+ExeStack: 
+(NOP;(NOP;(print(v);print(rH(a)))))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 30
+
+Program of id: 41
+ExeStack: 
+(print(v);print(rH(a)))
+SymTable: 
+a --> (1, int)
+v --> 32
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 30
+
+Program of id: 40
+ExeStack: 
+NOP
+(NOP;(print(v);print(rH(a))))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 30
+
+Program of id: 41
+ExeStack: 
+print(v)
+print(rH(a))
+SymTable: 
+a --> (1, int)
+v --> 32
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 30
+
+Program of id: 40
+ExeStack: 
+NOP
+(NOP;(print(v);print(rH(a))))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 30
+
+Program of id: 41
+ExeStack: 
+print(v)
+print(rH(a))
+SymTable: 
+a --> (1, int)
+v --> 32
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 30
+
+Program of id: 40
+ExeStack: 
+(NOP;(print(v);print(rH(a))))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+32
+FileTable: 
+--Empty--
+Heap: 
+1 --> 30
+
+Program of id: 41
+ExeStack: 
+print(rH(a))
+SymTable: 
+a --> (1, int)
+v --> 32
+Out: 
+32
+FileTable: 
+--Empty--
+Heap: 
+1 --> 30
+
+Program of id: 40
+ExeStack: 
+(NOP;(print(v);print(rH(a))))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+32
+FileTable: 
+--Empty--
+Heap: 
+1 --> 30
+
+Program of id: 41
+ExeStack: 
+print(rH(a))
+SymTable: 
+a --> (1, int)
+v --> 32
+Out: 
+32
+FileTable: 
+--Empty--
+Heap: 
+1 --> 30
+
+Program of id: 40
+ExeStack: 
+NOP
+(print(v);print(rH(a)))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+32
+30
+FileTable: 
+--Empty--
+Heap: 
+1 --> 30
+
+Program of id: 41
+ExeStack: 
+--Empty--
+SymTable: 
+a --> (1, int)
+v --> 32
+Out: 
+32
+30
+FileTable: 
+--Empty--
+Heap: 
+1 --> 30
+
+Program of id: 40
+ExeStack: 
+NOP
+(print(v);print(rH(a)))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+32
+30
+FileTable: 
+--Empty--
+Heap: 
+1 --> 30
+
+Program of id: 41
+ExeStack: 
+--Empty--
+SymTable: 
+a --> (1, int)
+v --> 32
+Out: 
+32
+30
+FileTable: 
+--Empty--
+Heap: 
+1 --> 30
+
+Program of id: 40
+ExeStack: 
+(print(v);print(rH(a)))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+32
+30
+FileTable: 
+--Empty--
+Heap: 
+1 --> 30
+
+Program of id: 40
+ExeStack: 
+(print(v);print(rH(a)))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+32
+30
+FileTable: 
+--Empty--
+Heap: 
+1 --> 30
+
+Program of id: 40
+ExeStack: 
+print(v)
+print(rH(a))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+32
+30
+FileTable: 
+--Empty--
+Heap: 
+1 --> 30
+
+Program of id: 40
+ExeStack: 
+print(v)
+print(rH(a))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+32
+30
+FileTable: 
+--Empty--
+Heap: 
+1 --> 30
+
+Program of id: 40
+ExeStack: 
+print(rH(a))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+32
+30
+10
+FileTable: 
+--Empty--
+Heap: 
+1 --> 30
+
+Program of id: 40
+ExeStack: 
+print(rH(a))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+32
+30
+10
+FileTable: 
+--Empty--
+Heap: 
+1 --> 30
+
+Program of id: 40
+ExeStack: 
+--Empty--
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+32
+30
+10
+30
+FileTable: 
+--Empty--
+Heap: 
+1 --> 30
+
+Program of id: 40
+ExeStack: 
+--Empty--
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+32
+30
+10
+30
+FileTable: 
+--Empty--
+Heap: 
+1 --> 30
+
+Program of id: 13
+ExeStack: 
+(int v;(v=10;(Ref int a;(new( a, 22 );(fork((wH(a, 30);(v=32;(print(v);print(rH(a))))));;(NOP;(NOP;(NOP;(NOP;(print(v);print(rH(a))))))))))))
+SymTable: 
+--Empty--
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 13
+ExeStack: 
+int v
+(v=10;(Ref int a;(new( a, 22 );(fork((wH(a, 30);(v=32;(print(v);print(rH(a))))));;(NOP;(NOP;(NOP;(NOP;(print(v);print(rH(a)))))))))))
+SymTable: 
+--Empty--
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 13
+ExeStack: 
+int v
+(v=10;(Ref int a;(new( a, 22 );(fork((wH(a, 30);(v=32;(print(v);print(rH(a))))));;(NOP;(NOP;(NOP;(NOP;(print(v);print(rH(a)))))))))))
+SymTable: 
+--Empty--
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 13
+ExeStack: 
+(v=10;(Ref int a;(new( a, 22 );(fork((wH(a, 30);(v=32;(print(v);print(rH(a))))));;(NOP;(NOP;(NOP;(NOP;(print(v);print(rH(a)))))))))))
+SymTable: 
+v --> 0
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 13
+ExeStack: 
+(v=10;(Ref int a;(new( a, 22 );(fork((wH(a, 30);(v=32;(print(v);print(rH(a))))));;(NOP;(NOP;(NOP;(NOP;(print(v);print(rH(a)))))))))))
+SymTable: 
+v --> 0
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 13
+ExeStack: 
+v=10
+(Ref int a;(new( a, 22 );(fork((wH(a, 30);(v=32;(print(v);print(rH(a))))));;(NOP;(NOP;(NOP;(NOP;(print(v);print(rH(a))))))))))
+SymTable: 
+v --> 0
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 13
+ExeStack: 
+v=10
+(Ref int a;(new( a, 22 );(fork((wH(a, 30);(v=32;(print(v);print(rH(a))))));;(NOP;(NOP;(NOP;(NOP;(print(v);print(rH(a))))))))))
+SymTable: 
+v --> 0
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 13
+ExeStack: 
+(Ref int a;(new( a, 22 );(fork((wH(a, 30);(v=32;(print(v);print(rH(a))))));;(NOP;(NOP;(NOP;(NOP;(print(v);print(rH(a))))))))))
+SymTable: 
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 13
+ExeStack: 
+(Ref int a;(new( a, 22 );(fork((wH(a, 30);(v=32;(print(v);print(rH(a))))));;(NOP;(NOP;(NOP;(NOP;(print(v);print(rH(a))))))))))
+SymTable: 
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 13
+ExeStack: 
+Ref int a
+(new( a, 22 );(fork((wH(a, 30);(v=32;(print(v);print(rH(a))))));;(NOP;(NOP;(NOP;(NOP;(print(v);print(rH(a)))))))))
+SymTable: 
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 13
+ExeStack: 
+Ref int a
+(new( a, 22 );(fork((wH(a, 30);(v=32;(print(v);print(rH(a))))));;(NOP;(NOP;(NOP;(NOP;(print(v);print(rH(a)))))))))
+SymTable: 
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 13
+ExeStack: 
+(new( a, 22 );(fork((wH(a, 30);(v=32;(print(v);print(rH(a))))));;(NOP;(NOP;(NOP;(NOP;(print(v);print(rH(a)))))))))
+SymTable: 
+a --> (-1, int)
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 13
+ExeStack: 
+(new( a, 22 );(fork((wH(a, 30);(v=32;(print(v);print(rH(a))))));;(NOP;(NOP;(NOP;(NOP;(print(v);print(rH(a)))))))))
+SymTable: 
+a --> (-1, int)
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 13
+ExeStack: 
+new( a, 22 )
+(fork((wH(a, 30);(v=32;(print(v);print(rH(a))))));;(NOP;(NOP;(NOP;(NOP;(print(v);print(rH(a))))))))
+SymTable: 
+a --> (-1, int)
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 13
+ExeStack: 
+new( a, 22 )
+(fork((wH(a, 30);(v=32;(print(v);print(rH(a))))));;(NOP;(NOP;(NOP;(NOP;(print(v);print(rH(a))))))))
+SymTable: 
+a --> (-1, int)
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 13
+ExeStack: 
+(fork((wH(a, 30);(v=32;(print(v);print(rH(a))))));;(NOP;(NOP;(NOP;(NOP;(print(v);print(rH(a))))))))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 22
+
+Program of id: 13
+ExeStack: 
+(fork((wH(a, 30);(v=32;(print(v);print(rH(a))))));;(NOP;(NOP;(NOP;(NOP;(print(v);print(rH(a))))))))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 22
+
+Program of id: 13
+ExeStack: 
+fork((wH(a, 30);(v=32;(print(v);print(rH(a))))));
+(NOP;(NOP;(NOP;(NOP;(print(v);print(rH(a)))))))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 22
+
+Program of id: 13
+ExeStack: 
+fork((wH(a, 30);(v=32;(print(v);print(rH(a))))));
+(NOP;(NOP;(NOP;(NOP;(print(v);print(rH(a)))))))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 22
+
+Program of id: 13
+ExeStack: 
+(NOP;(NOP;(NOP;(NOP;(print(v);print(rH(a)))))))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 22
+
+Program of id: 14
+ExeStack: 
+(wH(a, 30);(v=32;(print(v);print(rH(a)))))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 22
+
+Program of id: 13
+ExeStack: 
+(NOP;(NOP;(NOP;(NOP;(print(v);print(rH(a)))))))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 22
+
+Program of id: 14
+ExeStack: 
+(wH(a, 30);(v=32;(print(v);print(rH(a)))))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 22
+
+Program of id: 13
+ExeStack: 
+NOP
+(NOP;(NOP;(NOP;(print(v);print(rH(a))))))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 22
+
+Program of id: 14
+ExeStack: 
+wH(a, 30)
+(v=32;(print(v);print(rH(a))))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 22
+
+Program of id: 13
+ExeStack: 
+NOP
+(NOP;(NOP;(NOP;(print(v);print(rH(a))))))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 22
+
+Program of id: 14
+ExeStack: 
+wH(a, 30)
+(v=32;(print(v);print(rH(a))))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 22
+
+Program of id: 13
+ExeStack: 
+(NOP;(NOP;(NOP;(print(v);print(rH(a))))))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 30
+
+Program of id: 14
+ExeStack: 
+(v=32;(print(v);print(rH(a))))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 30
+
+Program of id: 13
+ExeStack: 
+(NOP;(NOP;(NOP;(print(v);print(rH(a))))))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 30
+
+Program of id: 14
+ExeStack: 
+(v=32;(print(v);print(rH(a))))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 30
+
+Program of id: 13
+ExeStack: 
+NOP
+(NOP;(NOP;(print(v);print(rH(a)))))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 30
+
+Program of id: 14
+ExeStack: 
+v=32
+(print(v);print(rH(a)))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 30
+
+Program of id: 13
+ExeStack: 
+NOP
+(NOP;(NOP;(print(v);print(rH(a)))))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 30
+
+Program of id: 14
+ExeStack: 
+v=32
+(print(v);print(rH(a)))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 30
+
+Program of id: 13
+ExeStack: 
+(NOP;(NOP;(print(v);print(rH(a)))))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 30
+
+Program of id: 14
+ExeStack: 
+(print(v);print(rH(a)))
+SymTable: 
+a --> (1, int)
+v --> 32
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 30
+
+Program of id: 13
+ExeStack: 
+(int v;(v=10;(Ref int a;(new( a, 22 );(fork((wH(a, 30);(v=32;(print(v);print(rH(a))))));;(NOP;(NOP;(NOP;(NOP;(print(v);print(rH(a))))))))))))
+SymTable: 
+--Empty--
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 13
+ExeStack: 
+int v
+(v=10;(Ref int a;(new( a, 22 );(fork((wH(a, 30);(v=32;(print(v);print(rH(a))))));;(NOP;(NOP;(NOP;(NOP;(print(v);print(rH(a)))))))))))
+SymTable: 
+--Empty--
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 13
+ExeStack: 
+int v
+(v=10;(Ref int a;(new( a, 22 );(fork((wH(a, 30);(v=32;(print(v);print(rH(a))))));;(NOP;(NOP;(NOP;(NOP;(print(v);print(rH(a)))))))))))
+SymTable: 
+--Empty--
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 13
+ExeStack: 
+(v=10;(Ref int a;(new( a, 22 );(fork((wH(a, 30);(v=32;(print(v);print(rH(a))))));;(NOP;(NOP;(NOP;(NOP;(print(v);print(rH(a)))))))))))
+SymTable: 
+v --> 0
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 13
+ExeStack: 
+(v=10;(Ref int a;(new( a, 22 );(fork((wH(a, 30);(v=32;(print(v);print(rH(a))))));;(NOP;(NOP;(NOP;(NOP;(print(v);print(rH(a)))))))))))
+SymTable: 
+v --> 0
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 13
+ExeStack: 
+v=10
+(Ref int a;(new( a, 22 );(fork((wH(a, 30);(v=32;(print(v);print(rH(a))))));;(NOP;(NOP;(NOP;(NOP;(print(v);print(rH(a))))))))))
+SymTable: 
+v --> 0
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 13
+ExeStack: 
+v=10
+(Ref int a;(new( a, 22 );(fork((wH(a, 30);(v=32;(print(v);print(rH(a))))));;(NOP;(NOP;(NOP;(NOP;(print(v);print(rH(a))))))))))
+SymTable: 
+v --> 0
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 13
+ExeStack: 
+(Ref int a;(new( a, 22 );(fork((wH(a, 30);(v=32;(print(v);print(rH(a))))));;(NOP;(NOP;(NOP;(NOP;(print(v);print(rH(a))))))))))
+SymTable: 
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 13
+ExeStack: 
+(Ref int a;(new( a, 22 );(fork((wH(a, 30);(v=32;(print(v);print(rH(a))))));;(NOP;(NOP;(NOP;(NOP;(print(v);print(rH(a))))))))))
+SymTable: 
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 13
+ExeStack: 
+Ref int a
+(new( a, 22 );(fork((wH(a, 30);(v=32;(print(v);print(rH(a))))));;(NOP;(NOP;(NOP;(NOP;(print(v);print(rH(a)))))))))
+SymTable: 
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 13
+ExeStack: 
+Ref int a
+(new( a, 22 );(fork((wH(a, 30);(v=32;(print(v);print(rH(a))))));;(NOP;(NOP;(NOP;(NOP;(print(v);print(rH(a)))))))))
+SymTable: 
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 13
+ExeStack: 
+(new( a, 22 );(fork((wH(a, 30);(v=32;(print(v);print(rH(a))))));;(NOP;(NOP;(NOP;(NOP;(print(v);print(rH(a)))))))))
+SymTable: 
+a --> (-1, int)
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 13
+ExeStack: 
+(new( a, 22 );(fork((wH(a, 30);(v=32;(print(v);print(rH(a))))));;(NOP;(NOP;(NOP;(NOP;(print(v);print(rH(a)))))))))
+SymTable: 
+a --> (-1, int)
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 13
+ExeStack: 
+new( a, 22 )
+(fork((wH(a, 30);(v=32;(print(v);print(rH(a))))));;(NOP;(NOP;(NOP;(NOP;(print(v);print(rH(a))))))))
+SymTable: 
+a --> (-1, int)
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 13
+ExeStack: 
+new( a, 22 )
+(fork((wH(a, 30);(v=32;(print(v);print(rH(a))))));;(NOP;(NOP;(NOP;(NOP;(print(v);print(rH(a))))))))
+SymTable: 
+a --> (-1, int)
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 13
+ExeStack: 
+(fork((wH(a, 30);(v=32;(print(v);print(rH(a))))));;(NOP;(NOP;(NOP;(NOP;(print(v);print(rH(a))))))))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 22
+
+Program of id: 13
+ExeStack: 
+(fork((wH(a, 30);(v=32;(print(v);print(rH(a))))));;(NOP;(NOP;(NOP;(NOP;(print(v);print(rH(a))))))))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 22
+
+Program of id: 13
+ExeStack: 
+fork((wH(a, 30);(v=32;(print(v);print(rH(a))))));
+(NOP;(NOP;(NOP;(NOP;(print(v);print(rH(a)))))))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 22
+
+Program of id: 13
+ExeStack: 
+fork((wH(a, 30);(v=32;(print(v);print(rH(a))))));
+(NOP;(NOP;(NOP;(NOP;(print(v);print(rH(a)))))))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 22
+
+Program of id: 13
+ExeStack: 
+(NOP;(NOP;(NOP;(NOP;(print(v);print(rH(a)))))))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 22
+
+Program of id: 14
+ExeStack: 
+(wH(a, 30);(v=32;(print(v);print(rH(a)))))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 22
+
+Program of id: 13
+ExeStack: 
+(NOP;(NOP;(NOP;(NOP;(print(v);print(rH(a)))))))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 22
+
+Program of id: 14
+ExeStack: 
+(wH(a, 30);(v=32;(print(v);print(rH(a)))))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 22
+
+Program of id: 13
+ExeStack: 
+NOP
+(NOP;(NOP;(NOP;(print(v);print(rH(a))))))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 22
+
+Program of id: 14
+ExeStack: 
+wH(a, 30)
+(v=32;(print(v);print(rH(a))))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 22
+
+Program of id: 13
+ExeStack: 
+NOP
+(NOP;(NOP;(NOP;(print(v);print(rH(a))))))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 22
+
+Program of id: 14
+ExeStack: 
+wH(a, 30)
+(v=32;(print(v);print(rH(a))))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 22
+
+Program of id: 13
+ExeStack: 
+(NOP;(NOP;(NOP;(print(v);print(rH(a))))))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 30
+
+Program of id: 14
+ExeStack: 
+(v=32;(print(v);print(rH(a))))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 30
+
+Program of id: 13
+ExeStack: 
+(NOP;(NOP;(NOP;(print(v);print(rH(a))))))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 30
+
+Program of id: 14
+ExeStack: 
+(v=32;(print(v);print(rH(a))))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 30
+
+Program of id: 13
+ExeStack: 
+NOP
+(NOP;(NOP;(print(v);print(rH(a)))))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 30
+
+Program of id: 14
+ExeStack: 
+v=32
+(print(v);print(rH(a)))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 30
+
+Program of id: 13
+ExeStack: 
+NOP
+(NOP;(NOP;(print(v);print(rH(a)))))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 30
+
+Program of id: 14
+ExeStack: 
+v=32
+(print(v);print(rH(a)))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 30
+
+Program of id: 13
+ExeStack: 
+(NOP;(NOP;(print(v);print(rH(a)))))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 30
+
+Program of id: 14
+ExeStack: 
+(print(v);print(rH(a)))
+SymTable: 
+a --> (1, int)
+v --> 32
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 30
+
+Program of id: 13
+ExeStack: 
+(NOP;(NOP;(print(v);print(rH(a)))))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 30
+
+Program of id: 14
+ExeStack: 
+(print(v);print(rH(a)))
+SymTable: 
+a --> (1, int)
+v --> 32
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 30
+
+Program of id: 13
+ExeStack: 
+NOP
+(NOP;(print(v);print(rH(a))))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 30
+
+Program of id: 14
+ExeStack: 
+print(v)
+print(rH(a))
+SymTable: 
+a --> (1, int)
+v --> 32
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 30
+
+Program of id: 13
+ExeStack: 
+NOP
+(NOP;(print(v);print(rH(a))))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 30
+
+Program of id: 14
+ExeStack: 
+print(v)
+print(rH(a))
+SymTable: 
+a --> (1, int)
+v --> 32
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 30
+
+Program of id: 13
+ExeStack: 
+(NOP;(print(v);print(rH(a))))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+32
+FileTable: 
+--Empty--
+Heap: 
+1 --> 30
+
+Program of id: 14
+ExeStack: 
+print(rH(a))
+SymTable: 
+a --> (1, int)
+v --> 32
+Out: 
+32
+FileTable: 
+--Empty--
+Heap: 
+1 --> 30
+
+Program of id: 13
+ExeStack: 
+(NOP;(print(v);print(rH(a))))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+32
+FileTable: 
+--Empty--
+Heap: 
+1 --> 30
+
+Program of id: 14
+ExeStack: 
+print(rH(a))
+SymTable: 
+a --> (1, int)
+v --> 32
+Out: 
+32
+FileTable: 
+--Empty--
+Heap: 
+1 --> 30
+
+Program of id: 13
+ExeStack: 
+NOP
+(print(v);print(rH(a)))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+32
+30
+FileTable: 
+--Empty--
+Heap: 
+1 --> 30
+
+Program of id: 14
+ExeStack: 
+--Empty--
+SymTable: 
+a --> (1, int)
+v --> 32
+Out: 
+32
+30
+FileTable: 
+--Empty--
+Heap: 
+1 --> 30
+
+Program of id: 13
+ExeStack: 
+NOP
+(print(v);print(rH(a)))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+32
+30
+FileTable: 
+--Empty--
+Heap: 
+1 --> 30
+
+Program of id: 14
+ExeStack: 
+--Empty--
+SymTable: 
+a --> (1, int)
+v --> 32
+Out: 
+32
+30
+FileTable: 
+--Empty--
+Heap: 
+1 --> 30
+
+Program of id: 13
+ExeStack: 
+(print(v);print(rH(a)))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+32
+30
+FileTable: 
+--Empty--
+Heap: 
+1 --> 30
+
+Program of id: 13
+ExeStack: 
+(print(v);print(rH(a)))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+32
+30
+FileTable: 
+--Empty--
+Heap: 
+1 --> 30
+
+Program of id: 13
+ExeStack: 
+print(v)
+print(rH(a))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+32
+30
+FileTable: 
+--Empty--
+Heap: 
+1 --> 30
+
+Program of id: 13
+ExeStack: 
+print(v)
+print(rH(a))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+32
+30
+FileTable: 
+--Empty--
+Heap: 
+1 --> 30
+
+Program of id: 13
+ExeStack: 
+print(rH(a))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+32
+30
+10
+FileTable: 
+--Empty--
+Heap: 
+1 --> 30
+
+Program of id: 13
+ExeStack: 
+print(rH(a))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+32
+30
+10
+FileTable: 
+--Empty--
+Heap: 
+1 --> 30
+
+Program of id: 13
+ExeStack: 
+--Empty--
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+32
+30
+10
+30
+FileTable: 
+--Empty--
+Heap: 
+1 --> 30
+
+Program of id: 13
+ExeStack: 
+--Empty--
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+32
+30
+10
+30
+FileTable: 
+--Empty--
+Heap: 
+1 --> 30
+
+Program of id: 1
+ExeStack: 
+(int v;(v=10;(Ref int a;(new( a, 22 );(fork((wH(a, 30);(v=32;(print(v);print(rH(a))))));;(NOP;(NOP;(NOP;(NOP;(print(v);print(rH(a))))))))))))
+SymTable: 
+--Empty--
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 1
+ExeStack: 
+int v
+(v=10;(Ref int a;(new( a, 22 );(fork((wH(a, 30);(v=32;(print(v);print(rH(a))))));;(NOP;(NOP;(NOP;(NOP;(print(v);print(rH(a)))))))))))
+SymTable: 
+--Empty--
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 1
+ExeStack: 
+int v
+(v=10;(Ref int a;(new( a, 22 );(fork((wH(a, 30);(v=32;(print(v);print(rH(a))))));;(NOP;(NOP;(NOP;(NOP;(print(v);print(rH(a)))))))))))
+SymTable: 
+--Empty--
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 1
+ExeStack: 
+(v=10;(Ref int a;(new( a, 22 );(fork((wH(a, 30);(v=32;(print(v);print(rH(a))))));;(NOP;(NOP;(NOP;(NOP;(print(v);print(rH(a)))))))))))
+SymTable: 
+v --> 0
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 1
+ExeStack: 
+(v=10;(Ref int a;(new( a, 22 );(fork((wH(a, 30);(v=32;(print(v);print(rH(a))))));;(NOP;(NOP;(NOP;(NOP;(print(v);print(rH(a)))))))))))
+SymTable: 
+v --> 0
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 1
+ExeStack: 
+v=10
+(Ref int a;(new( a, 22 );(fork((wH(a, 30);(v=32;(print(v);print(rH(a))))));;(NOP;(NOP;(NOP;(NOP;(print(v);print(rH(a))))))))))
+SymTable: 
+v --> 0
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 1
+ExeStack: 
+v=10
+(Ref int a;(new( a, 22 );(fork((wH(a, 30);(v=32;(print(v);print(rH(a))))));;(NOP;(NOP;(NOP;(NOP;(print(v);print(rH(a))))))))))
+SymTable: 
+v --> 0
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 1
+ExeStack: 
+(Ref int a;(new( a, 22 );(fork((wH(a, 30);(v=32;(print(v);print(rH(a))))));;(NOP;(NOP;(NOP;(NOP;(print(v);print(rH(a))))))))))
+SymTable: 
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 1
+ExeStack: 
+(Ref int a;(new( a, 22 );(fork((wH(a, 30);(v=32;(print(v);print(rH(a))))));;(NOP;(NOP;(NOP;(NOP;(print(v);print(rH(a))))))))))
+SymTable: 
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 1
+ExeStack: 
+Ref int a
+(new( a, 22 );(fork((wH(a, 30);(v=32;(print(v);print(rH(a))))));;(NOP;(NOP;(NOP;(NOP;(print(v);print(rH(a)))))))))
+SymTable: 
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 1
+ExeStack: 
+Ref int a
+(new( a, 22 );(fork((wH(a, 30);(v=32;(print(v);print(rH(a))))));;(NOP;(NOP;(NOP;(NOP;(print(v);print(rH(a)))))))))
+SymTable: 
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 1
+ExeStack: 
+(new( a, 22 );(fork((wH(a, 30);(v=32;(print(v);print(rH(a))))));;(NOP;(NOP;(NOP;(NOP;(print(v);print(rH(a)))))))))
+SymTable: 
+a --> (-1, int)
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 1
+ExeStack: 
+(new( a, 22 );(fork((wH(a, 30);(v=32;(print(v);print(rH(a))))));;(NOP;(NOP;(NOP;(NOP;(print(v);print(rH(a)))))))))
+SymTable: 
+a --> (-1, int)
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 1
+ExeStack: 
+new( a, 22 )
+(fork((wH(a, 30);(v=32;(print(v);print(rH(a))))));;(NOP;(NOP;(NOP;(NOP;(print(v);print(rH(a))))))))
+SymTable: 
+a --> (-1, int)
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 1
+ExeStack: 
+new( a, 22 )
+(fork((wH(a, 30);(v=32;(print(v);print(rH(a))))));;(NOP;(NOP;(NOP;(NOP;(print(v);print(rH(a))))))))
+SymTable: 
+a --> (-1, int)
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 1
+ExeStack: 
+(fork((wH(a, 30);(v=32;(print(v);print(rH(a))))));;(NOP;(NOP;(NOP;(NOP;(print(v);print(rH(a))))))))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 22
+
+Program of id: 1
+ExeStack: 
+(fork((wH(a, 30);(v=32;(print(v);print(rH(a))))));;(NOP;(NOP;(NOP;(NOP;(print(v);print(rH(a))))))))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 22
+
+Program of id: 1
+ExeStack: 
+fork((wH(a, 30);(v=32;(print(v);print(rH(a))))));
+(NOP;(NOP;(NOP;(NOP;(print(v);print(rH(a)))))))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 22
+
+Program of id: 1
+ExeStack: 
+fork((wH(a, 30);(v=32;(print(v);print(rH(a))))));
+(NOP;(NOP;(NOP;(NOP;(print(v);print(rH(a)))))))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 22
+
+Program of id: 1
+ExeStack: 
+(NOP;(NOP;(NOP;(NOP;(print(v);print(rH(a)))))))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 22
+
+Program of id: 2
+ExeStack: 
+(wH(a, 30);(v=32;(print(v);print(rH(a)))))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 22
+
+Program of id: 1
+ExeStack: 
+(NOP;(NOP;(NOP;(NOP;(print(v);print(rH(a)))))))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 22
+
+Program of id: 2
+ExeStack: 
+(wH(a, 30);(v=32;(print(v);print(rH(a)))))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 22
+
+Program of id: 1
+ExeStack: 
+NOP
+(NOP;(NOP;(NOP;(print(v);print(rH(a))))))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 22
+
+Program of id: 2
+ExeStack: 
+wH(a, 30)
+(v=32;(print(v);print(rH(a))))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 22
+
+Program of id: 1
+ExeStack: 
+NOP
+(NOP;(NOP;(NOP;(print(v);print(rH(a))))))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 22
+
+Program of id: 2
+ExeStack: 
+wH(a, 30)
+(v=32;(print(v);print(rH(a))))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 22
+
+Program of id: 1
+ExeStack: 
+(NOP;(NOP;(NOP;(print(v);print(rH(a))))))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 30
+
+Program of id: 2
+ExeStack: 
+(v=32;(print(v);print(rH(a))))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 30
+
+Program of id: 1
+ExeStack: 
+(NOP;(NOP;(NOP;(print(v);print(rH(a))))))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 30
+
+Program of id: 2
+ExeStack: 
+(v=32;(print(v);print(rH(a))))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 30
+
+Program of id: 1
+ExeStack: 
+NOP
+(NOP;(NOP;(print(v);print(rH(a)))))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 30
+
+Program of id: 2
+ExeStack: 
+v=32
+(print(v);print(rH(a)))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 30
+
+Program of id: 1
+ExeStack: 
+NOP
+(NOP;(NOP;(print(v);print(rH(a)))))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 30
+
+Program of id: 2
+ExeStack: 
+v=32
+(print(v);print(rH(a)))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 30
+
+Program of id: 1
+ExeStack: 
+(NOP;(NOP;(print(v);print(rH(a)))))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 30
+
+Program of id: 2
+ExeStack: 
+(print(v);print(rH(a)))
+SymTable: 
+a --> (1, int)
+v --> 32
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 30
+
+Program of id: 1
+ExeStack: 
+(int v;(v=10;(Ref int a;(new( a, 22 );(fork((wH(a, 30);(v=32;(print(v);print(rH(a))))));;(NOP;(NOP;(NOP;(NOP;(print(v);print(rH(a))))))))))))
+SymTable: 
+--Empty--
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 1
+ExeStack: 
+int v
+(v=10;(Ref int a;(new( a, 22 );(fork((wH(a, 30);(v=32;(print(v);print(rH(a))))));;(NOP;(NOP;(NOP;(NOP;(print(v);print(rH(a)))))))))))
+SymTable: 
+--Empty--
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 1
+ExeStack: 
+int v
+(v=10;(Ref int a;(new( a, 22 );(fork((wH(a, 30);(v=32;(print(v);print(rH(a))))));;(NOP;(NOP;(NOP;(NOP;(print(v);print(rH(a)))))))))))
+SymTable: 
+--Empty--
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 1
+ExeStack: 
+(v=10;(Ref int a;(new( a, 22 );(fork((wH(a, 30);(v=32;(print(v);print(rH(a))))));;(NOP;(NOP;(NOP;(NOP;(print(v);print(rH(a)))))))))))
+SymTable: 
+v --> 0
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 1
+ExeStack: 
+(v=10;(Ref int a;(new( a, 22 );(fork((wH(a, 30);(v=32;(print(v);print(rH(a))))));;(NOP;(NOP;(NOP;(NOP;(print(v);print(rH(a)))))))))))
+SymTable: 
+v --> 0
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 1
+ExeStack: 
+v=10
+(Ref int a;(new( a, 22 );(fork((wH(a, 30);(v=32;(print(v);print(rH(a))))));;(NOP;(NOP;(NOP;(NOP;(print(v);print(rH(a))))))))))
+SymTable: 
+v --> 0
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 1
+ExeStack: 
+v=10
+(Ref int a;(new( a, 22 );(fork((wH(a, 30);(v=32;(print(v);print(rH(a))))));;(NOP;(NOP;(NOP;(NOP;(print(v);print(rH(a))))))))))
+SymTable: 
+v --> 0
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 1
+ExeStack: 
+(Ref int a;(new( a, 22 );(fork((wH(a, 30);(v=32;(print(v);print(rH(a))))));;(NOP;(NOP;(NOP;(NOP;(print(v);print(rH(a))))))))))
+SymTable: 
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 1
+ExeStack: 
+(Ref int a;(new( a, 22 );(fork((wH(a, 30);(v=32;(print(v);print(rH(a))))));;(NOP;(NOP;(NOP;(NOP;(print(v);print(rH(a))))))))))
+SymTable: 
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 1
+ExeStack: 
+Ref int a
+(new( a, 22 );(fork((wH(a, 30);(v=32;(print(v);print(rH(a))))));;(NOP;(NOP;(NOP;(NOP;(print(v);print(rH(a)))))))))
+SymTable: 
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 1
+ExeStack: 
+Ref int a
+(new( a, 22 );(fork((wH(a, 30);(v=32;(print(v);print(rH(a))))));;(NOP;(NOP;(NOP;(NOP;(print(v);print(rH(a)))))))))
+SymTable: 
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 1
+ExeStack: 
+(new( a, 22 );(fork((wH(a, 30);(v=32;(print(v);print(rH(a))))));;(NOP;(NOP;(NOP;(NOP;(print(v);print(rH(a)))))))))
+SymTable: 
+a --> (-1, int)
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 1
+ExeStack: 
+(new( a, 22 );(fork((wH(a, 30);(v=32;(print(v);print(rH(a))))));;(NOP;(NOP;(NOP;(NOP;(print(v);print(rH(a)))))))))
+SymTable: 
+a --> (-1, int)
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 1
+ExeStack: 
+new( a, 22 )
+(fork((wH(a, 30);(v=32;(print(v);print(rH(a))))));;(NOP;(NOP;(NOP;(NOP;(print(v);print(rH(a))))))))
+SymTable: 
+a --> (-1, int)
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 1
+ExeStack: 
+new( a, 22 )
+(fork((wH(a, 30);(v=32;(print(v);print(rH(a))))));;(NOP;(NOP;(NOP;(NOP;(print(v);print(rH(a))))))))
+SymTable: 
+a --> (-1, int)
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 1
+ExeStack: 
+(fork((wH(a, 30);(v=32;(print(v);print(rH(a))))));;(NOP;(NOP;(NOP;(NOP;(print(v);print(rH(a))))))))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 22
+
+Program of id: 1
+ExeStack: 
+(fork((wH(a, 30);(v=32;(print(v);print(rH(a))))));;(NOP;(NOP;(NOP;(NOP;(print(v);print(rH(a))))))))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 22
+
+Program of id: 1
+ExeStack: 
+fork((wH(a, 30);(v=32;(print(v);print(rH(a))))));
+(NOP;(NOP;(NOP;(NOP;(print(v);print(rH(a)))))))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 22
+
+Program of id: 1
+ExeStack: 
+fork((wH(a, 30);(v=32;(print(v);print(rH(a))))));
+(NOP;(NOP;(NOP;(NOP;(print(v);print(rH(a)))))))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 22
+
+Program of id: 1
+ExeStack: 
+(NOP;(NOP;(NOP;(NOP;(print(v);print(rH(a)))))))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 22
+
+Program of id: 2
+ExeStack: 
+(wH(a, 30);(v=32;(print(v);print(rH(a)))))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 22
+
+Program of id: 1
+ExeStack: 
+(NOP;(NOP;(NOP;(NOP;(print(v);print(rH(a)))))))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 22
+
+Program of id: 2
+ExeStack: 
+(wH(a, 30);(v=32;(print(v);print(rH(a)))))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 22
+
+Program of id: 1
+ExeStack: 
+NOP
+(NOP;(NOP;(NOP;(print(v);print(rH(a))))))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 22
+
+Program of id: 2
+ExeStack: 
+wH(a, 30)
+(v=32;(print(v);print(rH(a))))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 22
+
+Program of id: 1
+ExeStack: 
+(int v;(v=10;(Ref int a;(new( a, 22 );(fork((wH(a, 30);(v=32;(print(v);print(rH(a))))));;(NOP;(NOP;(NOP;(NOP;(print(v);print(rH(a))))))))))))
+SymTable: 
+--Empty--
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 1
+ExeStack: 
+int v
+(v=10;(Ref int a;(new( a, 22 );(fork((wH(a, 30);(v=32;(print(v);print(rH(a))))));;(NOP;(NOP;(NOP;(NOP;(print(v);print(rH(a)))))))))))
+SymTable: 
+--Empty--
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 1
+ExeStack: 
+int v
+(v=10;(Ref int a;(new( a, 22 );(fork((wH(a, 30);(v=32;(print(v);print(rH(a))))));;(NOP;(NOP;(NOP;(NOP;(print(v);print(rH(a)))))))))))
+SymTable: 
+--Empty--
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 1
+ExeStack: 
+(v=10;(Ref int a;(new( a, 22 );(fork((wH(a, 30);(v=32;(print(v);print(rH(a))))));;(NOP;(NOP;(NOP;(NOP;(print(v);print(rH(a)))))))))))
+SymTable: 
+v --> 0
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 1
+ExeStack: 
+(v=10;(Ref int a;(new( a, 22 );(fork((wH(a, 30);(v=32;(print(v);print(rH(a))))));;(NOP;(NOP;(NOP;(NOP;(print(v);print(rH(a)))))))))))
+SymTable: 
+v --> 0
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 1
+ExeStack: 
+v=10
+(Ref int a;(new( a, 22 );(fork((wH(a, 30);(v=32;(print(v);print(rH(a))))));;(NOP;(NOP;(NOP;(NOP;(print(v);print(rH(a))))))))))
+SymTable: 
+v --> 0
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 1
+ExeStack: 
+v=10
+(Ref int a;(new( a, 22 );(fork((wH(a, 30);(v=32;(print(v);print(rH(a))))));;(NOP;(NOP;(NOP;(NOP;(print(v);print(rH(a))))))))))
+SymTable: 
+v --> 0
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 1
+ExeStack: 
+(Ref int a;(new( a, 22 );(fork((wH(a, 30);(v=32;(print(v);print(rH(a))))));;(NOP;(NOP;(NOP;(NOP;(print(v);print(rH(a))))))))))
+SymTable: 
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 1
+ExeStack: 
+(Ref int a;(new( a, 22 );(fork((wH(a, 30);(v=32;(print(v);print(rH(a))))));;(NOP;(NOP;(NOP;(NOP;(print(v);print(rH(a))))))))))
+SymTable: 
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 1
+ExeStack: 
+Ref int a
+(new( a, 22 );(fork((wH(a, 30);(v=32;(print(v);print(rH(a))))));;(NOP;(NOP;(NOP;(NOP;(print(v);print(rH(a)))))))))
+SymTable: 
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 1
+ExeStack: 
+Ref int a
+(new( a, 22 );(fork((wH(a, 30);(v=32;(print(v);print(rH(a))))));;(NOP;(NOP;(NOP;(NOP;(print(v);print(rH(a)))))))))
+SymTable: 
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 1
+ExeStack: 
+(new( a, 22 );(fork((wH(a, 30);(v=32;(print(v);print(rH(a))))));;(NOP;(NOP;(NOP;(NOP;(print(v);print(rH(a)))))))))
+SymTable: 
+a --> (-1, int)
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 1
+ExeStack: 
+(new( a, 22 );(fork((wH(a, 30);(v=32;(print(v);print(rH(a))))));;(NOP;(NOP;(NOP;(NOP;(print(v);print(rH(a)))))))))
+SymTable: 
+a --> (-1, int)
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 1
+ExeStack: 
+new( a, 22 )
+(fork((wH(a, 30);(v=32;(print(v);print(rH(a))))));;(NOP;(NOP;(NOP;(NOP;(print(v);print(rH(a))))))))
+SymTable: 
+a --> (-1, int)
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 1
+ExeStack: 
+new( a, 22 )
+(fork((wH(a, 30);(v=32;(print(v);print(rH(a))))));;(NOP;(NOP;(NOP;(NOP;(print(v);print(rH(a))))))))
+SymTable: 
+a --> (-1, int)
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 1
+ExeStack: 
+(fork((wH(a, 30);(v=32;(print(v);print(rH(a))))));;(NOP;(NOP;(NOP;(NOP;(print(v);print(rH(a))))))))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 22
+
+Program of id: 1
+ExeStack: 
+(fork((wH(a, 30);(v=32;(print(v);print(rH(a))))));;(NOP;(NOP;(NOP;(NOP;(print(v);print(rH(a))))))))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 22
+
+Program of id: 1
+ExeStack: 
+fork((wH(a, 30);(v=32;(print(v);print(rH(a))))));
+(NOP;(NOP;(NOP;(NOP;(print(v);print(rH(a)))))))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 22
+
+Program of id: 1
+ExeStack: 
+fork((wH(a, 30);(v=32;(print(v);print(rH(a))))));
+(NOP;(NOP;(NOP;(NOP;(print(v);print(rH(a)))))))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 22
+
+Program of id: 1
+ExeStack: 
+(NOP;(NOP;(NOP;(NOP;(print(v);print(rH(a)))))))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 22
+
+Program of id: 2
+ExeStack: 
+(wH(a, 30);(v=32;(print(v);print(rH(a)))))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 22
+
+Program of id: 1
+ExeStack: 
+(NOP;(NOP;(NOP;(NOP;(print(v);print(rH(a)))))))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 22
+
+Program of id: 2
+ExeStack: 
+(wH(a, 30);(v=32;(print(v);print(rH(a)))))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 22
+
+Program of id: 1
+ExeStack: 
+NOP
+(NOP;(NOP;(NOP;(print(v);print(rH(a))))))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 22
+
+Program of id: 2
+ExeStack: 
+wH(a, 30)
+(v=32;(print(v);print(rH(a))))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 22
+
+Program of id: 1
+ExeStack: 
+NOP
+(NOP;(NOP;(NOP;(print(v);print(rH(a))))))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 22
+
+Program of id: 2
+ExeStack: 
+wH(a, 30)
+(v=32;(print(v);print(rH(a))))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 22
+
+Program of id: 1
+ExeStack: 
+(NOP;(NOP;(NOP;(print(v);print(rH(a))))))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 30
+
+Program of id: 2
+ExeStack: 
+(v=32;(print(v);print(rH(a))))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 30
+
+Program of id: 1
+ExeStack: 
+(NOP;(NOP;(NOP;(print(v);print(rH(a))))))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 30
+
+Program of id: 2
+ExeStack: 
+(v=32;(print(v);print(rH(a))))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 30
+
+Program of id: 1
+ExeStack: 
+NOP
+(NOP;(NOP;(print(v);print(rH(a)))))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 30
+
+Program of id: 2
+ExeStack: 
+v=32
+(print(v);print(rH(a)))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 30
+
+Program of id: 1
+ExeStack: 
+NOP
+(NOP;(NOP;(print(v);print(rH(a)))))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 30
+
+Program of id: 2
+ExeStack: 
+v=32
+(print(v);print(rH(a)))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 30
+
+Program of id: 1
+ExeStack: 
+(NOP;(NOP;(print(v);print(rH(a)))))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 30
+
+Program of id: 2
+ExeStack: 
+(print(v);print(rH(a)))
+SymTable: 
+a --> (1, int)
+v --> 32
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 30
+
+Program of id: 1
+ExeStack: 
+(NOP;(NOP;(print(v);print(rH(a)))))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 30
+
+Program of id: 2
+ExeStack: 
+(print(v);print(rH(a)))
+SymTable: 
+a --> (1, int)
+v --> 32
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 30
+
+Program of id: 1
+ExeStack: 
+NOP
+(NOP;(print(v);print(rH(a))))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 30
+
+Program of id: 2
+ExeStack: 
+print(v)
+print(rH(a))
+SymTable: 
+a --> (1, int)
+v --> 32
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 30
+
+Program of id: 1
+ExeStack: 
+NOP
+(NOP;(print(v);print(rH(a))))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 30
+
+Program of id: 2
+ExeStack: 
+print(v)
+print(rH(a))
+SymTable: 
+a --> (1, int)
+v --> 32
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 30
+
+Program of id: 1
+ExeStack: 
+(NOP;(print(v);print(rH(a))))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+32
+FileTable: 
+--Empty--
+Heap: 
+1 --> 30
+
+Program of id: 2
+ExeStack: 
+print(rH(a))
+SymTable: 
+a --> (1, int)
+v --> 32
+Out: 
+32
+FileTable: 
+--Empty--
+Heap: 
+1 --> 30
+
+Program of id: 1
+ExeStack: 
+(NOP;(print(v);print(rH(a))))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+32
+FileTable: 
+--Empty--
+Heap: 
+1 --> 30
+
+Program of id: 2
+ExeStack: 
+print(rH(a))
+SymTable: 
+a --> (1, int)
+v --> 32
+Out: 
+32
+FileTable: 
+--Empty--
+Heap: 
+1 --> 30
+
+Program of id: 1
+ExeStack: 
+NOP
+(print(v);print(rH(a)))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+32
+30
+FileTable: 
+--Empty--
+Heap: 
+1 --> 30
+
+Program of id: 2
+ExeStack: 
+--Empty--
+SymTable: 
+a --> (1, int)
+v --> 32
+Out: 
+32
+30
+FileTable: 
+--Empty--
+Heap: 
+1 --> 30
+
+Program of id: 1
+ExeStack: 
+NOP
+(print(v);print(rH(a)))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+32
+30
+FileTable: 
+--Empty--
+Heap: 
+1 --> 30
+
+Program of id: 2
+ExeStack: 
+--Empty--
+SymTable: 
+a --> (1, int)
+v --> 32
+Out: 
+32
+30
+FileTable: 
+--Empty--
+Heap: 
+1 --> 30
+
+Program of id: 1
+ExeStack: 
+(print(v);print(rH(a)))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+32
+30
+FileTable: 
+--Empty--
+Heap: 
+1 --> 30
+
+Program of id: 1
+ExeStack: 
+(print(v);print(rH(a)))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+32
+30
+FileTable: 
+--Empty--
+Heap: 
+1 --> 30
+
+Program of id: 1
+ExeStack: 
+print(v)
+print(rH(a))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+32
+30
+FileTable: 
+--Empty--
+Heap: 
+1 --> 30
+
+Program of id: 1
+ExeStack: 
+print(v)
+print(rH(a))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+32
+30
+FileTable: 
+--Empty--
+Heap: 
+1 --> 30
+
+Program of id: 1
+ExeStack: 
+print(rH(a))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+32
+30
+10
+FileTable: 
+--Empty--
+Heap: 
+1 --> 30
+
+Program of id: 1
+ExeStack: 
+print(rH(a))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+32
+30
+10
+FileTable: 
+--Empty--
+Heap: 
+1 --> 30
+
+Program of id: 1
+ExeStack: 
+--Empty--
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+32
+30
+10
+30
+FileTable: 
+--Empty--
+Heap: 
+1 --> 30
+
+Program of id: 1
+ExeStack: 
+--Empty--
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+32
+30
+10
+30
+FileTable: 
+--Empty--
+Heap: 
+1 --> 30
+
+Program of id: 3
+ExeStack: 
+(int v;(v=10;(Ref int a;(new( a, 22 );(fork((wH(a, 30);(v=32;(print(v);print(rH(a))))));;(NOP;(NOP;(NOP;(NOP;(print(v);print(rH(a))))))))))))
+SymTable: 
+--Empty--
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 3
+ExeStack: 
+int v
+(v=10;(Ref int a;(new( a, 22 );(fork((wH(a, 30);(v=32;(print(v);print(rH(a))))));;(NOP;(NOP;(NOP;(NOP;(print(v);print(rH(a)))))))))))
+SymTable: 
+--Empty--
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 3
+ExeStack: 
+int v
+(v=10;(Ref int a;(new( a, 22 );(fork((wH(a, 30);(v=32;(print(v);print(rH(a))))));;(NOP;(NOP;(NOP;(NOP;(print(v);print(rH(a)))))))))))
+SymTable: 
+--Empty--
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 3
+ExeStack: 
+(v=10;(Ref int a;(new( a, 22 );(fork((wH(a, 30);(v=32;(print(v);print(rH(a))))));;(NOP;(NOP;(NOP;(NOP;(print(v);print(rH(a)))))))))))
+SymTable: 
+v --> 0
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 3
+ExeStack: 
+(v=10;(Ref int a;(new( a, 22 );(fork((wH(a, 30);(v=32;(print(v);print(rH(a))))));;(NOP;(NOP;(NOP;(NOP;(print(v);print(rH(a)))))))))))
+SymTable: 
+v --> 0
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 3
+ExeStack: 
+v=10
+(Ref int a;(new( a, 22 );(fork((wH(a, 30);(v=32;(print(v);print(rH(a))))));;(NOP;(NOP;(NOP;(NOP;(print(v);print(rH(a))))))))))
+SymTable: 
+v --> 0
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 3
+ExeStack: 
+v=10
+(Ref int a;(new( a, 22 );(fork((wH(a, 30);(v=32;(print(v);print(rH(a))))));;(NOP;(NOP;(NOP;(NOP;(print(v);print(rH(a))))))))))
+SymTable: 
+v --> 0
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 3
+ExeStack: 
+(Ref int a;(new( a, 22 );(fork((wH(a, 30);(v=32;(print(v);print(rH(a))))));;(NOP;(NOP;(NOP;(NOP;(print(v);print(rH(a))))))))))
+SymTable: 
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 3
+ExeStack: 
+(Ref int a;(new( a, 22 );(fork((wH(a, 30);(v=32;(print(v);print(rH(a))))));;(NOP;(NOP;(NOP;(NOP;(print(v);print(rH(a))))))))))
+SymTable: 
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 3
+ExeStack: 
+Ref int a
+(new( a, 22 );(fork((wH(a, 30);(v=32;(print(v);print(rH(a))))));;(NOP;(NOP;(NOP;(NOP;(print(v);print(rH(a)))))))))
+SymTable: 
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 3
+ExeStack: 
+Ref int a
+(new( a, 22 );(fork((wH(a, 30);(v=32;(print(v);print(rH(a))))));;(NOP;(NOP;(NOP;(NOP;(print(v);print(rH(a)))))))))
+SymTable: 
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 3
+ExeStack: 
+(new( a, 22 );(fork((wH(a, 30);(v=32;(print(v);print(rH(a))))));;(NOP;(NOP;(NOP;(NOP;(print(v);print(rH(a)))))))))
+SymTable: 
+a --> (-1, int)
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 3
+ExeStack: 
+(new( a, 22 );(fork((wH(a, 30);(v=32;(print(v);print(rH(a))))));;(NOP;(NOP;(NOP;(NOP;(print(v);print(rH(a)))))))))
+SymTable: 
+a --> (-1, int)
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 3
+ExeStack: 
+new( a, 22 )
+(fork((wH(a, 30);(v=32;(print(v);print(rH(a))))));;(NOP;(NOP;(NOP;(NOP;(print(v);print(rH(a))))))))
+SymTable: 
+a --> (-1, int)
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 3
+ExeStack: 
+new( a, 22 )
+(fork((wH(a, 30);(v=32;(print(v);print(rH(a))))));;(NOP;(NOP;(NOP;(NOP;(print(v);print(rH(a))))))))
+SymTable: 
+a --> (-1, int)
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 3
+ExeStack: 
+(fork((wH(a, 30);(v=32;(print(v);print(rH(a))))));;(NOP;(NOP;(NOP;(NOP;(print(v);print(rH(a))))))))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 22
+
+Program of id: 3
+ExeStack: 
+(fork((wH(a, 30);(v=32;(print(v);print(rH(a))))));;(NOP;(NOP;(NOP;(NOP;(print(v);print(rH(a))))))))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 22
+
+Program of id: 3
+ExeStack: 
+fork((wH(a, 30);(v=32;(print(v);print(rH(a))))));
+(NOP;(NOP;(NOP;(NOP;(print(v);print(rH(a)))))))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 22
+
+Program of id: 3
+ExeStack: 
+fork((wH(a, 30);(v=32;(print(v);print(rH(a))))));
+(NOP;(NOP;(NOP;(NOP;(print(v);print(rH(a)))))))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 22
+
+Program of id: 3
+ExeStack: 
+(NOP;(NOP;(NOP;(NOP;(print(v);print(rH(a)))))))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 22
+
+Program of id: 4
+ExeStack: 
+(wH(a, 30);(v=32;(print(v);print(rH(a)))))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 22
+
+Program of id: 3
+ExeStack: 
+(NOP;(NOP;(NOP;(NOP;(print(v);print(rH(a)))))))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 22
+
+Program of id: 4
+ExeStack: 
+(wH(a, 30);(v=32;(print(v);print(rH(a)))))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 22
+
+Program of id: 3
+ExeStack: 
+NOP
+(NOP;(NOP;(NOP;(print(v);print(rH(a))))))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 22
+
+Program of id: 4
+ExeStack: 
+wH(a, 30)
+(v=32;(print(v);print(rH(a))))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 22
+
+Program of id: 3
+ExeStack: 
+NOP
+(NOP;(NOP;(NOP;(print(v);print(rH(a))))))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 22
+
+Program of id: 4
+ExeStack: 
+wH(a, 30)
+(v=32;(print(v);print(rH(a))))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 22
+
+Program of id: 3
+ExeStack: 
+(NOP;(NOP;(NOP;(print(v);print(rH(a))))))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 30
+
+Program of id: 4
+ExeStack: 
+(v=32;(print(v);print(rH(a))))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 30
+
+Program of id: 3
+ExeStack: 
+(NOP;(NOP;(NOP;(print(v);print(rH(a))))))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 30
+
+Program of id: 4
+ExeStack: 
+(v=32;(print(v);print(rH(a))))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 30
+
+Program of id: 3
+ExeStack: 
+NOP
+(NOP;(NOP;(print(v);print(rH(a)))))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 30
+
+Program of id: 4
+ExeStack: 
+v=32
+(print(v);print(rH(a)))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 30
+
+Program of id: 3
+ExeStack: 
+NOP
+(NOP;(NOP;(print(v);print(rH(a)))))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 30
+
+Program of id: 4
+ExeStack: 
+v=32
+(print(v);print(rH(a)))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 30
+
+Program of id: 3
+ExeStack: 
+(NOP;(NOP;(print(v);print(rH(a)))))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 30
+
+Program of id: 4
+ExeStack: 
+(print(v);print(rH(a)))
+SymTable: 
+a --> (1, int)
+v --> 32
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 30
+
+Program of id: 3
+ExeStack: 
+(NOP;(NOP;(print(v);print(rH(a)))))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 30
+
+Program of id: 4
+ExeStack: 
+(print(v);print(rH(a)))
+SymTable: 
+a --> (1, int)
+v --> 32
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 30
+
+Program of id: 3
+ExeStack: 
+NOP
+(NOP;(print(v);print(rH(a))))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 30
+
+Program of id: 4
+ExeStack: 
+print(v)
+print(rH(a))
+SymTable: 
+a --> (1, int)
+v --> 32
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 30
+
+Program of id: 3
+ExeStack: 
+NOP
+(NOP;(print(v);print(rH(a))))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 30
+
+Program of id: 4
+ExeStack: 
+print(v)
+print(rH(a))
+SymTable: 
+a --> (1, int)
+v --> 32
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 30
+
+Program of id: 3
+ExeStack: 
+(NOP;(print(v);print(rH(a))))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+32
+FileTable: 
+--Empty--
+Heap: 
+1 --> 30
+
+Program of id: 4
+ExeStack: 
+print(rH(a))
+SymTable: 
+a --> (1, int)
+v --> 32
+Out: 
+32
+FileTable: 
+--Empty--
+Heap: 
+1 --> 30
+
+Program of id: 3
+ExeStack: 
+(NOP;(print(v);print(rH(a))))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+32
+FileTable: 
+--Empty--
+Heap: 
+1 --> 30
+
+Program of id: 4
+ExeStack: 
+print(rH(a))
+SymTable: 
+a --> (1, int)
+v --> 32
+Out: 
+32
+FileTable: 
+--Empty--
+Heap: 
+1 --> 30
+
+Program of id: 3
+ExeStack: 
+NOP
+(print(v);print(rH(a)))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+32
+30
+FileTable: 
+--Empty--
+Heap: 
+1 --> 30
+
+Program of id: 4
+ExeStack: 
+--Empty--
+SymTable: 
+a --> (1, int)
+v --> 32
+Out: 
+32
+30
+FileTable: 
+--Empty--
+Heap: 
+1 --> 30
+
+Program of id: 3
+ExeStack: 
+NOP
+(print(v);print(rH(a)))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+32
+30
+FileTable: 
+--Empty--
+Heap: 
+1 --> 30
+
+Program of id: 4
+ExeStack: 
+--Empty--
+SymTable: 
+a --> (1, int)
+v --> 32
+Out: 
+32
+30
+FileTable: 
+--Empty--
+Heap: 
+1 --> 30
+
+Program of id: 3
+ExeStack: 
+(print(v);print(rH(a)))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+32
+30
+FileTable: 
+--Empty--
+Heap: 
+1 --> 30
+
+Program of id: 3
+ExeStack: 
+(print(v);print(rH(a)))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+32
+30
+FileTable: 
+--Empty--
+Heap: 
+1 --> 30
+
+Program of id: 3
+ExeStack: 
+print(v)
+print(rH(a))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+32
+30
+FileTable: 
+--Empty--
+Heap: 
+1 --> 30
+
+Program of id: 3
+ExeStack: 
+print(v)
+print(rH(a))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+32
+30
+FileTable: 
+--Empty--
+Heap: 
+1 --> 30
+
+Program of id: 3
+ExeStack: 
+print(rH(a))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+32
+30
+10
+FileTable: 
+--Empty--
+Heap: 
+1 --> 30
+
+Program of id: 3
+ExeStack: 
+print(rH(a))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+32
+30
+10
+FileTable: 
+--Empty--
+Heap: 
+1 --> 30
+
+Program of id: 3
+ExeStack: 
+--Empty--
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+32
+30
+10
+30
+FileTable: 
+--Empty--
+Heap: 
+1 --> 30
+
+Program of id: 3
+ExeStack: 
+--Empty--
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+32
+30
+10
+30
+FileTable: 
+--Empty--
+Heap: 
+1 --> 30
+
+Program of id: 1
+ExeStack: 
+(int v;(v=10;(Ref int a;(new( a, 22 );(fork((wH(a, 30);(v=32;(print(v);print(rH(a))))));;(NOP;(NOP;(NOP;(NOP;(print(v);print(rH(a))))))))))))
+SymTable: 
+--Empty--
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 1
+ExeStack: 
+int v
+(v=10;(Ref int a;(new( a, 22 );(fork((wH(a, 30);(v=32;(print(v);print(rH(a))))));;(NOP;(NOP;(NOP;(NOP;(print(v);print(rH(a)))))))))))
+SymTable: 
+--Empty--
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 1
+ExeStack: 
+int v
+(v=10;(Ref int a;(new( a, 22 );(fork((wH(a, 30);(v=32;(print(v);print(rH(a))))));;(NOP;(NOP;(NOP;(NOP;(print(v);print(rH(a)))))))))))
+SymTable: 
+--Empty--
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 1
+ExeStack: 
+(v=10;(Ref int a;(new( a, 22 );(fork((wH(a, 30);(v=32;(print(v);print(rH(a))))));;(NOP;(NOP;(NOP;(NOP;(print(v);print(rH(a)))))))))))
+SymTable: 
+v --> 0
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 1
+ExeStack: 
+(v=10;(Ref int a;(new( a, 22 );(fork((wH(a, 30);(v=32;(print(v);print(rH(a))))));;(NOP;(NOP;(NOP;(NOP;(print(v);print(rH(a)))))))))))
+SymTable: 
+v --> 0
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 1
+ExeStack: 
+v=10
+(Ref int a;(new( a, 22 );(fork((wH(a, 30);(v=32;(print(v);print(rH(a))))));;(NOP;(NOP;(NOP;(NOP;(print(v);print(rH(a))))))))))
+SymTable: 
+v --> 0
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 1
+ExeStack: 
+v=10
+(Ref int a;(new( a, 22 );(fork((wH(a, 30);(v=32;(print(v);print(rH(a))))));;(NOP;(NOP;(NOP;(NOP;(print(v);print(rH(a))))))))))
+SymTable: 
+v --> 0
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 1
+ExeStack: 
+(Ref int a;(new( a, 22 );(fork((wH(a, 30);(v=32;(print(v);print(rH(a))))));;(NOP;(NOP;(NOP;(NOP;(print(v);print(rH(a))))))))))
+SymTable: 
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 1
+ExeStack: 
+(Ref int a;(new( a, 22 );(fork((wH(a, 30);(v=32;(print(v);print(rH(a))))));;(NOP;(NOP;(NOP;(NOP;(print(v);print(rH(a))))))))))
+SymTable: 
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 1
+ExeStack: 
+Ref int a
+(new( a, 22 );(fork((wH(a, 30);(v=32;(print(v);print(rH(a))))));;(NOP;(NOP;(NOP;(NOP;(print(v);print(rH(a)))))))))
+SymTable: 
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 1
+ExeStack: 
+Ref int a
+(new( a, 22 );(fork((wH(a, 30);(v=32;(print(v);print(rH(a))))));;(NOP;(NOP;(NOP;(NOP;(print(v);print(rH(a)))))))))
+SymTable: 
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 1
+ExeStack: 
+(new( a, 22 );(fork((wH(a, 30);(v=32;(print(v);print(rH(a))))));;(NOP;(NOP;(NOP;(NOP;(print(v);print(rH(a)))))))))
+SymTable: 
+a --> (-1, int)
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 1
+ExeStack: 
+(new( a, 22 );(fork((wH(a, 30);(v=32;(print(v);print(rH(a))))));;(NOP;(NOP;(NOP;(NOP;(print(v);print(rH(a)))))))))
+SymTable: 
+a --> (-1, int)
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 1
+ExeStack: 
+new( a, 22 )
+(fork((wH(a, 30);(v=32;(print(v);print(rH(a))))));;(NOP;(NOP;(NOP;(NOP;(print(v);print(rH(a))))))))
+SymTable: 
+a --> (-1, int)
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 1
+ExeStack: 
+new( a, 22 )
+(fork((wH(a, 30);(v=32;(print(v);print(rH(a))))));;(NOP;(NOP;(NOP;(NOP;(print(v);print(rH(a))))))))
+SymTable: 
+a --> (-1, int)
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 1
+ExeStack: 
+(fork((wH(a, 30);(v=32;(print(v);print(rH(a))))));;(NOP;(NOP;(NOP;(NOP;(print(v);print(rH(a))))))))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 22
+
+Program of id: 1
+ExeStack: 
+(fork((wH(a, 30);(v=32;(print(v);print(rH(a))))));;(NOP;(NOP;(NOP;(NOP;(print(v);print(rH(a))))))))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 22
+
+Program of id: 1
+ExeStack: 
+fork((wH(a, 30);(v=32;(print(v);print(rH(a))))));
+(NOP;(NOP;(NOP;(NOP;(print(v);print(rH(a)))))))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 22
+
+Program of id: 1
+ExeStack: 
+fork((wH(a, 30);(v=32;(print(v);print(rH(a))))));
+(NOP;(NOP;(NOP;(NOP;(print(v);print(rH(a)))))))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 22
+
+Program of id: 1
+ExeStack: 
+(NOP;(NOP;(NOP;(NOP;(print(v);print(rH(a)))))))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 22
+
+Program of id: 1
+ExeStack: 
+(NOP;(NOP;(NOP;(NOP;(print(v);print(rH(a)))))))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 22
+
+Program of id: 1
+ExeStack: 
+(NOP;(NOP;(NOP;(NOP;(print(v);print(rH(a)))))))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 22
+
+Program of id: 1
+ExeStack: 
+(NOP;(NOP;(NOP;(NOP;(print(v);print(rH(a)))))))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 22
+
+Program of id: 1
+ExeStack: 
+(NOP;(NOP;(NOP;(NOP;(print(v);print(rH(a)))))))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 22
+
+Program of id: 1
+ExeStack: 
+(NOP;(NOP;(NOP;(NOP;(print(v);print(rH(a)))))))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 22
+
+Program of id: 1
+ExeStack: 
+(int v;(v=10;(Ref int a;(new( a, 22 );(fork((wH(a, 30);(v=32;(print(v);print(rH(a))))));;(NOP;(NOP;(NOP;(NOP;(print(v);print(rH(a))))))))))))
+SymTable: 
+--Empty--
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 1
+ExeStack: 
+int v
+(v=10;(Ref int a;(new( a, 22 );(fork((wH(a, 30);(v=32;(print(v);print(rH(a))))));;(NOP;(NOP;(NOP;(NOP;(print(v);print(rH(a)))))))))))
+SymTable: 
+--Empty--
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 1
+ExeStack: 
+int v
+(v=10;(Ref int a;(new( a, 22 );(fork((wH(a, 30);(v=32;(print(v);print(rH(a))))));;(NOP;(NOP;(NOP;(NOP;(print(v);print(rH(a)))))))))))
+SymTable: 
+--Empty--
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 1
+ExeStack: 
+(v=10;(Ref int a;(new( a, 22 );(fork((wH(a, 30);(v=32;(print(v);print(rH(a))))));;(NOP;(NOP;(NOP;(NOP;(print(v);print(rH(a)))))))))))
+SymTable: 
+v --> 0
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 1
+ExeStack: 
+(v=10;(Ref int a;(new( a, 22 );(fork((wH(a, 30);(v=32;(print(v);print(rH(a))))));;(NOP;(NOP;(NOP;(NOP;(print(v);print(rH(a)))))))))))
+SymTable: 
+v --> 0
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 1
+ExeStack: 
+v=10
+(Ref int a;(new( a, 22 );(fork((wH(a, 30);(v=32;(print(v);print(rH(a))))));;(NOP;(NOP;(NOP;(NOP;(print(v);print(rH(a))))))))))
+SymTable: 
+v --> 0
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 1
+ExeStack: 
+v=10
+(Ref int a;(new( a, 22 );(fork((wH(a, 30);(v=32;(print(v);print(rH(a))))));;(NOP;(NOP;(NOP;(NOP;(print(v);print(rH(a))))))))))
+SymTable: 
+v --> 0
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 1
+ExeStack: 
+(Ref int a;(new( a, 22 );(fork((wH(a, 30);(v=32;(print(v);print(rH(a))))));;(NOP;(NOP;(NOP;(NOP;(print(v);print(rH(a))))))))))
+SymTable: 
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 1
+ExeStack: 
+(Ref int a;(new( a, 22 );(fork((wH(a, 30);(v=32;(print(v);print(rH(a))))));;(NOP;(NOP;(NOP;(NOP;(print(v);print(rH(a))))))))))
+SymTable: 
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 1
+ExeStack: 
+Ref int a
+(new( a, 22 );(fork((wH(a, 30);(v=32;(print(v);print(rH(a))))));;(NOP;(NOP;(NOP;(NOP;(print(v);print(rH(a)))))))))
+SymTable: 
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 1
+ExeStack: 
+Ref int a
+(new( a, 22 );(fork((wH(a, 30);(v=32;(print(v);print(rH(a))))));;(NOP;(NOP;(NOP;(NOP;(print(v);print(rH(a)))))))))
+SymTable: 
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 1
+ExeStack: 
+(new( a, 22 );(fork((wH(a, 30);(v=32;(print(v);print(rH(a))))));;(NOP;(NOP;(NOP;(NOP;(print(v);print(rH(a)))))))))
+SymTable: 
+a --> (-1, int)
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 1
+ExeStack: 
+(new( a, 22 );(fork((wH(a, 30);(v=32;(print(v);print(rH(a))))));;(NOP;(NOP;(NOP;(NOP;(print(v);print(rH(a)))))))))
+SymTable: 
+a --> (-1, int)
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 1
+ExeStack: 
+new( a, 22 )
+(fork((wH(a, 30);(v=32;(print(v);print(rH(a))))));;(NOP;(NOP;(NOP;(NOP;(print(v);print(rH(a))))))))
+SymTable: 
+a --> (-1, int)
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 1
+ExeStack: 
+new( a, 22 )
+(fork((wH(a, 30);(v=32;(print(v);print(rH(a))))));;(NOP;(NOP;(NOP;(NOP;(print(v);print(rH(a))))))))
+SymTable: 
+a --> (-1, int)
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 1
+ExeStack: 
+(fork((wH(a, 30);(v=32;(print(v);print(rH(a))))));;(NOP;(NOP;(NOP;(NOP;(print(v);print(rH(a))))))))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 22
+
+Program of id: 1
+ExeStack: 
+(fork((wH(a, 30);(v=32;(print(v);print(rH(a))))));;(NOP;(NOP;(NOP;(NOP;(print(v);print(rH(a))))))))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 22
+
+Program of id: 1
+ExeStack: 
+fork((wH(a, 30);(v=32;(print(v);print(rH(a))))));
+(NOP;(NOP;(NOP;(NOP;(print(v);print(rH(a)))))))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 22
+
+Program of id: 1
+ExeStack: 
+fork((wH(a, 30);(v=32;(print(v);print(rH(a))))));
+(NOP;(NOP;(NOP;(NOP;(print(v);print(rH(a)))))))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 22
+
+Program of id: 1
+ExeStack: 
+(NOP;(NOP;(NOP;(NOP;(print(v);print(rH(a)))))))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 22
+
+Program of id: 2
+ExeStack: 
+(int v;(v=10;(Ref int a;(new( a, 22 );(fork((wH(a, 30);(v=32;(print(v);print(rH(a))))));;(NOP;(NOP;(NOP;(NOP;(print(v);print(rH(a))))))))))))
+SymTable: 
+--Empty--
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 2
+ExeStack: 
+int v
+(v=10;(Ref int a;(new( a, 22 );(fork((wH(a, 30);(v=32;(print(v);print(rH(a))))));;(NOP;(NOP;(NOP;(NOP;(print(v);print(rH(a)))))))))))
+SymTable: 
+--Empty--
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 2
+ExeStack: 
+int v
+(v=10;(Ref int a;(new( a, 22 );(fork((wH(a, 30);(v=32;(print(v);print(rH(a))))));;(NOP;(NOP;(NOP;(NOP;(print(v);print(rH(a)))))))))))
+SymTable: 
+--Empty--
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 2
+ExeStack: 
+(v=10;(Ref int a;(new( a, 22 );(fork((wH(a, 30);(v=32;(print(v);print(rH(a))))));;(NOP;(NOP;(NOP;(NOP;(print(v);print(rH(a)))))))))))
+SymTable: 
+v --> 0
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 2
+ExeStack: 
+(v=10;(Ref int a;(new( a, 22 );(fork((wH(a, 30);(v=32;(print(v);print(rH(a))))));;(NOP;(NOP;(NOP;(NOP;(print(v);print(rH(a)))))))))))
+SymTable: 
+v --> 0
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 2
+ExeStack: 
+v=10
+(Ref int a;(new( a, 22 );(fork((wH(a, 30);(v=32;(print(v);print(rH(a))))));;(NOP;(NOP;(NOP;(NOP;(print(v);print(rH(a))))))))))
+SymTable: 
+v --> 0
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 2
+ExeStack: 
+v=10
+(Ref int a;(new( a, 22 );(fork((wH(a, 30);(v=32;(print(v);print(rH(a))))));;(NOP;(NOP;(NOP;(NOP;(print(v);print(rH(a))))))))))
+SymTable: 
+v --> 0
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 2
+ExeStack: 
+(Ref int a;(new( a, 22 );(fork((wH(a, 30);(v=32;(print(v);print(rH(a))))));;(NOP;(NOP;(NOP;(NOP;(print(v);print(rH(a))))))))))
+SymTable: 
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 2
+ExeStack: 
+(Ref int a;(new( a, 22 );(fork((wH(a, 30);(v=32;(print(v);print(rH(a))))));;(NOP;(NOP;(NOP;(NOP;(print(v);print(rH(a))))))))))
+SymTable: 
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 2
+ExeStack: 
+Ref int a
+(new( a, 22 );(fork((wH(a, 30);(v=32;(print(v);print(rH(a))))));;(NOP;(NOP;(NOP;(NOP;(print(v);print(rH(a)))))))))
+SymTable: 
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 2
+ExeStack: 
+Ref int a
+(new( a, 22 );(fork((wH(a, 30);(v=32;(print(v);print(rH(a))))));;(NOP;(NOP;(NOP;(NOP;(print(v);print(rH(a)))))))))
+SymTable: 
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 2
+ExeStack: 
+(new( a, 22 );(fork((wH(a, 30);(v=32;(print(v);print(rH(a))))));;(NOP;(NOP;(NOP;(NOP;(print(v);print(rH(a)))))))))
+SymTable: 
+a --> (-1, int)
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 2
+ExeStack: 
+(new( a, 22 );(fork((wH(a, 30);(v=32;(print(v);print(rH(a))))));;(NOP;(NOP;(NOP;(NOP;(print(v);print(rH(a)))))))))
+SymTable: 
+a --> (-1, int)
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 2
+ExeStack: 
+new( a, 22 )
+(fork((wH(a, 30);(v=32;(print(v);print(rH(a))))));;(NOP;(NOP;(NOP;(NOP;(print(v);print(rH(a))))))))
+SymTable: 
+a --> (-1, int)
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 2
+ExeStack: 
+new( a, 22 )
+(fork((wH(a, 30);(v=32;(print(v);print(rH(a))))));;(NOP;(NOP;(NOP;(NOP;(print(v);print(rH(a))))))))
+SymTable: 
+a --> (-1, int)
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 2
+ExeStack: 
+(fork((wH(a, 30);(v=32;(print(v);print(rH(a))))));;(NOP;(NOP;(NOP;(NOP;(print(v);print(rH(a))))))))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 22
+
+Program of id: 2
+ExeStack: 
+(fork((wH(a, 30);(v=32;(print(v);print(rH(a))))));;(NOP;(NOP;(NOP;(NOP;(print(v);print(rH(a))))))))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 22
+
+Program of id: 2
+ExeStack: 
+fork((wH(a, 30);(v=32;(print(v);print(rH(a))))));
+(NOP;(NOP;(NOP;(NOP;(print(v);print(rH(a)))))))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 22
+
+Program of id: 2
+ExeStack: 
+fork((wH(a, 30);(v=32;(print(v);print(rH(a))))));
+(NOP;(NOP;(NOP;(NOP;(print(v);print(rH(a)))))))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 22
+
+Program of id: 2
+ExeStack: 
+(NOP;(NOP;(NOP;(NOP;(print(v);print(rH(a)))))))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 22
+
+Program of id: 1
+ExeStack: 
+(int v;(v=10;(Ref int a;(new( a, 22 );(fork((wH(a, 30);(v=32;(print(v);print(rH(a))))));;(NOP;(NOP;(NOP;(NOP;(print(v);print(rH(a))))))))))))
+SymTable: 
+--Empty--
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 1
+ExeStack: 
+int v
+(v=10;(Ref int a;(new( a, 22 );(fork((wH(a, 30);(v=32;(print(v);print(rH(a))))));;(NOP;(NOP;(NOP;(NOP;(print(v);print(rH(a)))))))))))
+SymTable: 
+--Empty--
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 1
+ExeStack: 
+int v
+(v=10;(Ref int a;(new( a, 22 );(fork((wH(a, 30);(v=32;(print(v);print(rH(a))))));;(NOP;(NOP;(NOP;(NOP;(print(v);print(rH(a)))))))))))
+SymTable: 
+--Empty--
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 1
+ExeStack: 
+(v=10;(Ref int a;(new( a, 22 );(fork((wH(a, 30);(v=32;(print(v);print(rH(a))))));;(NOP;(NOP;(NOP;(NOP;(print(v);print(rH(a)))))))))))
+SymTable: 
+v --> 0
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 1
+ExeStack: 
+(v=10;(Ref int a;(new( a, 22 );(fork((wH(a, 30);(v=32;(print(v);print(rH(a))))));;(NOP;(NOP;(NOP;(NOP;(print(v);print(rH(a)))))))))))
+SymTable: 
+v --> 0
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 1
+ExeStack: 
+v=10
+(Ref int a;(new( a, 22 );(fork((wH(a, 30);(v=32;(print(v);print(rH(a))))));;(NOP;(NOP;(NOP;(NOP;(print(v);print(rH(a))))))))))
+SymTable: 
+v --> 0
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 1
+ExeStack: 
+v=10
+(Ref int a;(new( a, 22 );(fork((wH(a, 30);(v=32;(print(v);print(rH(a))))));;(NOP;(NOP;(NOP;(NOP;(print(v);print(rH(a))))))))))
+SymTable: 
+v --> 0
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 1
+ExeStack: 
+(Ref int a;(new( a, 22 );(fork((wH(a, 30);(v=32;(print(v);print(rH(a))))));;(NOP;(NOP;(NOP;(NOP;(print(v);print(rH(a))))))))))
+SymTable: 
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 1
+ExeStack: 
+(Ref int a;(new( a, 22 );(fork((wH(a, 30);(v=32;(print(v);print(rH(a))))));;(NOP;(NOP;(NOP;(NOP;(print(v);print(rH(a))))))))))
+SymTable: 
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 1
+ExeStack: 
+Ref int a
+(new( a, 22 );(fork((wH(a, 30);(v=32;(print(v);print(rH(a))))));;(NOP;(NOP;(NOP;(NOP;(print(v);print(rH(a)))))))))
+SymTable: 
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 1
+ExeStack: 
+Ref int a
+(new( a, 22 );(fork((wH(a, 30);(v=32;(print(v);print(rH(a))))));;(NOP;(NOP;(NOP;(NOP;(print(v);print(rH(a)))))))))
+SymTable: 
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 1
+ExeStack: 
+(new( a, 22 );(fork((wH(a, 30);(v=32;(print(v);print(rH(a))))));;(NOP;(NOP;(NOP;(NOP;(print(v);print(rH(a)))))))))
+SymTable: 
+a --> (-1, int)
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 1
+ExeStack: 
+(new( a, 22 );(fork((wH(a, 30);(v=32;(print(v);print(rH(a))))));;(NOP;(NOP;(NOP;(NOP;(print(v);print(rH(a)))))))))
+SymTable: 
+a --> (-1, int)
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 1
+ExeStack: 
+new( a, 22 )
+(fork((wH(a, 30);(v=32;(print(v);print(rH(a))))));;(NOP;(NOP;(NOP;(NOP;(print(v);print(rH(a))))))))
+SymTable: 
+a --> (-1, int)
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 1
+ExeStack: 
+new( a, 22 )
+(fork((wH(a, 30);(v=32;(print(v);print(rH(a))))));;(NOP;(NOP;(NOP;(NOP;(print(v);print(rH(a))))))))
+SymTable: 
+a --> (-1, int)
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 1
+ExeStack: 
+(fork((wH(a, 30);(v=32;(print(v);print(rH(a))))));;(NOP;(NOP;(NOP;(NOP;(print(v);print(rH(a))))))))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 22
+
+Program of id: 1
+ExeStack: 
+(fork((wH(a, 30);(v=32;(print(v);print(rH(a))))));;(NOP;(NOP;(NOP;(NOP;(print(v);print(rH(a))))))))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 22
+
+Program of id: 1
+ExeStack: 
+fork((wH(a, 30);(v=32;(print(v);print(rH(a))))));
+(NOP;(NOP;(NOP;(NOP;(print(v);print(rH(a)))))))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 22
+
+Program of id: 1
+ExeStack: 
+fork((wH(a, 30);(v=32;(print(v);print(rH(a))))));
+(NOP;(NOP;(NOP;(NOP;(print(v);print(rH(a)))))))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 22
+
+Program of id: 1
+ExeStack: 
+(NOP;(NOP;(NOP;(NOP;(print(v);print(rH(a)))))))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 22
+
+Program of id: 1
+ExeStack: 
+(int v;(v=10;(Ref int a;(new( a, 22 );(fork((wH(a, 30);(v=32;(print(v);print(rH(a))))));;(NOP;(NOP;(NOP;(NOP;(print(v);print(rH(a))))))))))))
+SymTable: 
+--Empty--
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 1
+ExeStack: 
+int v
+(v=10;(Ref int a;(new( a, 22 );(fork((wH(a, 30);(v=32;(print(v);print(rH(a))))));;(NOP;(NOP;(NOP;(NOP;(print(v);print(rH(a)))))))))))
+SymTable: 
+--Empty--
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 1
+ExeStack: 
+int v
+(v=10;(Ref int a;(new( a, 22 );(fork((wH(a, 30);(v=32;(print(v);print(rH(a))))));;(NOP;(NOP;(NOP;(NOP;(print(v);print(rH(a)))))))))))
+SymTable: 
+--Empty--
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 1
+ExeStack: 
+(v=10;(Ref int a;(new( a, 22 );(fork((wH(a, 30);(v=32;(print(v);print(rH(a))))));;(NOP;(NOP;(NOP;(NOP;(print(v);print(rH(a)))))))))))
+SymTable: 
+v --> 0
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 1
+ExeStack: 
+(v=10;(Ref int a;(new( a, 22 );(fork((wH(a, 30);(v=32;(print(v);print(rH(a))))));;(NOP;(NOP;(NOP;(NOP;(print(v);print(rH(a)))))))))))
+SymTable: 
+v --> 0
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 1
+ExeStack: 
+v=10
+(Ref int a;(new( a, 22 );(fork((wH(a, 30);(v=32;(print(v);print(rH(a))))));;(NOP;(NOP;(NOP;(NOP;(print(v);print(rH(a))))))))))
+SymTable: 
+v --> 0
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 1
+ExeStack: 
+v=10
+(Ref int a;(new( a, 22 );(fork((wH(a, 30);(v=32;(print(v);print(rH(a))))));;(NOP;(NOP;(NOP;(NOP;(print(v);print(rH(a))))))))))
+SymTable: 
+v --> 0
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 1
+ExeStack: 
+(Ref int a;(new( a, 22 );(fork((wH(a, 30);(v=32;(print(v);print(rH(a))))));;(NOP;(NOP;(NOP;(NOP;(print(v);print(rH(a))))))))))
+SymTable: 
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 1
+ExeStack: 
+(Ref int a;(new( a, 22 );(fork((wH(a, 30);(v=32;(print(v);print(rH(a))))));;(NOP;(NOP;(NOP;(NOP;(print(v);print(rH(a))))))))))
+SymTable: 
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 1
+ExeStack: 
+Ref int a
+(new( a, 22 );(fork((wH(a, 30);(v=32;(print(v);print(rH(a))))));;(NOP;(NOP;(NOP;(NOP;(print(v);print(rH(a)))))))))
+SymTable: 
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 1
+ExeStack: 
+Ref int a
+(new( a, 22 );(fork((wH(a, 30);(v=32;(print(v);print(rH(a))))));;(NOP;(NOP;(NOP;(NOP;(print(v);print(rH(a)))))))))
+SymTable: 
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 1
+ExeStack: 
+(new( a, 22 );(fork((wH(a, 30);(v=32;(print(v);print(rH(a))))));;(NOP;(NOP;(NOP;(NOP;(print(v);print(rH(a)))))))))
+SymTable: 
+a --> (-1, int)
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 1
+ExeStack: 
+(new( a, 22 );(fork((wH(a, 30);(v=32;(print(v);print(rH(a))))));;(NOP;(NOP;(NOP;(NOP;(print(v);print(rH(a)))))))))
+SymTable: 
+a --> (-1, int)
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 1
+ExeStack: 
+new( a, 22 )
+(fork((wH(a, 30);(v=32;(print(v);print(rH(a))))));;(NOP;(NOP;(NOP;(NOP;(print(v);print(rH(a))))))))
+SymTable: 
+a --> (-1, int)
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 1
+ExeStack: 
+new( a, 22 )
+(fork((wH(a, 30);(v=32;(print(v);print(rH(a))))));;(NOP;(NOP;(NOP;(NOP;(print(v);print(rH(a))))))))
+SymTable: 
+a --> (-1, int)
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 1
+ExeStack: 
+(fork((wH(a, 30);(v=32;(print(v);print(rH(a))))));;(NOP;(NOP;(NOP;(NOP;(print(v);print(rH(a))))))))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 22
+
+Program of id: 1
+ExeStack: 
+(fork((wH(a, 30);(v=32;(print(v);print(rH(a))))));;(NOP;(NOP;(NOP;(NOP;(print(v);print(rH(a))))))))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 22
+
+Program of id: 1
+ExeStack: 
+fork((wH(a, 30);(v=32;(print(v);print(rH(a))))));
+(NOP;(NOP;(NOP;(NOP;(print(v);print(rH(a)))))))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 22
+
+Program of id: 1
+ExeStack: 
+fork((wH(a, 30);(v=32;(print(v);print(rH(a))))));
+(NOP;(NOP;(NOP;(NOP;(print(v);print(rH(a)))))))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 22
+
+Program of id: 1
+ExeStack: 
+(NOP;(NOP;(NOP;(NOP;(print(v);print(rH(a)))))))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 22
+
+Program of id: 2
+ExeStack: 
+(wH(a, 30);(v=32;(print(v);print(rH(a)))))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 22
+
+Program of id: 1
+ExeStack: 
+(NOP;(NOP;(NOP;(NOP;(print(v);print(rH(a)))))))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 22
+
+Program of id: 2
+ExeStack: 
+(wH(a, 30);(v=32;(print(v);print(rH(a)))))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 22
+
+Program of id: 1
+ExeStack: 
+NOP
+(NOP;(NOP;(NOP;(print(v);print(rH(a))))))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 22
+
+Program of id: 2
+ExeStack: 
+wH(a, 30)
+(v=32;(print(v);print(rH(a))))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 22
+
+Program of id: 1
+ExeStack: 
+NOP
+(NOP;(NOP;(NOP;(print(v);print(rH(a))))))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 22
+
+Program of id: 2
+ExeStack: 
+wH(a, 30)
+(v=32;(print(v);print(rH(a))))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 22
+
+Program of id: 1
+ExeStack: 
+(NOP;(NOP;(NOP;(print(v);print(rH(a))))))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 30
+
+Program of id: 2
+ExeStack: 
+(v=32;(print(v);print(rH(a))))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 30
+
+Program of id: 1
+ExeStack: 
+(NOP;(NOP;(NOP;(print(v);print(rH(a))))))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 30
+
+Program of id: 2
+ExeStack: 
+(v=32;(print(v);print(rH(a))))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 30
+
+Program of id: 1
+ExeStack: 
+NOP
+(NOP;(NOP;(print(v);print(rH(a)))))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 30
+
+Program of id: 2
+ExeStack: 
+v=32
+(print(v);print(rH(a)))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 30
+
+Program of id: 1
+ExeStack: 
+NOP
+(NOP;(NOP;(print(v);print(rH(a)))))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 30
+
+Program of id: 2
+ExeStack: 
+v=32
+(print(v);print(rH(a)))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 30
+
+Program of id: 1
+ExeStack: 
+(NOP;(NOP;(print(v);print(rH(a)))))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 30
+
+Program of id: 2
+ExeStack: 
+(print(v);print(rH(a)))
+SymTable: 
+a --> (1, int)
+v --> 32
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 30
+
+Program of id: 1
+ExeStack: 
+(NOP;(NOP;(print(v);print(rH(a)))))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 30
+
+Program of id: 2
+ExeStack: 
+(print(v);print(rH(a)))
+SymTable: 
+a --> (1, int)
+v --> 32
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 30
+
+Program of id: 1
+ExeStack: 
+NOP
+(NOP;(print(v);print(rH(a))))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 30
+
+Program of id: 2
+ExeStack: 
+print(v)
+print(rH(a))
+SymTable: 
+a --> (1, int)
+v --> 32
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 30
+
+Program of id: 1
+ExeStack: 
+NOP
+(NOP;(print(v);print(rH(a))))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 30
+
+Program of id: 2
+ExeStack: 
+print(v)
+print(rH(a))
+SymTable: 
+a --> (1, int)
+v --> 32
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 30
+
+Program of id: 1
+ExeStack: 
+(NOP;(print(v);print(rH(a))))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+32
+FileTable: 
+--Empty--
+Heap: 
+1 --> 30
+
+Program of id: 2
+ExeStack: 
+print(rH(a))
+SymTable: 
+a --> (1, int)
+v --> 32
+Out: 
+32
+FileTable: 
+--Empty--
+Heap: 
+1 --> 30
+
+Program of id: 1
+ExeStack: 
+(NOP;(print(v);print(rH(a))))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+32
+FileTable: 
+--Empty--
+Heap: 
+1 --> 30
+
+Program of id: 2
+ExeStack: 
+print(rH(a))
+SymTable: 
+a --> (1, int)
+v --> 32
+Out: 
+32
+FileTable: 
+--Empty--
+Heap: 
+1 --> 30
+
+Program of id: 1
+ExeStack: 
+NOP
+(print(v);print(rH(a)))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+32
+30
+FileTable: 
+--Empty--
+Heap: 
+1 --> 30
+
+Program of id: 2
+ExeStack: 
+--Empty--
+SymTable: 
+a --> (1, int)
+v --> 32
+Out: 
+32
+30
+FileTable: 
+--Empty--
+Heap: 
+1 --> 30
+
+Program of id: 1
+ExeStack: 
+NOP
+(print(v);print(rH(a)))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+32
+30
+FileTable: 
+--Empty--
+Heap: 
+1 --> 30
+
+Program of id: 2
+ExeStack: 
+--Empty--
+SymTable: 
+a --> (1, int)
+v --> 32
+Out: 
+32
+30
+FileTable: 
+--Empty--
+Heap: 
+1 --> 30
+
+Program of id: 1
+ExeStack: 
+(print(v);print(rH(a)))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+32
+30
+FileTable: 
+--Empty--
+Heap: 
+1 --> 30
+
+Program of id: 1
+ExeStack: 
+(print(v);print(rH(a)))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+32
+30
+FileTable: 
+--Empty--
+Heap: 
+1 --> 30
+
+Program of id: 1
+ExeStack: 
+print(v)
+print(rH(a))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+32
+30
+FileTable: 
+--Empty--
+Heap: 
+1 --> 30
+
+Program of id: 1
+ExeStack: 
+print(v)
+print(rH(a))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+32
+30
+FileTable: 
+--Empty--
+Heap: 
+1 --> 30
+
+Program of id: 1
+ExeStack: 
+print(rH(a))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+32
+30
+10
+FileTable: 
+--Empty--
+Heap: 
+1 --> 30
+
+Program of id: 1
+ExeStack: 
+print(rH(a))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+32
+30
+10
+FileTable: 
+--Empty--
+Heap: 
+1 --> 30
+
+Program of id: 1
+ExeStack: 
+--Empty--
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+32
+30
+10
+30
+FileTable: 
+--Empty--
+Heap: 
+1 --> 30
+
+Program of id: 1
+ExeStack: 
+--Empty--
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+32
+30
+10
+30
+FileTable: 
+--Empty--
+Heap: 
+1 --> 30
+
+Program of id: 1
+ExeStack: 
+(int v;(v=10;(Ref int a;(new( a, 22 );(fork((wH(a, 30);(v=32;(print(v);print(rH(a))))));;(NOP;(NOP;(NOP;(NOP;(print(v);print(rH(a))))))))))))
+SymTable: 
+--Empty--
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 1
+ExeStack: 
+int v
+(v=10;(Ref int a;(new( a, 22 );(fork((wH(a, 30);(v=32;(print(v);print(rH(a))))));;(NOP;(NOP;(NOP;(NOP;(print(v);print(rH(a)))))))))))
+SymTable: 
+--Empty--
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 1
+ExeStack: 
+int v
+(v=10;(Ref int a;(new( a, 22 );(fork((wH(a, 30);(v=32;(print(v);print(rH(a))))));;(NOP;(NOP;(NOP;(NOP;(print(v);print(rH(a)))))))))))
+SymTable: 
+--Empty--
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 1
+ExeStack: 
+(v=10;(Ref int a;(new( a, 22 );(fork((wH(a, 30);(v=32;(print(v);print(rH(a))))));;(NOP;(NOP;(NOP;(NOP;(print(v);print(rH(a)))))))))))
+SymTable: 
+v --> 0
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 1
+ExeStack: 
+(v=10;(Ref int a;(new( a, 22 );(fork((wH(a, 30);(v=32;(print(v);print(rH(a))))));;(NOP;(NOP;(NOP;(NOP;(print(v);print(rH(a)))))))))))
+SymTable: 
+v --> 0
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 1
+ExeStack: 
+v=10
+(Ref int a;(new( a, 22 );(fork((wH(a, 30);(v=32;(print(v);print(rH(a))))));;(NOP;(NOP;(NOP;(NOP;(print(v);print(rH(a))))))))))
+SymTable: 
+v --> 0
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 1
+ExeStack: 
+v=10
+(Ref int a;(new( a, 22 );(fork((wH(a, 30);(v=32;(print(v);print(rH(a))))));;(NOP;(NOP;(NOP;(NOP;(print(v);print(rH(a))))))))))
+SymTable: 
+v --> 0
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 1
+ExeStack: 
+(Ref int a;(new( a, 22 );(fork((wH(a, 30);(v=32;(print(v);print(rH(a))))));;(NOP;(NOP;(NOP;(NOP;(print(v);print(rH(a))))))))))
+SymTable: 
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 1
+ExeStack: 
+(Ref int a;(new( a, 22 );(fork((wH(a, 30);(v=32;(print(v);print(rH(a))))));;(NOP;(NOP;(NOP;(NOP;(print(v);print(rH(a))))))))))
+SymTable: 
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 1
+ExeStack: 
+Ref int a
+(new( a, 22 );(fork((wH(a, 30);(v=32;(print(v);print(rH(a))))));;(NOP;(NOP;(NOP;(NOP;(print(v);print(rH(a)))))))))
+SymTable: 
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 1
+ExeStack: 
+Ref int a
+(new( a, 22 );(fork((wH(a, 30);(v=32;(print(v);print(rH(a))))));;(NOP;(NOP;(NOP;(NOP;(print(v);print(rH(a)))))))))
+SymTable: 
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 1
+ExeStack: 
+(new( a, 22 );(fork((wH(a, 30);(v=32;(print(v);print(rH(a))))));;(NOP;(NOP;(NOP;(NOP;(print(v);print(rH(a)))))))))
+SymTable: 
+a --> (-1, int)
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 1
+ExeStack: 
+(new( a, 22 );(fork((wH(a, 30);(v=32;(print(v);print(rH(a))))));;(NOP;(NOP;(NOP;(NOP;(print(v);print(rH(a)))))))))
+SymTable: 
+a --> (-1, int)
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 1
+ExeStack: 
+new( a, 22 )
+(fork((wH(a, 30);(v=32;(print(v);print(rH(a))))));;(NOP;(NOP;(NOP;(NOP;(print(v);print(rH(a))))))))
+SymTable: 
+a --> (-1, int)
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 1
+ExeStack: 
+new( a, 22 )
+(fork((wH(a, 30);(v=32;(print(v);print(rH(a))))));;(NOP;(NOP;(NOP;(NOP;(print(v);print(rH(a))))))))
+SymTable: 
+a --> (-1, int)
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 1
+ExeStack: 
+(fork((wH(a, 30);(v=32;(print(v);print(rH(a))))));;(NOP;(NOP;(NOP;(NOP;(print(v);print(rH(a))))))))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 22
+
+Program of id: 1
+ExeStack: 
+(fork((wH(a, 30);(v=32;(print(v);print(rH(a))))));;(NOP;(NOP;(NOP;(NOP;(print(v);print(rH(a))))))))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 22
+
+Program of id: 1
+ExeStack: 
+fork((wH(a, 30);(v=32;(print(v);print(rH(a))))));
+(NOP;(NOP;(NOP;(NOP;(print(v);print(rH(a)))))))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 22
+
+Program of id: 1
+ExeStack: 
+fork((wH(a, 30);(v=32;(print(v);print(rH(a))))));
+(NOP;(NOP;(NOP;(NOP;(print(v);print(rH(a)))))))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 22
+
+Program of id: 1
+ExeStack: 
+(NOP;(NOP;(NOP;(NOP;(print(v);print(rH(a)))))))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 22
+
+Program of id: 2
+ExeStack: 
+(wH(a, 30);(v=32;(print(v);print(rH(a)))))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 22
+
+Program of id: 1
+ExeStack: 
+(NOP;(NOP;(NOP;(NOP;(print(v);print(rH(a)))))))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 22
+
+Program of id: 2
+ExeStack: 
+(wH(a, 30);(v=32;(print(v);print(rH(a)))))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 22
+
+Program of id: 1
+ExeStack: 
+NOP
+(NOP;(NOP;(NOP;(print(v);print(rH(a))))))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 22
+
+Program of id: 2
+ExeStack: 
+wH(a, 30)
+(v=32;(print(v);print(rH(a))))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 22
+
+Program of id: 1
+ExeStack: 
+NOP
+(NOP;(NOP;(NOP;(print(v);print(rH(a))))))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 22
+
+Program of id: 2
+ExeStack: 
+wH(a, 30)
+(v=32;(print(v);print(rH(a))))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 22
+
+Program of id: 1
+ExeStack: 
+(NOP;(NOP;(NOP;(print(v);print(rH(a))))))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 30
+
+Program of id: 2
+ExeStack: 
+(v=32;(print(v);print(rH(a))))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 30
+
+Program of id: 1
+ExeStack: 
+(NOP;(NOP;(NOP;(print(v);print(rH(a))))))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 30
+
+Program of id: 2
+ExeStack: 
+(v=32;(print(v);print(rH(a))))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 30
+
+Program of id: 1
+ExeStack: 
+NOP
+(NOP;(NOP;(print(v);print(rH(a)))))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 30
+
+Program of id: 2
+ExeStack: 
+v=32
+(print(v);print(rH(a)))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 30
+
+Program of id: 1
+ExeStack: 
+NOP
+(NOP;(NOP;(print(v);print(rH(a)))))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 30
+
+Program of id: 2
+ExeStack: 
+v=32
+(print(v);print(rH(a)))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 30
+
+Program of id: 1
+ExeStack: 
+(NOP;(NOP;(print(v);print(rH(a)))))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 30
+
+Program of id: 2
+ExeStack: 
+(print(v);print(rH(a)))
+SymTable: 
+a --> (1, int)
+v --> 32
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 30
+
+Program of id: 1
+ExeStack: 
+(NOP;(NOP;(print(v);print(rH(a)))))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 30
+
+Program of id: 2
+ExeStack: 
+(print(v);print(rH(a)))
+SymTable: 
+a --> (1, int)
+v --> 32
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 30
+
+Program of id: 1
+ExeStack: 
+NOP
+(NOP;(print(v);print(rH(a))))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 30
+
+Program of id: 2
+ExeStack: 
+print(v)
+print(rH(a))
+SymTable: 
+a --> (1, int)
+v --> 32
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 30
+
+Program of id: 1
+ExeStack: 
+NOP
+(NOP;(print(v);print(rH(a))))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 30
+
+Program of id: 2
+ExeStack: 
+print(v)
+print(rH(a))
+SymTable: 
+a --> (1, int)
+v --> 32
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 30
+
+Program of id: 1
+ExeStack: 
+(NOP;(print(v);print(rH(a))))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+32
+FileTable: 
+--Empty--
+Heap: 
+1 --> 30
+
+Program of id: 2
+ExeStack: 
+print(rH(a))
+SymTable: 
+a --> (1, int)
+v --> 32
+Out: 
+32
+FileTable: 
+--Empty--
+Heap: 
+1 --> 30
+
+Program of id: 1
+ExeStack: 
+(NOP;(print(v);print(rH(a))))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+32
+FileTable: 
+--Empty--
+Heap: 
+1 --> 30
+
+Program of id: 2
+ExeStack: 
+print(rH(a))
+SymTable: 
+a --> (1, int)
+v --> 32
+Out: 
+32
+FileTable: 
+--Empty--
+Heap: 
+1 --> 30
+
+Program of id: 1
+ExeStack: 
+NOP
+(print(v);print(rH(a)))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+32
+30
+FileTable: 
+--Empty--
+Heap: 
+1 --> 30
+
+Program of id: 2
+ExeStack: 
+--Empty--
+SymTable: 
+a --> (1, int)
+v --> 32
+Out: 
+32
+30
+FileTable: 
+--Empty--
+Heap: 
+1 --> 30
+
+Program of id: 1
+ExeStack: 
+NOP
+(print(v);print(rH(a)))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+32
+30
+FileTable: 
+--Empty--
+Heap: 
+1 --> 30
+
+Program of id: 2
+ExeStack: 
+--Empty--
+SymTable: 
+a --> (1, int)
+v --> 32
+Out: 
+32
+30
+FileTable: 
+--Empty--
+Heap: 
+1 --> 30
+
+Program of id: 1
+ExeStack: 
+(print(v);print(rH(a)))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+32
+30
+FileTable: 
+--Empty--
+Heap: 
+1 --> 30
+
+Program of id: 1
+ExeStack: 
+(print(v);print(rH(a)))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+32
+30
+FileTable: 
+--Empty--
+Heap: 
+1 --> 30
+
+Program of id: 1
+ExeStack: 
+print(v)
+print(rH(a))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+32
+30
+FileTable: 
+--Empty--
+Heap: 
+1 --> 30
+
+Program of id: 1
+ExeStack: 
+print(v)
+print(rH(a))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+32
+30
+FileTable: 
+--Empty--
+Heap: 
+1 --> 30
+
+Program of id: 1
+ExeStack: 
+print(rH(a))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+32
+30
+10
+FileTable: 
+--Empty--
+Heap: 
+1 --> 30
+
+Program of id: 1
+ExeStack: 
+print(rH(a))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+32
+30
+10
+FileTable: 
+--Empty--
+Heap: 
+1 --> 30
+
+Program of id: 1
+ExeStack: 
+--Empty--
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+32
+30
+10
+30
+FileTable: 
+--Empty--
+Heap: 
+1 --> 30
+
+Program of id: 1
+ExeStack: 
+--Empty--
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+32
+30
+10
+30
+FileTable: 
+--Empty--
+Heap: 
+1 --> 30
+
+Program of id: 3
+ExeStack: 
+(int v;(v=10;(Ref int a;(new( a, 22 );(fork((wH(a, 30);(v=32;(print(v);print(rH(a))))));;(NOP;(NOP;(NOP;(NOP;(print(v);print(rH(a))))))))))))
+SymTable: 
+--Empty--
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 3
+ExeStack: 
+int v
+(v=10;(Ref int a;(new( a, 22 );(fork((wH(a, 30);(v=32;(print(v);print(rH(a))))));;(NOP;(NOP;(NOP;(NOP;(print(v);print(rH(a)))))))))))
+SymTable: 
+--Empty--
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 3
+ExeStack: 
+int v
+(v=10;(Ref int a;(new( a, 22 );(fork((wH(a, 30);(v=32;(print(v);print(rH(a))))));;(NOP;(NOP;(NOP;(NOP;(print(v);print(rH(a)))))))))))
+SymTable: 
+--Empty--
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 3
+ExeStack: 
+(v=10;(Ref int a;(new( a, 22 );(fork((wH(a, 30);(v=32;(print(v);print(rH(a))))));;(NOP;(NOP;(NOP;(NOP;(print(v);print(rH(a)))))))))))
+SymTable: 
+v --> 0
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 3
+ExeStack: 
+(v=10;(Ref int a;(new( a, 22 );(fork((wH(a, 30);(v=32;(print(v);print(rH(a))))));;(NOP;(NOP;(NOP;(NOP;(print(v);print(rH(a)))))))))))
+SymTable: 
+v --> 0
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 3
+ExeStack: 
+v=10
+(Ref int a;(new( a, 22 );(fork((wH(a, 30);(v=32;(print(v);print(rH(a))))));;(NOP;(NOP;(NOP;(NOP;(print(v);print(rH(a))))))))))
+SymTable: 
+v --> 0
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 3
+ExeStack: 
+v=10
+(Ref int a;(new( a, 22 );(fork((wH(a, 30);(v=32;(print(v);print(rH(a))))));;(NOP;(NOP;(NOP;(NOP;(print(v);print(rH(a))))))))))
+SymTable: 
+v --> 0
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 3
+ExeStack: 
+(Ref int a;(new( a, 22 );(fork((wH(a, 30);(v=32;(print(v);print(rH(a))))));;(NOP;(NOP;(NOP;(NOP;(print(v);print(rH(a))))))))))
+SymTable: 
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 3
+ExeStack: 
+(Ref int a;(new( a, 22 );(fork((wH(a, 30);(v=32;(print(v);print(rH(a))))));;(NOP;(NOP;(NOP;(NOP;(print(v);print(rH(a))))))))))
+SymTable: 
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 3
+ExeStack: 
+Ref int a
+(new( a, 22 );(fork((wH(a, 30);(v=32;(print(v);print(rH(a))))));;(NOP;(NOP;(NOP;(NOP;(print(v);print(rH(a)))))))))
+SymTable: 
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 3
+ExeStack: 
+Ref int a
+(new( a, 22 );(fork((wH(a, 30);(v=32;(print(v);print(rH(a))))));;(NOP;(NOP;(NOP;(NOP;(print(v);print(rH(a)))))))))
+SymTable: 
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 3
+ExeStack: 
+(new( a, 22 );(fork((wH(a, 30);(v=32;(print(v);print(rH(a))))));;(NOP;(NOP;(NOP;(NOP;(print(v);print(rH(a)))))))))
+SymTable: 
+a --> (-1, int)
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 3
+ExeStack: 
+(new( a, 22 );(fork((wH(a, 30);(v=32;(print(v);print(rH(a))))));;(NOP;(NOP;(NOP;(NOP;(print(v);print(rH(a)))))))))
+SymTable: 
+a --> (-1, int)
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 3
+ExeStack: 
+new( a, 22 )
+(fork((wH(a, 30);(v=32;(print(v);print(rH(a))))));;(NOP;(NOP;(NOP;(NOP;(print(v);print(rH(a))))))))
+SymTable: 
+a --> (-1, int)
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 3
+ExeStack: 
+new( a, 22 )
+(fork((wH(a, 30);(v=32;(print(v);print(rH(a))))));;(NOP;(NOP;(NOP;(NOP;(print(v);print(rH(a))))))))
+SymTable: 
+a --> (-1, int)
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 3
+ExeStack: 
+(fork((wH(a, 30);(v=32;(print(v);print(rH(a))))));;(NOP;(NOP;(NOP;(NOP;(print(v);print(rH(a))))))))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 22
+
+Program of id: 3
+ExeStack: 
+(fork((wH(a, 30);(v=32;(print(v);print(rH(a))))));;(NOP;(NOP;(NOP;(NOP;(print(v);print(rH(a))))))))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 22
+
+Program of id: 3
+ExeStack: 
+fork((wH(a, 30);(v=32;(print(v);print(rH(a))))));
+(NOP;(NOP;(NOP;(NOP;(print(v);print(rH(a)))))))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 22
+
+Program of id: 3
+ExeStack: 
+fork((wH(a, 30);(v=32;(print(v);print(rH(a))))));
+(NOP;(NOP;(NOP;(NOP;(print(v);print(rH(a)))))))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 22
+
+Program of id: 3
+ExeStack: 
+(NOP;(NOP;(NOP;(NOP;(print(v);print(rH(a)))))))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 22
+
+Program of id: 4
+ExeStack: 
+(wH(a, 30);(v=32;(print(v);print(rH(a)))))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 22
+
+Program of id: 3
+ExeStack: 
+(NOP;(NOP;(NOP;(NOP;(print(v);print(rH(a)))))))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 22
+
+Program of id: 4
+ExeStack: 
+(wH(a, 30);(v=32;(print(v);print(rH(a)))))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 22
+
+Program of id: 3
+ExeStack: 
+NOP
+(NOP;(NOP;(NOP;(print(v);print(rH(a))))))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 22
+
+Program of id: 4
+ExeStack: 
+wH(a, 30)
+(v=32;(print(v);print(rH(a))))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 22
+
+Program of id: 3
+ExeStack: 
+NOP
+(NOP;(NOP;(NOP;(print(v);print(rH(a))))))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 22
+
+Program of id: 4
+ExeStack: 
+wH(a, 30)
+(v=32;(print(v);print(rH(a))))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 22
+
+Program of id: 3
+ExeStack: 
+(NOP;(NOP;(NOP;(print(v);print(rH(a))))))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 30
+
+Program of id: 4
+ExeStack: 
+(v=32;(print(v);print(rH(a))))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 30
+
+Program of id: 3
+ExeStack: 
+(NOP;(NOP;(NOP;(print(v);print(rH(a))))))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 30
+
+Program of id: 4
+ExeStack: 
+(v=32;(print(v);print(rH(a))))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 30
+
+Program of id: 3
+ExeStack: 
+NOP
+(NOP;(NOP;(print(v);print(rH(a)))))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 30
+
+Program of id: 4
+ExeStack: 
+v=32
+(print(v);print(rH(a)))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 30
+
+Program of id: 3
+ExeStack: 
+NOP
+(NOP;(NOP;(print(v);print(rH(a)))))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 30
+
+Program of id: 4
+ExeStack: 
+v=32
+(print(v);print(rH(a)))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 30
+
+Program of id: 3
+ExeStack: 
+(NOP;(NOP;(print(v);print(rH(a)))))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 30
+
+Program of id: 4
+ExeStack: 
+(print(v);print(rH(a)))
+SymTable: 
+a --> (1, int)
+v --> 32
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 30
+
+Program of id: 3
+ExeStack: 
+(NOP;(NOP;(print(v);print(rH(a)))))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 30
+
+Program of id: 4
+ExeStack: 
+(print(v);print(rH(a)))
+SymTable: 
+a --> (1, int)
+v --> 32
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 30
+
+Program of id: 3
+ExeStack: 
+NOP
+(NOP;(print(v);print(rH(a))))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 30
+
+Program of id: 4
+ExeStack: 
+print(v)
+print(rH(a))
+SymTable: 
+a --> (1, int)
+v --> 32
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 30
+
+Program of id: 3
+ExeStack: 
+NOP
+(NOP;(print(v);print(rH(a))))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 30
+
+Program of id: 4
+ExeStack: 
+print(v)
+print(rH(a))
+SymTable: 
+a --> (1, int)
+v --> 32
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 30
+
+Program of id: 3
+ExeStack: 
+(NOP;(print(v);print(rH(a))))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+32
+FileTable: 
+--Empty--
+Heap: 
+1 --> 30
+
+Program of id: 4
+ExeStack: 
+print(rH(a))
+SymTable: 
+a --> (1, int)
+v --> 32
+Out: 
+32
+FileTable: 
+--Empty--
+Heap: 
+1 --> 30
+
+Program of id: 3
+ExeStack: 
+(NOP;(print(v);print(rH(a))))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+32
+FileTable: 
+--Empty--
+Heap: 
+1 --> 30
+
+Program of id: 4
+ExeStack: 
+print(rH(a))
+SymTable: 
+a --> (1, int)
+v --> 32
+Out: 
+32
+FileTable: 
+--Empty--
+Heap: 
+1 --> 30
+
+Program of id: 3
+ExeStack: 
+NOP
+(print(v);print(rH(a)))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+32
+30
+FileTable: 
+--Empty--
+Heap: 
+1 --> 30
+
+Program of id: 4
+ExeStack: 
+--Empty--
+SymTable: 
+a --> (1, int)
+v --> 32
+Out: 
+32
+30
+FileTable: 
+--Empty--
+Heap: 
+1 --> 30
+
+Program of id: 3
+ExeStack: 
+NOP
+(print(v);print(rH(a)))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+32
+30
+FileTable: 
+--Empty--
+Heap: 
+1 --> 30
+
+Program of id: 4
+ExeStack: 
+--Empty--
+SymTable: 
+a --> (1, int)
+v --> 32
+Out: 
+32
+30
+FileTable: 
+--Empty--
+Heap: 
+1 --> 30
+
+Program of id: 3
+ExeStack: 
+(print(v);print(rH(a)))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+32
+30
+FileTable: 
+--Empty--
+Heap: 
+1 --> 30
+
+Program of id: 3
+ExeStack: 
+(print(v);print(rH(a)))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+32
+30
+FileTable: 
+--Empty--
+Heap: 
+1 --> 30
+
+Program of id: 3
+ExeStack: 
+print(v)
+print(rH(a))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+32
+30
+FileTable: 
+--Empty--
+Heap: 
+1 --> 30
+
+Program of id: 3
+ExeStack: 
+print(v)
+print(rH(a))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+32
+30
+FileTable: 
+--Empty--
+Heap: 
+1 --> 30
+
+Program of id: 3
+ExeStack: 
+print(rH(a))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+32
+30
+10
+FileTable: 
+--Empty--
+Heap: 
+1 --> 30
+
+Program of id: 3
+ExeStack: 
+print(rH(a))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+32
+30
+10
+FileTable: 
+--Empty--
+Heap: 
+1 --> 30
+
+Program of id: 3
+ExeStack: 
+--Empty--
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+32
+30
+10
+30
+FileTable: 
+--Empty--
+Heap: 
+1 --> 30
+
+Program of id: 3
+ExeStack: 
+--Empty--
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+32
+30
+10
+30
+FileTable: 
+--Empty--
+Heap: 
+1 --> 30
+
+Program of id: 1
+ExeStack: 
+(int v;(v=10;(Ref int a;(new( a, 22 );(fork((wH(a, 30);(v=32;(print(v);print(rH(a))))));;(NOP;(NOP;(NOP;(NOP;(print(v);print(rH(a))))))))))))
+SymTable: 
+--Empty--
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 1
+ExeStack: 
+int v
+(v=10;(Ref int a;(new( a, 22 );(fork((wH(a, 30);(v=32;(print(v);print(rH(a))))));;(NOP;(NOP;(NOP;(NOP;(print(v);print(rH(a)))))))))))
+SymTable: 
+--Empty--
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 1
+ExeStack: 
+int v
+(v=10;(Ref int a;(new( a, 22 );(fork((wH(a, 30);(v=32;(print(v);print(rH(a))))));;(NOP;(NOP;(NOP;(NOP;(print(v);print(rH(a)))))))))))
+SymTable: 
+--Empty--
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 1
+ExeStack: 
+(v=10;(Ref int a;(new( a, 22 );(fork((wH(a, 30);(v=32;(print(v);print(rH(a))))));;(NOP;(NOP;(NOP;(NOP;(print(v);print(rH(a)))))))))))
+SymTable: 
+v --> 0
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 1
+ExeStack: 
+(v=10;(Ref int a;(new( a, 22 );(fork((wH(a, 30);(v=32;(print(v);print(rH(a))))));;(NOP;(NOP;(NOP;(NOP;(print(v);print(rH(a)))))))))))
+SymTable: 
+v --> 0
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 1
+ExeStack: 
+v=10
+(Ref int a;(new( a, 22 );(fork((wH(a, 30);(v=32;(print(v);print(rH(a))))));;(NOP;(NOP;(NOP;(NOP;(print(v);print(rH(a))))))))))
+SymTable: 
+v --> 0
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 1
+ExeStack: 
+v=10
+(Ref int a;(new( a, 22 );(fork((wH(a, 30);(v=32;(print(v);print(rH(a))))));;(NOP;(NOP;(NOP;(NOP;(print(v);print(rH(a))))))))))
+SymTable: 
+v --> 0
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 1
+ExeStack: 
+(Ref int a;(new( a, 22 );(fork((wH(a, 30);(v=32;(print(v);print(rH(a))))));;(NOP;(NOP;(NOP;(NOP;(print(v);print(rH(a))))))))))
+SymTable: 
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 1
+ExeStack: 
+(Ref int a;(new( a, 22 );(fork((wH(a, 30);(v=32;(print(v);print(rH(a))))));;(NOP;(NOP;(NOP;(NOP;(print(v);print(rH(a))))))))))
+SymTable: 
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 1
+ExeStack: 
+Ref int a
+(new( a, 22 );(fork((wH(a, 30);(v=32;(print(v);print(rH(a))))));;(NOP;(NOP;(NOP;(NOP;(print(v);print(rH(a)))))))))
+SymTable: 
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 1
+ExeStack: 
+Ref int a
+(new( a, 22 );(fork((wH(a, 30);(v=32;(print(v);print(rH(a))))));;(NOP;(NOP;(NOP;(NOP;(print(v);print(rH(a)))))))))
+SymTable: 
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 1
+ExeStack: 
+(new( a, 22 );(fork((wH(a, 30);(v=32;(print(v);print(rH(a))))));;(NOP;(NOP;(NOP;(NOP;(print(v);print(rH(a)))))))))
+SymTable: 
+a --> (-1, int)
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 1
+ExeStack: 
+(new( a, 22 );(fork((wH(a, 30);(v=32;(print(v);print(rH(a))))));;(NOP;(NOP;(NOP;(NOP;(print(v);print(rH(a)))))))))
+SymTable: 
+a --> (-1, int)
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 1
+ExeStack: 
+new( a, 22 )
+(fork((wH(a, 30);(v=32;(print(v);print(rH(a))))));;(NOP;(NOP;(NOP;(NOP;(print(v);print(rH(a))))))))
+SymTable: 
+a --> (-1, int)
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 1
+ExeStack: 
+new( a, 22 )
+(fork((wH(a, 30);(v=32;(print(v);print(rH(a))))));;(NOP;(NOP;(NOP;(NOP;(print(v);print(rH(a))))))))
+SymTable: 
+a --> (-1, int)
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 1
+ExeStack: 
+(fork((wH(a, 30);(v=32;(print(v);print(rH(a))))));;(NOP;(NOP;(NOP;(NOP;(print(v);print(rH(a))))))))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 22
+
+Program of id: 1
+ExeStack: 
+(fork((wH(a, 30);(v=32;(print(v);print(rH(a))))));;(NOP;(NOP;(NOP;(NOP;(print(v);print(rH(a))))))))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 22
+
+Program of id: 1
+ExeStack: 
+fork((wH(a, 30);(v=32;(print(v);print(rH(a))))));
+(NOP;(NOP;(NOP;(NOP;(print(v);print(rH(a)))))))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 22
+
+Program of id: 1
+ExeStack: 
+fork((wH(a, 30);(v=32;(print(v);print(rH(a))))));
+(NOP;(NOP;(NOP;(NOP;(print(v);print(rH(a)))))))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 22
+
+Program of id: 1
+ExeStack: 
+(NOP;(NOP;(NOP;(NOP;(print(v);print(rH(a)))))))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 22
+
+Program of id: 2
+ExeStack: 
+(wH(a, 30);(v=32;(print(v);print(rH(a)))))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 22
+
+Program of id: 1
+ExeStack: 
+(NOP;(NOP;(NOP;(NOP;(print(v);print(rH(a)))))))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 22
+
+Program of id: 2
+ExeStack: 
+(wH(a, 30);(v=32;(print(v);print(rH(a)))))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 22
+
+Program of id: 1
+ExeStack: 
+NOP
+(NOP;(NOP;(NOP;(print(v);print(rH(a))))))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 22
+
+Program of id: 2
+ExeStack: 
+wH(a, 30)
+(v=32;(print(v);print(rH(a))))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 22
+
+Program of id: 1
+ExeStack: 
+NOP
+(NOP;(NOP;(NOP;(print(v);print(rH(a))))))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 22
+
+Program of id: 2
+ExeStack: 
+wH(a, 30)
+(v=32;(print(v);print(rH(a))))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 22
+
+Program of id: 1
+ExeStack: 
+(NOP;(NOP;(NOP;(print(v);print(rH(a))))))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 30
+
+Program of id: 2
+ExeStack: 
+(v=32;(print(v);print(rH(a))))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 30
+
+Program of id: 1
+ExeStack: 
+(NOP;(NOP;(NOP;(print(v);print(rH(a))))))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 30
+
+Program of id: 2
+ExeStack: 
+(v=32;(print(v);print(rH(a))))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 30
+
+Program of id: 1
+ExeStack: 
+NOP
+(NOP;(NOP;(print(v);print(rH(a)))))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 30
+
+Program of id: 2
+ExeStack: 
+v=32
+(print(v);print(rH(a)))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 30
+
+Program of id: 1
+ExeStack: 
+NOP
+(NOP;(NOP;(print(v);print(rH(a)))))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 30
+
+Program of id: 2
+ExeStack: 
+v=32
+(print(v);print(rH(a)))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 30
+
+Program of id: 1
+ExeStack: 
+(NOP;(NOP;(print(v);print(rH(a)))))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 30
+
+Program of id: 2
+ExeStack: 
+(print(v);print(rH(a)))
+SymTable: 
+a --> (1, int)
+v --> 32
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 30
+
+Program of id: 1
+ExeStack: 
+(NOP;(NOP;(print(v);print(rH(a)))))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 30
+
+Program of id: 2
+ExeStack: 
+(print(v);print(rH(a)))
+SymTable: 
+a --> (1, int)
+v --> 32
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 30
+
+Program of id: 1
+ExeStack: 
+NOP
+(NOP;(print(v);print(rH(a))))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 30
+
+Program of id: 2
+ExeStack: 
+print(v)
+print(rH(a))
+SymTable: 
+a --> (1, int)
+v --> 32
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 30
+
+Program of id: 1
+ExeStack: 
+NOP
+(NOP;(print(v);print(rH(a))))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 30
+
+Program of id: 2
+ExeStack: 
+print(v)
+print(rH(a))
+SymTable: 
+a --> (1, int)
+v --> 32
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 30
+
+Program of id: 1
+ExeStack: 
+(NOP;(print(v);print(rH(a))))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+32
+FileTable: 
+--Empty--
+Heap: 
+1 --> 30
+
+Program of id: 2
+ExeStack: 
+print(rH(a))
+SymTable: 
+a --> (1, int)
+v --> 32
+Out: 
+32
+FileTable: 
+--Empty--
+Heap: 
+1 --> 30
+
+Program of id: 1
+ExeStack: 
+(NOP;(print(v);print(rH(a))))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+32
+FileTable: 
+--Empty--
+Heap: 
+1 --> 30
+
+Program of id: 2
+ExeStack: 
+print(rH(a))
+SymTable: 
+a --> (1, int)
+v --> 32
+Out: 
+32
+FileTable: 
+--Empty--
+Heap: 
+1 --> 30
+
+Program of id: 1
+ExeStack: 
+NOP
+(print(v);print(rH(a)))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+32
+30
+FileTable: 
+--Empty--
+Heap: 
+1 --> 30
+
+Program of id: 2
+ExeStack: 
+--Empty--
+SymTable: 
+a --> (1, int)
+v --> 32
+Out: 
+32
+30
+FileTable: 
+--Empty--
+Heap: 
+1 --> 30
+
+Program of id: 1
+ExeStack: 
+NOP
+(print(v);print(rH(a)))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+32
+30
+FileTable: 
+--Empty--
+Heap: 
+1 --> 30
+
+Program of id: 2
+ExeStack: 
+--Empty--
+SymTable: 
+a --> (1, int)
+v --> 32
+Out: 
+32
+30
+FileTable: 
+--Empty--
+Heap: 
+1 --> 30
+
+Program of id: 1
+ExeStack: 
+(print(v);print(rH(a)))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+32
+30
+FileTable: 
+--Empty--
+Heap: 
+1 --> 30
+
+Program of id: 1
+ExeStack: 
+(print(v);print(rH(a)))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+32
+30
+FileTable: 
+--Empty--
+Heap: 
+1 --> 30
+
+Program of id: 1
+ExeStack: 
+print(v)
+print(rH(a))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+32
+30
+FileTable: 
+--Empty--
+Heap: 
+1 --> 30
+
+Program of id: 1
+ExeStack: 
+print(v)
+print(rH(a))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+32
+30
+FileTable: 
+--Empty--
+Heap: 
+1 --> 30
+
+Program of id: 1
+ExeStack: 
+print(rH(a))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+32
+30
+10
+FileTable: 
+--Empty--
+Heap: 
+1 --> 30
+
+Program of id: 1
+ExeStack: 
+print(rH(a))
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+32
+30
+10
+FileTable: 
+--Empty--
+Heap: 
+1 --> 30
+
+Program of id: 1
+ExeStack: 
+--Empty--
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+32
+30
+10
+30
+FileTable: 
+--Empty--
+Heap: 
+1 --> 30
+
+Program of id: 1
+ExeStack: 
+--Empty--
+SymTable: 
+a --> (1, int)
+v --> 10
+Out: 
+32
+30
+10
+30
+FileTable: 
+--Empty--
+Heap: 
+1 --> 30
+

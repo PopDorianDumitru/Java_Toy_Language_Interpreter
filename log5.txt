@@ -1,0 +1,432 @@
+Program of id: 5
+ExeStack: 
+(int v;(v=7;(IF(v < 3) THEN (print(v)) ELSE (NOP))))
+SymTable: 
+--Empty--
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 5
+ExeStack: 
+int v
+(v=7;(IF(v < 3) THEN (print(v)) ELSE (NOP)))
+SymTable: 
+--Empty--
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 5
+ExeStack: 
+int v
+(v=7;(IF(v < 3) THEN (print(v)) ELSE (NOP)))
+SymTable: 
+--Empty--
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 5
+ExeStack: 
+(v=7;(IF(v < 3) THEN (print(v)) ELSE (NOP)))
+SymTable: 
+v --> 0
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 5
+ExeStack: 
+(v=7;(IF(v < 3) THEN (print(v)) ELSE (NOP)))
+SymTable: 
+v --> 0
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 5
+ExeStack: 
+v=7
+(IF(v < 3) THEN (print(v)) ELSE (NOP))
+SymTable: 
+v --> 0
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 5
+ExeStack: 
+v=7
+(IF(v < 3) THEN (print(v)) ELSE (NOP))
+SymTable: 
+v --> 0
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 5
+ExeStack: 
+(IF(v < 3) THEN (print(v)) ELSE (NOP))
+SymTable: 
+v --> 7
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 5
+ExeStack: 
+(IF(v < 3) THEN (print(v)) ELSE (NOP))
+SymTable: 
+v --> 7
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 5
+ExeStack: 
+--Empty--
+SymTable: 
+v --> 7
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 27
+ExeStack: 
+(Ref int v;(new( v, 20 );(Ref Ref int a;(new( a, v );(print(v);print(a))))))
+SymTable: 
+--Empty--
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 27
+ExeStack: 
+Ref int v
+(new( v, 20 );(Ref Ref int a;(new( a, v );(print(v);print(a)))))
+SymTable: 
+--Empty--
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 27
+ExeStack: 
+Ref int v
+(new( v, 20 );(Ref Ref int a;(new( a, v );(print(v);print(a)))))
+SymTable: 
+--Empty--
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 27
+ExeStack: 
+(new( v, 20 );(Ref Ref int a;(new( a, v );(print(v);print(a)))))
+SymTable: 
+v --> (-1, int)
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 27
+ExeStack: 
+(new( v, 20 );(Ref Ref int a;(new( a, v );(print(v);print(a)))))
+SymTable: 
+v --> (-1, int)
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 27
+ExeStack: 
+new( v, 20 )
+(Ref Ref int a;(new( a, v );(print(v);print(a))))
+SymTable: 
+v --> (-1, int)
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 27
+ExeStack: 
+new( v, 20 )
+(Ref Ref int a;(new( a, v );(print(v);print(a))))
+SymTable: 
+v --> (-1, int)
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 27
+ExeStack: 
+(Ref Ref int a;(new( a, v );(print(v);print(a))))
+SymTable: 
+v --> (1, int)
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 20
+
+Program of id: 27
+ExeStack: 
+(Ref Ref int a;(new( a, v );(print(v);print(a))))
+SymTable: 
+v --> (1, int)
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 20
+
+Program of id: 27
+ExeStack: 
+Ref Ref int a
+(new( a, v );(print(v);print(a)))
+SymTable: 
+v --> (1, int)
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 20
+
+Program of id: 27
+ExeStack: 
+Ref Ref int a
+(new( a, v );(print(v);print(a)))
+SymTable: 
+v --> (1, int)
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 20
+
+Program of id: 27
+ExeStack: 
+(new( a, v );(print(v);print(a)))
+SymTable: 
+a --> (-1, Ref int)
+v --> (1, int)
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 20
+
+Program of id: 27
+ExeStack: 
+(new( a, v );(print(v);print(a)))
+SymTable: 
+a --> (-1, Ref int)
+v --> (1, int)
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 20
+
+Program of id: 27
+ExeStack: 
+new( a, v )
+(print(v);print(a))
+SymTable: 
+a --> (-1, Ref int)
+v --> (1, int)
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 20
+
+Program of id: 27
+ExeStack: 
+new( a, v )
+(print(v);print(a))
+SymTable: 
+a --> (-1, Ref int)
+v --> (1, int)
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 20
+
+Program of id: 27
+ExeStack: 
+(print(v);print(a))
+SymTable: 
+a --> (2, Ref int)
+v --> (1, int)
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 20
+2 --> (1, int)
+
+Program of id: 27
+ExeStack: 
+(print(v);print(a))
+SymTable: 
+a --> (2, Ref int)
+v --> (1, int)
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 20
+2 --> (1, int)
+
+Program of id: 27
+ExeStack: 
+print(v)
+print(a)
+SymTable: 
+a --> (2, Ref int)
+v --> (1, int)
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 20
+2 --> (1, int)
+
+Program of id: 27
+ExeStack: 
+print(v)
+print(a)
+SymTable: 
+a --> (2, Ref int)
+v --> (1, int)
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 20
+2 --> (1, int)
+
+Program of id: 27
+ExeStack: 
+print(a)
+SymTable: 
+a --> (2, Ref int)
+v --> (1, int)
+Out: 
+(1, int)
+FileTable: 
+--Empty--
+Heap: 
+1 --> 20
+2 --> (1, int)
+
+Program of id: 27
+ExeStack: 
+print(a)
+SymTable: 
+a --> (2, Ref int)
+v --> (1, int)
+Out: 
+(1, int)
+FileTable: 
+--Empty--
+Heap: 
+1 --> 20
+2 --> (1, int)
+
+Program of id: 27
+ExeStack: 
+--Empty--
+SymTable: 
+a --> (2, Ref int)
+v --> (1, int)
+Out: 
+(1, int)
+(2, Ref int)
+FileTable: 
+--Empty--
+Heap: 
+1 --> 20
+2 --> (1, int)
+
+Program of id: 27
+ExeStack: 
+--Empty--
+SymTable: 
+a --> (2, Ref int)
+v --> (1, int)
+Out: 
+(1, int)
+(2, Ref int)
+FileTable: 
+--Empty--
+Heap: 
+1 --> 20
+2 --> (1, int)
+
