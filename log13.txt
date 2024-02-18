@@ -1,0 +1,235 @@
+Program of id: 13
+ExeStack: 
+(int a;(int b;(a=10 + 3 * 5;(b=a + 1;print(b)))))
+SymTable: 
+--Empty--
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 13
+ExeStack: 
+int a
+(int b;(a=10 + 3 * 5;(b=a + 1;print(b))))
+SymTable: 
+--Empty--
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 13
+ExeStack: 
+int a
+(int b;(a=10 + 3 * 5;(b=a + 1;print(b))))
+SymTable: 
+--Empty--
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 13
+ExeStack: 
+(int b;(a=10 + 3 * 5;(b=a + 1;print(b))))
+SymTable: 
+a --> 0
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 13
+ExeStack: 
+(int b;(a=10 + 3 * 5;(b=a + 1;print(b))))
+SymTable: 
+a --> 0
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 13
+ExeStack: 
+int b
+(a=10 + 3 * 5;(b=a + 1;print(b)))
+SymTable: 
+a --> 0
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 13
+ExeStack: 
+int b
+(a=10 + 3 * 5;(b=a + 1;print(b)))
+SymTable: 
+a --> 0
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 13
+ExeStack: 
+(a=10 + 3 * 5;(b=a + 1;print(b)))
+SymTable: 
+b --> 0
+a --> 0
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 13
+ExeStack: 
+(a=10 + 3 * 5;(b=a + 1;print(b)))
+SymTable: 
+b --> 0
+a --> 0
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 13
+ExeStack: 
+a=10 + 3 * 5
+(b=a + 1;print(b))
+SymTable: 
+b --> 0
+a --> 0
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 13
+ExeStack: 
+a=10 + 3 * 5
+(b=a + 1;print(b))
+SymTable: 
+b --> 0
+a --> 0
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 13
+ExeStack: 
+(b=a + 1;print(b))
+SymTable: 
+b --> 0
+a --> 25
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 13
+ExeStack: 
+(b=a + 1;print(b))
+SymTable: 
+b --> 0
+a --> 25
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 13
+ExeStack: 
+b=a + 1
+print(b)
+SymTable: 
+b --> 0
+a --> 25
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 13
+ExeStack: 
+b=a + 1
+print(b)
+SymTable: 
+b --> 0
+a --> 25
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 13
+ExeStack: 
+print(b)
+SymTable: 
+b --> 26
+a --> 25
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 13
+ExeStack: 
+print(b)
+SymTable: 
+b --> 26
+a --> 25
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 13
+ExeStack: 
+--Empty--
+SymTable: 
+b --> 26
+a --> 25
+Out: 
+26
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+

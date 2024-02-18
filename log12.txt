@@ -1,0 +1,6320 @@
+Program of id: 6
+ExeStack: 
+Ref int v1
+(Ref int v2;(int x;(int q;(new( v1, 20 );(new( v2, 30 );(newLock(x);(fork((fork((lock(x);(wH(v1, rH(v1) - 1);unlock(x))));;(lock(x);(wH(v1, rH(v1) * 10);unlock(x)))));;(newLock(q);(fork((fork((lock(q);(wH(v2, rH(v2) + 5);unlock(q))));;(lock(q);(wH(v2, rH(v2) * 10);unlock(q)))));;(NOP;(NOP;(NOP;(NOP;(lock(x);(print(rH(v1));(unlock(x);(lock(q);(print(rH(v2));(unlock(q);NOP)))))))))))))))))))
+SymTable: 
+--Empty--
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 6
+ExeStack: 
+(Ref int v2;(int x;(int q;(new( v1, 20 );(new( v2, 30 );(newLock(x);(fork((fork((lock(x);(wH(v1, rH(v1) - 1);unlock(x))));;(lock(x);(wH(v1, rH(v1) * 10);unlock(x)))));;(newLock(q);(fork((fork((lock(q);(wH(v2, rH(v2) + 5);unlock(q))));;(lock(q);(wH(v2, rH(v2) * 10);unlock(q)))));;(NOP;(NOP;(NOP;(NOP;(lock(x);(print(rH(v1));(unlock(x);(lock(q);(print(rH(v2));(unlock(q);NOP)))))))))))))))))))
+SymTable: 
+v1 --> (-1, int)
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 6
+ExeStack: 
+Ref int v2
+(int x;(int q;(new( v1, 20 );(new( v2, 30 );(newLock(x);(fork((fork((lock(x);(wH(v1, rH(v1) - 1);unlock(x))));;(lock(x);(wH(v1, rH(v1) * 10);unlock(x)))));;(newLock(q);(fork((fork((lock(q);(wH(v2, rH(v2) + 5);unlock(q))));;(lock(q);(wH(v2, rH(v2) * 10);unlock(q)))));;(NOP;(NOP;(NOP;(NOP;(lock(x);(print(rH(v1));(unlock(x);(lock(q);(print(rH(v2));(unlock(q);NOP))))))))))))))))))
+SymTable: 
+v1 --> (-1, int)
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 6
+ExeStack: 
+(int x;(int q;(new( v1, 20 );(new( v2, 30 );(newLock(x);(fork((fork((lock(x);(wH(v1, rH(v1) - 1);unlock(x))));;(lock(x);(wH(v1, rH(v1) * 10);unlock(x)))));;(newLock(q);(fork((fork((lock(q);(wH(v2, rH(v2) + 5);unlock(q))));;(lock(q);(wH(v2, rH(v2) * 10);unlock(q)))));;(NOP;(NOP;(NOP;(NOP;(lock(x);(print(rH(v1));(unlock(x);(lock(q);(print(rH(v2));(unlock(q);NOP))))))))))))))))))
+SymTable: 
+v2 --> (-1, int)
+v1 --> (-1, int)
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 1
+ExeStack: 
+Ref int v1
+(Ref int v2;(int x;(int q;(new( v1, 20 );(new( v2, 30 );(newLock(x);(fork((fork((lock(x);(wH(v1, rH(v1) - 1);unlock(x))));;(lock(x);(wH(v1, rH(v1) * 10);unlock(x)))));;(newLock(q);(fork((fork((lock(q);(wH(v2, rH(v2) + 5);unlock(q))));;(lock(q);(wH(v2, rH(v2) * 10);unlock(q)))));;(NOP;(NOP;(NOP;(NOP;(lock(x);(print(rH(v1));(unlock(x);(lock(q);(print(rH(v2));(unlock(q);NOP)))))))))))))))))))
+SymTable: 
+--Empty--
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 1
+ExeStack: 
+(Ref int v2;(int x;(int q;(new( v1, 20 );(new( v2, 30 );(newLock(x);(fork((fork((lock(x);(wH(v1, rH(v1) - 1);unlock(x))));;(lock(x);(wH(v1, rH(v1) * 10);unlock(x)))));;(newLock(q);(fork((fork((lock(q);(wH(v2, rH(v2) + 5);unlock(q))));;(lock(q);(wH(v2, rH(v2) * 10);unlock(q)))));;(NOP;(NOP;(NOP;(NOP;(lock(x);(print(rH(v1));(unlock(x);(lock(q);(print(rH(v2));(unlock(q);NOP)))))))))))))))))))
+SymTable: 
+v1 --> (-1, int)
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 1
+ExeStack: 
+Ref int v2
+(int x;(int q;(new( v1, 20 );(new( v2, 30 );(newLock(x);(fork((fork((lock(x);(wH(v1, rH(v1) - 1);unlock(x))));;(lock(x);(wH(v1, rH(v1) * 10);unlock(x)))));;(newLock(q);(fork((fork((lock(q);(wH(v2, rH(v2) + 5);unlock(q))));;(lock(q);(wH(v2, rH(v2) * 10);unlock(q)))));;(NOP;(NOP;(NOP;(NOP;(lock(x);(print(rH(v1));(unlock(x);(lock(q);(print(rH(v2));(unlock(q);NOP))))))))))))))))))
+SymTable: 
+v1 --> (-1, int)
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 1
+ExeStack: 
+(int x;(int q;(new( v1, 20 );(new( v2, 30 );(newLock(x);(fork((fork((lock(x);(wH(v1, rH(v1) - 1);unlock(x))));;(lock(x);(wH(v1, rH(v1) * 10);unlock(x)))));;(newLock(q);(fork((fork((lock(q);(wH(v2, rH(v2) + 5);unlock(q))));;(lock(q);(wH(v2, rH(v2) * 10);unlock(q)))));;(NOP;(NOP;(NOP;(NOP;(lock(x);(print(rH(v1));(unlock(x);(lock(q);(print(rH(v2));(unlock(q);NOP))))))))))))))))))
+SymTable: 
+v2 --> (-1, int)
+v1 --> (-1, int)
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 1
+ExeStack: 
+int x
+(int q;(new( v1, 20 );(new( v2, 30 );(newLock(x);(fork((fork((lock(x);(wH(v1, rH(v1) - 1);unlock(x))));;(lock(x);(wH(v1, rH(v1) * 10);unlock(x)))));;(newLock(q);(fork((fork((lock(q);(wH(v2, rH(v2) + 5);unlock(q))));;(lock(q);(wH(v2, rH(v2) * 10);unlock(q)))));;(NOP;(NOP;(NOP;(NOP;(lock(x);(print(rH(v1));(unlock(x);(lock(q);(print(rH(v2));(unlock(q);NOP)))))))))))))))))
+SymTable: 
+v2 --> (-1, int)
+v1 --> (-1, int)
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 1
+ExeStack: 
+(int q;(new( v1, 20 );(new( v2, 30 );(newLock(x);(fork((fork((lock(x);(wH(v1, rH(v1) - 1);unlock(x))));;(lock(x);(wH(v1, rH(v1) * 10);unlock(x)))));;(newLock(q);(fork((fork((lock(q);(wH(v2, rH(v2) + 5);unlock(q))));;(lock(q);(wH(v2, rH(v2) * 10);unlock(q)))));;(NOP;(NOP;(NOP;(NOP;(lock(x);(print(rH(v1));(unlock(x);(lock(q);(print(rH(v2));(unlock(q);NOP)))))))))))))))))
+SymTable: 
+x --> 0
+v2 --> (-1, int)
+v1 --> (-1, int)
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 1
+ExeStack: 
+int q
+(new( v1, 20 );(new( v2, 30 );(newLock(x);(fork((fork((lock(x);(wH(v1, rH(v1) - 1);unlock(x))));;(lock(x);(wH(v1, rH(v1) * 10);unlock(x)))));;(newLock(q);(fork((fork((lock(q);(wH(v2, rH(v2) + 5);unlock(q))));;(lock(q);(wH(v2, rH(v2) * 10);unlock(q)))));;(NOP;(NOP;(NOP;(NOP;(lock(x);(print(rH(v1));(unlock(x);(lock(q);(print(rH(v2));(unlock(q);NOP))))))))))))))))
+SymTable: 
+x --> 0
+v2 --> (-1, int)
+v1 --> (-1, int)
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 1
+ExeStack: 
+(new( v1, 20 );(new( v2, 30 );(newLock(x);(fork((fork((lock(x);(wH(v1, rH(v1) - 1);unlock(x))));;(lock(x);(wH(v1, rH(v1) * 10);unlock(x)))));;(newLock(q);(fork((fork((lock(q);(wH(v2, rH(v2) + 5);unlock(q))));;(lock(q);(wH(v2, rH(v2) * 10);unlock(q)))));;(NOP;(NOP;(NOP;(NOP;(lock(x);(print(rH(v1));(unlock(x);(lock(q);(print(rH(v2));(unlock(q);NOP))))))))))))))))
+SymTable: 
+x --> 0
+q --> 0
+v2 --> (-1, int)
+v1 --> (-1, int)
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 1
+ExeStack: 
+new( v1, 20 )
+(new( v2, 30 );(newLock(x);(fork((fork((lock(x);(wH(v1, rH(v1) - 1);unlock(x))));;(lock(x);(wH(v1, rH(v1) * 10);unlock(x)))));;(newLock(q);(fork((fork((lock(q);(wH(v2, rH(v2) + 5);unlock(q))));;(lock(q);(wH(v2, rH(v2) * 10);unlock(q)))));;(NOP;(NOP;(NOP;(NOP;(lock(x);(print(rH(v1));(unlock(x);(lock(q);(print(rH(v2));(unlock(q);NOP)))))))))))))))
+SymTable: 
+x --> 0
+q --> 0
+v2 --> (-1, int)
+v1 --> (-1, int)
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 1
+ExeStack: 
+(new( v2, 30 );(newLock(x);(fork((fork((lock(x);(wH(v1, rH(v1) - 1);unlock(x))));;(lock(x);(wH(v1, rH(v1) * 10);unlock(x)))));;(newLock(q);(fork((fork((lock(q);(wH(v2, rH(v2) + 5);unlock(q))));;(lock(q);(wH(v2, rH(v2) * 10);unlock(q)))));;(NOP;(NOP;(NOP;(NOP;(lock(x);(print(rH(v1));(unlock(x);(lock(q);(print(rH(v2));(unlock(q);NOP)))))))))))))))
+SymTable: 
+x --> 0
+q --> 0
+v2 --> (-1, int)
+v1 --> (1, int)
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 20
+
+Program of id: 1
+ExeStack: 
+new( v2, 30 )
+(newLock(x);(fork((fork((lock(x);(wH(v1, rH(v1) - 1);unlock(x))));;(lock(x);(wH(v1, rH(v1) * 10);unlock(x)))));;(newLock(q);(fork((fork((lock(q);(wH(v2, rH(v2) + 5);unlock(q))));;(lock(q);(wH(v2, rH(v2) * 10);unlock(q)))));;(NOP;(NOP;(NOP;(NOP;(lock(x);(print(rH(v1));(unlock(x);(lock(q);(print(rH(v2));(unlock(q);NOP))))))))))))))
+SymTable: 
+x --> 0
+q --> 0
+v2 --> (-1, int)
+v1 --> (1, int)
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 20
+
+Program of id: 1
+ExeStack: 
+(newLock(x);(fork((fork((lock(x);(wH(v1, rH(v1) - 1);unlock(x))));;(lock(x);(wH(v1, rH(v1) * 10);unlock(x)))));;(newLock(q);(fork((fork((lock(q);(wH(v2, rH(v2) + 5);unlock(q))));;(lock(q);(wH(v2, rH(v2) * 10);unlock(q)))));;(NOP;(NOP;(NOP;(NOP;(lock(x);(print(rH(v1));(unlock(x);(lock(q);(print(rH(v2));(unlock(q);NOP))))))))))))))
+SymTable: 
+x --> 0
+q --> 0
+v2 --> (2, int)
+v1 --> (1, int)
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 20
+2 --> 30
+
+Program of id: 1
+ExeStack: 
+newLock(x)
+(fork((fork((lock(x);(wH(v1, rH(v1) - 1);unlock(x))));;(lock(x);(wH(v1, rH(v1) * 10);unlock(x)))));;(newLock(q);(fork((fork((lock(q);(wH(v2, rH(v2) + 5);unlock(q))));;(lock(q);(wH(v2, rH(v2) * 10);unlock(q)))));;(NOP;(NOP;(NOP;(NOP;(lock(x);(print(rH(v1));(unlock(x);(lock(q);(print(rH(v2));(unlock(q);NOP)))))))))))))
+SymTable: 
+x --> 0
+q --> 0
+v2 --> (2, int)
+v1 --> (1, int)
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 20
+2 --> 30
+
+Program of id: 1
+ExeStack: 
+(fork((fork((lock(x);(wH(v1, rH(v1) - 1);unlock(x))));;(lock(x);(wH(v1, rH(v1) * 10);unlock(x)))));;(newLock(q);(fork((fork((lock(q);(wH(v2, rH(v2) + 5);unlock(q))));;(lock(q);(wH(v2, rH(v2) * 10);unlock(q)))));;(NOP;(NOP;(NOP;(NOP;(lock(x);(print(rH(v1));(unlock(x);(lock(q);(print(rH(v2));(unlock(q);NOP)))))))))))))
+SymTable: 
+x --> 1
+q --> 0
+v2 --> (2, int)
+v1 --> (1, int)
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 20
+2 --> 30
+
+Program of id: 1
+ExeStack: 
+fork((fork((lock(x);(wH(v1, rH(v1) - 1);unlock(x))));;(lock(x);(wH(v1, rH(v1) * 10);unlock(x)))));
+(newLock(q);(fork((fork((lock(q);(wH(v2, rH(v2) + 5);unlock(q))));;(lock(q);(wH(v2, rH(v2) * 10);unlock(q)))));;(NOP;(NOP;(NOP;(NOP;(lock(x);(print(rH(v1));(unlock(x);(lock(q);(print(rH(v2));(unlock(q);NOP))))))))))))
+SymTable: 
+x --> 1
+q --> 0
+v2 --> (2, int)
+v1 --> (1, int)
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 20
+2 --> 30
+
+Program of id: 1
+ExeStack: 
+(newLock(q);(fork((fork((lock(q);(wH(v2, rH(v2) + 5);unlock(q))));;(lock(q);(wH(v2, rH(v2) * 10);unlock(q)))));;(NOP;(NOP;(NOP;(NOP;(lock(x);(print(rH(v1));(unlock(x);(lock(q);(print(rH(v2));(unlock(q);NOP))))))))))))
+SymTable: 
+x --> 1
+q --> 0
+v2 --> (2, int)
+v1 --> (1, int)
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 20
+2 --> 30
+
+Program of id: 2
+ExeStack: 
+(fork((lock(x);(wH(v1, rH(v1) - 1);unlock(x))));;(lock(x);(wH(v1, rH(v1) * 10);unlock(x))))
+SymTable: 
+x --> 1
+q --> 0
+v2 --> (2, int)
+v1 --> (1, int)
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 20
+2 --> 30
+
+Program of id: 1
+ExeStack: 
+newLock(q)
+(fork((fork((lock(q);(wH(v2, rH(v2) + 5);unlock(q))));;(lock(q);(wH(v2, rH(v2) * 10);unlock(q)))));;(NOP;(NOP;(NOP;(NOP;(lock(x);(print(rH(v1));(unlock(x);(lock(q);(print(rH(v2));(unlock(q);NOP)))))))))))
+SymTable: 
+x --> 1
+q --> 0
+v2 --> (2, int)
+v1 --> (1, int)
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 20
+2 --> 30
+
+Program of id: 2
+ExeStack: 
+fork((lock(x);(wH(v1, rH(v1) - 1);unlock(x))));
+(lock(x);(wH(v1, rH(v1) * 10);unlock(x)))
+SymTable: 
+x --> 1
+q --> 0
+v2 --> (2, int)
+v1 --> (1, int)
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 20
+2 --> 30
+
+Program of id: 1
+ExeStack: 
+(fork((fork((lock(q);(wH(v2, rH(v2) + 5);unlock(q))));;(lock(q);(wH(v2, rH(v2) * 10);unlock(q)))));;(NOP;(NOP;(NOP;(NOP;(lock(x);(print(rH(v1));(unlock(x);(lock(q);(print(rH(v2));(unlock(q);NOP)))))))))))
+SymTable: 
+x --> 1
+q --> 2
+v2 --> (2, int)
+v1 --> (1, int)
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 20
+2 --> 30
+
+Program of id: 2
+ExeStack: 
+(lock(x);(wH(v1, rH(v1) * 10);unlock(x)))
+SymTable: 
+x --> 1
+q --> 0
+v2 --> (2, int)
+v1 --> (1, int)
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 20
+2 --> 30
+
+Program of id: 3
+ExeStack: 
+(lock(x);(wH(v1, rH(v1) - 1);unlock(x)))
+SymTable: 
+x --> 1
+q --> 0
+v2 --> (2, int)
+v1 --> (1, int)
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 20
+2 --> 30
+
+Program of id: 1
+ExeStack: 
+fork((fork((lock(q);(wH(v2, rH(v2) + 5);unlock(q))));;(lock(q);(wH(v2, rH(v2) * 10);unlock(q)))));
+(NOP;(NOP;(NOP;(NOP;(lock(x);(print(rH(v1));(unlock(x);(lock(q);(print(rH(v2));(unlock(q);NOP))))))))))
+SymTable: 
+x --> 1
+q --> 2
+v2 --> (2, int)
+v1 --> (1, int)
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 20
+2 --> 30
+
+Program of id: 2
+ExeStack: 
+lock(x)
+(wH(v1, rH(v1) * 10);unlock(x))
+SymTable: 
+x --> 1
+q --> 0
+v2 --> (2, int)
+v1 --> (1, int)
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 20
+2 --> 30
+
+Program of id: 3
+ExeStack: 
+lock(x)
+(wH(v1, rH(v1) - 1);unlock(x))
+SymTable: 
+x --> 1
+q --> 0
+v2 --> (2, int)
+v1 --> (1, int)
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 20
+2 --> 30
+
+Program of id: 1
+ExeStack: 
+(NOP;(NOP;(NOP;(NOP;(lock(x);(print(rH(v1));(unlock(x);(lock(q);(print(rH(v2));(unlock(q);NOP))))))))))
+SymTable: 
+x --> 1
+q --> 2
+v2 --> (2, int)
+v1 --> (1, int)
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 20
+2 --> 30
+
+Program of id: 2
+ExeStack: 
+(wH(v1, rH(v1) * 10);unlock(x))
+SymTable: 
+x --> 1
+q --> 0
+v2 --> (2, int)
+v1 --> (1, int)
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 20
+2 --> 30
+
+Program of id: 3
+ExeStack: 
+(wH(v1, rH(v1) - 1);unlock(x))
+SymTable: 
+x --> 1
+q --> 0
+v2 --> (2, int)
+v1 --> (1, int)
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 20
+2 --> 30
+
+Program of id: 4
+ExeStack: 
+(fork((lock(q);(wH(v2, rH(v2) + 5);unlock(q))));;(lock(q);(wH(v2, rH(v2) * 10);unlock(q))))
+SymTable: 
+x --> 1
+q --> 2
+v2 --> (2, int)
+v1 --> (1, int)
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 20
+2 --> 30
+
+Program of id: 1
+ExeStack: 
+NOP
+(NOP;(NOP;(NOP;(lock(x);(print(rH(v1));(unlock(x);(lock(q);(print(rH(v2));(unlock(q);NOP)))))))))
+SymTable: 
+x --> 1
+q --> 2
+v2 --> (2, int)
+v1 --> (1, int)
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 20
+2 --> 30
+
+Program of id: 2
+ExeStack: 
+wH(v1, rH(v1) * 10)
+unlock(x)
+SymTable: 
+x --> 1
+q --> 0
+v2 --> (2, int)
+v1 --> (1, int)
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 20
+2 --> 30
+
+Program of id: 3
+ExeStack: 
+wH(v1, rH(v1) - 1)
+unlock(x)
+SymTable: 
+x --> 1
+q --> 0
+v2 --> (2, int)
+v1 --> (1, int)
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 20
+2 --> 30
+
+Program of id: 4
+ExeStack: 
+fork((lock(q);(wH(v2, rH(v2) + 5);unlock(q))));
+(lock(q);(wH(v2, rH(v2) * 10);unlock(q)))
+SymTable: 
+x --> 1
+q --> 2
+v2 --> (2, int)
+v1 --> (1, int)
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 20
+2 --> 30
+
+Program of id: 1
+ExeStack: 
+(NOP;(NOP;(NOP;(lock(x);(print(rH(v1));(unlock(x);(lock(q);(print(rH(v2));(unlock(q);NOP)))))))))
+SymTable: 
+x --> 1
+q --> 2
+v2 --> (2, int)
+v1 --> (1, int)
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 200
+2 --> 30
+
+Program of id: 2
+ExeStack: 
+unlock(x)
+SymTable: 
+x --> 1
+q --> 0
+v2 --> (2, int)
+v1 --> (1, int)
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 200
+2 --> 30
+
+Program of id: 3
+ExeStack: 
+unlock(x)
+SymTable: 
+x --> 1
+q --> 0
+v2 --> (2, int)
+v1 --> (1, int)
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 200
+2 --> 30
+
+Program of id: 4
+ExeStack: 
+(lock(q);(wH(v2, rH(v2) * 10);unlock(q)))
+SymTable: 
+x --> 1
+q --> 2
+v2 --> (2, int)
+v1 --> (1, int)
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 200
+2 --> 30
+
+Program of id: 5
+ExeStack: 
+(lock(q);(wH(v2, rH(v2) + 5);unlock(q)))
+SymTable: 
+x --> 1
+q --> 2
+v2 --> (2, int)
+v1 --> (1, int)
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 200
+2 --> 30
+
+Program of id: 1
+ExeStack: 
+NOP
+(NOP;(NOP;(lock(x);(print(rH(v1));(unlock(x);(lock(q);(print(rH(v2));(unlock(q);NOP))))))))
+SymTable: 
+x --> 1
+q --> 2
+v2 --> (2, int)
+v1 --> (1, int)
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 200
+2 --> 30
+
+Program of id: 2
+ExeStack: 
+--Empty--
+SymTable: 
+x --> 1
+q --> 0
+v2 --> (2, int)
+v1 --> (1, int)
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 200
+2 --> 30
+
+Program of id: 3
+ExeStack: 
+--Empty--
+SymTable: 
+x --> 1
+q --> 0
+v2 --> (2, int)
+v1 --> (1, int)
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 200
+2 --> 30
+
+Program of id: 4
+ExeStack: 
+lock(q)
+(wH(v2, rH(v2) * 10);unlock(q))
+SymTable: 
+x --> 1
+q --> 2
+v2 --> (2, int)
+v1 --> (1, int)
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 200
+2 --> 30
+
+Program of id: 5
+ExeStack: 
+lock(q)
+(wH(v2, rH(v2) + 5);unlock(q))
+SymTable: 
+x --> 1
+q --> 2
+v2 --> (2, int)
+v1 --> (1, int)
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 200
+2 --> 30
+
+Program of id: 1
+ExeStack: 
+(NOP;(NOP;(lock(x);(print(rH(v1));(unlock(x);(lock(q);(print(rH(v2));(unlock(q);NOP))))))))
+SymTable: 
+x --> 1
+q --> 2
+v2 --> (2, int)
+v1 --> (1, int)
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 200
+2 --> 30
+
+Program of id: 4
+ExeStack: 
+(wH(v2, rH(v2) * 10);unlock(q))
+SymTable: 
+x --> 1
+q --> 2
+v2 --> (2, int)
+v1 --> (1, int)
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 200
+2 --> 30
+
+Program of id: 5
+ExeStack: 
+(wH(v2, rH(v2) + 5);unlock(q))
+SymTable: 
+x --> 1
+q --> 2
+v2 --> (2, int)
+v1 --> (1, int)
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 200
+2 --> 30
+
+Program of id: 1
+ExeStack: 
+NOP
+(NOP;(lock(x);(print(rH(v1));(unlock(x);(lock(q);(print(rH(v2));(unlock(q);NOP)))))))
+SymTable: 
+x --> 1
+q --> 2
+v2 --> (2, int)
+v1 --> (1, int)
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 200
+2 --> 30
+
+Program of id: 4
+ExeStack: 
+wH(v2, rH(v2) * 10)
+unlock(q)
+SymTable: 
+x --> 1
+q --> 2
+v2 --> (2, int)
+v1 --> (1, int)
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 200
+2 --> 30
+
+Program of id: 5
+ExeStack: 
+wH(v2, rH(v2) + 5)
+unlock(q)
+SymTable: 
+x --> 1
+q --> 2
+v2 --> (2, int)
+v1 --> (1, int)
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 200
+2 --> 30
+
+Program of id: 1
+ExeStack: 
+(NOP;(lock(x);(print(rH(v1));(unlock(x);(lock(q);(print(rH(v2));(unlock(q);NOP)))))))
+SymTable: 
+x --> 1
+q --> 2
+v2 --> (2, int)
+v1 --> (1, int)
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 200
+2 --> 305
+
+Program of id: 4
+ExeStack: 
+unlock(q)
+SymTable: 
+x --> 1
+q --> 2
+v2 --> (2, int)
+v1 --> (1, int)
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 200
+2 --> 305
+
+Program of id: 5
+ExeStack: 
+unlock(q)
+SymTable: 
+x --> 1
+q --> 2
+v2 --> (2, int)
+v1 --> (1, int)
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 200
+2 --> 305
+
+Program of id: 1
+ExeStack: 
+NOP
+(lock(x);(print(rH(v1));(unlock(x);(lock(q);(print(rH(v2));(unlock(q);NOP))))))
+SymTable: 
+x --> 1
+q --> 2
+v2 --> (2, int)
+v1 --> (1, int)
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 200
+2 --> 305
+
+Program of id: 4
+ExeStack: 
+--Empty--
+SymTable: 
+x --> 1
+q --> 2
+v2 --> (2, int)
+v1 --> (1, int)
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 200
+2 --> 305
+
+Program of id: 5
+ExeStack: 
+--Empty--
+SymTable: 
+x --> 1
+q --> 2
+v2 --> (2, int)
+v1 --> (1, int)
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 200
+2 --> 305
+
+Program of id: 1
+ExeStack: 
+(lock(x);(print(rH(v1));(unlock(x);(lock(q);(print(rH(v2));(unlock(q);NOP))))))
+SymTable: 
+x --> 1
+q --> 2
+v2 --> (2, int)
+v1 --> (1, int)
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 200
+2 --> 305
+
+Program of id: 1
+ExeStack: 
+Ref int v1
+(Ref int v2;(int x;(int q;(new( v1, 20 );(new( v2, 30 );(newLock(x);(fork((fork((lock(x);(wH(v1, rH(v1) - 1);unlock(x))));;(lock(x);(wH(v1, rH(v1) * 10);unlock(x)))));;(newLock(q);(fork((fork((lock(q);(wH(v2, rH(v2) + 5);unlock(q))));;(lock(q);(wH(v2, rH(v2) * 10);unlock(q)))));;(NOP;(NOP;(NOP;(NOP;(lock(x);(print(rH(v1));(unlock(x);(lock(q);(print(rH(v2));(unlock(q);NOP)))))))))))))))))))
+SymTable: 
+--Empty--
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 1
+ExeStack: 
+(Ref int v2;(int x;(int q;(new( v1, 20 );(new( v2, 30 );(newLock(x);(fork((fork((lock(x);(wH(v1, rH(v1) - 1);unlock(x))));;(lock(x);(wH(v1, rH(v1) * 10);unlock(x)))));;(newLock(q);(fork((fork((lock(q);(wH(v2, rH(v2) + 5);unlock(q))));;(lock(q);(wH(v2, rH(v2) * 10);unlock(q)))));;(NOP;(NOP;(NOP;(NOP;(lock(x);(print(rH(v1));(unlock(x);(lock(q);(print(rH(v2));(unlock(q);NOP)))))))))))))))))))
+SymTable: 
+v1 --> (-1, int)
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 1
+ExeStack: 
+Ref int v2
+(int x;(int q;(new( v1, 20 );(new( v2, 30 );(newLock(x);(fork((fork((lock(x);(wH(v1, rH(v1) - 1);unlock(x))));;(lock(x);(wH(v1, rH(v1) * 10);unlock(x)))));;(newLock(q);(fork((fork((lock(q);(wH(v2, rH(v2) + 5);unlock(q))));;(lock(q);(wH(v2, rH(v2) * 10);unlock(q)))));;(NOP;(NOP;(NOP;(NOP;(lock(x);(print(rH(v1));(unlock(x);(lock(q);(print(rH(v2));(unlock(q);NOP))))))))))))))))))
+SymTable: 
+v1 --> (-1, int)
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 1
+ExeStack: 
+(int x;(int q;(new( v1, 20 );(new( v2, 30 );(newLock(x);(fork((fork((lock(x);(wH(v1, rH(v1) - 1);unlock(x))));;(lock(x);(wH(v1, rH(v1) * 10);unlock(x)))));;(newLock(q);(fork((fork((lock(q);(wH(v2, rH(v2) + 5);unlock(q))));;(lock(q);(wH(v2, rH(v2) * 10);unlock(q)))));;(NOP;(NOP;(NOP;(NOP;(lock(x);(print(rH(v1));(unlock(x);(lock(q);(print(rH(v2));(unlock(q);NOP))))))))))))))))))
+SymTable: 
+v2 --> (-1, int)
+v1 --> (-1, int)
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 1
+ExeStack: 
+int x
+(int q;(new( v1, 20 );(new( v2, 30 );(newLock(x);(fork((fork((lock(x);(wH(v1, rH(v1) - 1);unlock(x))));;(lock(x);(wH(v1, rH(v1) * 10);unlock(x)))));;(newLock(q);(fork((fork((lock(q);(wH(v2, rH(v2) + 5);unlock(q))));;(lock(q);(wH(v2, rH(v2) * 10);unlock(q)))));;(NOP;(NOP;(NOP;(NOP;(lock(x);(print(rH(v1));(unlock(x);(lock(q);(print(rH(v2));(unlock(q);NOP)))))))))))))))))
+SymTable: 
+v2 --> (-1, int)
+v1 --> (-1, int)
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 1
+ExeStack: 
+(int q;(new( v1, 20 );(new( v2, 30 );(newLock(x);(fork((fork((lock(x);(wH(v1, rH(v1) - 1);unlock(x))));;(lock(x);(wH(v1, rH(v1) * 10);unlock(x)))));;(newLock(q);(fork((fork((lock(q);(wH(v2, rH(v2) + 5);unlock(q))));;(lock(q);(wH(v2, rH(v2) * 10);unlock(q)))));;(NOP;(NOP;(NOP;(NOP;(lock(x);(print(rH(v1));(unlock(x);(lock(q);(print(rH(v2));(unlock(q);NOP)))))))))))))))))
+SymTable: 
+x --> 0
+v2 --> (-1, int)
+v1 --> (-1, int)
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 1
+ExeStack: 
+int q
+(new( v1, 20 );(new( v2, 30 );(newLock(x);(fork((fork((lock(x);(wH(v1, rH(v1) - 1);unlock(x))));;(lock(x);(wH(v1, rH(v1) * 10);unlock(x)))));;(newLock(q);(fork((fork((lock(q);(wH(v2, rH(v2) + 5);unlock(q))));;(lock(q);(wH(v2, rH(v2) * 10);unlock(q)))));;(NOP;(NOP;(NOP;(NOP;(lock(x);(print(rH(v1));(unlock(x);(lock(q);(print(rH(v2));(unlock(q);NOP))))))))))))))))
+SymTable: 
+x --> 0
+v2 --> (-1, int)
+v1 --> (-1, int)
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 1
+ExeStack: 
+(new( v1, 20 );(new( v2, 30 );(newLock(x);(fork((fork((lock(x);(wH(v1, rH(v1) - 1);unlock(x))));;(lock(x);(wH(v1, rH(v1) * 10);unlock(x)))));;(newLock(q);(fork((fork((lock(q);(wH(v2, rH(v2) + 5);unlock(q))));;(lock(q);(wH(v2, rH(v2) * 10);unlock(q)))));;(NOP;(NOP;(NOP;(NOP;(lock(x);(print(rH(v1));(unlock(x);(lock(q);(print(rH(v2));(unlock(q);NOP))))))))))))))))
+SymTable: 
+x --> 0
+q --> 0
+v2 --> (-1, int)
+v1 --> (-1, int)
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 1
+ExeStack: 
+new( v1, 20 )
+(new( v2, 30 );(newLock(x);(fork((fork((lock(x);(wH(v1, rH(v1) - 1);unlock(x))));;(lock(x);(wH(v1, rH(v1) * 10);unlock(x)))));;(newLock(q);(fork((fork((lock(q);(wH(v2, rH(v2) + 5);unlock(q))));;(lock(q);(wH(v2, rH(v2) * 10);unlock(q)))));;(NOP;(NOP;(NOP;(NOP;(lock(x);(print(rH(v1));(unlock(x);(lock(q);(print(rH(v2));(unlock(q);NOP)))))))))))))))
+SymTable: 
+x --> 0
+q --> 0
+v2 --> (-1, int)
+v1 --> (-1, int)
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 1
+ExeStack: 
+(new( v2, 30 );(newLock(x);(fork((fork((lock(x);(wH(v1, rH(v1) - 1);unlock(x))));;(lock(x);(wH(v1, rH(v1) * 10);unlock(x)))));;(newLock(q);(fork((fork((lock(q);(wH(v2, rH(v2) + 5);unlock(q))));;(lock(q);(wH(v2, rH(v2) * 10);unlock(q)))));;(NOP;(NOP;(NOP;(NOP;(lock(x);(print(rH(v1));(unlock(x);(lock(q);(print(rH(v2));(unlock(q);NOP)))))))))))))))
+SymTable: 
+x --> 0
+q --> 0
+v2 --> (-1, int)
+v1 --> (1, int)
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 20
+
+Program of id: 1
+ExeStack: 
+new( v2, 30 )
+(newLock(x);(fork((fork((lock(x);(wH(v1, rH(v1) - 1);unlock(x))));;(lock(x);(wH(v1, rH(v1) * 10);unlock(x)))));;(newLock(q);(fork((fork((lock(q);(wH(v2, rH(v2) + 5);unlock(q))));;(lock(q);(wH(v2, rH(v2) * 10);unlock(q)))));;(NOP;(NOP;(NOP;(NOP;(lock(x);(print(rH(v1));(unlock(x);(lock(q);(print(rH(v2));(unlock(q);NOP))))))))))))))
+SymTable: 
+x --> 0
+q --> 0
+v2 --> (-1, int)
+v1 --> (1, int)
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 20
+
+Program of id: 1
+ExeStack: 
+(newLock(x);(fork((fork((lock(x);(wH(v1, rH(v1) - 1);unlock(x))));;(lock(x);(wH(v1, rH(v1) * 10);unlock(x)))));;(newLock(q);(fork((fork((lock(q);(wH(v2, rH(v2) + 5);unlock(q))));;(lock(q);(wH(v2, rH(v2) * 10);unlock(q)))));;(NOP;(NOP;(NOP;(NOP;(lock(x);(print(rH(v1));(unlock(x);(lock(q);(print(rH(v2));(unlock(q);NOP))))))))))))))
+SymTable: 
+x --> 0
+q --> 0
+v2 --> (2, int)
+v1 --> (1, int)
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 20
+2 --> 30
+
+Program of id: 1
+ExeStack: 
+newLock(x)
+(fork((fork((lock(x);(wH(v1, rH(v1) - 1);unlock(x))));;(lock(x);(wH(v1, rH(v1) * 10);unlock(x)))));;(newLock(q);(fork((fork((lock(q);(wH(v2, rH(v2) + 5);unlock(q))));;(lock(q);(wH(v2, rH(v2) * 10);unlock(q)))));;(NOP;(NOP;(NOP;(NOP;(lock(x);(print(rH(v1));(unlock(x);(lock(q);(print(rH(v2));(unlock(q);NOP)))))))))))))
+SymTable: 
+x --> 0
+q --> 0
+v2 --> (2, int)
+v1 --> (1, int)
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 20
+2 --> 30
+
+Program of id: 1
+ExeStack: 
+(fork((fork((lock(x);(wH(v1, rH(v1) - 1);unlock(x))));;(lock(x);(wH(v1, rH(v1) * 10);unlock(x)))));;(newLock(q);(fork((fork((lock(q);(wH(v2, rH(v2) + 5);unlock(q))));;(lock(q);(wH(v2, rH(v2) * 10);unlock(q)))));;(NOP;(NOP;(NOP;(NOP;(lock(x);(print(rH(v1));(unlock(x);(lock(q);(print(rH(v2));(unlock(q);NOP)))))))))))))
+SymTable: 
+x --> 1
+q --> 0
+v2 --> (2, int)
+v1 --> (1, int)
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 20
+2 --> 30
+
+Program of id: 1
+ExeStack: 
+fork((fork((lock(x);(wH(v1, rH(v1) - 1);unlock(x))));;(lock(x);(wH(v1, rH(v1) * 10);unlock(x)))));
+(newLock(q);(fork((fork((lock(q);(wH(v2, rH(v2) + 5);unlock(q))));;(lock(q);(wH(v2, rH(v2) * 10);unlock(q)))));;(NOP;(NOP;(NOP;(NOP;(lock(x);(print(rH(v1));(unlock(x);(lock(q);(print(rH(v2));(unlock(q);NOP))))))))))))
+SymTable: 
+x --> 1
+q --> 0
+v2 --> (2, int)
+v1 --> (1, int)
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 20
+2 --> 30
+
+Program of id: 1
+ExeStack: 
+(newLock(q);(fork((fork((lock(q);(wH(v2, rH(v2) + 5);unlock(q))));;(lock(q);(wH(v2, rH(v2) * 10);unlock(q)))));;(NOP;(NOP;(NOP;(NOP;(lock(x);(print(rH(v1));(unlock(x);(lock(q);(print(rH(v2));(unlock(q);NOP))))))))))))
+SymTable: 
+x --> 1
+q --> 0
+v2 --> (2, int)
+v1 --> (1, int)
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 20
+2 --> 30
+
+Program of id: 2
+ExeStack: 
+(fork((lock(x);(wH(v1, rH(v1) - 1);unlock(x))));;(lock(x);(wH(v1, rH(v1) * 10);unlock(x))))
+SymTable: 
+x --> 1
+q --> 0
+v2 --> (2, int)
+v1 --> (1, int)
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 20
+2 --> 30
+
+Program of id: 1
+ExeStack: 
+newLock(q)
+(fork((fork((lock(q);(wH(v2, rH(v2) + 5);unlock(q))));;(lock(q);(wH(v2, rH(v2) * 10);unlock(q)))));;(NOP;(NOP;(NOP;(NOP;(lock(x);(print(rH(v1));(unlock(x);(lock(q);(print(rH(v2));(unlock(q);NOP)))))))))))
+SymTable: 
+x --> 1
+q --> 0
+v2 --> (2, int)
+v1 --> (1, int)
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 20
+2 --> 30
+
+Program of id: 2
+ExeStack: 
+fork((lock(x);(wH(v1, rH(v1) - 1);unlock(x))));
+(lock(x);(wH(v1, rH(v1) * 10);unlock(x)))
+SymTable: 
+x --> 1
+q --> 0
+v2 --> (2, int)
+v1 --> (1, int)
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 20
+2 --> 30
+
+Program of id: 1
+ExeStack: 
+(fork((fork((lock(q);(wH(v2, rH(v2) + 5);unlock(q))));;(lock(q);(wH(v2, rH(v2) * 10);unlock(q)))));;(NOP;(NOP;(NOP;(NOP;(lock(x);(print(rH(v1));(unlock(x);(lock(q);(print(rH(v2));(unlock(q);NOP)))))))))))
+SymTable: 
+x --> 1
+q --> 2
+v2 --> (2, int)
+v1 --> (1, int)
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 20
+2 --> 30
+
+Program of id: 2
+ExeStack: 
+(lock(x);(wH(v1, rH(v1) * 10);unlock(x)))
+SymTable: 
+x --> 1
+q --> 0
+v2 --> (2, int)
+v1 --> (1, int)
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 20
+2 --> 30
+
+Program of id: 3
+ExeStack: 
+(lock(x);(wH(v1, rH(v1) - 1);unlock(x)))
+SymTable: 
+x --> 1
+q --> 0
+v2 --> (2, int)
+v1 --> (1, int)
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 20
+2 --> 30
+
+Program of id: 1
+ExeStack: 
+fork((fork((lock(q);(wH(v2, rH(v2) + 5);unlock(q))));;(lock(q);(wH(v2, rH(v2) * 10);unlock(q)))));
+(NOP;(NOP;(NOP;(NOP;(lock(x);(print(rH(v1));(unlock(x);(lock(q);(print(rH(v2));(unlock(q);NOP))))))))))
+SymTable: 
+x --> 1
+q --> 2
+v2 --> (2, int)
+v1 --> (1, int)
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 20
+2 --> 30
+
+Program of id: 2
+ExeStack: 
+lock(x)
+(wH(v1, rH(v1) * 10);unlock(x))
+SymTable: 
+x --> 1
+q --> 0
+v2 --> (2, int)
+v1 --> (1, int)
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 20
+2 --> 30
+
+Program of id: 3
+ExeStack: 
+lock(x)
+(wH(v1, rH(v1) - 1);unlock(x))
+SymTable: 
+x --> 1
+q --> 0
+v2 --> (2, int)
+v1 --> (1, int)
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 20
+2 --> 30
+
+Program of id: 1
+ExeStack: 
+(NOP;(NOP;(NOP;(NOP;(lock(x);(print(rH(v1));(unlock(x);(lock(q);(print(rH(v2));(unlock(q);NOP))))))))))
+SymTable: 
+x --> 1
+q --> 2
+v2 --> (2, int)
+v1 --> (1, int)
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 20
+2 --> 30
+
+Program of id: 2
+ExeStack: 
+(wH(v1, rH(v1) * 10);unlock(x))
+SymTable: 
+x --> 1
+q --> 0
+v2 --> (2, int)
+v1 --> (1, int)
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 20
+2 --> 30
+
+Program of id: 3
+ExeStack: 
+(wH(v1, rH(v1) - 1);unlock(x))
+SymTable: 
+x --> 1
+q --> 0
+v2 --> (2, int)
+v1 --> (1, int)
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 20
+2 --> 30
+
+Program of id: 4
+ExeStack: 
+(fork((lock(q);(wH(v2, rH(v2) + 5);unlock(q))));;(lock(q);(wH(v2, rH(v2) * 10);unlock(q))))
+SymTable: 
+x --> 1
+q --> 2
+v2 --> (2, int)
+v1 --> (1, int)
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 20
+2 --> 30
+
+Program of id: 1
+ExeStack: 
+Ref int v1
+(Ref int v2;(int x;(int q;(new( v1, 20 );(new( v2, 30 );(newLock(x);(fork((fork((lock(x);(wH(v1, rH(v1) - 1);unlock(x))));;(lock(x);(wH(v1, rH(v1) * 10);unlock(x)))));;(newLock(q);(fork((fork((lock(q);(wH(v2, rH(v2) + 5);unlock(q))));;(lock(q);(wH(v2, rH(v2) * 10);unlock(q)))));;(NOP;(NOP;(NOP;(NOP;(lock(x);(print(rH(v1));(unlock(x);(lock(q);(print(rH(v2));(unlock(q);NOP)))))))))))))))))))
+SymTable: 
+--Empty--
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 1
+ExeStack: 
+(Ref int v2;(int x;(int q;(new( v1, 20 );(new( v2, 30 );(newLock(x);(fork((fork((lock(x);(wH(v1, rH(v1) - 1);unlock(x))));;(lock(x);(wH(v1, rH(v1) * 10);unlock(x)))));;(newLock(q);(fork((fork((lock(q);(wH(v2, rH(v2) + 5);unlock(q))));;(lock(q);(wH(v2, rH(v2) * 10);unlock(q)))));;(NOP;(NOP;(NOP;(NOP;(lock(x);(print(rH(v1));(unlock(x);(lock(q);(print(rH(v2));(unlock(q);NOP)))))))))))))))))))
+SymTable: 
+v1 --> (-1, int)
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 1
+ExeStack: 
+Ref int v2
+(int x;(int q;(new( v1, 20 );(new( v2, 30 );(newLock(x);(fork((fork((lock(x);(wH(v1, rH(v1) - 1);unlock(x))));;(lock(x);(wH(v1, rH(v1) * 10);unlock(x)))));;(newLock(q);(fork((fork((lock(q);(wH(v2, rH(v2) + 5);unlock(q))));;(lock(q);(wH(v2, rH(v2) * 10);unlock(q)))));;(NOP;(NOP;(NOP;(NOP;(lock(x);(print(rH(v1));(unlock(x);(lock(q);(print(rH(v2));(unlock(q);NOP))))))))))))))))))
+SymTable: 
+v1 --> (-1, int)
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 1
+ExeStack: 
+(int x;(int q;(new( v1, 20 );(new( v2, 30 );(newLock(x);(fork((fork((lock(x);(wH(v1, rH(v1) - 1);unlock(x))));;(lock(x);(wH(v1, rH(v1) * 10);unlock(x)))));;(newLock(q);(fork((fork((lock(q);(wH(v2, rH(v2) + 5);unlock(q))));;(lock(q);(wH(v2, rH(v2) * 10);unlock(q)))));;(NOP;(NOP;(NOP;(NOP;(lock(x);(print(rH(v1));(unlock(x);(lock(q);(print(rH(v2));(unlock(q);NOP))))))))))))))))))
+SymTable: 
+v2 --> (-1, int)
+v1 --> (-1, int)
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 1
+ExeStack: 
+int x
+(int q;(new( v1, 20 );(new( v2, 30 );(newLock(x);(fork((fork((lock(x);(wH(v1, rH(v1) - 1);unlock(x))));;(lock(x);(wH(v1, rH(v1) * 10);unlock(x)))));;(newLock(q);(fork((fork((lock(q);(wH(v2, rH(v2) + 5);unlock(q))));;(lock(q);(wH(v2, rH(v2) * 10);unlock(q)))));;(NOP;(NOP;(NOP;(NOP;(lock(x);(print(rH(v1));(unlock(x);(lock(q);(print(rH(v2));(unlock(q);NOP)))))))))))))))))
+SymTable: 
+v2 --> (-1, int)
+v1 --> (-1, int)
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 1
+ExeStack: 
+(int q;(new( v1, 20 );(new( v2, 30 );(newLock(x);(fork((fork((lock(x);(wH(v1, rH(v1) - 1);unlock(x))));;(lock(x);(wH(v1, rH(v1) * 10);unlock(x)))));;(newLock(q);(fork((fork((lock(q);(wH(v2, rH(v2) + 5);unlock(q))));;(lock(q);(wH(v2, rH(v2) * 10);unlock(q)))));;(NOP;(NOP;(NOP;(NOP;(lock(x);(print(rH(v1));(unlock(x);(lock(q);(print(rH(v2));(unlock(q);NOP)))))))))))))))))
+SymTable: 
+x --> 0
+v2 --> (-1, int)
+v1 --> (-1, int)
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 1
+ExeStack: 
+int q
+(new( v1, 20 );(new( v2, 30 );(newLock(x);(fork((fork((lock(x);(wH(v1, rH(v1) - 1);unlock(x))));;(lock(x);(wH(v1, rH(v1) * 10);unlock(x)))));;(newLock(q);(fork((fork((lock(q);(wH(v2, rH(v2) + 5);unlock(q))));;(lock(q);(wH(v2, rH(v2) * 10);unlock(q)))));;(NOP;(NOP;(NOP;(NOP;(lock(x);(print(rH(v1));(unlock(x);(lock(q);(print(rH(v2));(unlock(q);NOP))))))))))))))))
+SymTable: 
+x --> 0
+v2 --> (-1, int)
+v1 --> (-1, int)
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 1
+ExeStack: 
+(new( v1, 20 );(new( v2, 30 );(newLock(x);(fork((fork((lock(x);(wH(v1, rH(v1) - 1);unlock(x))));;(lock(x);(wH(v1, rH(v1) * 10);unlock(x)))));;(newLock(q);(fork((fork((lock(q);(wH(v2, rH(v2) + 5);unlock(q))));;(lock(q);(wH(v2, rH(v2) * 10);unlock(q)))));;(NOP;(NOP;(NOP;(NOP;(lock(x);(print(rH(v1));(unlock(x);(lock(q);(print(rH(v2));(unlock(q);NOP))))))))))))))))
+SymTable: 
+x --> 0
+q --> 0
+v2 --> (-1, int)
+v1 --> (-1, int)
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 1
+ExeStack: 
+new( v1, 20 )
+(new( v2, 30 );(newLock(x);(fork((fork((lock(x);(wH(v1, rH(v1) - 1);unlock(x))));;(lock(x);(wH(v1, rH(v1) * 10);unlock(x)))));;(newLock(q);(fork((fork((lock(q);(wH(v2, rH(v2) + 5);unlock(q))));;(lock(q);(wH(v2, rH(v2) * 10);unlock(q)))));;(NOP;(NOP;(NOP;(NOP;(lock(x);(print(rH(v1));(unlock(x);(lock(q);(print(rH(v2));(unlock(q);NOP)))))))))))))))
+SymTable: 
+x --> 0
+q --> 0
+v2 --> (-1, int)
+v1 --> (-1, int)
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 1
+ExeStack: 
+(new( v2, 30 );(newLock(x);(fork((fork((lock(x);(wH(v1, rH(v1) - 1);unlock(x))));;(lock(x);(wH(v1, rH(v1) * 10);unlock(x)))));;(newLock(q);(fork((fork((lock(q);(wH(v2, rH(v2) + 5);unlock(q))));;(lock(q);(wH(v2, rH(v2) * 10);unlock(q)))));;(NOP;(NOP;(NOP;(NOP;(lock(x);(print(rH(v1));(unlock(x);(lock(q);(print(rH(v2));(unlock(q);NOP)))))))))))))))
+SymTable: 
+x --> 0
+q --> 0
+v2 --> (-1, int)
+v1 --> (1, int)
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 20
+
+Program of id: 1
+ExeStack: 
+new( v2, 30 )
+(newLock(x);(fork((fork((lock(x);(wH(v1, rH(v1) - 1);unlock(x))));;(lock(x);(wH(v1, rH(v1) * 10);unlock(x)))));;(newLock(q);(fork((fork((lock(q);(wH(v2, rH(v2) + 5);unlock(q))));;(lock(q);(wH(v2, rH(v2) * 10);unlock(q)))));;(NOP;(NOP;(NOP;(NOP;(lock(x);(print(rH(v1));(unlock(x);(lock(q);(print(rH(v2));(unlock(q);NOP))))))))))))))
+SymTable: 
+x --> 0
+q --> 0
+v2 --> (-1, int)
+v1 --> (1, int)
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 20
+
+Program of id: 1
+ExeStack: 
+(newLock(x);(fork((fork((lock(x);(wH(v1, rH(v1) - 1);unlock(x))));;(lock(x);(wH(v1, rH(v1) * 10);unlock(x)))));;(newLock(q);(fork((fork((lock(q);(wH(v2, rH(v2) + 5);unlock(q))));;(lock(q);(wH(v2, rH(v2) * 10);unlock(q)))));;(NOP;(NOP;(NOP;(NOP;(lock(x);(print(rH(v1));(unlock(x);(lock(q);(print(rH(v2));(unlock(q);NOP))))))))))))))
+SymTable: 
+x --> 0
+q --> 0
+v2 --> (2, int)
+v1 --> (1, int)
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 20
+2 --> 30
+
+Program of id: 1
+ExeStack: 
+newLock(x)
+(fork((fork((lock(x);(wH(v1, rH(v1) - 1);unlock(x))));;(lock(x);(wH(v1, rH(v1) * 10);unlock(x)))));;(newLock(q);(fork((fork((lock(q);(wH(v2, rH(v2) + 5);unlock(q))));;(lock(q);(wH(v2, rH(v2) * 10);unlock(q)))));;(NOP;(NOP;(NOP;(NOP;(lock(x);(print(rH(v1));(unlock(x);(lock(q);(print(rH(v2));(unlock(q);NOP)))))))))))))
+SymTable: 
+x --> 0
+q --> 0
+v2 --> (2, int)
+v1 --> (1, int)
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 20
+2 --> 30
+
+Program of id: 1
+ExeStack: 
+(fork((fork((lock(x);(wH(v1, rH(v1) - 1);unlock(x))));;(lock(x);(wH(v1, rH(v1) * 10);unlock(x)))));;(newLock(q);(fork((fork((lock(q);(wH(v2, rH(v2) + 5);unlock(q))));;(lock(q);(wH(v2, rH(v2) * 10);unlock(q)))));;(NOP;(NOP;(NOP;(NOP;(lock(x);(print(rH(v1));(unlock(x);(lock(q);(print(rH(v2));(unlock(q);NOP)))))))))))))
+SymTable: 
+x --> 1
+q --> 0
+v2 --> (2, int)
+v1 --> (1, int)
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 20
+2 --> 30
+
+Program of id: 1
+ExeStack: 
+fork((fork((lock(x);(wH(v1, rH(v1) - 1);unlock(x))));;(lock(x);(wH(v1, rH(v1) * 10);unlock(x)))));
+(newLock(q);(fork((fork((lock(q);(wH(v2, rH(v2) + 5);unlock(q))));;(lock(q);(wH(v2, rH(v2) * 10);unlock(q)))));;(NOP;(NOP;(NOP;(NOP;(lock(x);(print(rH(v1));(unlock(x);(lock(q);(print(rH(v2));(unlock(q);NOP))))))))))))
+SymTable: 
+x --> 1
+q --> 0
+v2 --> (2, int)
+v1 --> (1, int)
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 20
+2 --> 30
+
+Program of id: 1
+ExeStack: 
+(newLock(q);(fork((fork((lock(q);(wH(v2, rH(v2) + 5);unlock(q))));;(lock(q);(wH(v2, rH(v2) * 10);unlock(q)))));;(NOP;(NOP;(NOP;(NOP;(lock(x);(print(rH(v1));(unlock(x);(lock(q);(print(rH(v2));(unlock(q);NOP))))))))))))
+SymTable: 
+x --> 1
+q --> 0
+v2 --> (2, int)
+v1 --> (1, int)
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 20
+2 --> 30
+
+Program of id: 2
+ExeStack: 
+(fork((lock(x);(wH(v1, rH(v1) - 1);unlock(x))));;(lock(x);(wH(v1, rH(v1) * 10);unlock(x))))
+SymTable: 
+x --> 1
+q --> 0
+v2 --> (2, int)
+v1 --> (1, int)
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 20
+2 --> 30
+
+Program of id: 1
+ExeStack: 
+newLock(q)
+(fork((fork((lock(q);(wH(v2, rH(v2) + 5);unlock(q))));;(lock(q);(wH(v2, rH(v2) * 10);unlock(q)))));;(NOP;(NOP;(NOP;(NOP;(lock(x);(print(rH(v1));(unlock(x);(lock(q);(print(rH(v2));(unlock(q);NOP)))))))))))
+SymTable: 
+x --> 1
+q --> 0
+v2 --> (2, int)
+v1 --> (1, int)
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 20
+2 --> 30
+
+Program of id: 2
+ExeStack: 
+fork((lock(x);(wH(v1, rH(v1) - 1);unlock(x))));
+(lock(x);(wH(v1, rH(v1) * 10);unlock(x)))
+SymTable: 
+x --> 1
+q --> 0
+v2 --> (2, int)
+v1 --> (1, int)
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 20
+2 --> 30
+
+Program of id: 1
+ExeStack: 
+(fork((fork((lock(q);(wH(v2, rH(v2) + 5);unlock(q))));;(lock(q);(wH(v2, rH(v2) * 10);unlock(q)))));;(NOP;(NOP;(NOP;(NOP;(lock(x);(print(rH(v1));(unlock(x);(lock(q);(print(rH(v2));(unlock(q);NOP)))))))))))
+SymTable: 
+x --> 1
+q --> 2
+v2 --> (2, int)
+v1 --> (1, int)
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 20
+2 --> 30
+
+Program of id: 2
+ExeStack: 
+(lock(x);(wH(v1, rH(v1) * 10);unlock(x)))
+SymTable: 
+x --> 1
+q --> 0
+v2 --> (2, int)
+v1 --> (1, int)
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 20
+2 --> 30
+
+Program of id: 3
+ExeStack: 
+(lock(x);(wH(v1, rH(v1) - 1);unlock(x)))
+SymTable: 
+x --> 1
+q --> 0
+v2 --> (2, int)
+v1 --> (1, int)
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 20
+2 --> 30
+
+Program of id: 1
+ExeStack: 
+fork((fork((lock(q);(wH(v2, rH(v2) + 5);unlock(q))));;(lock(q);(wH(v2, rH(v2) * 10);unlock(q)))));
+(NOP;(NOP;(NOP;(NOP;(lock(x);(print(rH(v1));(unlock(x);(lock(q);(print(rH(v2));(unlock(q);NOP))))))))))
+SymTable: 
+x --> 1
+q --> 2
+v2 --> (2, int)
+v1 --> (1, int)
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 20
+2 --> 30
+
+Program of id: 2
+ExeStack: 
+lock(x)
+(wH(v1, rH(v1) * 10);unlock(x))
+SymTable: 
+x --> 1
+q --> 0
+v2 --> (2, int)
+v1 --> (1, int)
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 20
+2 --> 30
+
+Program of id: 3
+ExeStack: 
+lock(x)
+(wH(v1, rH(v1) - 1);unlock(x))
+SymTable: 
+x --> 1
+q --> 0
+v2 --> (2, int)
+v1 --> (1, int)
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 20
+2 --> 30
+
+Program of id: 1
+ExeStack: 
+(NOP;(NOP;(NOP;(NOP;(lock(x);(print(rH(v1));(unlock(x);(lock(q);(print(rH(v2));(unlock(q);NOP))))))))))
+SymTable: 
+x --> 1
+q --> 2
+v2 --> (2, int)
+v1 --> (1, int)
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 20
+2 --> 30
+
+Program of id: 2
+ExeStack: 
+lock(x)
+(wH(v1, rH(v1) * 10);unlock(x))
+SymTable: 
+x --> 1
+q --> 0
+v2 --> (2, int)
+v1 --> (1, int)
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 20
+2 --> 30
+
+Program of id: 3
+ExeStack: 
+(wH(v1, rH(v1) - 1);unlock(x))
+SymTable: 
+x --> 1
+q --> 0
+v2 --> (2, int)
+v1 --> (1, int)
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 20
+2 --> 30
+
+Program of id: 4
+ExeStack: 
+(fork((lock(q);(wH(v2, rH(v2) + 5);unlock(q))));;(lock(q);(wH(v2, rH(v2) * 10);unlock(q))))
+SymTable: 
+x --> 1
+q --> 2
+v2 --> (2, int)
+v1 --> (1, int)
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 20
+2 --> 30
+
+Program of id: 1
+ExeStack: 
+NOP
+(NOP;(NOP;(NOP;(lock(x);(print(rH(v1));(unlock(x);(lock(q);(print(rH(v2));(unlock(q);NOP)))))))))
+SymTable: 
+x --> 1
+q --> 2
+v2 --> (2, int)
+v1 --> (1, int)
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 20
+2 --> 30
+
+Program of id: 2
+ExeStack: 
+lock(x)
+(wH(v1, rH(v1) * 10);unlock(x))
+SymTable: 
+x --> 1
+q --> 0
+v2 --> (2, int)
+v1 --> (1, int)
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 20
+2 --> 30
+
+Program of id: 3
+ExeStack: 
+wH(v1, rH(v1) - 1)
+unlock(x)
+SymTable: 
+x --> 1
+q --> 0
+v2 --> (2, int)
+v1 --> (1, int)
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 20
+2 --> 30
+
+Program of id: 4
+ExeStack: 
+fork((lock(q);(wH(v2, rH(v2) + 5);unlock(q))));
+(lock(q);(wH(v2, rH(v2) * 10);unlock(q)))
+SymTable: 
+x --> 1
+q --> 2
+v2 --> (2, int)
+v1 --> (1, int)
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 20
+2 --> 30
+
+Program of id: 1
+ExeStack: 
+(NOP;(NOP;(NOP;(lock(x);(print(rH(v1));(unlock(x);(lock(q);(print(rH(v2));(unlock(q);NOP)))))))))
+SymTable: 
+x --> 1
+q --> 2
+v2 --> (2, int)
+v1 --> (1, int)
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 19
+2 --> 30
+
+Program of id: 2
+ExeStack: 
+lock(x)
+(wH(v1, rH(v1) * 10);unlock(x))
+SymTable: 
+x --> 1
+q --> 0
+v2 --> (2, int)
+v1 --> (1, int)
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 19
+2 --> 30
+
+Program of id: 3
+ExeStack: 
+unlock(x)
+SymTable: 
+x --> 1
+q --> 0
+v2 --> (2, int)
+v1 --> (1, int)
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 19
+2 --> 30
+
+Program of id: 4
+ExeStack: 
+(lock(q);(wH(v2, rH(v2) * 10);unlock(q)))
+SymTable: 
+x --> 1
+q --> 2
+v2 --> (2, int)
+v1 --> (1, int)
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 19
+2 --> 30
+
+Program of id: 5
+ExeStack: 
+(lock(q);(wH(v2, rH(v2) + 5);unlock(q)))
+SymTable: 
+x --> 1
+q --> 2
+v2 --> (2, int)
+v1 --> (1, int)
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 19
+2 --> 30
+
+Program of id: 1
+ExeStack: 
+NOP
+(NOP;(NOP;(lock(x);(print(rH(v1));(unlock(x);(lock(q);(print(rH(v2));(unlock(q);NOP))))))))
+SymTable: 
+x --> 1
+q --> 2
+v2 --> (2, int)
+v1 --> (1, int)
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 19
+2 --> 30
+
+Program of id: 2
+ExeStack: 
+lock(x)
+(wH(v1, rH(v1) * 10);unlock(x))
+SymTable: 
+x --> 1
+q --> 0
+v2 --> (2, int)
+v1 --> (1, int)
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 19
+2 --> 30
+
+Program of id: 3
+ExeStack: 
+--Empty--
+SymTable: 
+x --> 1
+q --> 0
+v2 --> (2, int)
+v1 --> (1, int)
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 19
+2 --> 30
+
+Program of id: 4
+ExeStack: 
+lock(q)
+(wH(v2, rH(v2) * 10);unlock(q))
+SymTable: 
+x --> 1
+q --> 2
+v2 --> (2, int)
+v1 --> (1, int)
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 19
+2 --> 30
+
+Program of id: 5
+ExeStack: 
+lock(q)
+(wH(v2, rH(v2) + 5);unlock(q))
+SymTable: 
+x --> 1
+q --> 2
+v2 --> (2, int)
+v1 --> (1, int)
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 19
+2 --> 30
+
+Program of id: 1
+ExeStack: 
+(NOP;(NOP;(lock(x);(print(rH(v1));(unlock(x);(lock(q);(print(rH(v2));(unlock(q);NOP))))))))
+SymTable: 
+x --> 1
+q --> 2
+v2 --> (2, int)
+v1 --> (1, int)
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 19
+2 --> 30
+
+Program of id: 2
+ExeStack: 
+(wH(v1, rH(v1) * 10);unlock(x))
+SymTable: 
+x --> 1
+q --> 0
+v2 --> (2, int)
+v1 --> (1, int)
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 19
+2 --> 30
+
+Program of id: 4
+ExeStack: 
+(wH(v2, rH(v2) * 10);unlock(q))
+SymTable: 
+x --> 1
+q --> 2
+v2 --> (2, int)
+v1 --> (1, int)
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 19
+2 --> 30
+
+Program of id: 5
+ExeStack: 
+lock(q)
+(wH(v2, rH(v2) + 5);unlock(q))
+SymTable: 
+x --> 1
+q --> 2
+v2 --> (2, int)
+v1 --> (1, int)
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 19
+2 --> 30
+
+Program of id: 1
+ExeStack: 
+NOP
+(NOP;(lock(x);(print(rH(v1));(unlock(x);(lock(q);(print(rH(v2));(unlock(q);NOP)))))))
+SymTable: 
+x --> 1
+q --> 2
+v2 --> (2, int)
+v1 --> (1, int)
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 19
+2 --> 30
+
+Program of id: 2
+ExeStack: 
+wH(v1, rH(v1) * 10)
+unlock(x)
+SymTable: 
+x --> 1
+q --> 0
+v2 --> (2, int)
+v1 --> (1, int)
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 19
+2 --> 30
+
+Program of id: 4
+ExeStack: 
+wH(v2, rH(v2) * 10)
+unlock(q)
+SymTable: 
+x --> 1
+q --> 2
+v2 --> (2, int)
+v1 --> (1, int)
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 19
+2 --> 30
+
+Program of id: 5
+ExeStack: 
+lock(q)
+(wH(v2, rH(v2) + 5);unlock(q))
+SymTable: 
+x --> 1
+q --> 2
+v2 --> (2, int)
+v1 --> (1, int)
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 19
+2 --> 30
+
+Program of id: 1
+ExeStack: 
+(NOP;(lock(x);(print(rH(v1));(unlock(x);(lock(q);(print(rH(v2));(unlock(q);NOP)))))))
+SymTable: 
+x --> 1
+q --> 2
+v2 --> (2, int)
+v1 --> (1, int)
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 190
+2 --> 300
+
+Program of id: 2
+ExeStack: 
+unlock(x)
+SymTable: 
+x --> 1
+q --> 0
+v2 --> (2, int)
+v1 --> (1, int)
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 190
+2 --> 300
+
+Program of id: 4
+ExeStack: 
+unlock(q)
+SymTable: 
+x --> 1
+q --> 2
+v2 --> (2, int)
+v1 --> (1, int)
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 190
+2 --> 300
+
+Program of id: 5
+ExeStack: 
+lock(q)
+(wH(v2, rH(v2) + 5);unlock(q))
+SymTable: 
+x --> 1
+q --> 2
+v2 --> (2, int)
+v1 --> (1, int)
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 190
+2 --> 300
+
+Program of id: 1
+ExeStack: 
+NOP
+(lock(x);(print(rH(v1));(unlock(x);(lock(q);(print(rH(v2));(unlock(q);NOP))))))
+SymTable: 
+x --> 1
+q --> 2
+v2 --> (2, int)
+v1 --> (1, int)
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 190
+2 --> 300
+
+Program of id: 2
+ExeStack: 
+--Empty--
+SymTable: 
+x --> 1
+q --> 0
+v2 --> (2, int)
+v1 --> (1, int)
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 190
+2 --> 300
+
+Program of id: 4
+ExeStack: 
+--Empty--
+SymTable: 
+x --> 1
+q --> 2
+v2 --> (2, int)
+v1 --> (1, int)
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 190
+2 --> 300
+
+Program of id: 5
+ExeStack: 
+(wH(v2, rH(v2) + 5);unlock(q))
+SymTable: 
+x --> 1
+q --> 2
+v2 --> (2, int)
+v1 --> (1, int)
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 190
+2 --> 300
+
+Program of id: 1
+ExeStack: 
+(lock(x);(print(rH(v1));(unlock(x);(lock(q);(print(rH(v2));(unlock(q);NOP))))))
+SymTable: 
+x --> 1
+q --> 2
+v2 --> (2, int)
+v1 --> (1, int)
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 190
+2 --> 300
+
+Program of id: 5
+ExeStack: 
+wH(v2, rH(v2) + 5)
+unlock(q)
+SymTable: 
+x --> 1
+q --> 2
+v2 --> (2, int)
+v1 --> (1, int)
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 190
+2 --> 300
+
+Program of id: 1
+ExeStack: 
+lock(x)
+(print(rH(v1));(unlock(x);(lock(q);(print(rH(v2));(unlock(q);NOP)))))
+SymTable: 
+x --> 1
+q --> 2
+v2 --> (2, int)
+v1 --> (1, int)
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 190
+2 --> 305
+
+Program of id: 5
+ExeStack: 
+unlock(q)
+SymTable: 
+x --> 1
+q --> 2
+v2 --> (2, int)
+v1 --> (1, int)
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 190
+2 --> 305
+
+Program of id: 1
+ExeStack: 
+(print(rH(v1));(unlock(x);(lock(q);(print(rH(v2));(unlock(q);NOP)))))
+SymTable: 
+x --> 1
+q --> 2
+v2 --> (2, int)
+v1 --> (1, int)
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 190
+2 --> 305
+
+Program of id: 5
+ExeStack: 
+--Empty--
+SymTable: 
+x --> 1
+q --> 2
+v2 --> (2, int)
+v1 --> (1, int)
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 190
+2 --> 305
+
+Program of id: 1
+ExeStack: 
+print(rH(v1))
+(unlock(x);(lock(q);(print(rH(v2));(unlock(q);NOP))))
+SymTable: 
+x --> 1
+q --> 2
+v2 --> (2, int)
+v1 --> (1, int)
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 190
+2 --> 305
+
+Program of id: 1
+ExeStack: 
+(unlock(x);(lock(q);(print(rH(v2));(unlock(q);NOP))))
+SymTable: 
+x --> 1
+q --> 2
+v2 --> (2, int)
+v1 --> (1, int)
+Out: 
+190
+FileTable: 
+--Empty--
+Heap: 
+1 --> 190
+2 --> 305
+
+Program of id: 1
+ExeStack: 
+unlock(x)
+(lock(q);(print(rH(v2));(unlock(q);NOP)))
+SymTable: 
+x --> 1
+q --> 2
+v2 --> (2, int)
+v1 --> (1, int)
+Out: 
+190
+FileTable: 
+--Empty--
+Heap: 
+1 --> 190
+2 --> 305
+
+Program of id: 1
+ExeStack: 
+(lock(q);(print(rH(v2));(unlock(q);NOP)))
+SymTable: 
+x --> 1
+q --> 2
+v2 --> (2, int)
+v1 --> (1, int)
+Out: 
+190
+FileTable: 
+--Empty--
+Heap: 
+1 --> 190
+2 --> 305
+
+Program of id: 1
+ExeStack: 
+lock(q)
+(print(rH(v2));(unlock(q);NOP))
+SymTable: 
+x --> 1
+q --> 2
+v2 --> (2, int)
+v1 --> (1, int)
+Out: 
+190
+FileTable: 
+--Empty--
+Heap: 
+1 --> 190
+2 --> 305
+
+Program of id: 1
+ExeStack: 
+(print(rH(v2));(unlock(q);NOP))
+SymTable: 
+x --> 1
+q --> 2
+v2 --> (2, int)
+v1 --> (1, int)
+Out: 
+190
+FileTable: 
+--Empty--
+Heap: 
+1 --> 190
+2 --> 305
+
+Program of id: 1
+ExeStack: 
+print(rH(v2))
+(unlock(q);NOP)
+SymTable: 
+x --> 1
+q --> 2
+v2 --> (2, int)
+v1 --> (1, int)
+Out: 
+190
+FileTable: 
+--Empty--
+Heap: 
+1 --> 190
+2 --> 305
+
+Program of id: 1
+ExeStack: 
+(unlock(q);NOP)
+SymTable: 
+x --> 1
+q --> 2
+v2 --> (2, int)
+v1 --> (1, int)
+Out: 
+190
+305
+FileTable: 
+--Empty--
+Heap: 
+1 --> 190
+2 --> 305
+
+Program of id: 1
+ExeStack: 
+unlock(q)
+NOP
+SymTable: 
+x --> 1
+q --> 2
+v2 --> (2, int)
+v1 --> (1, int)
+Out: 
+190
+305
+FileTable: 
+--Empty--
+Heap: 
+1 --> 190
+2 --> 305
+
+Program of id: 1
+ExeStack: 
+NOP
+SymTable: 
+x --> 1
+q --> 2
+v2 --> (2, int)
+v1 --> (1, int)
+Out: 
+190
+305
+FileTable: 
+--Empty--
+Heap: 
+1 --> 190
+2 --> 305
+
+Program of id: 1
+ExeStack: 
+--Empty--
+SymTable: 
+x --> 1
+q --> 2
+v2 --> (2, int)
+v1 --> (1, int)
+Out: 
+190
+305
+FileTable: 
+--Empty--
+Heap: 
+1 --> 190
+2 --> 305
+
+Program of id: 6
+ExeStack: 
+Ref int v1
+(Ref int v2;(int x;(int q;(new( v1, 20 );(new( v2, 30 );(newLock(x);(fork((fork((lock(x);(wH(v1, rH(v1) - 1);unlock(x))));;(lock(x);(wH(v1, rH(v1) * 10);unlock(x)))));;(newLock(q);(fork((fork((lock(q);(wH(v2, rH(v2) + 5);unlock(q))));;(lock(q);(wH(v2, rH(v2) * 10);unlock(q)))));;(NOP;(NOP;(NOP;(NOP;(lock(x);(print(rH(v1));(unlock(x);(lock(q);(print(rH(v2));(unlock(q);NOP)))))))))))))))))))
+SymTable: 
+--Empty--
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 6
+ExeStack: 
+(Ref int v2;(int x;(int q;(new( v1, 20 );(new( v2, 30 );(newLock(x);(fork((fork((lock(x);(wH(v1, rH(v1) - 1);unlock(x))));;(lock(x);(wH(v1, rH(v1) * 10);unlock(x)))));;(newLock(q);(fork((fork((lock(q);(wH(v2, rH(v2) + 5);unlock(q))));;(lock(q);(wH(v2, rH(v2) * 10);unlock(q)))));;(NOP;(NOP;(NOP;(NOP;(lock(x);(print(rH(v1));(unlock(x);(lock(q);(print(rH(v2));(unlock(q);NOP)))))))))))))))))))
+SymTable: 
+v1 --> (-1, int)
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 6
+ExeStack: 
+Ref int v2
+(int x;(int q;(new( v1, 20 );(new( v2, 30 );(newLock(x);(fork((fork((lock(x);(wH(v1, rH(v1) - 1);unlock(x))));;(lock(x);(wH(v1, rH(v1) * 10);unlock(x)))));;(newLock(q);(fork((fork((lock(q);(wH(v2, rH(v2) + 5);unlock(q))));;(lock(q);(wH(v2, rH(v2) * 10);unlock(q)))));;(NOP;(NOP;(NOP;(NOP;(lock(x);(print(rH(v1));(unlock(x);(lock(q);(print(rH(v2));(unlock(q);NOP))))))))))))))))))
+SymTable: 
+v1 --> (-1, int)
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 6
+ExeStack: 
+(int x;(int q;(new( v1, 20 );(new( v2, 30 );(newLock(x);(fork((fork((lock(x);(wH(v1, rH(v1) - 1);unlock(x))));;(lock(x);(wH(v1, rH(v1) * 10);unlock(x)))));;(newLock(q);(fork((fork((lock(q);(wH(v2, rH(v2) + 5);unlock(q))));;(lock(q);(wH(v2, rH(v2) * 10);unlock(q)))));;(NOP;(NOP;(NOP;(NOP;(lock(x);(print(rH(v1));(unlock(x);(lock(q);(print(rH(v2));(unlock(q);NOP))))))))))))))))))
+SymTable: 
+v2 --> (-1, int)
+v1 --> (-1, int)
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 6
+ExeStack: 
+int x
+(int q;(new( v1, 20 );(new( v2, 30 );(newLock(x);(fork((fork((lock(x);(wH(v1, rH(v1) - 1);unlock(x))));;(lock(x);(wH(v1, rH(v1) * 10);unlock(x)))));;(newLock(q);(fork((fork((lock(q);(wH(v2, rH(v2) + 5);unlock(q))));;(lock(q);(wH(v2, rH(v2) * 10);unlock(q)))));;(NOP;(NOP;(NOP;(NOP;(lock(x);(print(rH(v1));(unlock(x);(lock(q);(print(rH(v2));(unlock(q);NOP)))))))))))))))))
+SymTable: 
+v2 --> (-1, int)
+v1 --> (-1, int)
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 6
+ExeStack: 
+(int q;(new( v1, 20 );(new( v2, 30 );(newLock(x);(fork((fork((lock(x);(wH(v1, rH(v1) - 1);unlock(x))));;(lock(x);(wH(v1, rH(v1) * 10);unlock(x)))));;(newLock(q);(fork((fork((lock(q);(wH(v2, rH(v2) + 5);unlock(q))));;(lock(q);(wH(v2, rH(v2) * 10);unlock(q)))));;(NOP;(NOP;(NOP;(NOP;(lock(x);(print(rH(v1));(unlock(x);(lock(q);(print(rH(v2));(unlock(q);NOP)))))))))))))))))
+SymTable: 
+x --> 0
+v2 --> (-1, int)
+v1 --> (-1, int)
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 6
+ExeStack: 
+int q
+(new( v1, 20 );(new( v2, 30 );(newLock(x);(fork((fork((lock(x);(wH(v1, rH(v1) - 1);unlock(x))));;(lock(x);(wH(v1, rH(v1) * 10);unlock(x)))));;(newLock(q);(fork((fork((lock(q);(wH(v2, rH(v2) + 5);unlock(q))));;(lock(q);(wH(v2, rH(v2) * 10);unlock(q)))));;(NOP;(NOP;(NOP;(NOP;(lock(x);(print(rH(v1));(unlock(x);(lock(q);(print(rH(v2));(unlock(q);NOP))))))))))))))))
+SymTable: 
+x --> 0
+v2 --> (-1, int)
+v1 --> (-1, int)
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 6
+ExeStack: 
+(new( v1, 20 );(new( v2, 30 );(newLock(x);(fork((fork((lock(x);(wH(v1, rH(v1) - 1);unlock(x))));;(lock(x);(wH(v1, rH(v1) * 10);unlock(x)))));;(newLock(q);(fork((fork((lock(q);(wH(v2, rH(v2) + 5);unlock(q))));;(lock(q);(wH(v2, rH(v2) * 10);unlock(q)))));;(NOP;(NOP;(NOP;(NOP;(lock(x);(print(rH(v1));(unlock(x);(lock(q);(print(rH(v2));(unlock(q);NOP))))))))))))))))
+SymTable: 
+x --> 0
+q --> 0
+v2 --> (-1, int)
+v1 --> (-1, int)
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 6
+ExeStack: 
+new( v1, 20 )
+(new( v2, 30 );(newLock(x);(fork((fork((lock(x);(wH(v1, rH(v1) - 1);unlock(x))));;(lock(x);(wH(v1, rH(v1) * 10);unlock(x)))));;(newLock(q);(fork((fork((lock(q);(wH(v2, rH(v2) + 5);unlock(q))));;(lock(q);(wH(v2, rH(v2) * 10);unlock(q)))));;(NOP;(NOP;(NOP;(NOP;(lock(x);(print(rH(v1));(unlock(x);(lock(q);(print(rH(v2));(unlock(q);NOP)))))))))))))))
+SymTable: 
+x --> 0
+q --> 0
+v2 --> (-1, int)
+v1 --> (-1, int)
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 6
+ExeStack: 
+(new( v2, 30 );(newLock(x);(fork((fork((lock(x);(wH(v1, rH(v1) - 1);unlock(x))));;(lock(x);(wH(v1, rH(v1) * 10);unlock(x)))));;(newLock(q);(fork((fork((lock(q);(wH(v2, rH(v2) + 5);unlock(q))));;(lock(q);(wH(v2, rH(v2) * 10);unlock(q)))));;(NOP;(NOP;(NOP;(NOP;(lock(x);(print(rH(v1));(unlock(x);(lock(q);(print(rH(v2));(unlock(q);NOP)))))))))))))))
+SymTable: 
+x --> 0
+q --> 0
+v2 --> (-1, int)
+v1 --> (1, int)
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 20
+
+Program of id: 6
+ExeStack: 
+new( v2, 30 )
+(newLock(x);(fork((fork((lock(x);(wH(v1, rH(v1) - 1);unlock(x))));;(lock(x);(wH(v1, rH(v1) * 10);unlock(x)))));;(newLock(q);(fork((fork((lock(q);(wH(v2, rH(v2) + 5);unlock(q))));;(lock(q);(wH(v2, rH(v2) * 10);unlock(q)))));;(NOP;(NOP;(NOP;(NOP;(lock(x);(print(rH(v1));(unlock(x);(lock(q);(print(rH(v2));(unlock(q);NOP))))))))))))))
+SymTable: 
+x --> 0
+q --> 0
+v2 --> (-1, int)
+v1 --> (1, int)
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 20
+
+Program of id: 6
+ExeStack: 
+(newLock(x);(fork((fork((lock(x);(wH(v1, rH(v1) - 1);unlock(x))));;(lock(x);(wH(v1, rH(v1) * 10);unlock(x)))));;(newLock(q);(fork((fork((lock(q);(wH(v2, rH(v2) + 5);unlock(q))));;(lock(q);(wH(v2, rH(v2) * 10);unlock(q)))));;(NOP;(NOP;(NOP;(NOP;(lock(x);(print(rH(v1));(unlock(x);(lock(q);(print(rH(v2));(unlock(q);NOP))))))))))))))
+SymTable: 
+x --> 0
+q --> 0
+v2 --> (2, int)
+v1 --> (1, int)
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 20
+2 --> 30
+
+Program of id: 6
+ExeStack: 
+newLock(x)
+(fork((fork((lock(x);(wH(v1, rH(v1) - 1);unlock(x))));;(lock(x);(wH(v1, rH(v1) * 10);unlock(x)))));;(newLock(q);(fork((fork((lock(q);(wH(v2, rH(v2) + 5);unlock(q))));;(lock(q);(wH(v2, rH(v2) * 10);unlock(q)))));;(NOP;(NOP;(NOP;(NOP;(lock(x);(print(rH(v1));(unlock(x);(lock(q);(print(rH(v2));(unlock(q);NOP)))))))))))))
+SymTable: 
+x --> 0
+q --> 0
+v2 --> (2, int)
+v1 --> (1, int)
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 20
+2 --> 30
+
+Program of id: 6
+ExeStack: 
+(fork((fork((lock(x);(wH(v1, rH(v1) - 1);unlock(x))));;(lock(x);(wH(v1, rH(v1) * 10);unlock(x)))));;(newLock(q);(fork((fork((lock(q);(wH(v2, rH(v2) + 5);unlock(q))));;(lock(q);(wH(v2, rH(v2) * 10);unlock(q)))));;(NOP;(NOP;(NOP;(NOP;(lock(x);(print(rH(v1));(unlock(x);(lock(q);(print(rH(v2));(unlock(q);NOP)))))))))))))
+SymTable: 
+x --> 1
+q --> 0
+v2 --> (2, int)
+v1 --> (1, int)
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 20
+2 --> 30
+
+Program of id: 6
+ExeStack: 
+fork((fork((lock(x);(wH(v1, rH(v1) - 1);unlock(x))));;(lock(x);(wH(v1, rH(v1) * 10);unlock(x)))));
+(newLock(q);(fork((fork((lock(q);(wH(v2, rH(v2) + 5);unlock(q))));;(lock(q);(wH(v2, rH(v2) * 10);unlock(q)))));;(NOP;(NOP;(NOP;(NOP;(lock(x);(print(rH(v1));(unlock(x);(lock(q);(print(rH(v2));(unlock(q);NOP))))))))))))
+SymTable: 
+x --> 1
+q --> 0
+v2 --> (2, int)
+v1 --> (1, int)
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 20
+2 --> 30
+
+Program of id: 6
+ExeStack: 
+(newLock(q);(fork((fork((lock(q);(wH(v2, rH(v2) + 5);unlock(q))));;(lock(q);(wH(v2, rH(v2) * 10);unlock(q)))));;(NOP;(NOP;(NOP;(NOP;(lock(x);(print(rH(v1));(unlock(x);(lock(q);(print(rH(v2));(unlock(q);NOP))))))))))))
+SymTable: 
+x --> 1
+q --> 0
+v2 --> (2, int)
+v1 --> (1, int)
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 20
+2 --> 30
+
+Program of id: 7
+ExeStack: 
+(fork((lock(x);(wH(v1, rH(v1) - 1);unlock(x))));;(lock(x);(wH(v1, rH(v1) * 10);unlock(x))))
+SymTable: 
+x --> 1
+q --> 0
+v2 --> (2, int)
+v1 --> (1, int)
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 20
+2 --> 30
+
+Program of id: 6
+ExeStack: 
+newLock(q)
+(fork((fork((lock(q);(wH(v2, rH(v2) + 5);unlock(q))));;(lock(q);(wH(v2, rH(v2) * 10);unlock(q)))));;(NOP;(NOP;(NOP;(NOP;(lock(x);(print(rH(v1));(unlock(x);(lock(q);(print(rH(v2));(unlock(q);NOP)))))))))))
+SymTable: 
+x --> 1
+q --> 0
+v2 --> (2, int)
+v1 --> (1, int)
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 20
+2 --> 30
+
+Program of id: 7
+ExeStack: 
+fork((lock(x);(wH(v1, rH(v1) - 1);unlock(x))));
+(lock(x);(wH(v1, rH(v1) * 10);unlock(x)))
+SymTable: 
+x --> 1
+q --> 0
+v2 --> (2, int)
+v1 --> (1, int)
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 20
+2 --> 30
+
+Program of id: 6
+ExeStack: 
+(fork((fork((lock(q);(wH(v2, rH(v2) + 5);unlock(q))));;(lock(q);(wH(v2, rH(v2) * 10);unlock(q)))));;(NOP;(NOP;(NOP;(NOP;(lock(x);(print(rH(v1));(unlock(x);(lock(q);(print(rH(v2));(unlock(q);NOP)))))))))))
+SymTable: 
+x --> 1
+q --> 2
+v2 --> (2, int)
+v1 --> (1, int)
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 20
+2 --> 30
+
+Program of id: 7
+ExeStack: 
+(lock(x);(wH(v1, rH(v1) * 10);unlock(x)))
+SymTable: 
+x --> 1
+q --> 0
+v2 --> (2, int)
+v1 --> (1, int)
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 20
+2 --> 30
+
+Program of id: 8
+ExeStack: 
+(lock(x);(wH(v1, rH(v1) - 1);unlock(x)))
+SymTable: 
+x --> 1
+q --> 0
+v2 --> (2, int)
+v1 --> (1, int)
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 20
+2 --> 30
+
+Program of id: 6
+ExeStack: 
+fork((fork((lock(q);(wH(v2, rH(v2) + 5);unlock(q))));;(lock(q);(wH(v2, rH(v2) * 10);unlock(q)))));
+(NOP;(NOP;(NOP;(NOP;(lock(x);(print(rH(v1));(unlock(x);(lock(q);(print(rH(v2));(unlock(q);NOP))))))))))
+SymTable: 
+x --> 1
+q --> 2
+v2 --> (2, int)
+v1 --> (1, int)
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 20
+2 --> 30
+
+Program of id: 7
+ExeStack: 
+lock(x)
+(wH(v1, rH(v1) * 10);unlock(x))
+SymTable: 
+x --> 1
+q --> 0
+v2 --> (2, int)
+v1 --> (1, int)
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 20
+2 --> 30
+
+Program of id: 8
+ExeStack: 
+lock(x)
+(wH(v1, rH(v1) - 1);unlock(x))
+SymTable: 
+x --> 1
+q --> 0
+v2 --> (2, int)
+v1 --> (1, int)
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 20
+2 --> 30
+
+Program of id: 6
+ExeStack: 
+(NOP;(NOP;(NOP;(NOP;(lock(x);(print(rH(v1));(unlock(x);(lock(q);(print(rH(v2));(unlock(q);NOP))))))))))
+SymTable: 
+x --> 1
+q --> 2
+v2 --> (2, int)
+v1 --> (1, int)
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 20
+2 --> 30
+
+Program of id: 7
+ExeStack: 
+(wH(v1, rH(v1) * 10);unlock(x))
+SymTable: 
+x --> 1
+q --> 0
+v2 --> (2, int)
+v1 --> (1, int)
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 20
+2 --> 30
+
+Program of id: 8
+ExeStack: 
+lock(x)
+(wH(v1, rH(v1) - 1);unlock(x))
+SymTable: 
+x --> 1
+q --> 0
+v2 --> (2, int)
+v1 --> (1, int)
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 20
+2 --> 30
+
+Program of id: 9
+ExeStack: 
+(fork((lock(q);(wH(v2, rH(v2) + 5);unlock(q))));;(lock(q);(wH(v2, rH(v2) * 10);unlock(q))))
+SymTable: 
+x --> 1
+q --> 2
+v2 --> (2, int)
+v1 --> (1, int)
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 20
+2 --> 30
+
+Program of id: 6
+ExeStack: 
+NOP
+(NOP;(NOP;(NOP;(lock(x);(print(rH(v1));(unlock(x);(lock(q);(print(rH(v2));(unlock(q);NOP)))))))))
+SymTable: 
+x --> 1
+q --> 2
+v2 --> (2, int)
+v1 --> (1, int)
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 20
+2 --> 30
+
+Program of id: 7
+ExeStack: 
+wH(v1, rH(v1) * 10)
+unlock(x)
+SymTable: 
+x --> 1
+q --> 0
+v2 --> (2, int)
+v1 --> (1, int)
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 20
+2 --> 30
+
+Program of id: 8
+ExeStack: 
+lock(x)
+(wH(v1, rH(v1) - 1);unlock(x))
+SymTable: 
+x --> 1
+q --> 0
+v2 --> (2, int)
+v1 --> (1, int)
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 20
+2 --> 30
+
+Program of id: 9
+ExeStack: 
+fork((lock(q);(wH(v2, rH(v2) + 5);unlock(q))));
+(lock(q);(wH(v2, rH(v2) * 10);unlock(q)))
+SymTable: 
+x --> 1
+q --> 2
+v2 --> (2, int)
+v1 --> (1, int)
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 20
+2 --> 30
+
+Program of id: 6
+ExeStack: 
+(NOP;(NOP;(NOP;(lock(x);(print(rH(v1));(unlock(x);(lock(q);(print(rH(v2));(unlock(q);NOP)))))))))
+SymTable: 
+x --> 1
+q --> 2
+v2 --> (2, int)
+v1 --> (1, int)
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 200
+2 --> 30
+
+Program of id: 7
+ExeStack: 
+unlock(x)
+SymTable: 
+x --> 1
+q --> 0
+v2 --> (2, int)
+v1 --> (1, int)
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 200
+2 --> 30
+
+Program of id: 8
+ExeStack: 
+lock(x)
+(wH(v1, rH(v1) - 1);unlock(x))
+SymTable: 
+x --> 1
+q --> 0
+v2 --> (2, int)
+v1 --> (1, int)
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 200
+2 --> 30
+
+Program of id: 9
+ExeStack: 
+(lock(q);(wH(v2, rH(v2) * 10);unlock(q)))
+SymTable: 
+x --> 1
+q --> 2
+v2 --> (2, int)
+v1 --> (1, int)
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 200
+2 --> 30
+
+Program of id: 10
+ExeStack: 
+(lock(q);(wH(v2, rH(v2) + 5);unlock(q)))
+SymTable: 
+x --> 1
+q --> 2
+v2 --> (2, int)
+v1 --> (1, int)
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 200
+2 --> 30
+
+Program of id: 6
+ExeStack: 
+NOP
+(NOP;(NOP;(lock(x);(print(rH(v1));(unlock(x);(lock(q);(print(rH(v2));(unlock(q);NOP))))))))
+SymTable: 
+x --> 1
+q --> 2
+v2 --> (2, int)
+v1 --> (1, int)
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 200
+2 --> 30
+
+Program of id: 7
+ExeStack: 
+--Empty--
+SymTable: 
+x --> 1
+q --> 0
+v2 --> (2, int)
+v1 --> (1, int)
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 200
+2 --> 30
+
+Program of id: 8
+ExeStack: 
+(wH(v1, rH(v1) - 1);unlock(x))
+SymTable: 
+x --> 1
+q --> 0
+v2 --> (2, int)
+v1 --> (1, int)
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 200
+2 --> 30
+
+Program of id: 9
+ExeStack: 
+lock(q)
+(wH(v2, rH(v2) * 10);unlock(q))
+SymTable: 
+x --> 1
+q --> 2
+v2 --> (2, int)
+v1 --> (1, int)
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 200
+2 --> 30
+
+Program of id: 10
+ExeStack: 
+lock(q)
+(wH(v2, rH(v2) + 5);unlock(q))
+SymTable: 
+x --> 1
+q --> 2
+v2 --> (2, int)
+v1 --> (1, int)
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 200
+2 --> 30
+
+Program of id: 6
+ExeStack: 
+(NOP;(NOP;(lock(x);(print(rH(v1));(unlock(x);(lock(q);(print(rH(v2));(unlock(q);NOP))))))))
+SymTable: 
+x --> 1
+q --> 2
+v2 --> (2, int)
+v1 --> (1, int)
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 200
+2 --> 30
+
+Program of id: 8
+ExeStack: 
+wH(v1, rH(v1) - 1)
+unlock(x)
+SymTable: 
+x --> 1
+q --> 0
+v2 --> (2, int)
+v1 --> (1, int)
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 200
+2 --> 30
+
+Program of id: 9
+ExeStack: 
+(wH(v2, rH(v2) * 10);unlock(q))
+SymTable: 
+x --> 1
+q --> 2
+v2 --> (2, int)
+v1 --> (1, int)
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 200
+2 --> 30
+
+Program of id: 10
+ExeStack: 
+lock(q)
+(wH(v2, rH(v2) + 5);unlock(q))
+SymTable: 
+x --> 1
+q --> 2
+v2 --> (2, int)
+v1 --> (1, int)
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 200
+2 --> 30
+
+Program of id: 6
+ExeStack: 
+NOP
+(NOP;(lock(x);(print(rH(v1));(unlock(x);(lock(q);(print(rH(v2));(unlock(q);NOP)))))))
+SymTable: 
+x --> 1
+q --> 2
+v2 --> (2, int)
+v1 --> (1, int)
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 199
+2 --> 30
+
+Program of id: 8
+ExeStack: 
+unlock(x)
+SymTable: 
+x --> 1
+q --> 0
+v2 --> (2, int)
+v1 --> (1, int)
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 199
+2 --> 30
+
+Program of id: 9
+ExeStack: 
+wH(v2, rH(v2) * 10)
+unlock(q)
+SymTable: 
+x --> 1
+q --> 2
+v2 --> (2, int)
+v1 --> (1, int)
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 199
+2 --> 30
+
+Program of id: 10
+ExeStack: 
+lock(q)
+(wH(v2, rH(v2) + 5);unlock(q))
+SymTable: 
+x --> 1
+q --> 2
+v2 --> (2, int)
+v1 --> (1, int)
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 199
+2 --> 30
+
+Program of id: 6
+ExeStack: 
+(NOP;(lock(x);(print(rH(v1));(unlock(x);(lock(q);(print(rH(v2));(unlock(q);NOP)))))))
+SymTable: 
+x --> 1
+q --> 2
+v2 --> (2, int)
+v1 --> (1, int)
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 199
+2 --> 300
+
+Program of id: 8
+ExeStack: 
+--Empty--
+SymTable: 
+x --> 1
+q --> 0
+v2 --> (2, int)
+v1 --> (1, int)
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 199
+2 --> 300
+
+Program of id: 9
+ExeStack: 
+unlock(q)
+SymTable: 
+x --> 1
+q --> 2
+v2 --> (2, int)
+v1 --> (1, int)
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 199
+2 --> 300
+
+Program of id: 10
+ExeStack: 
+lock(q)
+(wH(v2, rH(v2) + 5);unlock(q))
+SymTable: 
+x --> 1
+q --> 2
+v2 --> (2, int)
+v1 --> (1, int)
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 199
+2 --> 300
+
+Program of id: 6
+ExeStack: 
+NOP
+(lock(x);(print(rH(v1));(unlock(x);(lock(q);(print(rH(v2));(unlock(q);NOP))))))
+SymTable: 
+x --> 1
+q --> 2
+v2 --> (2, int)
+v1 --> (1, int)
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 199
+2 --> 300
+
+Program of id: 9
+ExeStack: 
+--Empty--
+SymTable: 
+x --> 1
+q --> 2
+v2 --> (2, int)
+v1 --> (1, int)
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 199
+2 --> 300
+
+Program of id: 10
+ExeStack: 
+lock(q)
+(wH(v2, rH(v2) + 5);unlock(q))
+SymTable: 
+x --> 1
+q --> 2
+v2 --> (2, int)
+v1 --> (1, int)
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 199
+2 --> 300
+
+Program of id: 6
+ExeStack: 
+(lock(x);(print(rH(v1));(unlock(x);(lock(q);(print(rH(v2));(unlock(q);NOP))))))
+SymTable: 
+x --> 1
+q --> 2
+v2 --> (2, int)
+v1 --> (1, int)
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 199
+2 --> 300
+
+Program of id: 10
+ExeStack: 
+(wH(v2, rH(v2) + 5);unlock(q))
+SymTable: 
+x --> 1
+q --> 2
+v2 --> (2, int)
+v1 --> (1, int)
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 199
+2 --> 300
+
+Program of id: 6
+ExeStack: 
+lock(x)
+(print(rH(v1));(unlock(x);(lock(q);(print(rH(v2));(unlock(q);NOP)))))
+SymTable: 
+x --> 1
+q --> 2
+v2 --> (2, int)
+v1 --> (1, int)
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 199
+2 --> 300
+
+Program of id: 10
+ExeStack: 
+wH(v2, rH(v2) + 5)
+unlock(q)
+SymTable: 
+x --> 1
+q --> 2
+v2 --> (2, int)
+v1 --> (1, int)
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 199
+2 --> 300
+
+Program of id: 6
+ExeStack: 
+(print(rH(v1));(unlock(x);(lock(q);(print(rH(v2));(unlock(q);NOP)))))
+SymTable: 
+x --> 1
+q --> 2
+v2 --> (2, int)
+v1 --> (1, int)
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 199
+2 --> 305
+
+Program of id: 10
+ExeStack: 
+unlock(q)
+SymTable: 
+x --> 1
+q --> 2
+v2 --> (2, int)
+v1 --> (1, int)
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 199
+2 --> 305
+
+Program of id: 6
+ExeStack: 
+print(rH(v1))
+(unlock(x);(lock(q);(print(rH(v2));(unlock(q);NOP))))
+SymTable: 
+x --> 1
+q --> 2
+v2 --> (2, int)
+v1 --> (1, int)
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 199
+2 --> 305
+
+Program of id: 10
+ExeStack: 
+--Empty--
+SymTable: 
+x --> 1
+q --> 2
+v2 --> (2, int)
+v1 --> (1, int)
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 199
+2 --> 305
+
+Program of id: 6
+ExeStack: 
+(unlock(x);(lock(q);(print(rH(v2));(unlock(q);NOP))))
+SymTable: 
+x --> 1
+q --> 2
+v2 --> (2, int)
+v1 --> (1, int)
+Out: 
+199
+FileTable: 
+--Empty--
+Heap: 
+1 --> 199
+2 --> 305
+
+Program of id: 6
+ExeStack: 
+unlock(x)
+(lock(q);(print(rH(v2));(unlock(q);NOP)))
+SymTable: 
+x --> 1
+q --> 2
+v2 --> (2, int)
+v1 --> (1, int)
+Out: 
+199
+FileTable: 
+--Empty--
+Heap: 
+1 --> 199
+2 --> 305
+
+Program of id: 6
+ExeStack: 
+(lock(q);(print(rH(v2));(unlock(q);NOP)))
+SymTable: 
+x --> 1
+q --> 2
+v2 --> (2, int)
+v1 --> (1, int)
+Out: 
+199
+FileTable: 
+--Empty--
+Heap: 
+1 --> 199
+2 --> 305
+
+Program of id: 6
+ExeStack: 
+lock(q)
+(print(rH(v2));(unlock(q);NOP))
+SymTable: 
+x --> 1
+q --> 2
+v2 --> (2, int)
+v1 --> (1, int)
+Out: 
+199
+FileTable: 
+--Empty--
+Heap: 
+1 --> 199
+2 --> 305
+
+Program of id: 6
+ExeStack: 
+(print(rH(v2));(unlock(q);NOP))
+SymTable: 
+x --> 1
+q --> 2
+v2 --> (2, int)
+v1 --> (1, int)
+Out: 
+199
+FileTable: 
+--Empty--
+Heap: 
+1 --> 199
+2 --> 305
+
+Program of id: 6
+ExeStack: 
+print(rH(v2))
+(unlock(q);NOP)
+SymTable: 
+x --> 1
+q --> 2
+v2 --> (2, int)
+v1 --> (1, int)
+Out: 
+199
+FileTable: 
+--Empty--
+Heap: 
+1 --> 199
+2 --> 305
+
+Program of id: 6
+ExeStack: 
+(unlock(q);NOP)
+SymTable: 
+x --> 1
+q --> 2
+v2 --> (2, int)
+v1 --> (1, int)
+Out: 
+199
+305
+FileTable: 
+--Empty--
+Heap: 
+1 --> 199
+2 --> 305
+
+Program of id: 6
+ExeStack: 
+unlock(q)
+NOP
+SymTable: 
+x --> 1
+q --> 2
+v2 --> (2, int)
+v1 --> (1, int)
+Out: 
+199
+305
+FileTable: 
+--Empty--
+Heap: 
+1 --> 199
+2 --> 305
+
+Program of id: 6
+ExeStack: 
+NOP
+SymTable: 
+x --> 1
+q --> 2
+v2 --> (2, int)
+v1 --> (1, int)
+Out: 
+199
+305
+FileTable: 
+--Empty--
+Heap: 
+1 --> 199
+2 --> 305
+
+Program of id: 6
+ExeStack: 
+--Empty--
+SymTable: 
+x --> 1
+q --> 2
+v2 --> (2, int)
+v1 --> (1, int)
+Out: 
+199
+305
+FileTable: 
+--Empty--
+Heap: 
+1 --> 199
+2 --> 305
+
+Program of id: 11
+ExeStack: 
+Ref int v1
+(Ref int v2;(int x;(int q;(new( v1, 20 );(new( v2, 30 );(newLock(x);(fork((fork((lock(x);(wH(v1, rH(v1) - 1);unlock(x))));;(lock(x);(wH(v1, rH(v1) * 10);unlock(x)))));;(newLock(q);(fork((fork((lock(q);(wH(v2, rH(v2) + 5);unlock(q))));;(lock(q);(wH(v2, rH(v2) * 10);unlock(q)))));;(NOP;(NOP;(NOP;(NOP;(lock(x);(print(rH(v1));(unlock(x);(lock(q);(print(rH(v2));(unlock(q);NOP)))))))))))))))))))
+SymTable: 
+--Empty--
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 11
+ExeStack: 
+(Ref int v2;(int x;(int q;(new( v1, 20 );(new( v2, 30 );(newLock(x);(fork((fork((lock(x);(wH(v1, rH(v1) - 1);unlock(x))));;(lock(x);(wH(v1, rH(v1) * 10);unlock(x)))));;(newLock(q);(fork((fork((lock(q);(wH(v2, rH(v2) + 5);unlock(q))));;(lock(q);(wH(v2, rH(v2) * 10);unlock(q)))));;(NOP;(NOP;(NOP;(NOP;(lock(x);(print(rH(v1));(unlock(x);(lock(q);(print(rH(v2));(unlock(q);NOP)))))))))))))))))))
+SymTable: 
+v1 --> (-1, int)
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 11
+ExeStack: 
+Ref int v2
+(int x;(int q;(new( v1, 20 );(new( v2, 30 );(newLock(x);(fork((fork((lock(x);(wH(v1, rH(v1) - 1);unlock(x))));;(lock(x);(wH(v1, rH(v1) * 10);unlock(x)))));;(newLock(q);(fork((fork((lock(q);(wH(v2, rH(v2) + 5);unlock(q))));;(lock(q);(wH(v2, rH(v2) * 10);unlock(q)))));;(NOP;(NOP;(NOP;(NOP;(lock(x);(print(rH(v1));(unlock(x);(lock(q);(print(rH(v2));(unlock(q);NOP))))))))))))))))))
+SymTable: 
+v1 --> (-1, int)
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 11
+ExeStack: 
+(int x;(int q;(new( v1, 20 );(new( v2, 30 );(newLock(x);(fork((fork((lock(x);(wH(v1, rH(v1) - 1);unlock(x))));;(lock(x);(wH(v1, rH(v1) * 10);unlock(x)))));;(newLock(q);(fork((fork((lock(q);(wH(v2, rH(v2) + 5);unlock(q))));;(lock(q);(wH(v2, rH(v2) * 10);unlock(q)))));;(NOP;(NOP;(NOP;(NOP;(lock(x);(print(rH(v1));(unlock(x);(lock(q);(print(rH(v2));(unlock(q);NOP))))))))))))))))))
+SymTable: 
+v2 --> (-1, int)
+v1 --> (-1, int)
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 11
+ExeStack: 
+int x
+(int q;(new( v1, 20 );(new( v2, 30 );(newLock(x);(fork((fork((lock(x);(wH(v1, rH(v1) - 1);unlock(x))));;(lock(x);(wH(v1, rH(v1) * 10);unlock(x)))));;(newLock(q);(fork((fork((lock(q);(wH(v2, rH(v2) + 5);unlock(q))));;(lock(q);(wH(v2, rH(v2) * 10);unlock(q)))));;(NOP;(NOP;(NOP;(NOP;(lock(x);(print(rH(v1));(unlock(x);(lock(q);(print(rH(v2));(unlock(q);NOP)))))))))))))))))
+SymTable: 
+v2 --> (-1, int)
+v1 --> (-1, int)
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 11
+ExeStack: 
+(int q;(new( v1, 20 );(new( v2, 30 );(newLock(x);(fork((fork((lock(x);(wH(v1, rH(v1) - 1);unlock(x))));;(lock(x);(wH(v1, rH(v1) * 10);unlock(x)))));;(newLock(q);(fork((fork((lock(q);(wH(v2, rH(v2) + 5);unlock(q))));;(lock(q);(wH(v2, rH(v2) * 10);unlock(q)))));;(NOP;(NOP;(NOP;(NOP;(lock(x);(print(rH(v1));(unlock(x);(lock(q);(print(rH(v2));(unlock(q);NOP)))))))))))))))))
+SymTable: 
+x --> 0
+v2 --> (-1, int)
+v1 --> (-1, int)
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 11
+ExeStack: 
+int q
+(new( v1, 20 );(new( v2, 30 );(newLock(x);(fork((fork((lock(x);(wH(v1, rH(v1) - 1);unlock(x))));;(lock(x);(wH(v1, rH(v1) * 10);unlock(x)))));;(newLock(q);(fork((fork((lock(q);(wH(v2, rH(v2) + 5);unlock(q))));;(lock(q);(wH(v2, rH(v2) * 10);unlock(q)))));;(NOP;(NOP;(NOP;(NOP;(lock(x);(print(rH(v1));(unlock(x);(lock(q);(print(rH(v2));(unlock(q);NOP))))))))))))))))
+SymTable: 
+x --> 0
+v2 --> (-1, int)
+v1 --> (-1, int)
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 11
+ExeStack: 
+(new( v1, 20 );(new( v2, 30 );(newLock(x);(fork((fork((lock(x);(wH(v1, rH(v1) - 1);unlock(x))));;(lock(x);(wH(v1, rH(v1) * 10);unlock(x)))));;(newLock(q);(fork((fork((lock(q);(wH(v2, rH(v2) + 5);unlock(q))));;(lock(q);(wH(v2, rH(v2) * 10);unlock(q)))));;(NOP;(NOP;(NOP;(NOP;(lock(x);(print(rH(v1));(unlock(x);(lock(q);(print(rH(v2));(unlock(q);NOP))))))))))))))))
+SymTable: 
+x --> 0
+q --> 0
+v2 --> (-1, int)
+v1 --> (-1, int)
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 11
+ExeStack: 
+new( v1, 20 )
+(new( v2, 30 );(newLock(x);(fork((fork((lock(x);(wH(v1, rH(v1) - 1);unlock(x))));;(lock(x);(wH(v1, rH(v1) * 10);unlock(x)))));;(newLock(q);(fork((fork((lock(q);(wH(v2, rH(v2) + 5);unlock(q))));;(lock(q);(wH(v2, rH(v2) * 10);unlock(q)))));;(NOP;(NOP;(NOP;(NOP;(lock(x);(print(rH(v1));(unlock(x);(lock(q);(print(rH(v2));(unlock(q);NOP)))))))))))))))
+SymTable: 
+x --> 0
+q --> 0
+v2 --> (-1, int)
+v1 --> (-1, int)
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 11
+ExeStack: 
+(new( v2, 30 );(newLock(x);(fork((fork((lock(x);(wH(v1, rH(v1) - 1);unlock(x))));;(lock(x);(wH(v1, rH(v1) * 10);unlock(x)))));;(newLock(q);(fork((fork((lock(q);(wH(v2, rH(v2) + 5);unlock(q))));;(lock(q);(wH(v2, rH(v2) * 10);unlock(q)))));;(NOP;(NOP;(NOP;(NOP;(lock(x);(print(rH(v1));(unlock(x);(lock(q);(print(rH(v2));(unlock(q);NOP)))))))))))))))
+SymTable: 
+x --> 0
+q --> 0
+v2 --> (-1, int)
+v1 --> (1, int)
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 20
+
+Program of id: 11
+ExeStack: 
+new( v2, 30 )
+(newLock(x);(fork((fork((lock(x);(wH(v1, rH(v1) - 1);unlock(x))));;(lock(x);(wH(v1, rH(v1) * 10);unlock(x)))));;(newLock(q);(fork((fork((lock(q);(wH(v2, rH(v2) + 5);unlock(q))));;(lock(q);(wH(v2, rH(v2) * 10);unlock(q)))));;(NOP;(NOP;(NOP;(NOP;(lock(x);(print(rH(v1));(unlock(x);(lock(q);(print(rH(v2));(unlock(q);NOP))))))))))))))
+SymTable: 
+x --> 0
+q --> 0
+v2 --> (-1, int)
+v1 --> (1, int)
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 20
+
+Program of id: 11
+ExeStack: 
+(newLock(x);(fork((fork((lock(x);(wH(v1, rH(v1) - 1);unlock(x))));;(lock(x);(wH(v1, rH(v1) * 10);unlock(x)))));;(newLock(q);(fork((fork((lock(q);(wH(v2, rH(v2) + 5);unlock(q))));;(lock(q);(wH(v2, rH(v2) * 10);unlock(q)))));;(NOP;(NOP;(NOP;(NOP;(lock(x);(print(rH(v1));(unlock(x);(lock(q);(print(rH(v2));(unlock(q);NOP))))))))))))))
+SymTable: 
+x --> 0
+q --> 0
+v2 --> (2, int)
+v1 --> (1, int)
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 20
+2 --> 30
+
+Program of id: 11
+ExeStack: 
+newLock(x)
+(fork((fork((lock(x);(wH(v1, rH(v1) - 1);unlock(x))));;(lock(x);(wH(v1, rH(v1) * 10);unlock(x)))));;(newLock(q);(fork((fork((lock(q);(wH(v2, rH(v2) + 5);unlock(q))));;(lock(q);(wH(v2, rH(v2) * 10);unlock(q)))));;(NOP;(NOP;(NOP;(NOP;(lock(x);(print(rH(v1));(unlock(x);(lock(q);(print(rH(v2));(unlock(q);NOP)))))))))))))
+SymTable: 
+x --> 0
+q --> 0
+v2 --> (2, int)
+v1 --> (1, int)
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 20
+2 --> 30
+
+Program of id: 11
+ExeStack: 
+(fork((fork((lock(x);(wH(v1, rH(v1) - 1);unlock(x))));;(lock(x);(wH(v1, rH(v1) * 10);unlock(x)))));;(newLock(q);(fork((fork((lock(q);(wH(v2, rH(v2) + 5);unlock(q))));;(lock(q);(wH(v2, rH(v2) * 10);unlock(q)))));;(NOP;(NOP;(NOP;(NOP;(lock(x);(print(rH(v1));(unlock(x);(lock(q);(print(rH(v2));(unlock(q);NOP)))))))))))))
+SymTable: 
+x --> 1
+q --> 0
+v2 --> (2, int)
+v1 --> (1, int)
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 20
+2 --> 30
+
+Program of id: 11
+ExeStack: 
+fork((fork((lock(x);(wH(v1, rH(v1) - 1);unlock(x))));;(lock(x);(wH(v1, rH(v1) * 10);unlock(x)))));
+(newLock(q);(fork((fork((lock(q);(wH(v2, rH(v2) + 5);unlock(q))));;(lock(q);(wH(v2, rH(v2) * 10);unlock(q)))));;(NOP;(NOP;(NOP;(NOP;(lock(x);(print(rH(v1));(unlock(x);(lock(q);(print(rH(v2));(unlock(q);NOP))))))))))))
+SymTable: 
+x --> 1
+q --> 0
+v2 --> (2, int)
+v1 --> (1, int)
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 20
+2 --> 30
+
+Program of id: 11
+ExeStack: 
+(newLock(q);(fork((fork((lock(q);(wH(v2, rH(v2) + 5);unlock(q))));;(lock(q);(wH(v2, rH(v2) * 10);unlock(q)))));;(NOP;(NOP;(NOP;(NOP;(lock(x);(print(rH(v1));(unlock(x);(lock(q);(print(rH(v2));(unlock(q);NOP))))))))))))
+SymTable: 
+x --> 1
+q --> 0
+v2 --> (2, int)
+v1 --> (1, int)
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 20
+2 --> 30
+
+Program of id: 12
+ExeStack: 
+(fork((lock(x);(wH(v1, rH(v1) - 1);unlock(x))));;(lock(x);(wH(v1, rH(v1) * 10);unlock(x))))
+SymTable: 
+x --> 1
+q --> 0
+v2 --> (2, int)
+v1 --> (1, int)
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 20
+2 --> 30
+
+Program of id: 11
+ExeStack: 
+newLock(q)
+(fork((fork((lock(q);(wH(v2, rH(v2) + 5);unlock(q))));;(lock(q);(wH(v2, rH(v2) * 10);unlock(q)))));;(NOP;(NOP;(NOP;(NOP;(lock(x);(print(rH(v1));(unlock(x);(lock(q);(print(rH(v2));(unlock(q);NOP)))))))))))
+SymTable: 
+x --> 1
+q --> 0
+v2 --> (2, int)
+v1 --> (1, int)
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 20
+2 --> 30
+
+Program of id: 12
+ExeStack: 
+fork((lock(x);(wH(v1, rH(v1) - 1);unlock(x))));
+(lock(x);(wH(v1, rH(v1) * 10);unlock(x)))
+SymTable: 
+x --> 1
+q --> 0
+v2 --> (2, int)
+v1 --> (1, int)
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 20
+2 --> 30
+
+Program of id: 11
+ExeStack: 
+(fork((fork((lock(q);(wH(v2, rH(v2) + 5);unlock(q))));;(lock(q);(wH(v2, rH(v2) * 10);unlock(q)))));;(NOP;(NOP;(NOP;(NOP;(lock(x);(print(rH(v1));(unlock(x);(lock(q);(print(rH(v2));(unlock(q);NOP)))))))))))
+SymTable: 
+x --> 1
+q --> 2
+v2 --> (2, int)
+v1 --> (1, int)
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 20
+2 --> 30
+
+Program of id: 12
+ExeStack: 
+(lock(x);(wH(v1, rH(v1) * 10);unlock(x)))
+SymTable: 
+x --> 1
+q --> 0
+v2 --> (2, int)
+v1 --> (1, int)
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 20
+2 --> 30
+
+Program of id: 13
+ExeStack: 
+(lock(x);(wH(v1, rH(v1) - 1);unlock(x)))
+SymTable: 
+x --> 1
+q --> 0
+v2 --> (2, int)
+v1 --> (1, int)
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 20
+2 --> 30
+
+Program of id: 11
+ExeStack: 
+fork((fork((lock(q);(wH(v2, rH(v2) + 5);unlock(q))));;(lock(q);(wH(v2, rH(v2) * 10);unlock(q)))));
+(NOP;(NOP;(NOP;(NOP;(lock(x);(print(rH(v1));(unlock(x);(lock(q);(print(rH(v2));(unlock(q);NOP))))))))))
+SymTable: 
+x --> 1
+q --> 2
+v2 --> (2, int)
+v1 --> (1, int)
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 20
+2 --> 30
+
+Program of id: 12
+ExeStack: 
+lock(x)
+(wH(v1, rH(v1) * 10);unlock(x))
+SymTable: 
+x --> 1
+q --> 0
+v2 --> (2, int)
+v1 --> (1, int)
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 20
+2 --> 30
+
+Program of id: 13
+ExeStack: 
+lock(x)
+(wH(v1, rH(v1) - 1);unlock(x))
+SymTable: 
+x --> 1
+q --> 0
+v2 --> (2, int)
+v1 --> (1, int)
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 20
+2 --> 30
+
+Program of id: 11
+ExeStack: 
+(NOP;(NOP;(NOP;(NOP;(lock(x);(print(rH(v1));(unlock(x);(lock(q);(print(rH(v2));(unlock(q);NOP))))))))))
+SymTable: 
+x --> 1
+q --> 2
+v2 --> (2, int)
+v1 --> (1, int)
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 20
+2 --> 30
+
+Program of id: 12
+ExeStack: 
+(wH(v1, rH(v1) * 10);unlock(x))
+SymTable: 
+x --> 1
+q --> 0
+v2 --> (2, int)
+v1 --> (1, int)
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 20
+2 --> 30
+
+Program of id: 13
+ExeStack: 
+lock(x)
+(wH(v1, rH(v1) - 1);unlock(x))
+SymTable: 
+x --> 1
+q --> 0
+v2 --> (2, int)
+v1 --> (1, int)
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 20
+2 --> 30
+
+Program of id: 14
+ExeStack: 
+(fork((lock(q);(wH(v2, rH(v2) + 5);unlock(q))));;(lock(q);(wH(v2, rH(v2) * 10);unlock(q))))
+SymTable: 
+x --> 1
+q --> 2
+v2 --> (2, int)
+v1 --> (1, int)
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 20
+2 --> 30
+
+Program of id: 11
+ExeStack: 
+NOP
+(NOP;(NOP;(NOP;(lock(x);(print(rH(v1));(unlock(x);(lock(q);(print(rH(v2));(unlock(q);NOP)))))))))
+SymTable: 
+x --> 1
+q --> 2
+v2 --> (2, int)
+v1 --> (1, int)
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 20
+2 --> 30
+
+Program of id: 12
+ExeStack: 
+wH(v1, rH(v1) * 10)
+unlock(x)
+SymTable: 
+x --> 1
+q --> 0
+v2 --> (2, int)
+v1 --> (1, int)
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 20
+2 --> 30
+
+Program of id: 13
+ExeStack: 
+lock(x)
+(wH(v1, rH(v1) - 1);unlock(x))
+SymTable: 
+x --> 1
+q --> 0
+v2 --> (2, int)
+v1 --> (1, int)
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 20
+2 --> 30
+
+Program of id: 14
+ExeStack: 
+fork((lock(q);(wH(v2, rH(v2) + 5);unlock(q))));
+(lock(q);(wH(v2, rH(v2) * 10);unlock(q)))
+SymTable: 
+x --> 1
+q --> 2
+v2 --> (2, int)
+v1 --> (1, int)
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 20
+2 --> 30
+
+Program of id: 11
+ExeStack: 
+(NOP;(NOP;(NOP;(lock(x);(print(rH(v1));(unlock(x);(lock(q);(print(rH(v2));(unlock(q);NOP)))))))))
+SymTable: 
+x --> 1
+q --> 2
+v2 --> (2, int)
+v1 --> (1, int)
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 200
+2 --> 30
+
+Program of id: 12
+ExeStack: 
+unlock(x)
+SymTable: 
+x --> 1
+q --> 0
+v2 --> (2, int)
+v1 --> (1, int)
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 200
+2 --> 30
+
+Program of id: 13
+ExeStack: 
+lock(x)
+(wH(v1, rH(v1) - 1);unlock(x))
+SymTable: 
+x --> 1
+q --> 0
+v2 --> (2, int)
+v1 --> (1, int)
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 200
+2 --> 30
+
+Program of id: 14
+ExeStack: 
+(lock(q);(wH(v2, rH(v2) * 10);unlock(q)))
+SymTable: 
+x --> 1
+q --> 2
+v2 --> (2, int)
+v1 --> (1, int)
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 200
+2 --> 30
+
+Program of id: 15
+ExeStack: 
+(lock(q);(wH(v2, rH(v2) + 5);unlock(q)))
+SymTable: 
+x --> 1
+q --> 2
+v2 --> (2, int)
+v1 --> (1, int)
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 200
+2 --> 30
+
+Program of id: 11
+ExeStack: 
+NOP
+(NOP;(NOP;(lock(x);(print(rH(v1));(unlock(x);(lock(q);(print(rH(v2));(unlock(q);NOP))))))))
+SymTable: 
+x --> 1
+q --> 2
+v2 --> (2, int)
+v1 --> (1, int)
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 200
+2 --> 30
+
+Program of id: 12
+ExeStack: 
+--Empty--
+SymTable: 
+x --> 1
+q --> 0
+v2 --> (2, int)
+v1 --> (1, int)
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 200
+2 --> 30
+
+Program of id: 13
+ExeStack: 
+(wH(v1, rH(v1) - 1);unlock(x))
+SymTable: 
+x --> 1
+q --> 0
+v2 --> (2, int)
+v1 --> (1, int)
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 200
+2 --> 30
+
+Program of id: 14
+ExeStack: 
+lock(q)
+(wH(v2, rH(v2) * 10);unlock(q))
+SymTable: 
+x --> 1
+q --> 2
+v2 --> (2, int)
+v1 --> (1, int)
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 200
+2 --> 30
+
+Program of id: 15
+ExeStack: 
+lock(q)
+(wH(v2, rH(v2) + 5);unlock(q))
+SymTable: 
+x --> 1
+q --> 2
+v2 --> (2, int)
+v1 --> (1, int)
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 200
+2 --> 30
+
+Program of id: 11
+ExeStack: 
+(NOP;(NOP;(lock(x);(print(rH(v1));(unlock(x);(lock(q);(print(rH(v2));(unlock(q);NOP))))))))
+SymTable: 
+x --> 1
+q --> 2
+v2 --> (2, int)
+v1 --> (1, int)
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 200
+2 --> 30
+
+Program of id: 13
+ExeStack: 
+wH(v1, rH(v1) - 1)
+unlock(x)
+SymTable: 
+x --> 1
+q --> 0
+v2 --> (2, int)
+v1 --> (1, int)
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 200
+2 --> 30
+
+Program of id: 14
+ExeStack: 
+(wH(v2, rH(v2) * 10);unlock(q))
+SymTable: 
+x --> 1
+q --> 2
+v2 --> (2, int)
+v1 --> (1, int)
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 200
+2 --> 30
+
+Program of id: 15
+ExeStack: 
+lock(q)
+(wH(v2, rH(v2) + 5);unlock(q))
+SymTable: 
+x --> 1
+q --> 2
+v2 --> (2, int)
+v1 --> (1, int)
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 200
+2 --> 30
+
+Program of id: 11
+ExeStack: 
+NOP
+(NOP;(lock(x);(print(rH(v1));(unlock(x);(lock(q);(print(rH(v2));(unlock(q);NOP)))))))
+SymTable: 
+x --> 1
+q --> 2
+v2 --> (2, int)
+v1 --> (1, int)
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 199
+2 --> 30
+
+Program of id: 13
+ExeStack: 
+unlock(x)
+SymTable: 
+x --> 1
+q --> 0
+v2 --> (2, int)
+v1 --> (1, int)
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 199
+2 --> 30
+
+Program of id: 14
+ExeStack: 
+wH(v2, rH(v2) * 10)
+unlock(q)
+SymTable: 
+x --> 1
+q --> 2
+v2 --> (2, int)
+v1 --> (1, int)
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 199
+2 --> 30
+
+Program of id: 15
+ExeStack: 
+lock(q)
+(wH(v2, rH(v2) + 5);unlock(q))
+SymTable: 
+x --> 1
+q --> 2
+v2 --> (2, int)
+v1 --> (1, int)
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 199
+2 --> 30
+
+Program of id: 11
+ExeStack: 
+(NOP;(lock(x);(print(rH(v1));(unlock(x);(lock(q);(print(rH(v2));(unlock(q);NOP)))))))
+SymTable: 
+x --> 1
+q --> 2
+v2 --> (2, int)
+v1 --> (1, int)
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 199
+2 --> 300
+
+Program of id: 13
+ExeStack: 
+--Empty--
+SymTable: 
+x --> 1
+q --> 0
+v2 --> (2, int)
+v1 --> (1, int)
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 199
+2 --> 300
+
+Program of id: 14
+ExeStack: 
+unlock(q)
+SymTable: 
+x --> 1
+q --> 2
+v2 --> (2, int)
+v1 --> (1, int)
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 199
+2 --> 300
+
+Program of id: 15
+ExeStack: 
+lock(q)
+(wH(v2, rH(v2) + 5);unlock(q))
+SymTable: 
+x --> 1
+q --> 2
+v2 --> (2, int)
+v1 --> (1, int)
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 199
+2 --> 300
+
+Program of id: 11
+ExeStack: 
+NOP
+(lock(x);(print(rH(v1));(unlock(x);(lock(q);(print(rH(v2));(unlock(q);NOP))))))
+SymTable: 
+x --> 1
+q --> 2
+v2 --> (2, int)
+v1 --> (1, int)
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 199
+2 --> 300
+
+Program of id: 14
+ExeStack: 
+--Empty--
+SymTable: 
+x --> 1
+q --> 2
+v2 --> (2, int)
+v1 --> (1, int)
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 199
+2 --> 300
+
+Program of id: 15
+ExeStack: 
+(wH(v2, rH(v2) + 5);unlock(q))
+SymTable: 
+x --> 1
+q --> 2
+v2 --> (2, int)
+v1 --> (1, int)
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 199
+2 --> 300
+
+Program of id: 11
+ExeStack: 
+(lock(x);(print(rH(v1));(unlock(x);(lock(q);(print(rH(v2));(unlock(q);NOP))))))
+SymTable: 
+x --> 1
+q --> 2
+v2 --> (2, int)
+v1 --> (1, int)
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 199
+2 --> 300
+
+Program of id: 15
+ExeStack: 
+wH(v2, rH(v2) + 5)
+unlock(q)
+SymTable: 
+x --> 1
+q --> 2
+v2 --> (2, int)
+v1 --> (1, int)
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 199
+2 --> 300
+
+Program of id: 11
+ExeStack: 
+lock(x)
+(print(rH(v1));(unlock(x);(lock(q);(print(rH(v2));(unlock(q);NOP)))))
+SymTable: 
+x --> 1
+q --> 2
+v2 --> (2, int)
+v1 --> (1, int)
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 199
+2 --> 305
+
+Program of id: 15
+ExeStack: 
+unlock(q)
+SymTable: 
+x --> 1
+q --> 2
+v2 --> (2, int)
+v1 --> (1, int)
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 199
+2 --> 305
+
+Program of id: 11
+ExeStack: 
+(print(rH(v1));(unlock(x);(lock(q);(print(rH(v2));(unlock(q);NOP)))))
+SymTable: 
+x --> 1
+q --> 2
+v2 --> (2, int)
+v1 --> (1, int)
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 199
+2 --> 305
+
+Program of id: 15
+ExeStack: 
+--Empty--
+SymTable: 
+x --> 1
+q --> 2
+v2 --> (2, int)
+v1 --> (1, int)
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 199
+2 --> 305
+
+Program of id: 11
+ExeStack: 
+print(rH(v1))
+(unlock(x);(lock(q);(print(rH(v2));(unlock(q);NOP))))
+SymTable: 
+x --> 1
+q --> 2
+v2 --> (2, int)
+v1 --> (1, int)
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 199
+2 --> 305
+
+Program of id: 11
+ExeStack: 
+(unlock(x);(lock(q);(print(rH(v2));(unlock(q);NOP))))
+SymTable: 
+x --> 1
+q --> 2
+v2 --> (2, int)
+v1 --> (1, int)
+Out: 
+199
+FileTable: 
+--Empty--
+Heap: 
+1 --> 199
+2 --> 305
+
+Program of id: 11
+ExeStack: 
+unlock(x)
+(lock(q);(print(rH(v2));(unlock(q);NOP)))
+SymTable: 
+x --> 1
+q --> 2
+v2 --> (2, int)
+v1 --> (1, int)
+Out: 
+199
+FileTable: 
+--Empty--
+Heap: 
+1 --> 199
+2 --> 305
+
+Program of id: 11
+ExeStack: 
+(lock(q);(print(rH(v2));(unlock(q);NOP)))
+SymTable: 
+x --> 1
+q --> 2
+v2 --> (2, int)
+v1 --> (1, int)
+Out: 
+199
+FileTable: 
+--Empty--
+Heap: 
+1 --> 199
+2 --> 305
+
+Program of id: 11
+ExeStack: 
+lock(q)
+(print(rH(v2));(unlock(q);NOP))
+SymTable: 
+x --> 1
+q --> 2
+v2 --> (2, int)
+v1 --> (1, int)
+Out: 
+199
+FileTable: 
+--Empty--
+Heap: 
+1 --> 199
+2 --> 305
+
+Program of id: 11
+ExeStack: 
+(print(rH(v2));(unlock(q);NOP))
+SymTable: 
+x --> 1
+q --> 2
+v2 --> (2, int)
+v1 --> (1, int)
+Out: 
+199
+FileTable: 
+--Empty--
+Heap: 
+1 --> 199
+2 --> 305
+
+Program of id: 11
+ExeStack: 
+print(rH(v2))
+(unlock(q);NOP)
+SymTable: 
+x --> 1
+q --> 2
+v2 --> (2, int)
+v1 --> (1, int)
+Out: 
+199
+FileTable: 
+--Empty--
+Heap: 
+1 --> 199
+2 --> 305
+
+Program of id: 11
+ExeStack: 
+(unlock(q);NOP)
+SymTable: 
+x --> 1
+q --> 2
+v2 --> (2, int)
+v1 --> (1, int)
+Out: 
+199
+305
+FileTable: 
+--Empty--
+Heap: 
+1 --> 199
+2 --> 305
+
+Program of id: 11
+ExeStack: 
+unlock(q)
+NOP
+SymTable: 
+x --> 1
+q --> 2
+v2 --> (2, int)
+v1 --> (1, int)
+Out: 
+199
+305
+FileTable: 
+--Empty--
+Heap: 
+1 --> 199
+2 --> 305
+
+Program of id: 11
+ExeStack: 
+NOP
+SymTable: 
+x --> 1
+q --> 2
+v2 --> (2, int)
+v1 --> (1, int)
+Out: 
+199
+305
+FileTable: 
+--Empty--
+Heap: 
+1 --> 199
+2 --> 305
+
+Program of id: 11
+ExeStack: 
+--Empty--
+SymTable: 
+x --> 1
+q --> 2
+v2 --> (2, int)
+v1 --> (1, int)
+Out: 
+199
+305
+FileTable: 
+--Empty--
+Heap: 
+1 --> 199
+2 --> 305
+
+Program of id: 1
+ExeStack: 
+Ref int v1
+(Ref int v2;(int x;(int q;(new( v1, 20 );(new( v2, 30 );(newLock(x);(fork((fork((lock(x);(wH(v1, rH(v1) - 1);unlock(x))));;(lock(x);(wH(v1, rH(v1) * 10);unlock(x)))));;(newLock(q);(fork((fork((lock(q);(wH(v2, rH(v2) + 5);unlock(q))));;(lock(q);(wH(v2, rH(v2) * 10);unlock(q)))));;(NOP;(NOP;(NOP;(NOP;(lock(x);(print(rH(v1));(unlock(x);(lock(q);(print(rH(v2));(unlock(q);NOP)))))))))))))))))))
+SymTable: 
+--Empty--
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 1
+ExeStack: 
+(Ref int v2;(int x;(int q;(new( v1, 20 );(new( v2, 30 );(newLock(x);(fork((fork((lock(x);(wH(v1, rH(v1) - 1);unlock(x))));;(lock(x);(wH(v1, rH(v1) * 10);unlock(x)))));;(newLock(q);(fork((fork((lock(q);(wH(v2, rH(v2) + 5);unlock(q))));;(lock(q);(wH(v2, rH(v2) * 10);unlock(q)))));;(NOP;(NOP;(NOP;(NOP;(lock(x);(print(rH(v1));(unlock(x);(lock(q);(print(rH(v2));(unlock(q);NOP)))))))))))))))))))
+SymTable: 
+v1 --> (-1, int)
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 1
+ExeStack: 
+Ref int v2
+(int x;(int q;(new( v1, 20 );(new( v2, 30 );(newLock(x);(fork((fork((lock(x);(wH(v1, rH(v1) - 1);unlock(x))));;(lock(x);(wH(v1, rH(v1) * 10);unlock(x)))));;(newLock(q);(fork((fork((lock(q);(wH(v2, rH(v2) + 5);unlock(q))));;(lock(q);(wH(v2, rH(v2) * 10);unlock(q)))));;(NOP;(NOP;(NOP;(NOP;(lock(x);(print(rH(v1));(unlock(x);(lock(q);(print(rH(v2));(unlock(q);NOP))))))))))))))))))
+SymTable: 
+v1 --> (-1, int)
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 1
+ExeStack: 
+(int x;(int q;(new( v1, 20 );(new( v2, 30 );(newLock(x);(fork((fork((lock(x);(wH(v1, rH(v1) - 1);unlock(x))));;(lock(x);(wH(v1, rH(v1) * 10);unlock(x)))));;(newLock(q);(fork((fork((lock(q);(wH(v2, rH(v2) + 5);unlock(q))));;(lock(q);(wH(v2, rH(v2) * 10);unlock(q)))));;(NOP;(NOP;(NOP;(NOP;(lock(x);(print(rH(v1));(unlock(x);(lock(q);(print(rH(v2));(unlock(q);NOP))))))))))))))))))
+SymTable: 
+v2 --> (-1, int)
+v1 --> (-1, int)
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 1
+ExeStack: 
+int x
+(int q;(new( v1, 20 );(new( v2, 30 );(newLock(x);(fork((fork((lock(x);(wH(v1, rH(v1) - 1);unlock(x))));;(lock(x);(wH(v1, rH(v1) * 10);unlock(x)))));;(newLock(q);(fork((fork((lock(q);(wH(v2, rH(v2) + 5);unlock(q))));;(lock(q);(wH(v2, rH(v2) * 10);unlock(q)))));;(NOP;(NOP;(NOP;(NOP;(lock(x);(print(rH(v1));(unlock(x);(lock(q);(print(rH(v2));(unlock(q);NOP)))))))))))))))))
+SymTable: 
+v2 --> (-1, int)
+v1 --> (-1, int)
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 1
+ExeStack: 
+(int q;(new( v1, 20 );(new( v2, 30 );(newLock(x);(fork((fork((lock(x);(wH(v1, rH(v1) - 1);unlock(x))));;(lock(x);(wH(v1, rH(v1) * 10);unlock(x)))));;(newLock(q);(fork((fork((lock(q);(wH(v2, rH(v2) + 5);unlock(q))));;(lock(q);(wH(v2, rH(v2) * 10);unlock(q)))));;(NOP;(NOP;(NOP;(NOP;(lock(x);(print(rH(v1));(unlock(x);(lock(q);(print(rH(v2));(unlock(q);NOP)))))))))))))))))
+SymTable: 
+x --> 0
+v2 --> (-1, int)
+v1 --> (-1, int)
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 1
+ExeStack: 
+int q
+(new( v1, 20 );(new( v2, 30 );(newLock(x);(fork((fork((lock(x);(wH(v1, rH(v1) - 1);unlock(x))));;(lock(x);(wH(v1, rH(v1) * 10);unlock(x)))));;(newLock(q);(fork((fork((lock(q);(wH(v2, rH(v2) + 5);unlock(q))));;(lock(q);(wH(v2, rH(v2) * 10);unlock(q)))));;(NOP;(NOP;(NOP;(NOP;(lock(x);(print(rH(v1));(unlock(x);(lock(q);(print(rH(v2));(unlock(q);NOP))))))))))))))))
+SymTable: 
+x --> 0
+v2 --> (-1, int)
+v1 --> (-1, int)
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 1
+ExeStack: 
+(new( v1, 20 );(new( v2, 30 );(newLock(x);(fork((fork((lock(x);(wH(v1, rH(v1) - 1);unlock(x))));;(lock(x);(wH(v1, rH(v1) * 10);unlock(x)))));;(newLock(q);(fork((fork((lock(q);(wH(v2, rH(v2) + 5);unlock(q))));;(lock(q);(wH(v2, rH(v2) * 10);unlock(q)))));;(NOP;(NOP;(NOP;(NOP;(lock(x);(print(rH(v1));(unlock(x);(lock(q);(print(rH(v2));(unlock(q);NOP))))))))))))))))
+SymTable: 
+x --> 0
+q --> 0
+v2 --> (-1, int)
+v1 --> (-1, int)
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 1
+ExeStack: 
+new( v1, 20 )
+(new( v2, 30 );(newLock(x);(fork((fork((lock(x);(wH(v1, rH(v1) - 1);unlock(x))));;(lock(x);(wH(v1, rH(v1) * 10);unlock(x)))));;(newLock(q);(fork((fork((lock(q);(wH(v2, rH(v2) + 5);unlock(q))));;(lock(q);(wH(v2, rH(v2) * 10);unlock(q)))));;(NOP;(NOP;(NOP;(NOP;(lock(x);(print(rH(v1));(unlock(x);(lock(q);(print(rH(v2));(unlock(q);NOP)))))))))))))))
+SymTable: 
+x --> 0
+q --> 0
+v2 --> (-1, int)
+v1 --> (-1, int)
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+
+Program of id: 1
+ExeStack: 
+(new( v2, 30 );(newLock(x);(fork((fork((lock(x);(wH(v1, rH(v1) - 1);unlock(x))));;(lock(x);(wH(v1, rH(v1) * 10);unlock(x)))));;(newLock(q);(fork((fork((lock(q);(wH(v2, rH(v2) + 5);unlock(q))));;(lock(q);(wH(v2, rH(v2) * 10);unlock(q)))));;(NOP;(NOP;(NOP;(NOP;(lock(x);(print(rH(v1));(unlock(x);(lock(q);(print(rH(v2));(unlock(q);NOP)))))))))))))))
+SymTable: 
+x --> 0
+q --> 0
+v2 --> (-1, int)
+v1 --> (1, int)
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 20
+
+Program of id: 1
+ExeStack: 
+new( v2, 30 )
+(newLock(x);(fork((fork((lock(x);(wH(v1, rH(v1) - 1);unlock(x))));;(lock(x);(wH(v1, rH(v1) * 10);unlock(x)))));;(newLock(q);(fork((fork((lock(q);(wH(v2, rH(v2) + 5);unlock(q))));;(lock(q);(wH(v2, rH(v2) * 10);unlock(q)))));;(NOP;(NOP;(NOP;(NOP;(lock(x);(print(rH(v1));(unlock(x);(lock(q);(print(rH(v2));(unlock(q);NOP))))))))))))))
+SymTable: 
+x --> 0
+q --> 0
+v2 --> (-1, int)
+v1 --> (1, int)
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 20
+
+Program of id: 1
+ExeStack: 
+(newLock(x);(fork((fork((lock(x);(wH(v1, rH(v1) - 1);unlock(x))));;(lock(x);(wH(v1, rH(v1) * 10);unlock(x)))));;(newLock(q);(fork((fork((lock(q);(wH(v2, rH(v2) + 5);unlock(q))));;(lock(q);(wH(v2, rH(v2) * 10);unlock(q)))));;(NOP;(NOP;(NOP;(NOP;(lock(x);(print(rH(v1));(unlock(x);(lock(q);(print(rH(v2));(unlock(q);NOP))))))))))))))
+SymTable: 
+x --> 0
+q --> 0
+v2 --> (2, int)
+v1 --> (1, int)
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 20
+2 --> 30
+
+Program of id: 1
+ExeStack: 
+newLock(x)
+(fork((fork((lock(x);(wH(v1, rH(v1) - 1);unlock(x))));;(lock(x);(wH(v1, rH(v1) * 10);unlock(x)))));;(newLock(q);(fork((fork((lock(q);(wH(v2, rH(v2) + 5);unlock(q))));;(lock(q);(wH(v2, rH(v2) * 10);unlock(q)))));;(NOP;(NOP;(NOP;(NOP;(lock(x);(print(rH(v1));(unlock(x);(lock(q);(print(rH(v2));(unlock(q);NOP)))))))))))))
+SymTable: 
+x --> 0
+q --> 0
+v2 --> (2, int)
+v1 --> (1, int)
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 20
+2 --> 30
+
+Program of id: 1
+ExeStack: 
+(fork((fork((lock(x);(wH(v1, rH(v1) - 1);unlock(x))));;(lock(x);(wH(v1, rH(v1) * 10);unlock(x)))));;(newLock(q);(fork((fork((lock(q);(wH(v2, rH(v2) + 5);unlock(q))));;(lock(q);(wH(v2, rH(v2) * 10);unlock(q)))));;(NOP;(NOP;(NOP;(NOP;(lock(x);(print(rH(v1));(unlock(x);(lock(q);(print(rH(v2));(unlock(q);NOP)))))))))))))
+SymTable: 
+x --> 1
+q --> 0
+v2 --> (2, int)
+v1 --> (1, int)
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 20
+2 --> 30
+
+Program of id: 1
+ExeStack: 
+fork((fork((lock(x);(wH(v1, rH(v1) - 1);unlock(x))));;(lock(x);(wH(v1, rH(v1) * 10);unlock(x)))));
+(newLock(q);(fork((fork((lock(q);(wH(v2, rH(v2) + 5);unlock(q))));;(lock(q);(wH(v2, rH(v2) * 10);unlock(q)))));;(NOP;(NOP;(NOP;(NOP;(lock(x);(print(rH(v1));(unlock(x);(lock(q);(print(rH(v2));(unlock(q);NOP))))))))))))
+SymTable: 
+x --> 1
+q --> 0
+v2 --> (2, int)
+v1 --> (1, int)
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 20
+2 --> 30
+
+Program of id: 1
+ExeStack: 
+(newLock(q);(fork((fork((lock(q);(wH(v2, rH(v2) + 5);unlock(q))));;(lock(q);(wH(v2, rH(v2) * 10);unlock(q)))));;(NOP;(NOP;(NOP;(NOP;(lock(x);(print(rH(v1));(unlock(x);(lock(q);(print(rH(v2));(unlock(q);NOP))))))))))))
+SymTable: 
+x --> 1
+q --> 0
+v2 --> (2, int)
+v1 --> (1, int)
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 20
+2 --> 30
+
+Program of id: 2
+ExeStack: 
+(fork((lock(x);(wH(v1, rH(v1) - 1);unlock(x))));;(lock(x);(wH(v1, rH(v1) * 10);unlock(x))))
+SymTable: 
+x --> 1
+q --> 0
+v2 --> (2, int)
+v1 --> (1, int)
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 20
+2 --> 30
+
+Program of id: 1
+ExeStack: 
+newLock(q)
+(fork((fork((lock(q);(wH(v2, rH(v2) + 5);unlock(q))));;(lock(q);(wH(v2, rH(v2) * 10);unlock(q)))));;(NOP;(NOP;(NOP;(NOP;(lock(x);(print(rH(v1));(unlock(x);(lock(q);(print(rH(v2));(unlock(q);NOP)))))))))))
+SymTable: 
+x --> 1
+q --> 0
+v2 --> (2, int)
+v1 --> (1, int)
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 20
+2 --> 30
+
+Program of id: 2
+ExeStack: 
+fork((lock(x);(wH(v1, rH(v1) - 1);unlock(x))));
+(lock(x);(wH(v1, rH(v1) * 10);unlock(x)))
+SymTable: 
+x --> 1
+q --> 0
+v2 --> (2, int)
+v1 --> (1, int)
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 20
+2 --> 30
+
+Program of id: 1
+ExeStack: 
+(fork((fork((lock(q);(wH(v2, rH(v2) + 5);unlock(q))));;(lock(q);(wH(v2, rH(v2) * 10);unlock(q)))));;(NOP;(NOP;(NOP;(NOP;(lock(x);(print(rH(v1));(unlock(x);(lock(q);(print(rH(v2));(unlock(q);NOP)))))))))))
+SymTable: 
+x --> 1
+q --> 2
+v2 --> (2, int)
+v1 --> (1, int)
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 20
+2 --> 30
+
+Program of id: 2
+ExeStack: 
+(lock(x);(wH(v1, rH(v1) * 10);unlock(x)))
+SymTable: 
+x --> 1
+q --> 0
+v2 --> (2, int)
+v1 --> (1, int)
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 20
+2 --> 30
+
+Program of id: 3
+ExeStack: 
+(lock(x);(wH(v1, rH(v1) - 1);unlock(x)))
+SymTable: 
+x --> 1
+q --> 0
+v2 --> (2, int)
+v1 --> (1, int)
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 20
+2 --> 30
+
+Program of id: 1
+ExeStack: 
+fork((fork((lock(q);(wH(v2, rH(v2) + 5);unlock(q))));;(lock(q);(wH(v2, rH(v2) * 10);unlock(q)))));
+(NOP;(NOP;(NOP;(NOP;(lock(x);(print(rH(v1));(unlock(x);(lock(q);(print(rH(v2));(unlock(q);NOP))))))))))
+SymTable: 
+x --> 1
+q --> 2
+v2 --> (2, int)
+v1 --> (1, int)
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 20
+2 --> 30
+
+Program of id: 2
+ExeStack: 
+lock(x)
+(wH(v1, rH(v1) * 10);unlock(x))
+SymTable: 
+x --> 1
+q --> 0
+v2 --> (2, int)
+v1 --> (1, int)
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 20
+2 --> 30
+
+Program of id: 3
+ExeStack: 
+lock(x)
+(wH(v1, rH(v1) - 1);unlock(x))
+SymTable: 
+x --> 1
+q --> 0
+v2 --> (2, int)
+v1 --> (1, int)
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 20
+2 --> 30
+
+Program of id: 1
+ExeStack: 
+(NOP;(NOP;(NOP;(NOP;(lock(x);(print(rH(v1));(unlock(x);(lock(q);(print(rH(v2));(unlock(q);NOP))))))))))
+SymTable: 
+x --> 1
+q --> 2
+v2 --> (2, int)
+v1 --> (1, int)
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 20
+2 --> 30
+
+Program of id: 2
+ExeStack: 
+(wH(v1, rH(v1) * 10);unlock(x))
+SymTable: 
+x --> 1
+q --> 0
+v2 --> (2, int)
+v1 --> (1, int)
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 20
+2 --> 30
+
+Program of id: 3
+ExeStack: 
+lock(x)
+(wH(v1, rH(v1) - 1);unlock(x))
+SymTable: 
+x --> 1
+q --> 0
+v2 --> (2, int)
+v1 --> (1, int)
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 20
+2 --> 30
+
+Program of id: 4
+ExeStack: 
+(fork((lock(q);(wH(v2, rH(v2) + 5);unlock(q))));;(lock(q);(wH(v2, rH(v2) * 10);unlock(q))))
+SymTable: 
+x --> 1
+q --> 2
+v2 --> (2, int)
+v1 --> (1, int)
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 20
+2 --> 30
+
+Program of id: 1
+ExeStack: 
+NOP
+(NOP;(NOP;(NOP;(lock(x);(print(rH(v1));(unlock(x);(lock(q);(print(rH(v2));(unlock(q);NOP)))))))))
+SymTable: 
+x --> 1
+q --> 2
+v2 --> (2, int)
+v1 --> (1, int)
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 20
+2 --> 30
+
+Program of id: 2
+ExeStack: 
+wH(v1, rH(v1) * 10)
+unlock(x)
+SymTable: 
+x --> 1
+q --> 0
+v2 --> (2, int)
+v1 --> (1, int)
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 20
+2 --> 30
+
+Program of id: 3
+ExeStack: 
+lock(x)
+(wH(v1, rH(v1) - 1);unlock(x))
+SymTable: 
+x --> 1
+q --> 0
+v2 --> (2, int)
+v1 --> (1, int)
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 20
+2 --> 30
+
+Program of id: 4
+ExeStack: 
+fork((lock(q);(wH(v2, rH(v2) + 5);unlock(q))));
+(lock(q);(wH(v2, rH(v2) * 10);unlock(q)))
+SymTable: 
+x --> 1
+q --> 2
+v2 --> (2, int)
+v1 --> (1, int)
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 20
+2 --> 30
+
+Program of id: 1
+ExeStack: 
+(NOP;(NOP;(NOP;(lock(x);(print(rH(v1));(unlock(x);(lock(q);(print(rH(v2));(unlock(q);NOP)))))))))
+SymTable: 
+x --> 1
+q --> 2
+v2 --> (2, int)
+v1 --> (1, int)
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 200
+2 --> 30
+
+Program of id: 2
+ExeStack: 
+unlock(x)
+SymTable: 
+x --> 1
+q --> 0
+v2 --> (2, int)
+v1 --> (1, int)
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 200
+2 --> 30
+
+Program of id: 3
+ExeStack: 
+lock(x)
+(wH(v1, rH(v1) - 1);unlock(x))
+SymTable: 
+x --> 1
+q --> 0
+v2 --> (2, int)
+v1 --> (1, int)
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 200
+2 --> 30
+
+Program of id: 4
+ExeStack: 
+(lock(q);(wH(v2, rH(v2) * 10);unlock(q)))
+SymTable: 
+x --> 1
+q --> 2
+v2 --> (2, int)
+v1 --> (1, int)
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 200
+2 --> 30
+
+Program of id: 5
+ExeStack: 
+(lock(q);(wH(v2, rH(v2) + 5);unlock(q)))
+SymTable: 
+x --> 1
+q --> 2
+v2 --> (2, int)
+v1 --> (1, int)
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 200
+2 --> 30
+
+Program of id: 1
+ExeStack: 
+NOP
+(NOP;(NOP;(lock(x);(print(rH(v1));(unlock(x);(lock(q);(print(rH(v2));(unlock(q);NOP))))))))
+SymTable: 
+x --> 1
+q --> 2
+v2 --> (2, int)
+v1 --> (1, int)
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 200
+2 --> 30
+
+Program of id: 2
+ExeStack: 
+--Empty--
+SymTable: 
+x --> 1
+q --> 0
+v2 --> (2, int)
+v1 --> (1, int)
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 200
+2 --> 30
+
+Program of id: 3
+ExeStack: 
+lock(x)
+(wH(v1, rH(v1) - 1);unlock(x))
+SymTable: 
+x --> 1
+q --> 0
+v2 --> (2, int)
+v1 --> (1, int)
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 200
+2 --> 30
+
+Program of id: 4
+ExeStack: 
+lock(q)
+(wH(v2, rH(v2) * 10);unlock(q))
+SymTable: 
+x --> 1
+q --> 2
+v2 --> (2, int)
+v1 --> (1, int)
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 200
+2 --> 30
+
+Program of id: 5
+ExeStack: 
+lock(q)
+(wH(v2, rH(v2) + 5);unlock(q))
+SymTable: 
+x --> 1
+q --> 2
+v2 --> (2, int)
+v1 --> (1, int)
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 200
+2 --> 30
+
+Program of id: 1
+ExeStack: 
+(NOP;(NOP;(lock(x);(print(rH(v1));(unlock(x);(lock(q);(print(rH(v2));(unlock(q);NOP))))))))
+SymTable: 
+x --> 1
+q --> 2
+v2 --> (2, int)
+v1 --> (1, int)
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 200
+2 --> 30
+
+Program of id: 3
+ExeStack: 
+(wH(v1, rH(v1) - 1);unlock(x))
+SymTable: 
+x --> 1
+q --> 0
+v2 --> (2, int)
+v1 --> (1, int)
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 200
+2 --> 30
+
+Program of id: 4
+ExeStack: 
+lock(q)
+(wH(v2, rH(v2) * 10);unlock(q))
+SymTable: 
+x --> 1
+q --> 2
+v2 --> (2, int)
+v1 --> (1, int)
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 200
+2 --> 30
+
+Program of id: 5
+ExeStack: 
+(wH(v2, rH(v2) + 5);unlock(q))
+SymTable: 
+x --> 1
+q --> 2
+v2 --> (2, int)
+v1 --> (1, int)
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 200
+2 --> 30
+
+Program of id: 1
+ExeStack: 
+NOP
+(NOP;(lock(x);(print(rH(v1));(unlock(x);(lock(q);(print(rH(v2));(unlock(q);NOP)))))))
+SymTable: 
+x --> 1
+q --> 2
+v2 --> (2, int)
+v1 --> (1, int)
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 200
+2 --> 30
+
+Program of id: 3
+ExeStack: 
+wH(v1, rH(v1) - 1)
+unlock(x)
+SymTable: 
+x --> 1
+q --> 0
+v2 --> (2, int)
+v1 --> (1, int)
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 200
+2 --> 30
+
+Program of id: 4
+ExeStack: 
+lock(q)
+(wH(v2, rH(v2) * 10);unlock(q))
+SymTable: 
+x --> 1
+q --> 2
+v2 --> (2, int)
+v1 --> (1, int)
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 200
+2 --> 30
+
+Program of id: 5
+ExeStack: 
+wH(v2, rH(v2) + 5)
+unlock(q)
+SymTable: 
+x --> 1
+q --> 2
+v2 --> (2, int)
+v1 --> (1, int)
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 200
+2 --> 30
+
+Program of id: 1
+ExeStack: 
+(NOP;(lock(x);(print(rH(v1));(unlock(x);(lock(q);(print(rH(v2));(unlock(q);NOP)))))))
+SymTable: 
+x --> 1
+q --> 2
+v2 --> (2, int)
+v1 --> (1, int)
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 199
+2 --> 35
+
+Program of id: 3
+ExeStack: 
+unlock(x)
+SymTable: 
+x --> 1
+q --> 0
+v2 --> (2, int)
+v1 --> (1, int)
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 199
+2 --> 35
+
+Program of id: 4
+ExeStack: 
+lock(q)
+(wH(v2, rH(v2) * 10);unlock(q))
+SymTable: 
+x --> 1
+q --> 2
+v2 --> (2, int)
+v1 --> (1, int)
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 199
+2 --> 35
+
+Program of id: 5
+ExeStack: 
+unlock(q)
+SymTable: 
+x --> 1
+q --> 2
+v2 --> (2, int)
+v1 --> (1, int)
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 199
+2 --> 35
+
+Program of id: 1
+ExeStack: 
+NOP
+(lock(x);(print(rH(v1));(unlock(x);(lock(q);(print(rH(v2));(unlock(q);NOP))))))
+SymTable: 
+x --> 1
+q --> 2
+v2 --> (2, int)
+v1 --> (1, int)
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 199
+2 --> 35
+
+Program of id: 3
+ExeStack: 
+--Empty--
+SymTable: 
+x --> 1
+q --> 0
+v2 --> (2, int)
+v1 --> (1, int)
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 199
+2 --> 35
+
+Program of id: 4
+ExeStack: 
+lock(q)
+(wH(v2, rH(v2) * 10);unlock(q))
+SymTable: 
+x --> 1
+q --> 2
+v2 --> (2, int)
+v1 --> (1, int)
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 199
+2 --> 35
+
+Program of id: 5
+ExeStack: 
+--Empty--
+SymTable: 
+x --> 1
+q --> 2
+v2 --> (2, int)
+v1 --> (1, int)
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 199
+2 --> 35
+
+Program of id: 1
+ExeStack: 
+(lock(x);(print(rH(v1));(unlock(x);(lock(q);(print(rH(v2));(unlock(q);NOP))))))
+SymTable: 
+x --> 1
+q --> 2
+v2 --> (2, int)
+v1 --> (1, int)
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 199
+2 --> 35
+
+Program of id: 4
+ExeStack: 
+(wH(v2, rH(v2) * 10);unlock(q))
+SymTable: 
+x --> 1
+q --> 2
+v2 --> (2, int)
+v1 --> (1, int)
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 199
+2 --> 35
+
+Program of id: 1
+ExeStack: 
+lock(x)
+(print(rH(v1));(unlock(x);(lock(q);(print(rH(v2));(unlock(q);NOP)))))
+SymTable: 
+x --> 1
+q --> 2
+v2 --> (2, int)
+v1 --> (1, int)
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 199
+2 --> 35
+
+Program of id: 4
+ExeStack: 
+wH(v2, rH(v2) * 10)
+unlock(q)
+SymTable: 
+x --> 1
+q --> 2
+v2 --> (2, int)
+v1 --> (1, int)
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 199
+2 --> 35
+
+Program of id: 1
+ExeStack: 
+(print(rH(v1));(unlock(x);(lock(q);(print(rH(v2));(unlock(q);NOP)))))
+SymTable: 
+x --> 1
+q --> 2
+v2 --> (2, int)
+v1 --> (1, int)
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 199
+2 --> 350
+
+Program of id: 4
+ExeStack: 
+unlock(q)
+SymTable: 
+x --> 1
+q --> 2
+v2 --> (2, int)
+v1 --> (1, int)
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 199
+2 --> 350
+
+Program of id: 1
+ExeStack: 
+print(rH(v1))
+(unlock(x);(lock(q);(print(rH(v2));(unlock(q);NOP))))
+SymTable: 
+x --> 1
+q --> 2
+v2 --> (2, int)
+v1 --> (1, int)
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 199
+2 --> 350
+
+Program of id: 4
+ExeStack: 
+--Empty--
+SymTable: 
+x --> 1
+q --> 2
+v2 --> (2, int)
+v1 --> (1, int)
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 199
+2 --> 350
+
+Program of id: 1
+ExeStack: 
+(unlock(x);(lock(q);(print(rH(v2));(unlock(q);NOP))))
+SymTable: 
+x --> 1
+q --> 2
+v2 --> (2, int)
+v1 --> (1, int)
+Out: 
+199
+FileTable: 
+--Empty--
+Heap: 
+1 --> 199
+2 --> 350
+
+Program of id: 1
+ExeStack: 
+unlock(x)
+(lock(q);(print(rH(v2));(unlock(q);NOP)))
+SymTable: 
+x --> 1
+q --> 2
+v2 --> (2, int)
+v1 --> (1, int)
+Out: 
+199
+FileTable: 
+--Empty--
+Heap: 
+1 --> 199
+2 --> 350
+
+Program of id: 1
+ExeStack: 
+(lock(q);(print(rH(v2));(unlock(q);NOP)))
+SymTable: 
+x --> 1
+q --> 2
+v2 --> (2, int)
+v1 --> (1, int)
+Out: 
+199
+FileTable: 
+--Empty--
+Heap: 
+1 --> 199
+2 --> 350
+
+Program of id: 1
+ExeStack: 
+lock(q)
+(print(rH(v2));(unlock(q);NOP))
+SymTable: 
+x --> 1
+q --> 2
+v2 --> (2, int)
+v1 --> (1, int)
+Out: 
+199
+FileTable: 
+--Empty--
+Heap: 
+1 --> 199
+2 --> 350
+
+Program of id: 1
+ExeStack: 
+(print(rH(v2));(unlock(q);NOP))
+SymTable: 
+x --> 1
+q --> 2
+v2 --> (2, int)
+v1 --> (1, int)
+Out: 
+199
+FileTable: 
+--Empty--
+Heap: 
+1 --> 199
+2 --> 350
+
+Program of id: 1
+ExeStack: 
+print(rH(v2))
+(unlock(q);NOP)
+SymTable: 
+x --> 1
+q --> 2
+v2 --> (2, int)
+v1 --> (1, int)
+Out: 
+199
+FileTable: 
+--Empty--
+Heap: 
+1 --> 199
+2 --> 350
+
+Program of id: 1
+ExeStack: 
+(unlock(q);NOP)
+SymTable: 
+x --> 1
+q --> 2
+v2 --> (2, int)
+v1 --> (1, int)
+Out: 
+199
+350
+FileTable: 
+--Empty--
+Heap: 
+1 --> 199
+2 --> 350
+
+Program of id: 1
+ExeStack: 
+unlock(q)
+NOP
+SymTable: 
+x --> 1
+q --> 2
+v2 --> (2, int)
+v1 --> (1, int)
+Out: 
+199
+350
+FileTable: 
+--Empty--
+Heap: 
+1 --> 199
+2 --> 350
+
+Program of id: 1
+ExeStack: 
+NOP
+SymTable: 
+x --> 1
+q --> 2
+v2 --> (2, int)
+v1 --> (1, int)
+Out: 
+199
+350
+FileTable: 
+--Empty--
+Heap: 
+1 --> 199
+2 --> 350
+
+Program of id: 1
+ExeStack: 
+--Empty--
+SymTable: 
+x --> 1
+q --> 2
+v2 --> (2, int)
+v1 --> (1, int)
+Out: 
+199
+350
+FileTable: 
+--Empty--
+Heap: 
+1 --> 199
+2 --> 350
+
