@@ -7,15 +7,15 @@ To get started with the Java Toy Language Interpreter, follow these steps:
 Clone the repository:
 
 ```bash
-Copy code
 git clone https://github.com/your-username/toy-language-interpreter.git
-cd toy-language-interpreter```
-
+cd toy-language-interpreter
+```
 
 Explore the branches for different features:
 
 ```bash
-git checkout Barrier```
+git checkout Barrier
+```
 
 ##Toy Language Features
 The toy language supported by this interpreter includes basic programming constructs such as variables, loops, conditionals, and more. It is designed to be simple and easy to understand, making it suitable for educational purposes.
