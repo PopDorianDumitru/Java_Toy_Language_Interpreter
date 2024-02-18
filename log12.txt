@@ -1,0 +1,844 @@
+Program of id: 1
+ExeStack: 
+Ref int v1
+(Ref int v2;(Ref int v3;(int cnt;(new( v1, 2 );(new( v2, 3 );(new( v3, 4 );(newBarrier(cnt,rH(v2));(fork((await(cnt);(wH(v1, rH(v1) * 10);print(rH(v1)))));;(fork((await(cnt);(wH(v2, rH(v2) * 10);(wH(v2, rH(v2) * 10);print(rH(v2))))));;(await(cnt);print(rH(v3))))))))))))
+SymTable: 
+--Empty--
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+Barrier table: 
+--Empty--
+
+Program of id: 1
+ExeStack: 
+(Ref int v2;(Ref int v3;(int cnt;(new( v1, 2 );(new( v2, 3 );(new( v3, 4 );(newBarrier(cnt,rH(v2));(fork((await(cnt);(wH(v1, rH(v1) * 10);print(rH(v1)))));;(fork((await(cnt);(wH(v2, rH(v2) * 10);(wH(v2, rH(v2) * 10);print(rH(v2))))));;(await(cnt);print(rH(v3))))))))))))
+SymTable: 
+v1 --> (-1, int)
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+Barrier table: 
+--Empty--
+
+Program of id: 1
+ExeStack: 
+Ref int v2
+(Ref int v3;(int cnt;(new( v1, 2 );(new( v2, 3 );(new( v3, 4 );(newBarrier(cnt,rH(v2));(fork((await(cnt);(wH(v1, rH(v1) * 10);print(rH(v1)))));;(fork((await(cnt);(wH(v2, rH(v2) * 10);(wH(v2, rH(v2) * 10);print(rH(v2))))));;(await(cnt);print(rH(v3)))))))))))
+SymTable: 
+v1 --> (-1, int)
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+Barrier table: 
+--Empty--
+
+Program of id: 1
+ExeStack: 
+(Ref int v3;(int cnt;(new( v1, 2 );(new( v2, 3 );(new( v3, 4 );(newBarrier(cnt,rH(v2));(fork((await(cnt);(wH(v1, rH(v1) * 10);print(rH(v1)))));;(fork((await(cnt);(wH(v2, rH(v2) * 10);(wH(v2, rH(v2) * 10);print(rH(v2))))));;(await(cnt);print(rH(v3)))))))))))
+SymTable: 
+v2 --> (-1, int)
+v1 --> (-1, int)
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+Barrier table: 
+--Empty--
+
+Program of id: 1
+ExeStack: 
+Ref int v3
+(int cnt;(new( v1, 2 );(new( v2, 3 );(new( v3, 4 );(newBarrier(cnt,rH(v2));(fork((await(cnt);(wH(v1, rH(v1) * 10);print(rH(v1)))));;(fork((await(cnt);(wH(v2, rH(v2) * 10);(wH(v2, rH(v2) * 10);print(rH(v2))))));;(await(cnt);print(rH(v3))))))))))
+SymTable: 
+v2 --> (-1, int)
+v1 --> (-1, int)
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+Barrier table: 
+--Empty--
+
+Program of id: 1
+ExeStack: 
+(int cnt;(new( v1, 2 );(new( v2, 3 );(new( v3, 4 );(newBarrier(cnt,rH(v2));(fork((await(cnt);(wH(v1, rH(v1) * 10);print(rH(v1)))));;(fork((await(cnt);(wH(v2, rH(v2) * 10);(wH(v2, rH(v2) * 10);print(rH(v2))))));;(await(cnt);print(rH(v3))))))))))
+SymTable: 
+v3 --> (-1, int)
+v2 --> (-1, int)
+v1 --> (-1, int)
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+Barrier table: 
+--Empty--
+
+Program of id: 1
+ExeStack: 
+int cnt
+(new( v1, 2 );(new( v2, 3 );(new( v3, 4 );(newBarrier(cnt,rH(v2));(fork((await(cnt);(wH(v1, rH(v1) * 10);print(rH(v1)))));;(fork((await(cnt);(wH(v2, rH(v2) * 10);(wH(v2, rH(v2) * 10);print(rH(v2))))));;(await(cnt);print(rH(v3)))))))))
+SymTable: 
+v3 --> (-1, int)
+v2 --> (-1, int)
+v1 --> (-1, int)
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+Barrier table: 
+--Empty--
+
+Program of id: 1
+ExeStack: 
+(new( v1, 2 );(new( v2, 3 );(new( v3, 4 );(newBarrier(cnt,rH(v2));(fork((await(cnt);(wH(v1, rH(v1) * 10);print(rH(v1)))));;(fork((await(cnt);(wH(v2, rH(v2) * 10);(wH(v2, rH(v2) * 10);print(rH(v2))))));;(await(cnt);print(rH(v3)))))))))
+SymTable: 
+cnt --> 0
+v3 --> (-1, int)
+v2 --> (-1, int)
+v1 --> (-1, int)
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+Barrier table: 
+--Empty--
+
+Program of id: 1
+ExeStack: 
+new( v1, 2 )
+(new( v2, 3 );(new( v3, 4 );(newBarrier(cnt,rH(v2));(fork((await(cnt);(wH(v1, rH(v1) * 10);print(rH(v1)))));;(fork((await(cnt);(wH(v2, rH(v2) * 10);(wH(v2, rH(v2) * 10);print(rH(v2))))));;(await(cnt);print(rH(v3))))))))
+SymTable: 
+cnt --> 0
+v3 --> (-1, int)
+v2 --> (-1, int)
+v1 --> (-1, int)
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+Barrier table: 
+--Empty--
+
+Program of id: 1
+ExeStack: 
+(new( v2, 3 );(new( v3, 4 );(newBarrier(cnt,rH(v2));(fork((await(cnt);(wH(v1, rH(v1) * 10);print(rH(v1)))));;(fork((await(cnt);(wH(v2, rH(v2) * 10);(wH(v2, rH(v2) * 10);print(rH(v2))))));;(await(cnt);print(rH(v3))))))))
+SymTable: 
+cnt --> 0
+v3 --> (-1, int)
+v2 --> (-1, int)
+v1 --> (1, int)
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 2
+Barrier table: 
+--Empty--
+
+Program of id: 1
+ExeStack: 
+new( v2, 3 )
+(new( v3, 4 );(newBarrier(cnt,rH(v2));(fork((await(cnt);(wH(v1, rH(v1) * 10);print(rH(v1)))));;(fork((await(cnt);(wH(v2, rH(v2) * 10);(wH(v2, rH(v2) * 10);print(rH(v2))))));;(await(cnt);print(rH(v3)))))))
+SymTable: 
+cnt --> 0
+v3 --> (-1, int)
+v2 --> (-1, int)
+v1 --> (1, int)
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 2
+Barrier table: 
+--Empty--
+
+Program of id: 1
+ExeStack: 
+(new( v3, 4 );(newBarrier(cnt,rH(v2));(fork((await(cnt);(wH(v1, rH(v1) * 10);print(rH(v1)))));;(fork((await(cnt);(wH(v2, rH(v2) * 10);(wH(v2, rH(v2) * 10);print(rH(v2))))));;(await(cnt);print(rH(v3)))))))
+SymTable: 
+cnt --> 0
+v3 --> (-1, int)
+v2 --> (2, int)
+v1 --> (1, int)
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 2
+2 --> 3
+Barrier table: 
+--Empty--
+
+Program of id: 1
+ExeStack: 
+new( v3, 4 )
+(newBarrier(cnt,rH(v2));(fork((await(cnt);(wH(v1, rH(v1) * 10);print(rH(v1)))));;(fork((await(cnt);(wH(v2, rH(v2) * 10);(wH(v2, rH(v2) * 10);print(rH(v2))))));;(await(cnt);print(rH(v3))))))
+SymTable: 
+cnt --> 0
+v3 --> (-1, int)
+v2 --> (2, int)
+v1 --> (1, int)
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 2
+2 --> 3
+Barrier table: 
+--Empty--
+
+Program of id: 1
+ExeStack: 
+(newBarrier(cnt,rH(v2));(fork((await(cnt);(wH(v1, rH(v1) * 10);print(rH(v1)))));;(fork((await(cnt);(wH(v2, rH(v2) * 10);(wH(v2, rH(v2) * 10);print(rH(v2))))));;(await(cnt);print(rH(v3))))))
+SymTable: 
+cnt --> 0
+v3 --> (3, int)
+v2 --> (2, int)
+v1 --> (1, int)
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 2
+2 --> 3
+3 --> 4
+Barrier table: 
+--Empty--
+
+Program of id: 1
+ExeStack: 
+newBarrier(cnt,rH(v2))
+(fork((await(cnt);(wH(v1, rH(v1) * 10);print(rH(v1)))));;(fork((await(cnt);(wH(v2, rH(v2) * 10);(wH(v2, rH(v2) * 10);print(rH(v2))))));;(await(cnt);print(rH(v3)))))
+SymTable: 
+cnt --> 0
+v3 --> (3, int)
+v2 --> (2, int)
+v1 --> (1, int)
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 2
+2 --> 3
+3 --> 4
+Barrier table: 
+--Empty--
+
+Program of id: 1
+ExeStack: 
+(fork((await(cnt);(wH(v1, rH(v1) * 10);print(rH(v1)))));;(fork((await(cnt);(wH(v2, rH(v2) * 10);(wH(v2, rH(v2) * 10);print(rH(v2))))));;(await(cnt);print(rH(v3)))))
+SymTable: 
+cnt --> 1
+v3 --> (3, int)
+v2 --> (2, int)
+v1 --> (1, int)
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 2
+2 --> 3
+3 --> 4
+Barrier table: 
+1 --> 3---[]
+
+Program of id: 1
+ExeStack: 
+fork((await(cnt);(wH(v1, rH(v1) * 10);print(rH(v1)))));
+(fork((await(cnt);(wH(v2, rH(v2) * 10);(wH(v2, rH(v2) * 10);print(rH(v2))))));;(await(cnt);print(rH(v3))))
+SymTable: 
+cnt --> 1
+v3 --> (3, int)
+v2 --> (2, int)
+v1 --> (1, int)
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 2
+2 --> 3
+3 --> 4
+Barrier table: 
+1 --> 3---[]
+
+Program of id: 1
+ExeStack: 
+(fork((await(cnt);(wH(v2, rH(v2) * 10);(wH(v2, rH(v2) * 10);print(rH(v2))))));;(await(cnt);print(rH(v3))))
+SymTable: 
+cnt --> 1
+v3 --> (3, int)
+v2 --> (2, int)
+v1 --> (1, int)
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 2
+2 --> 3
+3 --> 4
+Barrier table: 
+1 --> 3---[]
+
+Program of id: 2
+ExeStack: 
+(await(cnt);(wH(v1, rH(v1) * 10);print(rH(v1))))
+SymTable: 
+cnt --> 1
+v3 --> (3, int)
+v2 --> (2, int)
+v1 --> (1, int)
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 2
+2 --> 3
+3 --> 4
+Barrier table: 
+1 --> 3---[]
+
+Program of id: 1
+ExeStack: 
+fork((await(cnt);(wH(v2, rH(v2) * 10);(wH(v2, rH(v2) * 10);print(rH(v2))))));
+(await(cnt);print(rH(v3)))
+SymTable: 
+cnt --> 1
+v3 --> (3, int)
+v2 --> (2, int)
+v1 --> (1, int)
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 2
+2 --> 3
+3 --> 4
+Barrier table: 
+1 --> 3---[]
+
+Program of id: 2
+ExeStack: 
+await(cnt)
+(wH(v1, rH(v1) * 10);print(rH(v1)))
+SymTable: 
+cnt --> 1
+v3 --> (3, int)
+v2 --> (2, int)
+v1 --> (1, int)
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 2
+2 --> 3
+3 --> 4
+Barrier table: 
+1 --> 3---[]
+
+Program of id: 1
+ExeStack: 
+(await(cnt);print(rH(v3)))
+SymTable: 
+cnt --> 1
+v3 --> (3, int)
+v2 --> (2, int)
+v1 --> (1, int)
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 2
+2 --> 3
+3 --> 4
+Barrier table: 
+1 --> 3---[2]
+
+Program of id: 2
+ExeStack: 
+await(cnt)
+(wH(v1, rH(v1) * 10);print(rH(v1)))
+SymTable: 
+cnt --> 1
+v3 --> (3, int)
+v2 --> (2, int)
+v1 --> (1, int)
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 2
+2 --> 3
+3 --> 4
+Barrier table: 
+1 --> 3---[2]
+
+Program of id: 3
+ExeStack: 
+(await(cnt);(wH(v2, rH(v2) * 10);(wH(v2, rH(v2) * 10);print(rH(v2)))))
+SymTable: 
+cnt --> 1
+v3 --> (3, int)
+v2 --> (2, int)
+v1 --> (1, int)
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 2
+2 --> 3
+3 --> 4
+Barrier table: 
+1 --> 3---[2]
+
+Program of id: 1
+ExeStack: 
+await(cnt)
+print(rH(v3))
+SymTable: 
+cnt --> 1
+v3 --> (3, int)
+v2 --> (2, int)
+v1 --> (1, int)
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 2
+2 --> 3
+3 --> 4
+Barrier table: 
+1 --> 3---[2]
+
+Program of id: 2
+ExeStack: 
+await(cnt)
+(wH(v1, rH(v1) * 10);print(rH(v1)))
+SymTable: 
+cnt --> 1
+v3 --> (3, int)
+v2 --> (2, int)
+v1 --> (1, int)
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 2
+2 --> 3
+3 --> 4
+Barrier table: 
+1 --> 3---[2]
+
+Program of id: 3
+ExeStack: 
+await(cnt)
+(wH(v2, rH(v2) * 10);(wH(v2, rH(v2) * 10);print(rH(v2))))
+SymTable: 
+cnt --> 1
+v3 --> (3, int)
+v2 --> (2, int)
+v1 --> (1, int)
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 2
+2 --> 3
+3 --> 4
+Barrier table: 
+1 --> 3---[2]
+
+Program of id: 1
+ExeStack: 
+await(cnt)
+print(rH(v3))
+SymTable: 
+cnt --> 1
+v3 --> (3, int)
+v2 --> (2, int)
+v1 --> (1, int)
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 2
+2 --> 3
+3 --> 4
+Barrier table: 
+1 --> 3---[2, 1, 3]
+
+Program of id: 2
+ExeStack: 
+await(cnt)
+(wH(v1, rH(v1) * 10);print(rH(v1)))
+SymTable: 
+cnt --> 1
+v3 --> (3, int)
+v2 --> (2, int)
+v1 --> (1, int)
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 2
+2 --> 3
+3 --> 4
+Barrier table: 
+1 --> 3---[2, 1, 3]
+
+Program of id: 3
+ExeStack: 
+await(cnt)
+(wH(v2, rH(v2) * 10);(wH(v2, rH(v2) * 10);print(rH(v2))))
+SymTable: 
+cnt --> 1
+v3 --> (3, int)
+v2 --> (2, int)
+v1 --> (1, int)
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 2
+2 --> 3
+3 --> 4
+Barrier table: 
+1 --> 3---[2, 1, 3]
+
+Program of id: 1
+ExeStack: 
+print(rH(v3))
+SymTable: 
+cnt --> 1
+v3 --> (3, int)
+v2 --> (2, int)
+v1 --> (1, int)
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 2
+2 --> 3
+3 --> 4
+Barrier table: 
+1 --> 3---[2, 1, 3]
+
+Program of id: 2
+ExeStack: 
+(wH(v1, rH(v1) * 10);print(rH(v1)))
+SymTable: 
+cnt --> 1
+v3 --> (3, int)
+v2 --> (2, int)
+v1 --> (1, int)
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 2
+2 --> 3
+3 --> 4
+Barrier table: 
+1 --> 3---[2, 1, 3]
+
+Program of id: 3
+ExeStack: 
+(wH(v2, rH(v2) * 10);(wH(v2, rH(v2) * 10);print(rH(v2))))
+SymTable: 
+cnt --> 1
+v3 --> (3, int)
+v2 --> (2, int)
+v1 --> (1, int)
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+1 --> 2
+2 --> 3
+3 --> 4
+Barrier table: 
+1 --> 3---[2, 1, 3]
+
+Program of id: 1
+ExeStack: 
+--Empty--
+SymTable: 
+cnt --> 1
+v3 --> (3, int)
+v2 --> (2, int)
+v1 --> (1, int)
+Out: 
+4
+FileTable: 
+--Empty--
+Heap: 
+1 --> 2
+2 --> 3
+3 --> 4
+Barrier table: 
+1 --> 3---[2, 1, 3]
+
+Program of id: 2
+ExeStack: 
+wH(v1, rH(v1) * 10)
+print(rH(v1))
+SymTable: 
+cnt --> 1
+v3 --> (3, int)
+v2 --> (2, int)
+v1 --> (1, int)
+Out: 
+4
+FileTable: 
+--Empty--
+Heap: 
+1 --> 2
+2 --> 3
+3 --> 4
+Barrier table: 
+1 --> 3---[2, 1, 3]
+
+Program of id: 3
+ExeStack: 
+wH(v2, rH(v2) * 10)
+(wH(v2, rH(v2) * 10);print(rH(v2)))
+SymTable: 
+cnt --> 1
+v3 --> (3, int)
+v2 --> (2, int)
+v1 --> (1, int)
+Out: 
+4
+FileTable: 
+--Empty--
+Heap: 
+1 --> 2
+2 --> 3
+3 --> 4
+Barrier table: 
+1 --> 3---[2, 1, 3]
+
+Program of id: 2
+ExeStack: 
+print(rH(v1))
+SymTable: 
+cnt --> 1
+v3 --> (3, int)
+v2 --> (2, int)
+v1 --> (1, int)
+Out: 
+4
+FileTable: 
+--Empty--
+Heap: 
+1 --> 20
+2 --> 30
+3 --> 4
+Barrier table: 
+1 --> 3---[2, 1, 3]
+
+Program of id: 3
+ExeStack: 
+(wH(v2, rH(v2) * 10);print(rH(v2)))
+SymTable: 
+cnt --> 1
+v3 --> (3, int)
+v2 --> (2, int)
+v1 --> (1, int)
+Out: 
+4
+FileTable: 
+--Empty--
+Heap: 
+1 --> 20
+2 --> 30
+3 --> 4
+Barrier table: 
+1 --> 3---[2, 1, 3]
+
+Program of id: 2
+ExeStack: 
+--Empty--
+SymTable: 
+cnt --> 1
+v3 --> (3, int)
+v2 --> (2, int)
+v1 --> (1, int)
+Out: 
+4
+20
+FileTable: 
+--Empty--
+Heap: 
+1 --> 20
+2 --> 30
+3 --> 4
+Barrier table: 
+1 --> 3---[2, 1, 3]
+
+Program of id: 3
+ExeStack: 
+wH(v2, rH(v2) * 10)
+print(rH(v2))
+SymTable: 
+cnt --> 1
+v3 --> (3, int)
+v2 --> (2, int)
+v1 --> (1, int)
+Out: 
+4
+20
+FileTable: 
+--Empty--
+Heap: 
+1 --> 20
+2 --> 30
+3 --> 4
+Barrier table: 
+1 --> 3---[2, 1, 3]
+
+Program of id: 3
+ExeStack: 
+print(rH(v2))
+SymTable: 
+cnt --> 1
+v3 --> (3, int)
+v2 --> (2, int)
+v1 --> (1, int)
+Out: 
+4
+20
+FileTable: 
+--Empty--
+Heap: 
+1 --> 20
+2 --> 300
+3 --> 4
+Barrier table: 
+1 --> 3---[2, 1, 3]
+
+Program of id: 3
+ExeStack: 
+--Empty--
+SymTable: 
+cnt --> 1
+v3 --> (3, int)
+v2 --> (2, int)
+v1 --> (1, int)
+Out: 
+4
+20
+300
+FileTable: 
+--Empty--
+Heap: 
+1 --> 20
+2 --> 300
+3 --> 4
+Barrier table: 
+1 --> 3---[2, 1, 3]
+
+Program of id: 1
+ExeStack: 
+Ref int v1
+(Ref int v2;(Ref int v3;(int cnt;(new( v1, 2 );(new( v2, 3 );(new( v3, 4 );(newBarrier(cnt,rH(v2));(fork((await(cnt);(wH(v1, rH(v1) * 10);print(rH(v1)))));;(fork((await(cnt);(wH(v2, rH(v2) * 10);(wH(v2, rH(v2) * 10);print(rH(v2))))));;(await(cnt);print(rH(v3))))))))))))
+SymTable: 
+--Empty--
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+Barrier table: 
+--Empty--
+
+Program of id: 1
+ExeStack: 
+(Ref int v2;(Ref int v3;(int cnt;(new( v1, 2 );(new( v2, 3 );(new( v3, 4 );(newBarrier(cnt,rH(v2));(fork((await(cnt);(wH(v1, rH(v1) * 10);print(rH(v1)))));;(fork((await(cnt);(wH(v2, rH(v2) * 10);(wH(v2, rH(v2) * 10);print(rH(v2))))));;(await(cnt);print(rH(v3))))))))))))
+SymTable: 
+v1 --> (-1, int)
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+Barrier table: 
+--Empty--
+
+Program of id: 1
+ExeStack: 
+Ref int v2
+(Ref int v3;(int cnt;(new( v1, 2 );(new( v2, 3 );(new( v3, 4 );(newBarrier(cnt,rH(v2));(fork((await(cnt);(wH(v1, rH(v1) * 10);print(rH(v1)))));;(fork((await(cnt);(wH(v2, rH(v2) * 10);(wH(v2, rH(v2) * 10);print(rH(v2))))));;(await(cnt);print(rH(v3)))))))))))
+SymTable: 
+v1 --> (-1, int)
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+Barrier table: 
+--Empty--
+
+Program of id: 1
+ExeStack: 
+(Ref int v3;(int cnt;(new( v1, 2 );(new( v2, 3 );(new( v3, 4 );(newBarrier(cnt,rH(v2));(fork((await(cnt);(wH(v1, rH(v1) * 10);print(rH(v1)))));;(fork((await(cnt);(wH(v2, rH(v2) * 10);(wH(v2, rH(v2) * 10);print(rH(v2))))));;(await(cnt);print(rH(v3)))))))))))
+SymTable: 
+v2 --> (-1, int)
+v1 --> (-1, int)
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+Barrier table: 
+--Empty--
+

@@ -1,0 +1,87 @@
+Program of id: 1
+ExeStack: 
+string v
+(v=C:\Users\doria\IdeaProjects\InterpreterWithUICyclicBarrier\src\main\in.txt;(openRFile(v);(int c;(readFile(v, c);(readFile(v, c);(readFile(v, c);(print(c);closeRFile(v))))))))
+SymTable: 
+--Empty--
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+Barrier table: 
+--Empty--
+
+Program of id: 1
+ExeStack: 
+(v=C:\Users\doria\IdeaProjects\InterpreterWithUICyclicBarrier\src\main\in.txt;(openRFile(v);(int c;(readFile(v, c);(readFile(v, c);(readFile(v, c);(print(c);closeRFile(v))))))))
+SymTable: 
+v --> 
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+Barrier table: 
+--Empty--
+
+Program of id: 1
+ExeStack: 
+v=C:\Users\doria\IdeaProjects\InterpreterWithUICyclicBarrier\src\main\in.txt
+(openRFile(v);(int c;(readFile(v, c);(readFile(v, c);(readFile(v, c);(print(c);closeRFile(v)))))))
+SymTable: 
+v --> 
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+Barrier table: 
+--Empty--
+
+Program of id: 1
+ExeStack: 
+(openRFile(v);(int c;(readFile(v, c);(readFile(v, c);(readFile(v, c);(print(c);closeRFile(v)))))))
+SymTable: 
+v --> C:\Users\doria\IdeaProjects\InterpreterWithUICyclicBarrier\src\main\in.txt
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+Barrier table: 
+--Empty--
+
+Program of id: 1
+ExeStack: 
+openRFile(v)
+(int c;(readFile(v, c);(readFile(v, c);(readFile(v, c);(print(c);closeRFile(v))))))
+SymTable: 
+v --> C:\Users\doria\IdeaProjects\InterpreterWithUICyclicBarrier\src\main\in.txt
+Out: 
+--Empty--
+FileTable: 
+--Empty--
+Heap: 
+--Empty--
+Barrier table: 
+--Empty--
+
+Program of id: 1
+ExeStack: 
+(int c;(readFile(v, c);(readFile(v, c);(readFile(v, c);(print(c);closeRFile(v))))))
+SymTable: 
+v --> C:\Users\doria\IdeaProjects\InterpreterWithUICyclicBarrier\src\main\in.txt
+Out: 
+--Empty--
+FileTable: 
+C:\Users\doria\IdeaProjects\InterpreterWithUICyclicBarrier\src\main\in.txt
+Heap: 
+--Empty--
+Barrier table: 
+--Empty--
+
